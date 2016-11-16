@@ -16,7 +16,7 @@ public class AnnotationUtils {
 
 
     private ArrayList<Annotation> annotationList;
-    private HashMap<String, Set<String>> connectiveSenseList = new HashMap<String, Set<String>>();
+    public HashMap<String, Set<String>> connectiveSenseList = new HashMap<String, Set<String>>();
 
 
     public AnnotationUtils(String file) throws org.xml.sax.SAXException, ParserConfigurationException, 
@@ -24,6 +24,10 @@ public class AnnotationUtils {
         annotationList = new readerDLVT().readRelations(file);
 
         generateConnectiveSenseList();
+    }
+
+    public AnnotationUtils() {
+        super();
     }
 
     public void generateConnectiveSenseList() {

@@ -21,7 +21,7 @@ public class readerDLVT {
 
     ArrayList<Annotation> annotationList;
     HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<String, ArrayList<Annotation>>();
-    HashMap<String, ArrayList<String>> connectiveSenseMap = new HashMap<String, ArrayList<String>>();
+   public HashMap<String, ArrayList<String>> connectiveSenseMap = new HashMap<String, ArrayList<String>>();
 
 
     public ArrayList<Annotation> readRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
