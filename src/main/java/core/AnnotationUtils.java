@@ -1,6 +1,5 @@
 package core;
 
-import jdk.internal.org.xml.sax.SAXException;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.xpath.XPathExpressionException;
@@ -20,7 +19,8 @@ public class AnnotationUtils {
     private HashMap<String, Set<String>> connectiveSenseList = new HashMap<String, Set<String>>();
 
 
-    public AnnotationUtils(String file) throws org.xml.sax.SAXException, ParserConfigurationException, SAXException, XPathExpressionException, IOException {
+    public AnnotationUtils(String file) throws org.xml.sax.SAXException, ParserConfigurationException, 
+            XPathExpressionException, IOException {
         annotationList = new readerDLVT().readRelations(file);
 
         generateConnectiveSenseList();
