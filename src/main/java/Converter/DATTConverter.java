@@ -33,6 +33,11 @@ public class DATTConverter {
     ArrayList<String> connectiveList = new ArrayList<String>();
     HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<String, ArrayList<Annotation>>();
 
+    public DATTConverter(String inputDir, String outputDir) throws ParserConfigurationException, SAXException, IOException {
+
+        this.readDATTRelations(inputDir);
+        this.writeToFile(outputDir);
+    }
 
     public String getTag(Element eElement, String tag, int level) {
         return eElement.getElementsByTagName(tag).item(level).getTextContent().replace("\n", "").replace("\r", "").replaceAll("[ ]+", " ");
@@ -40,21 +45,15 @@ public class DATTConverter {
     }
 
     public static void main(String[] args) throws ParserConfigurationException, SAXException, IOException {
-        DATTConverter d = new DATTConverter();
-        HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = d.readRelations("annotations\\explicit.xml");
-        d.writeToFile("C:\\Users\\Murathan\\github\\discourseLexiconTool");
+        DATTConverter d = new DATTConverter("annotations\\explicit.xml", "C:\\Users\\Murathan\\github\\discourseLexiconTool\\testing.xml");
 
-      /* for (String str : connectiveAnnotationMap.keySet()) {
-            System.out.println("Connective: " + str);
-            for (Annotation anno : connectiveAnnotationMap.get(str)) {
-                System.out.println("\t" + anno.toString());
-            }
-        }*/
+
 
     }
 
-    public HashMap<String, ArrayList<Annotation>> readRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
+    public HashMap<String, ArrayList<Annotation>> readDATTRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
 
+        System.out.println("Reading DATT relations from the file: " + dir + " has started.");
         File fXmlFile = new File(dir);
         DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
@@ -115,6 +114,8 @@ public class DATTConverter {
                 }
             }
         }
+        System.out.println("Reading DATT relations from the file: " + dir + " has finished.");
+
         return connectiveAnnotationMap;
     }
 
@@ -216,8 +217,10 @@ public class DATTConverter {
             transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "2");
             DOMSource source = new DOMSource(doc);
 
-            StreamResult result = new StreamResult(new File(dir + "\\testing.xml"));
+            StreamResult result = new StreamResult(new File(dir));
             transformer.transform(source, result);
+            System.out.println("DATT relations has been converted: " + dir);
+
         } catch (ParserConfigurationException pce) {
             pce.printStackTrace();
         } catch (TransformerException tfe) {
