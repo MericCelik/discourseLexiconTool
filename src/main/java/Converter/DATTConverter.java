@@ -39,21 +39,14 @@ public class DATTConverter {
         this.writeToFile(outputDir);
     }
 
-    public String getTag(Element eElement, String tag, int level) {
-        return eElement.getElementsByTagName(tag).item(level).getTextContent().replace("\n", "").replace("\r", "").replaceAll("[ ]+", " ");
-
-    }
 
     public static void main(String[] args) throws ParserConfigurationException, SAXException, IOException {
         DATTConverter d = new DATTConverter("annotations\\explicit.xml", "C:\\Users\\Murathan\\github\\discourseLexiconTool\\testing.xml");
-
-
 
     }
 
     public HashMap<String, ArrayList<Annotation>> readDATTRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
 
-        System.out.println("Reading DATT relations from the file: " + dir + " has started.");
         File fXmlFile = new File(dir);
         DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
@@ -114,32 +107,9 @@ public class DATTConverter {
                 }
             }
         }
-        System.out.println("Reading DATT relations from the file: " + dir + " has finished.");
+        System.out.println("DATT relations has been read from the file: " + dir );
 
         return connectiveAnnotationMap;
-    }
-
-    public ArrayList<Span> getContext(NodeList nodeList, String belongsTo) {
-
-        ArrayList<Span> spans = new ArrayList<Span>();
-        for (int temp = 0; temp < nodeList.getLength(); temp++) {
-            Node nNode = nodeList.item(temp);
-
-            if (nNode.getNodeType() == Node.ELEMENT_NODE) {
-                Element eElement = (Element) nNode;
-
-                for (int i = 0; i < eElement.getElementsByTagName("Text").getLength(); i++) {
-                    Span argumentSpan = new Span(getTag(eElement, "Text", i), Integer.parseInt(getTag(eElement, "BeginOffset", i)), Integer.parseInt(getTag(eElement, "EndOffset", i)), belongsTo);
-                    spans.add(argumentSpan);
-                }
-            }
-        }
-        return spans;
-    }
-
-    public void displayAll() {
-        for (Annotation anno : annotationList)
-            System.out.println(anno);
     }
 
     public void writeToFile(String dir) {
@@ -230,6 +200,24 @@ public class DATTConverter {
 
     }
 
+    public ArrayList<Span> getContext(NodeList nodeList, String belongsTo) {
+
+        ArrayList<Span> spans = new ArrayList<Span>();
+        for (int temp = 0; temp < nodeList.getLength(); temp++) {
+            Node nNode = nodeList.item(temp);
+
+            if (nNode.getNodeType() == Node.ELEMENT_NODE) {
+                Element eElement = (Element) nNode;
+
+                for (int i = 0; i < eElement.getElementsByTagName("Text").getLength(); i++) {
+                    Span argumentSpan = new Span(getTag(eElement, "Text", i), Integer.parseInt(getTag(eElement, "BeginOffset", i)), Integer.parseInt(getTag(eElement, "EndOffset", i)), belongsTo);
+                    spans.add(argumentSpan);
+                }
+            }
+        }
+        return spans;
+    }
+
     public ArrayList<String> getArgumentsForXML(ArrayList<Span> arguments) {
 
         String offSets = "";
@@ -259,8 +247,12 @@ public class DATTConverter {
         res.add(offSets);
         res.add(textArgument);
 
-
         return res;
+
+    }
+
+    public String getTag(Element eElement, String tag, int level) {
+        return eElement.getElementsByTagName(tag).item(level).getTextContent().replace("\n", "").replace("\r", "").replaceAll("[ ]+", " ");
 
     }
 

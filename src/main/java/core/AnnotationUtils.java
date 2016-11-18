@@ -1,6 +1,8 @@
 package core;
 
 
+import DLVTReader.readerDLVT;
+
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.xpath.XPathExpressionException;
 import java.io.IOException;
@@ -25,7 +27,7 @@ public class AnnotationUtils {
 
     public AnnotationUtils(String file) throws org.xml.sax.SAXException, ParserConfigurationException, 
             XPathExpressionException, IOException {
-        annotationList = new readerDLVT().readRelations(file);
+       // annotationList = new readerDLVT(file);
         generateConnectiveSenseList();
     }
 

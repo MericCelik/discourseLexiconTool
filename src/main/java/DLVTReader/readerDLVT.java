@@ -1,9 +1,12 @@
-package core;
+package DLVTReader;
 
+import core.Annotation;
+import core.Span;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
+import org.xml.sax.SAXException;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -19,22 +22,16 @@ import java.util.HashMap;
  */
 public class readerDLVT {
 
-   private ArrayList<Annotation> annotationList;
-   private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<String, ArrayList<Annotation>>();
-   private HashMap<String, ArrayList<String>> connectiveSenseMap = new HashMap<String, ArrayList<String>>();
+    private ArrayList<Annotation> annotationList = new ArrayList<>();
+    private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<String, ArrayList<Annotation>>();
+    private HashMap<String, ArrayList<String>> connectiveSenseMap = new HashMap<String, ArrayList<String>>();
 
-    public ArrayList<Annotation> getAnnotationList() {
-        return annotationList;
+    private String delimiter = "!#!";
+
+    public readerDLVT(String dir) throws ParserConfigurationException, SAXException, IOException {
+
+        this.readRelations(dir);
     }
-
-    public HashMap<String, ArrayList<Annotation>> getConnectiveAnnotationMap() {
-        return connectiveAnnotationMap;
-    }
-
-    public HashMap<String, ArrayList<String>> getConnectiveSenseMap() {
-        return connectiveSenseMap;
-    }
-
 
     public ArrayList<Annotation> readRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
 
@@ -46,21 +43,20 @@ public class readerDLVT {
 
         annotationList = new ArrayList<Annotation>();
         NodeList nList = doc.getElementsByTagName("Connective");
-
         for (int temp = 0; temp < nList.getLength(); temp++) {
 
             Node nNode = nList.item(temp);
             if (nNode.getNodeType() == Node.ELEMENT_NODE) {
                 Element currentElement = (Element) nNode;
                 String con = currentElement.getAttribute("Item");
-                System.out.println("Con: " + con);
-                connectiveSenseMap.put(currentElement.getAttribute("Item"), new ArrayList<String>(Arrays.asList(currentElement.getAttribute("senseList").split(";"))));
+              //  System.out.println("Con: " + con);
+                connectiveSenseMap.put(currentElement.getAttribute("Item"), new ArrayList<String>(Arrays.asList(currentElement.getAttribute("senseList").split(delimiter))));
 
                 NodeList arg1NodeList = currentElement.getElementsByTagName("Arg1");
                 NodeList arg2NodeList = currentElement.getElementsByTagName("Arg2");
 
                 if (arg1NodeList.getLength() != arg2NodeList.getLength())
-                    System.out.println("NEOOOOO!!" );
+                    System.out.println("NEOOOOO!!");
 
                 ArrayList<Span> arg1 = getContext(arg1NodeList, "Arg1");
                 ArrayList<Span> arg2 = getContext(arg2NodeList, "Arg2");
@@ -73,8 +69,6 @@ public class readerDLVT {
                     Annotation a = new Annotation();
                 }
                 // reading connective and arguments
-
-
             }
         }
         return annotationList;
@@ -91,8 +85,6 @@ public class readerDLVT {
 
                 String text = getTag(eElement, "Text");
                 String offsets = getTag(eElement, "BeginOffset");
-
-
             }
         }
         return spans;
@@ -100,14 +92,25 @@ public class readerDLVT {
 
     public String getTag(Element eElement, String tag) {
         String res = eElement.getElementsByTagName(tag).item(0).getTextContent().replace("\n", "").replace("\r", "").replaceAll("[ ]+", " ");
-       if(!res.contains("!#!"))
-           return res;
-        else
-       {
-           String[] temp = res.split("!#!");
+        if (!res.contains(delimiter))
+            return res;
+        else {
+            String[] temp = res.split(delimiter);
+            return null;
+        }
+    }
 
 
-           return null;
-       }
+
+    public ArrayList<Annotation> getAnnotationList() {
+        return annotationList;
+    }
+
+    public HashMap<String, ArrayList<Annotation>> getConnectiveAnnotationMap() {
+        return connectiveAnnotationMap;
+    }
+
+    public HashMap<String, ArrayList<String>> getConnectiveSenseMap() {
+        return connectiveSenseMap;
     }
 }
