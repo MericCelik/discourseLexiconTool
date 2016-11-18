@@ -19,9 +19,21 @@ import java.util.HashMap;
  */
 public class readerDLVT {
 
-    ArrayList<Annotation> annotationList;
-    HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<String, ArrayList<Annotation>>();
-   public HashMap<String, ArrayList<String>> connectiveSenseMap = new HashMap<String, ArrayList<String>>();
+   private ArrayList<Annotation> annotationList;
+   private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<String, ArrayList<Annotation>>();
+   private HashMap<String, ArrayList<String>> connectiveSenseMap = new HashMap<String, ArrayList<String>>();
+
+    public ArrayList<Annotation> getAnnotationList() {
+        return annotationList;
+    }
+
+    public HashMap<String, ArrayList<Annotation>> getConnectiveAnnotationMap() {
+        return connectiveAnnotationMap;
+    }
+
+    public HashMap<String, ArrayList<String>> getConnectiveSenseMap() {
+        return connectiveSenseMap;
+    }
 
 
     public ArrayList<Annotation> readRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {

@@ -16,19 +16,24 @@ public class AnnotationUtils {
 
 
     private ArrayList<Annotation> annotationList;
-    public HashMap<String, Set<String>> connectiveSenseList = new HashMap<String, Set<String>>();
+    private HashMap<String, Set<String>> connectiveSenseList = new HashMap<String, Set<String>>();
+
+    public ArrayList<Annotation> getAnnotationList() {
+        return annotationList;
+    }
 
 
     public AnnotationUtils(String file) throws org.xml.sax.SAXException, ParserConfigurationException, 
             XPathExpressionException, IOException {
         annotationList = new readerDLVT().readRelations(file);
-
         generateConnectiveSenseList();
     }
 
     public AnnotationUtils() {
         super();
     }
+    
+    
 
     public void generateConnectiveSenseList() {
 
