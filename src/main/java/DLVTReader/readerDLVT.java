@@ -49,7 +49,7 @@ public class readerDLVT {
             if (nNode.getNodeType() == Node.ELEMENT_NODE) {
                 Element currentElement = (Element) nNode;
                 String con = currentElement.getAttribute("Item");
-              //  System.out.println("Con: " + con);
+                //  System.out.println("Con: " + con);
                 connectiveSenseMap.put(currentElement.getAttribute("Item"), new ArrayList<String>(Arrays.asList(currentElement.getAttribute("senseList").split(delimiter))));
 
                 NodeList arg1NodeList = currentElement.getElementsByTagName("Arg1");
@@ -100,7 +100,9 @@ public class readerDLVT {
         }
     }
 
-
+    public String getAnnotationBasedConnectiveSense(String connective, String sense) {
+        return "";
+    }
 
     public ArrayList<Annotation> getAnnotationList() {
         return annotationList;

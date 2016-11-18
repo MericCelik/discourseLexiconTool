@@ -18,8 +18,6 @@ public class Annotation {
     String sense2;
     String sense3;
 
-
-
     String fullSense;
 
     String type;
@@ -79,14 +77,16 @@ public class Annotation {
         return output;
     }
 
-    public boolean checkConnective(String searchedConnective)
-    {
+    public boolean checkConnective(String searchedConnective) {
         boolean found = false;
         for(Span s: this.connective)
             if(s.getText().equals(searchedConnective))
                 found = true;
         return found;
     }
+
+
+
     public String getFullSense() {
         return fullSense;
     }

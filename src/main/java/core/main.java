@@ -20,6 +20,7 @@ public class main {
 
         HashMap<String, ArrayList<String>> connectiveSenseMap = r.getConnectiveSenseMap();
 
+        System.out.println("--------Connective Sense List--------");
         for(String str: connectiveSenseMap.keySet())
         {
             System.out.println(str);
@@ -27,6 +28,10 @@ public class main {
                 System.out.print("\t" + x + "; ");
             System.out.println();
         }
+        System.out.println("--------Connective Sense List--------");
+
+
+
 
 
     }
