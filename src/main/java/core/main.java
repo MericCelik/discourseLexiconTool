@@ -19,7 +19,8 @@ public class main {
         readerDLVT r =  new readerDLVT();
         r.readRelations("testing.xml");
         HashMap<String, ArrayList<String>> connectiveSenseMap = r.getConnectiveSenseMap();
-
+           System.out.println("core.main.main()");
+           
         for(String str: connectiveSenseMap.keySet())
         {
             System.out.println(str);
