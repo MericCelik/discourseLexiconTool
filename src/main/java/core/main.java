@@ -23,13 +23,17 @@ public class main {
         HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = r.getConnectiveAnnotationMap();
 
         System.out.println("--------Connective Sense List--------");
-        for (String str : connectiveSenseMap.keySet()) {
+        connectiveSenseMap.keySet().stream().map((str) -> {
             System.out.println(str);
+            return str;
+        }).map((str) -> {
             for (String x : connectiveSenseMap.get(str)) {
                 System.out.print("\t" + x + "; ");
             }
+            return str;
+        }).forEachOrdered((_item) -> {
             System.out.println();
-        }
+        });
         System.out.println("--------Connective Sense List--------");
         
         PrintWriter wr;
