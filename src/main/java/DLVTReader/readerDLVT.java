@@ -23,12 +23,14 @@ import java.util.HashMap;
 public class readerDLVT {
 
     private ArrayList<Annotation> annotationList = new ArrayList<>();
-    private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<String, ArrayList<Annotation>>();
-    private HashMap<String, ArrayList<String>> connectiveSenseMap = new HashMap<String, ArrayList<String>>();
+    private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap;
+    private HashMap<String, ArrayList<String>> connectiveSenseMap;
 
     private String delimiter = "!#!";
 
     public readerDLVT(String dir) throws ParserConfigurationException, SAXException, IOException {
+        this.connectiveAnnotationMap = new HashMap<>();
+        this.connectiveSenseMap = new HashMap<>();
 
         this.readRelations(dir);
     }
@@ -41,63 +43,85 @@ public class readerDLVT {
         Document doc = dBuilder.parse(fXmlFile);
         doc.getDocumentElement().normalize();
 
-        annotationList = new ArrayList<Annotation>();
+        annotationList = new ArrayList<>();
         NodeList nList = doc.getElementsByTagName("Connective");
+        String conString = "";
+
         for (int temp = 0; temp < nList.getLength(); temp++) {
+            ArrayList<Annotation> connectiveBasedAnnotations = new ArrayList<>();
+            Node connectiveNode = nList.item(temp);
+            if (connectiveNode.getNodeType() == Node.ELEMENT_NODE) {
+                Element currentElement = (Element) connectiveNode;
+                conString = currentElement.getAttribute("Item");
+                connectiveSenseMap.put(currentElement.getAttribute("Item"), new ArrayList<>(Arrays.asList(currentElement.getAttribute("senseList").split(delimiter))));
+                NodeList annoNodeList = currentElement.getElementsByTagName("Annotation");
+                for (int i = 0; i < annoNodeList.getLength(); i++) {
 
-            Node nNode = nList.item(temp);
-            if (nNode.getNodeType() == Node.ELEMENT_NODE) {
-                Element currentElement = (Element) nNode;
-                String con = currentElement.getAttribute("Item");
-                //  System.out.println("Con: " + con);
-                connectiveSenseMap.put(currentElement.getAttribute("Item"), new ArrayList<String>(Arrays.asList(currentElement.getAttribute("senseList").split(delimiter))));
+                    Node annotationNode = annoNodeList.item(i);
+                    Element annotationElement = (Element) annotationNode;
 
-                NodeList arg1NodeList = currentElement.getElementsByTagName("Arg1");
-                NodeList arg2NodeList = currentElement.getElementsByTagName("Arg2");
+                    Node arg1Node = currentElement.getElementsByTagName("Arg1").item(i);
+                    Node arg2Node = currentElement.getElementsByTagName("Arg2").item(i);
+                    Node modeNode = currentElement.getElementsByTagName("Mod").item(i);
+                    ArrayList<Span> arg1 = getContext(arg1Node, "Arg1");
+                    ArrayList<Span> arg2 = getContext(arg2Node, "Arg2");
+                    ArrayList<Span> mod = null;
+                    if (modeNode != null) {
+                        mod = getContext(modeNode, "Mod");
+                    }
 
-                if (arg1NodeList.getLength() != arg2NodeList.getLength())
-                    System.out.println("NEOOOOO!!");
+                    String sense = currentElement.getAttribute("sense");
 
-                ArrayList<Span> arg1 = getContext(arg1NodeList, "Arg1");
-                ArrayList<Span> arg2 = getContext(arg2NodeList, "Arg2");
+                    ArrayList<String> conBeginOffsetArray = new ArrayList<>(Arrays.asList(annotationElement.getAttribute("conBeginOffset").split(delimiter)));
+                    ArrayList<String> conTextArray = new ArrayList<>(Arrays.asList(conString.split("_")));
+                    ArrayList<Span> ConSpanList = new ArrayList<>();
 
+                    if (conTextArray.size() != conBeginOffsetArray.size()) {
+                        System.out.println("You have connection problems  " + conTextArray.get(0));
+                    } else {
+                        for (int k = 0; k < conBeginOffsetArray.size(); k++) {
+                            Span ConSpan = new Span(conTextArray.get(k), Integer.parseInt(conBeginOffsetArray.get(k)), "connective");
+                            ConSpanList.add(ConSpan);
+                        }
+                    }
 
-                // ArrayList<Span> conSpans, ArrayList<Span> arg1Spans, ArrayList<Span> arg2Spans, String sense, String note, String type, String genre
-                if (arg1.size() != arg2.size())
-                    System.out.println("PROBLEM!!" + arg1.size() + " " + arg2.size());
-                for (int i = 0; i < arg1.size(); i++) {
-                    Annotation a = new Annotation();
+                    // ArrayList<Span> conSpans, ArrayList<Span> arg1Spans, ArrayList<Span> arg2Spans, String sense, String note, String type, String genre
+                    // reading connective and arguments
+                    Annotation anno = new Annotation(ConSpanList, arg1, arg2, mod, sense, "", "", "");
+                    connectiveBasedAnnotations.add(anno);
+                    annotationList.add(anno);
                 }
-                // reading connective and arguments
             }
+            connectiveAnnotationMap.put(conString, connectiveBasedAnnotations);
         }
         return annotationList;
     }
 
-    public ArrayList<Span> getContext(NodeList nodeList, String belongsTo) {
+    public ArrayList<Span> getContext(Node argNode, String belongsTo) {
 
-        ArrayList<Span> spans = new ArrayList<Span>();
-        for (int temp = 0; temp < nodeList.getLength(); temp++) {
-            Node nNode = nodeList.item(temp);
+        ArrayList<Span> spans = new ArrayList<>();
 
-            if (nNode.getNodeType() == Node.ELEMENT_NODE) {
-                Element eElement = (Element) nNode;
+        String text = getTag(argNode, "Text");
+        String offSet = getTag(argNode, "BeginOffset");
 
-                String text = getTag(eElement, "Text");
-                String offsets = getTag(eElement, "BeginOffset");
+        String[] textArray = text.split(delimiter);
+        String[] offSetArray = offSet.split(delimiter);
+        if (textArray.length != offSetArray.length) {
+            System.out.println("NOT IN KANSAS ANYMORE!");
+        } else {
+            for (int i = 0; i < textArray.length; i++) {
+                Span tempSpan = new Span(textArray[i], Integer.parseInt(offSetArray[i]), belongsTo);
+                spans.add(tempSpan);
             }
         }
         return spans;
     }
 
-    public String getTag(Element eElement, String tag) {
+    public String getTag(Node argNode, String tag) {
+
+        Element eElement = (Element) argNode;
         String res = eElement.getElementsByTagName(tag).item(0).getTextContent().replace("\n", "").replace("\r", "").replaceAll("[ ]+", " ");
-        if (!res.contains(delimiter))
-            return res;
-        else {
-            String[] temp = res.split(delimiter);
-            return null;
-        }
+        return res;
     }
 
     public String getAnnotationBasedConnectiveSense(String connective, String sense) {

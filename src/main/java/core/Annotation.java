@@ -11,6 +11,8 @@ public class Annotation {
 
     ArrayList<Span> connective;
 
+    ArrayList<Span> mod;
+
     ArrayList<Span> argument1;
     ArrayList<Span> argument2;
 
@@ -29,11 +31,12 @@ public class Annotation {
 
     }
 
-    public Annotation(ArrayList<Span> conSpans, ArrayList<Span> arg1Spans, ArrayList<Span> arg2Spans, String sense, String note, String type, String genre) {
+    public Annotation(ArrayList<Span> conSpans, ArrayList<Span> arg1Spans, ArrayList<Span> arg2Spans, ArrayList<Span> modSpans, String sense, String note, String type, String genre) {
         super();
         connective = conSpans;
         argument1 = arg1Spans;
         argument2 = arg2Spans;
+        mod = modSpans;
 
         StringTokenizer token = new StringTokenizer(sense, ":");
         this.sense1 = token.hasMoreTokens() ? token.nextToken() : "noo";
@@ -46,50 +49,58 @@ public class Annotation {
 
         this.fullSense = sense1;
 
-        if(!sense2.contains("oo"))
-            this.fullSense =  this.fullSense + ": " + sense2;
-        if(!sense3.contains("oo"))
+        if (!sense2.contains("oo")) {
+            this.fullSense = this.fullSense + ": " + sense2;
+        }
+        if (!sense3.contains("oo")) {
             this.fullSense = this.fullSense + ": " + sense3;
-
+        }
 
         this.note = note;
         this.type = type;
         this.genre = genre;
-
-
     }
 
+    @Override
     public String toString() {
 
         String output = "";
-        TreeMap<Integer, String> argMap = new TreeMap<Integer, String>();
-        for (Span s : connective)
+        TreeMap<Integer, String> argMap = new TreeMap<>();
+        connective.forEach((s) -> {
             argMap.put(s.getBeg(), s.getText());
-        for (Span s : argument1)
+        });
+        argument1.forEach((s) -> {
             argMap.put(s.getBeg(), s.getText());
-        for (Span s : argument2)
+        });
+        argument2.forEach((s) -> {
             argMap.put(s.getBeg(), s.getText());
-
+        });
+        if (mod != null) {
+            mod.forEach((s) -> {
+                argMap.put(s.getBeg(), "#" + s.getText().toUpperCase());
+            });
+        }
         for (Integer i : argMap.keySet()) {
-          //  System.out.print(argMap.get(i) + " ");
-            output = output + " "+ argMap.get(i) ;
+            //  System.out.print(argMap.get(i) + " ");
+            output = output + " " + argMap.get(i);
         }
         return output;
     }
 
     public boolean checkConnective(String searchedConnective) {
         boolean found = false;
-        for(Span s: this.connective)
-            if(s.getText().equals(searchedConnective))
+        for (Span s : this.connective) {
+            if (s.getText().equals(searchedConnective)) {
                 found = true;
+            }
+        }
         return found;
     }
-
-
 
     public String getFullSense() {
         return fullSense;
     }
+
     public String getSense1() {
         return sense1;
     }
@@ -112,6 +123,10 @@ public class Annotation {
 
     public ArrayList<Span> getConnective() {
         return connective;
+    }
+
+    public ArrayList<Span> getMod() {
+        return mod;
     }
 
 }
