@@ -38,7 +38,7 @@ public class DATTConverter {
     }
 
     public static void main(String[] args) throws ParserConfigurationException, SAXException, IOException {
-        DATTConverter d = new DATTConverter("annotations\\explicit.xml", "testing.xml");
+        DATTConverter d = new DATTConverter("annotations//explicit.xml", "testing.xml");
     }
 
     public HashMap<String, ArrayList<Annotation>> readDATTRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
@@ -195,12 +195,21 @@ public class DATTConverter {
                         Element modTextElement = doc.createElement("Text");
                         Element modOrderElement = doc.createElement("BeginOffset");
 
-                        modOrderElement.appendChild(doc.createTextNode(modOffsetText.get(0)));
+                            modOrderElement.appendChild(doc.createTextNode(modOffsetText.get(0)));
                         modTextElement.appendChild(doc.createTextNode(modOffsetText.get(1)));
 
                         annotationElement.appendChild(modElement);
                         modElement.appendChild(modTextElement);
                         modElement.appendChild(modOrderElement);
+                    }else{
+                           modElement = doc.createElement("Mod");
+                           Element emptyTextElement = doc.createElement("Mod");
+
+                          emptyTextElement.appendChild(doc.createTextNode(""));
+
+                           annotationElement.appendChild(modElement);
+
+
                     }
                 }
                 String senseList = "";

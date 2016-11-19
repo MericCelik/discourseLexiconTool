@@ -62,13 +62,13 @@ public class readerDLVT {
 
                     Node arg1Node = currentElement.getElementsByTagName("Arg1").item(i);
                     Node arg2Node = currentElement.getElementsByTagName("Arg2").item(i);
-                    Node modeNode = currentElement.getElementsByTagName("Mod").item(i);
+                    Node modNode = currentElement.getElementsByTagName("Mod").item(i);
+                    
                     ArrayList<Span> arg1 = getContext(arg1Node, "Arg1");
                     ArrayList<Span> arg2 = getContext(arg2Node, "Arg2");
-                    ArrayList<Span> mod = null;
-                    if (modeNode != null) {
-                        mod = getContext(modeNode, "Mod");
-                    }
+                    ArrayList<Span> mod = getContext(modNode, "Mod");
+                    
+                    
 
                     String sense = currentElement.getAttribute("sense");
 
@@ -103,6 +103,8 @@ public class readerDLVT {
 
         String text = getTag(argNode, "Text");
         String offSet = getTag(argNode, "BeginOffset");
+        if("".equals(text))
+            return spans;
 
         String[] textArray = text.split(delimiter);
         String[] offSetArray = offSet.split(delimiter);
@@ -120,7 +122,9 @@ public class readerDLVT {
     public String getTag(Node argNode, String tag) {
 
         Element eElement = (Element) argNode;
-        String res = eElement.getElementsByTagName(tag).item(0).getTextContent().replace("\n", "").replace("\r", "").replaceAll("[ ]+", " ");
+        String res = "";
+        if(eElement.getElementsByTagName(tag).item(0) != null)
+              res = eElement.getElementsByTagName(tag).item(0).getTextContent().replace("\n", "").replace("\r", "").replaceAll("[ ]+", " ");
         return res;
     }
 
