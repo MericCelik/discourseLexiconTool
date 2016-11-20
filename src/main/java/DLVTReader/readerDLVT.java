@@ -80,7 +80,7 @@ public class readerDLVT {
                         System.out.println("You have connection problems  " + conTextArray.get(0));
                     } else {
                         for (int k = 0; k < conBeginOffsetArray.size(); k++) {
-                            Span ConSpan = new Span(conTextArray.get(k), Integer.parseInt(conBeginOffsetArray.get(k)), "connective");
+                            Span ConSpan = new Span(conTextArray.get(k), Integer.parseInt(conBeginOffsetArray.get(k)), "conn");
                             ConSpanList.add(ConSpan);
                         }
                     }

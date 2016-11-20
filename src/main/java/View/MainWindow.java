@@ -6,11 +6,15 @@
 package View;
 
 import DLVTReader.readerDLVT;
+import core.Annotation;
+import core.Span;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Random;
 import java.util.Set;
+import java.util.TreeMap;
 import java.util.TreeSet;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -27,11 +31,13 @@ public class MainWindow extends javax.swing.JFrame {
 
 
     private HashMap<String, ArrayList<String>> connectiveSenseMap;
+    private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap;
     private readerDLVT reader;
 
     public MainWindow(String dir) throws IOException, SAXException, ParserConfigurationException {
         reader = new readerDLVT(dir);
         connectiveSenseMap = reader.getConnectiveSenseMap();
+        connectiveAnnotationMap = reader.getConnectiveAnnotationMap();
         initComponents();
         TreeSet<String> connectiveList = new TreeSet( connectiveSenseMap.keySet());
         jComboBox1.setModel(new DefaultComboBoxModel(connectiveList.toArray()));
@@ -51,7 +57,7 @@ public class MainWindow extends javax.swing.JFrame {
 
         jButton1 = new javax.swing.JButton();
         jComboBox1 = new javax.swing.JComboBox<>();
-        jLabel1 = new javax.swing.JLabel();
+        annoLabel = new javax.swing.JLabel();
         jMenuBar1 = new javax.swing.JMenuBar();
         jMenu1 = new javax.swing.JMenu();
         jMenu2 = new javax.swing.JMenu();
@@ -73,8 +79,6 @@ public class MainWindow extends javax.swing.JFrame {
             }
         });
 
-        jLabel1.setText("jLabel1");
-
         jMenu1.setText("File");
         jMenuBar1.add(jMenu1);
 
@@ -93,7 +97,7 @@ public class MainWindow extends javax.swing.JFrame {
                     .addComponent(jComboBox1, 0, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jButton1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addGap(145, 145, 145)
-                .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 616, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(annoLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 616, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap(39, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
@@ -101,7 +105,7 @@ public class MainWindow extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addGap(42, 42, 42)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jLabel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(annoLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addGroup(layout.createSequentialGroup()
                         .addComponent(jComboBox1, javax.swing.GroupLayout.PREFERRED_SIZE, 27, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
@@ -116,12 +120,29 @@ public class MainWindow extends javax.swing.JFrame {
     private void jComboBox1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jComboBox1ActionPerformed
         // TODO add your handling code here:
 
-        String chosen = (String) jComboBox1.getSelectedItem();
-        String senses = "";
-        for (String str : connectiveSenseMap.get(chosen)) {
-            senses = senses + str + "\n";
+        String chosenConnective = (String) jComboBox1.getSelectedItem();
+        Random randGenerator = new Random();
+        Annotation chosenAnnotation;
+        
+        int randomNoForAnnotation = randGenerator.nextInt(connectiveAnnotationMap.get(chosenConnective).size());
+        
+        TreeMap<Integer, Span> argMapforPrettyPrint = connectiveAnnotationMap.get(chosenConnective).get(randomNoForAnnotation).getArgMapforPrettyPrint();
+        String p = "<html>";
+        for(Integer i : argMapforPrettyPrint.keySet())
+        {
+            String text = argMapforPrettyPrint.get(i).getText();
+            if(argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("arg1"))
+                p = p + "<font color=\"black\">" + " " +  text +"</font>" ;
+            else if(argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("arg2"))
+                p = p + "<font color=\"black\"><b>" + " " + text +"</b></font>" ;
+            else if(argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("conn"))
+                p = p + "<font color=\"black\">" +  " <u>" + text +"</u></font>" ;
+            else if(argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("mod"))
+                p = p + "<font color=\"black\">" +  " " + text +"</font>" ;
         }
-        jLabel1.setText("<html><font color=\"red\">" + senses + "</font></html>");
+        p = p + "</html>";
+        
+        annoLabel.setText("<html><font color=\"red\">" + p + "</font></html>");
 
     }//GEN-LAST:event_jComboBox1ActionPerformed
 
@@ -146,28 +167,21 @@ public class MainWindow extends javax.swing.JFrame {
                     break;
                 }
             }
-        } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(MainWindow.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(MainWindow.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(MainWindow.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        } catch (javax.swing.UnsupportedLookAndFeelException ex) {
+        } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(MainWindow.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
         //</editor-fold>
+        
+        //</editor-fold>
 
         /* Create and display the form */
+        
         java.awt.EventQueue.invokeLater(new Runnable() {
+            @Override
             public void run() {
                 try {
                     new MainWindow(args[0]).setVisible(true);
-
-                } catch (IOException ex) {
-                    Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
-                } catch (SAXException ex) {
-                    Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
-                } catch (ParserConfigurationException ex) {
+                } catch (IOException | SAXException | ParserConfigurationException ex) {
                     Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
                 }
             }
@@ -175,9 +189,9 @@ public class MainWindow extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JLabel annoLabel;
     private javax.swing.JButton jButton1;
     private javax.swing.JComboBox<String> jComboBox1;
-    private javax.swing.JLabel jLabel1;
     private javax.swing.JMenu jMenu1;
     private javax.swing.JMenu jMenu2;
     private javax.swing.JMenuBar jMenuBar1;

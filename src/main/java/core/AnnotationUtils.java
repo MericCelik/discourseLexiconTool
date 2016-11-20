@@ -35,27 +35,25 @@ public class AnnotationUtils {
         super();
     }
     
-    
-
-    public void generateConnectiveSenseList() {
+    private void generateConnectiveSenseList() {
 
         for (Annotation anno : annotationList) {
 
-            String connective = anno.connective.get(0).getText().toLowerCase();
-            Set<String> senseList = new HashSet<String>();
+            String connective = anno.getConnective().get(0).getText().toLowerCase();
+            Set<String> senseList = new HashSet<>();
             if (!connectiveSenseList.containsKey(connective)) {
-                senseList.add(anno.fullSense);
+                senseList.add(anno.getFullSense());
                 connectiveSenseList.put(connective, senseList);
             } else {
                 Set<String> oldList = connectiveSenseList.get(connective);
-                oldList.add(anno.fullSense);
+                oldList.add(anno.getFullSense());
                 connectiveSenseList.put(connective, oldList);
             }
         }
     }
 
     public ArrayList<Annotation> searchByConnectiveAndSense(String connective, String sense) {
-        ArrayList<Annotation> result = new ArrayList<Annotation>();
+        ArrayList<Annotation> result = new ArrayList<>();
         for (Annotation anno : annotationList) {
             String allSense = anno.getSense1() + " : " + anno.getSense2() + " : " + anno.getSense3();
             if (anno.checkConnective(connective) && allSense.toLowerCase().contains(sense.toLowerCase()))

@@ -23,6 +23,7 @@ public class main {
         HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = r.getConnectiveAnnotationMap();
 
         System.out.println("--------Connective Sense List--------");
+       
         connectiveSenseMap.keySet().stream().map((str) -> {
             System.out.println(str);
             return str;
@@ -37,17 +38,13 @@ public class main {
         System.out.println("--------Connective Sense List--------");
         
         PrintWriter wr;
-        wr = new PrintWriter("out.txt");
+        wr = new PrintWriter("out.txt", "UTF-8");
 
         System.out.println("--------Connective Annotation List--------");
         for (String str : connectiveAnnotationMap.keySet()) {
             System.out.println("\t" + str.toUpperCase());
             wr.println("\t" + str.toUpperCase());
             for (Annotation x : connectiveAnnotationMap.get(str)) {
-                if(x.toString().contains("asmak için") )
-                {
-                    System.out.println("");
-                }
                 System.out.println(x.toString() );
                 wr.println(x.toString() );
             }

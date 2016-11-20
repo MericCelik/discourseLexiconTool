@@ -9,26 +9,26 @@ import java.util.TreeMap;
  */
 public class Annotation {
 
-    ArrayList<Span> connective;
+    private ArrayList<Span> connective;
+    private ArrayList<Span> mod;
+    private ArrayList<Span> argument1;
+    private ArrayList<Span> argument2;
 
-    ArrayList<Span> mod;
+    private TreeMap<Integer, Span> argMapforPrettyPrint;
 
-    ArrayList<Span> argument1;
-    ArrayList<Span> argument2;
+   
+    
+    private String sense1;
+    private String sense2;
+    private String sense3;
+    private String fullSense;
 
-    String sense1;
-    String sense2;
-    String sense3;
-
-    String fullSense;
-
-    String type;
-    String note;
-    String genre;
+    private String type;
+    private String note;
+    private String genre;
 
     public Annotation() {
         super();
-
     }
 
     public Annotation(ArrayList<Span> conSpans, ArrayList<Span> arg1Spans, ArrayList<Span> arg2Spans, ArrayList<Span> modSpans, String sense, String note, String type, String genre) {
@@ -37,6 +37,8 @@ public class Annotation {
         argument1 = arg1Spans;
         argument2 = arg2Spans;
         mod = modSpans;
+        argMapforPrettyPrint = new TreeMap<>();
+        generateTreeMapPP();
 
         StringTokenizer token = new StringTokenizer(sense, ":");
         this.sense1 = token.hasMoreTokens() ? token.nextToken() : "noo";
@@ -60,32 +62,25 @@ public class Annotation {
         this.type = type;
         this.genre = genre;
     }
-
-    @Override
-    public String toString() {
-
-        String output = "";
-        TreeMap<Integer, String> argMap = new TreeMap<>();
+    
+    private void generateTreeMapPP()
+    {
         connective.forEach((s) -> {
-            argMap.put(s.getBeg(), s.getText());
+            argMapforPrettyPrint.put(s.getBeg(), s);
         });
         argument1.forEach((s) -> {
-            argMap.put(s.getBeg(), s.getText());
+            argMapforPrettyPrint.put(s.getBeg(), s);
         });
         argument2.forEach((s) -> {
-            argMap.put(s.getBeg(), s.getText());
+            argMapforPrettyPrint.put(s.getBeg(), s);
         });
         if (mod != null) {
             mod.forEach((s) -> {
-                argMap.put(s.getBeg(), "#" + s.getText().toUpperCase());
+                argMapforPrettyPrint.put(s.getBeg(), s);
             });
         }
-        for (Integer i : argMap.keySet()) {
-            //  System.out.print(argMap.get(i) + " ");
-            output = output + " " + argMap.get(i);
-        }
-        return output;
     }
+
 
     public boolean checkConnective(String searchedConnective) {
         boolean found = false;
@@ -97,6 +92,16 @@ public class Annotation {
         return found;
     }
 
+    @Override
+    public String toString() {
+        String output = "";
+        for (Integer i : argMapforPrettyPrint.keySet()) {
+            //  System.out.print(argMap.get(i) + " ");
+            output = output + " " + argMapforPrettyPrint.get(i).getText();
+        }
+        return output;
+    }
+    
     public String getFullSense() {
         return fullSense;
     }
@@ -127,6 +132,10 @@ public class Annotation {
 
     public ArrayList<Span> getMod() {
         return mod;
+    }
+    
+    public TreeMap<Integer, Span> getArgMapforPrettyPrint() {
+        return argMapforPrettyPrint;
     }
 
 }
