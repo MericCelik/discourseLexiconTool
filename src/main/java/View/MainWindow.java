@@ -293,9 +293,16 @@ public class MainWindow extends javax.swing.JFrame {
             String[] senseTokens = str.split(":");
             output = output + "<li> "; // + str + </li> ";
             for (String token : senseTokens) {
-                output =  output + "<font face=\"verdana\" color=\"blue\"><u>  " + token + "</u></font>" + " : ";
+                String tokenTmp = token;
+                int len = token.length() - tokenTmp.replaceAll(" ", "").length();
+                if (len > 1) {
+                    token = token.replaceAll(" ", "-");
+                    token = token.substring(1);
+                    System.out.println(token + " " + len);
+                }
+                output = output + "<font face=\"verdana\" color=\"blue\"><u>  " + token + "</u></font>" + " : ";
             }
-            output = output.substring(0, output.length()-3);
+            output = output.substring(0, output.length() - 3);
             output = output + "<br /> </li> ";
             int randomNoForAnnotation = randGenerator.nextInt(connectiveAnnotationMap.get(chosenConnective).size());
             TreeMap<Integer, Span> argMapforPrettyPrint = connectiveAnnotationMap.get(chosenConnective).get(randomNoForAnnotation).getArgMapforPrettyPrint();
@@ -322,7 +329,11 @@ public class MainWindow extends javax.swing.JFrame {
         // TODO add your handling code here:
 
         String selectedText = jTextPane1.getSelectedText();
-        System.out.println(jTextPane1.getSelectedText());
+        System.out.println(selectedText);
+        if (selectedText != null) {
+            selectedText = selectedText.replaceAll("-", " ");
+        }
+        System.out.println(selectedText);
 
         Set<String> senseSet = senseConnectiveMap.keySet();
 
