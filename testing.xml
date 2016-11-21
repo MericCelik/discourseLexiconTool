@@ -2769,8 +2769,8 @@
         <BeginOffset>3092</BeginOffset>
       </Arg1>
       <Arg2>
-        <Text>Ben kızgınken tam önüme bakardım!#!senin gözlerine değil</Text>
-        <BeginOffset>3092!#!3134</BeginOffset>
+        <Text>senin gözlerine değil</Text>
+        <BeginOffset>3134</BeginOffset>
       </Arg2>
       <Mod/>
     </Annotation>

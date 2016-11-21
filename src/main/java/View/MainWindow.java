@@ -101,8 +101,8 @@ public class MainWindow extends javax.swing.JFrame {
         searchField = new javax.swing.JTextField();
         legendButton = new javax.swing.JButton();
         conInfoLabel = new javax.swing.JLabel();
-        jButton1 = new javax.swing.JButton();
-        jMenuBar1 = new javax.swing.JMenuBar();
+        seeAll = new javax.swing.JButton();
+        jMenuBar = new javax.swing.JMenuBar();
         jMenu1 = new javax.swing.JMenu();
         jMenuItem1 = new javax.swing.JMenuItem();
         jMenu2 = new javax.swing.JMenu();
@@ -194,9 +194,9 @@ public class MainWindow extends javax.swing.JFrame {
         openFileDialog.getContentPane().setLayout(openFileDialogLayout);
         openFileDialogLayout.setHorizontalGroup(
             openFileDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 636, Short.MAX_VALUE)
+            .addGap(0, 654, Short.MAX_VALUE)
             .addGroup(openFileDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addComponent(jFileChooser1, javax.swing.GroupLayout.DEFAULT_SIZE, 636, Short.MAX_VALUE))
+                .addComponent(jFileChooser1, javax.swing.GroupLayout.DEFAULT_SIZE, 654, Short.MAX_VALUE))
         );
         openFileDialogLayout.setVerticalGroup(
             openFileDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -262,15 +262,15 @@ public class MainWindow extends javax.swing.JFrame {
             }
         });
 
-        jButton1.setText("See All Annotations");
-        jButton1.setEnabled(false);
-        jButton1.addActionListener(new java.awt.event.ActionListener() {
+        seeAll.setText("See All Annotations");
+        seeAll.setEnabled(false);
+        seeAll.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton1ActionPerformed(evt);
+                seeAllActionPerformed(evt);
             }
         });
 
-        jMenuBar1.setAutoscrolls(true);
+        jMenuBar.setAutoscrolls(true);
 
         jMenu1.setText("File");
 
@@ -282,12 +282,12 @@ public class MainWindow extends javax.swing.JFrame {
         });
         jMenu1.add(jMenuItem1);
 
-        jMenuBar1.add(jMenu1);
+        jMenuBar.add(jMenu1);
 
         jMenu2.setText("About");
-        jMenuBar1.add(jMenu2);
+        jMenuBar.add(jMenu2);
 
-        setJMenuBar(jMenuBar1);
+        setJMenuBar(jMenuBar);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -302,18 +302,18 @@ public class MainWindow extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
-                        .addGap(14, 14, 14)
-                        .addComponent(listScrollPane, javax.swing.GroupLayout.PREFERRED_SIZE, 155, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addGroup(layout.createSequentialGroup()
                         .addGap(36, 36, 36)
-                        .addComponent(searchButton)))
+                        .addComponent(searchButton))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(14, 14, 14)
+                        .addComponent(listScrollPane, javax.swing.GroupLayout.PREFERRED_SIZE, 167, javax.swing.GroupLayout.PREFERRED_SIZE)))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
-                        .addGap(0, 6, Short.MAX_VALUE)
+                        .addGap(0, 0, Short.MAX_VALUE)
                         .addComponent(conInfoLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 583, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(50, 50, 50)
-                        .addComponent(jButton1))
+                        .addComponent(seeAll))
                     .addComponent(mainScrollPane))
                 .addContainerGap())
         );
@@ -333,13 +333,11 @@ public class MainWindow extends javax.swing.JFrame {
                         .addGap(18, 18, Short.MAX_VALUE)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                             .addComponent(conInfoLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                            .addComponent(jButton1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(listScrollPane)
-                    .addGroup(layout.createSequentialGroup()
-                        .addGap(0, 0, Short.MAX_VALUE)
-                        .addComponent(mainScrollPane, javax.swing.GroupLayout.PREFERRED_SIZE, 314, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                            .addComponent(seeAll, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addComponent(mainScrollPane)
+                    .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 327, Short.MAX_VALUE))
                 .addContainerGap())
         );
 
@@ -371,7 +369,7 @@ public class MainWindow extends javax.swing.JFrame {
         // TODO add your handling code here:
         String chosenConnective = (String) JList_connective.getSelectedValue();
         int noOfAnno = connectiveNumberofAnnotation.get(chosenConnective);
-        jButton1.setEnabled(true);
+        seeAll.setEnabled(true);
         Random randGenerator = new Random();
         Annotation chosenAnnotation;
         ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
@@ -410,7 +408,7 @@ public class MainWindow extends javax.swing.JFrame {
                 } else if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("conn")) {
                     output = output + "<font face=\"verdana\" color=\"black\">" + " <u>" + text + "</u></font>";
                 } else if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("mod")) {
-                    output = output + "<font face=\"verdana\" color=\"black\">" + " " + text + "</font>";
+                    output = output + "<font face=\"verdana\" color=\"black\">" + " (" + text + ") </font>";
                 }
             }
             output = output + "<br />" + "<br />";
@@ -459,7 +457,7 @@ public class MainWindow extends javax.swing.JFrame {
         connBasedonSenseDialog.setVisible(false);
     }//GEN-LAST:event_conSenseListMouseClicked
 
-    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+    private void seeAllActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_seeAllActionPerformed
         // TODO add your handling code here:
         String chosenConnective = (String) JList_connective.getSelectedValue();
         int noOfAnno = connectiveNumberofAnnotation.get(chosenConnective);
@@ -519,7 +517,7 @@ public class MainWindow extends javax.swing.JFrame {
         allAnnotationPane.setText(output);
         allAnnotationDialogue.setVisible(true);
 
-    }//GEN-LAST:event_jButton1ActionPerformed
+    }//GEN-LAST:event_seeAllActionPerformed
 
     private void jMenuItem1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem1ActionPerformed
         // TODO add your handling code here:
@@ -587,11 +585,10 @@ public class MainWindow extends javax.swing.JFrame {
     private javax.swing.JList<String> conSenseList;
     private javax.swing.JScrollPane conSenseList_pane1;
     private javax.swing.JDialog connBasedonSenseDialog;
-    private javax.swing.JButton jButton1;
     private javax.swing.JFileChooser jFileChooser1;
     private javax.swing.JMenu jMenu1;
     private javax.swing.JMenu jMenu2;
-    private javax.swing.JMenuBar jMenuBar1;
+    private javax.swing.JMenuBar jMenuBar;
     private javax.swing.JMenuItem jMenuItem1;
     private javax.swing.JTextPane jTextPane1;
     private javax.swing.JButton legendButton;
@@ -602,6 +599,7 @@ public class MainWindow extends javax.swing.JFrame {
     private javax.swing.JDialog openFileDialog;
     private javax.swing.JButton searchButton;
     private javax.swing.JTextField searchField;
+    private javax.swing.JButton seeAll;
     // End of variables declaration//GEN-END:variables
 
 }
