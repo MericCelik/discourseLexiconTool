@@ -22,6 +22,7 @@ import java.util.TreeSet;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.ListModel;
+import javax.swing.text.DefaultCaret;
 import javax.xml.parsers.ParserConfigurationException;
 
 import org.xml.sax.SAXException;
@@ -141,6 +142,8 @@ public class MainWindow extends javax.swing.JFrame {
 
         allAnnotationDialogue.setMinimumSize(new java.awt.Dimension(700, 300));
 
+        DefaultCaret caret = (DefaultCaret)allAnnotationPane.getCaret();
+        caret.setUpdatePolicy(DefaultCaret.NEVER_UPDATE);
         allAnnotationScrollPane.setViewportView(allAnnotationPane);
 
         javax.swing.GroupLayout allAnnotationDialogueLayout = new javax.swing.GroupLayout(allAnnotationDialogue.getContentPane());
@@ -171,6 +174,8 @@ public class MainWindow extends javax.swing.JFrame {
         });
 
         jTextPane1.setEditable(false);
+        caret = (DefaultCaret)jTextPane1.getCaret();
+        caret.setUpdatePolicy(DefaultCaret.NEVER_UPDATE);
         jTextPane1.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jTextPane1MouseClicked(evt);
@@ -211,6 +216,7 @@ public class MainWindow extends javax.swing.JFrame {
         });
 
         jButton1.setText("See All Annotations");
+        jButton1.setEnabled(false);
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
@@ -310,7 +316,7 @@ public class MainWindow extends javax.swing.JFrame {
         // TODO add your handling code here:
         String chosenConnective = (String) JList_connective.getSelectedValue();
         int noOfAnno = connectiveNumberofAnnotation.get(chosenConnective);
-
+        jButton1.setEnabled(true);
         Random randGenerator = new Random();
         Annotation chosenAnnotation;
         ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
@@ -343,7 +349,7 @@ public class MainWindow extends javax.swing.JFrame {
             for (Integer i : argMapforPrettyPrint.keySet()) {
                 String text = argMapforPrettyPrint.get(i).getText();
                 if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("arg1")) {
-                    output = output + "<font face=\"verdana\" color=\"black\">" + " " + text + "</font>";
+                    output = output + "<font face=\"verdana\" color=\"black\"><em>" + " " + text + "</em></font>";
                 } else if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("arg2")) {
                     output = output + "<font face=\"verdana\" color=\"black\"><b>" + " " + text + "</b></font>";
                 } else if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("conn")) {
@@ -429,10 +435,10 @@ public class MainWindow extends javax.swing.JFrame {
                 output = output + "<font face=\"verdana\" color=\"blue\"><u>  " + token + "</u></font>" + " : ";
             }
             output = output.substring(0, output.length() - 3);
-            output = output + "<br /> </li> ";
+            output = output + "</li>  <br /> <ul>";
           //  int randomNoForAnnotation = randGenerator.nextInt(connectiveAnnotationMap.get(chosenConnective).size());
             for (Annotation anno : connectiveAnnotationMap.get(chosenConnective)) {
-
+                     output = output + "<li>";
                 TreeMap<Integer, Span> argMapforPrettyPrint = anno.getArgMapforPrettyPrint();
 
                 for (Integer i : argMapforPrettyPrint.keySet()) {
@@ -447,10 +453,13 @@ public class MainWindow extends javax.swing.JFrame {
                         output = output + "<font face=\"verdana\" color=\"black\">" + " " + text + "</font>";
                     }
                 }
-                output = output + "<br />" + "<br />";
+                output = output + "</li> <br />" + "<br />";
             }
+             output = output + "</ul>";
         }
         output = output + "</ol></html>";
+                System.out.println(output);
+                        
         allAnnotationPane.setContentType("text/html");
         allAnnotationPane.setText(output);
         allAnnotationDialogue.setVisible(true);
