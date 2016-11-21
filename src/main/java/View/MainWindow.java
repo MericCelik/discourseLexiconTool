@@ -14,11 +14,14 @@ import java.awt.Toolkit;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Random;
+import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.swing.ListModel;
 import javax.xml.parsers.ParserConfigurationException;
 
 import org.xml.sax.SAXException;
@@ -29,18 +32,24 @@ import org.xml.sax.SAXException;
 public class MainWindow extends javax.swing.JFrame {
 
     private HashMap<String, ArrayList<String>> connectiveSenseMap;
+    private HashMap<String, Set<String>> senseConnectiveMap;
+
     private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap;
+    private HashMap<String, Integer> connectiveNumberofAnnotation;
+
     private readerDLVT reader;
     private Image im = Toolkit.getDefaultToolkit().getImage("youtube.png");
-    private HashMap<String, Integer> connectiveNumberofAnnotation;
 
     public MainWindow(String dir) throws IOException, SAXException, ParserConfigurationException {
         reader = new readerDLVT(dir);
         connectiveSenseMap = reader.getConnectiveSenseMap();
         connectiveAnnotationMap = reader.getConnectiveAnnotationMap();
         connectiveNumberofAnnotation = reader.getConnectiveNumberofAnnotation();
+        senseConnectiveMap = reader.getSenseConnectiveMap();
         initComponents();
 
+        legendLabel.setText("<html><font  color=\"black\"><b> <ul> <li> The connectives are underlined </li> <br />"
+                + " <li> The second argument of the discourse relations are written in bold  </li> <br /> </b> </html>");
     }
 
     /**
@@ -55,8 +64,11 @@ public class MainWindow extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        jDialog1 = new javax.swing.JDialog();
-        jPanel1 = new javax.swing.JPanel();
+        connBasedonSenseDialog = new javax.swing.JDialog();
+        conSenseList_pane1 = new javax.swing.JScrollPane();
+        conSenseList = new javax.swing.JList<>();
+        legendDialog = new javax.swing.JDialog();
+        legendLabel = new javax.swing.JLabel();
         searchButton = new javax.swing.JButton();
         mainScrollPane = new javax.swing.JScrollPane();
         jTextPane1 = new javax.swing.JTextPane();
@@ -70,29 +82,62 @@ public class MainWindow extends javax.swing.JFrame {
         jMenuItem1 = new javax.swing.JMenuItem();
         jMenu2 = new javax.swing.JMenu();
 
-        jDialog1.setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        jDialog1.setAlwaysOnTop(true);
+        connBasedonSenseDialog.setMinimumSize(new java.awt.Dimension(200, 400));
 
-        javax.swing.GroupLayout jDialog1Layout = new javax.swing.GroupLayout(jDialog1.getContentPane());
-        jDialog1.getContentPane().setLayout(jDialog1Layout);
-        jDialog1Layout.setHorizontalGroup(
-            jDialog1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        conSenseList.setModel(new javax.swing.AbstractListModel<String>() {
+            String[] strings = { "Item 1", "Item 2", "Item 3", "Item 4", "Item 5" };
+            public int getSize() { return strings.length; }
+            public String getElementAt(int i) { return strings[i]; }
+        });
+        conSenseList_pane1.setViewportView(conSenseList);
+
+        javax.swing.GroupLayout connBasedonSenseDialogLayout = new javax.swing.GroupLayout(connBasedonSenseDialog.getContentPane());
+        connBasedonSenseDialog.getContentPane().setLayout(connBasedonSenseDialogLayout);
+        connBasedonSenseDialogLayout.setHorizontalGroup(
+            connBasedonSenseDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(connBasedonSenseDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(connBasedonSenseDialogLayout.createSequentialGroup()
+                    .addGap(0, 0, Short.MAX_VALUE)
+                    .addComponent(conSenseList_pane1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addGap(0, 0, Short.MAX_VALUE)))
         );
-        jDialog1Layout.setVerticalGroup(
-            jDialog1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        connBasedonSenseDialogLayout.setVerticalGroup(
+            connBasedonSenseDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(connBasedonSenseDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(connBasedonSenseDialogLayout.createSequentialGroup()
+                    .addGap(0, 0, Short.MAX_VALUE)
+                    .addComponent(conSenseList_pane1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addGap(0, 0, Short.MAX_VALUE)))
         );
 
-        javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
-        jPanel1.setLayout(jPanel1Layout);
-        jPanel1Layout.setHorizontalGroup(
-            jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        legendDialog.setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        legendDialog.setTitle("Legend");
+        legendDialog.setAlwaysOnTop(true);
+        legendDialog.setMinimumSize(new java.awt.Dimension(450, 200));
+
+        legendLabel.setText("jLabel1");
+
+        javax.swing.GroupLayout legendDialogLayout = new javax.swing.GroupLayout(legendDialog.getContentPane());
+        legendDialog.getContentPane().setLayout(legendDialogLayout);
+        legendDialogLayout.setHorizontalGroup(
+            legendDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 100, Short.MAX_VALUE)
+            .addGroup(legendDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(legendDialogLayout.createSequentialGroup()
+                    .addGap(0, 0, Short.MAX_VALUE)
+                    .addComponent(legendLabel)
+                    .addGap(0, 0, Short.MAX_VALUE)))
         );
-        jPanel1Layout.setVerticalGroup(
-            jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        legendDialogLayout.setVerticalGroup(
+            legendDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 100, Short.MAX_VALUE)
+            .addGroup(legendDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(legendDialogLayout.createSequentialGroup()
+                    .addGap(0, 0, Short.MAX_VALUE)
+                    .addComponent(legendLabel)
+                    .addGap(0, 0, Short.MAX_VALUE)))
         );
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
@@ -109,6 +154,11 @@ public class MainWindow extends javax.swing.JFrame {
         });
 
         jTextPane1.setEditable(false);
+        jTextPane1.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jTextPane1MouseClicked(evt);
+            }
+        });
         mainScrollPane.setViewportView(jTextPane1);
 
         TreeSet<String> connectiveList = new TreeSet(connectiveSenseMap.keySet());
@@ -171,15 +221,15 @@ public class MainWindow extends javax.swing.JFrame {
                     .addGroup(layout.createSequentialGroup()
                         .addContainerGap()
                         .addComponent(searchField, javax.swing.GroupLayout.PREFERRED_SIZE, 139, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 657, Short.MAX_VALUE)
                         .addComponent(legendButton)
                         .addGap(20, 20, 20)))
                 .addGap(18, 18, 18))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                 .addGap(14, 14, 14)
-                .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 150, Short.MAX_VALUE)
+                .addComponent(listScrollPane, javax.swing.GroupLayout.PREFERRED_SIZE, 146, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(mainScrollPane, javax.swing.GroupLayout.PREFERRED_SIZE, 719, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(mainScrollPane)
                 .addGap(14, 14, 14))
         );
         layout.setVerticalGroup(
@@ -198,8 +248,8 @@ public class MainWindow extends javax.swing.JFrame {
                         .addComponent(searchButton)))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(listScrollPane, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 269, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(mainScrollPane, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 269, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(listScrollPane, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 269, Short.MAX_VALUE)
+                    .addComponent(mainScrollPane, javax.swing.GroupLayout.Alignment.TRAILING))
                 .addContainerGap())
         );
 
@@ -218,7 +268,7 @@ public class MainWindow extends javax.swing.JFrame {
 
     private void legendButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_legendButtonActionPerformed
         // TODO add your handling code here:
-        jDialog1.setVisible(true);
+        legendDialog.setVisible(true);
 
     }//GEN-LAST:event_legendButtonActionPerformed
 
@@ -235,17 +285,17 @@ public class MainWindow extends javax.swing.JFrame {
         Random randGenerator = new Random();
         Annotation chosenAnnotation;
         ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
-        String conInfo =  "<html> <font  face=\"verdana\" color=\"black\"><b>" + "The connective <i>" + chosenConnective + "</i> is annotated ";
-        if(senseList.size()  == 1 )
+        String conInfo = "<html> <font  face=\"verdana\" color=\"black\"><b>" + "The connective <i>" + chosenConnective + "</i> is annotated ";
+        if (senseList.size() == 1) {
             conInfo = conInfo + ". This connective conveys only one sense (Unambiguous)</b></font>";
-        else
-         conInfo = conInfo +"<u>" + noOfAnno + "</u> times. It conveys <u>" + senseList.size() + "</u>  different senses." + "</Strong></font>";
+        } else {
+            conInfo = conInfo + "<u>" + noOfAnno + "</u> times. It conveys <u>" + senseList.size() + "</u>  different senses." + "</Strong></font>";
+        }
         conInfoLabel.setText(conInfo);
 
-        String output = "<html>";
-        int senseNo = 1;
+        String output = "<html> <ol>";
         for (String str : senseList) {
-            output = output + "<font  face=\"verdana\" color=\"red\">" + senseNo + ". " + str + "</font><br />";
+            output = output + "<li> <font face=\"verdana\" color=\"blue\"><u>  " + str + "</u></font><br />   </li> ";
             int randomNoForAnnotation = randGenerator.nextInt(connectiveAnnotationMap.get(chosenConnective).size());
             TreeMap<Integer, Span> argMapforPrettyPrint = connectiveAnnotationMap.get(chosenConnective).get(randomNoForAnnotation).getArgMapforPrettyPrint();
             for (Integer i : argMapforPrettyPrint.keySet()) {
@@ -261,12 +311,39 @@ public class MainWindow extends javax.swing.JFrame {
                 }
             }
             output = output + "<br />" + "<br />";
-            senseNo++;
         }
-        output = output + "</html>";
+        output = output + "</ol></html>";
         jTextPane1.setContentType("text/html");
         jTextPane1.setText(output);
     }//GEN-LAST:event_JList_connectiveValueChanged
+
+    private void jTextPane1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jTextPane1MouseClicked
+        // TODO add your handling code here:
+
+        String selectedText = jTextPane1.getSelectedText();
+        System.out.println(jTextPane1.getSelectedText());
+
+        Set<String> senseSet = senseConnectiveMap.keySet();
+
+        for (String str : senseSet) {
+            if (selectedText != null && str.contains(selectedText)) {
+
+                HashSet<String> conSet = (HashSet<String>) senseConnectiveMap.get(str);
+                conSenseList.setModel(new javax.swing.AbstractListModel<String>() {
+                    String[] strings = conSet.toArray(new String[conSet.size()]);
+
+                    public int getSize() {
+                        return strings.length;
+                    }
+
+                    public String getElementAt(int i) {
+                        return strings[i];
+                    }
+                });
+                connBasedonSenseDialog.setVisible(true);
+            }
+        }
+    }//GEN-LAST:event_jTextPane1MouseClicked
 
     /**
      * @param args the command line arguments
@@ -288,9 +365,7 @@ public class MainWindow extends javax.swing.JFrame {
             java.util.logging.Logger.getLogger(MainWindow.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
         //</editor-fold>
-
         //</editor-fold>
-
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             @Override
@@ -304,17 +379,21 @@ public class MainWindow extends javax.swing.JFrame {
         });
     }
 
+
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JList<String> JList_connective;
     private javax.swing.JLabel conInfoLabel;
-    private javax.swing.JDialog jDialog1;
+    private javax.swing.JList<String> conSenseList;
+    private javax.swing.JScrollPane conSenseList_pane1;
+    private javax.swing.JDialog connBasedonSenseDialog;
     private javax.swing.JMenu jMenu1;
     private javax.swing.JMenu jMenu2;
     private javax.swing.JMenuBar jMenuBar1;
     private javax.swing.JMenuItem jMenuItem1;
-    private javax.swing.JPanel jPanel1;
     private javax.swing.JTextPane jTextPane1;
     private javax.swing.JButton legendButton;
+    private javax.swing.JDialog legendDialog;
+    private javax.swing.JLabel legendLabel;
     private javax.swing.JScrollPane listScrollPane;
     private javax.swing.JScrollPane mainScrollPane;
     private javax.swing.JButton searchButton;

@@ -16,6 +16,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Set;
 
 /**
  * Created by Murathan on 14-Nov-16.
@@ -25,17 +27,18 @@ public class readerDLVT {
     private ArrayList<Annotation> annotationList = new ArrayList<>();
     private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap;
     private HashMap<String, ArrayList<String>> connectiveSenseMap;
+    private HashMap<String, Set<String>> senseConnectiveMap;
+
+   
+
     private HashMap<String, Integer> connectiveNumberofAnnotation;
-
-    
-
-
     private String delimiter = "!#!";
 
     public readerDLVT(String dir) throws ParserConfigurationException, SAXException, IOException {
         this.connectiveAnnotationMap = new HashMap<>();
         this.connectiveSenseMap = new HashMap<>();
         this.connectiveNumberofAnnotation = new HashMap<>();
+        this.senseConnectiveMap = new HashMap<>();
         this.readRelations(dir);
     }
 
@@ -69,14 +72,21 @@ public class readerDLVT {
                     Node arg1Node = currentElement.getElementsByTagName("Arg1").item(i);
                     Node arg2Node = currentElement.getElementsByTagName("Arg2").item(i);
                     Node modNode = currentElement.getElementsByTagName("Mod").item(i);
-                    
+
                     ArrayList<Span> arg1 = getContext(arg1Node, "Arg1");
                     ArrayList<Span> arg2 = getContext(arg2Node, "Arg2");
                     ArrayList<Span> mod = getContext(modNode, "Mod");
-                    
-                    
-
-                    String sense = currentElement.getAttribute("sense");
+                    String sense = annotationElement.getAttribute("sense");
+                   
+                    if (!senseConnectiveMap.containsKey(sense)) {
+                        Set<String> connnectiveListforSenseCon = new HashSet<>();
+                        connnectiveListforSenseCon.add(conString);
+                        senseConnectiveMap.put(sense, connnectiveListforSenseCon);
+                    } else {
+                        Set<String> oldList = senseConnectiveMap.get(sense);
+                        oldList.add(conString);
+                        senseConnectiveMap.put(sense, oldList);
+                    }
 
                     ArrayList<String> conBeginOffsetArray = new ArrayList<>(Arrays.asList(annotationElement.getAttribute("conBeginOffset").split(delimiter)));
                     ArrayList<String> conTextArray = new ArrayList<>(Arrays.asList(conString.split("_")));
@@ -109,8 +119,9 @@ public class readerDLVT {
 
         String text = getTag(argNode, "Text");
         String offSet = getTag(argNode, "BeginOffset");
-        if("".equals(text))
+        if ("".equals(text)) {
             return spans;
+        }
 
         String[] textArray = text.split(delimiter);
         String[] offSetArray = offSet.split(delimiter);
@@ -129,8 +140,9 @@ public class readerDLVT {
 
         Element eElement = (Element) argNode;
         String res = "";
-        if(eElement.getElementsByTagName(tag).item(0) != null)
-              res = eElement.getElementsByTagName(tag).item(0).getTextContent().replace("\n", "").replace("\r", "").replaceAll("[ ]+", " ");
+        if (eElement.getElementsByTagName(tag).item(0) != null) {
+            res = eElement.getElementsByTagName(tag).item(0).getTextContent().replace("\n", "").replace("\r", "").replaceAll("[ ]+", " ");
+        }
         return res;
     }
 
@@ -149,8 +161,12 @@ public class readerDLVT {
     public HashMap<String, ArrayList<String>> getConnectiveSenseMap() {
         return connectiveSenseMap;
     }
-    
+
     public HashMap<String, Integer> getConnectiveNumberofAnnotation() {
         return connectiveNumberofAnnotation;
+    }
+    
+    public HashMap<String, Set<String>> getSenseConnectiveMap() {
+        return senseConnectiveMap;
     }
 }
