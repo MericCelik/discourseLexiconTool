@@ -32,15 +32,13 @@ public class MainWindow extends javax.swing.JFrame {
     private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap;
     private readerDLVT reader;
     private Image im = Toolkit.getDefaultToolkit().getImage("youtube.png");
+    private HashMap<String, Integer> connectiveNumberofAnnotation;
 
     public MainWindow(String dir) throws IOException, SAXException, ParserConfigurationException {
         reader = new readerDLVT(dir);
         connectiveSenseMap = reader.getConnectiveSenseMap();
         connectiveAnnotationMap = reader.getConnectiveAnnotationMap();
-        
-        TreeSet<String> connectiveList = new TreeSet(connectiveSenseMap.keySet());
-        String[] strings = connectiveList.toArray(new String[connectiveList.size()]);
-        
+        connectiveNumberofAnnotation = reader.getConnectiveNumberofAnnotation();
         initComponents();
 
     }
@@ -58,13 +56,14 @@ public class MainWindow extends javax.swing.JFrame {
     private void initComponents() {
 
         jDialog1 = new javax.swing.JDialog();
-        jButton1 = new javax.swing.JButton();
+        searchButton = new javax.swing.JButton();
         mainScrollPane = new javax.swing.JScrollPane();
         jTextPane1 = new javax.swing.JTextPane();
         listScrollPane = new javax.swing.JScrollPane();
-        jList1 = new javax.swing.JList<>();
-        jTextField1 = new javax.swing.JTextField();
-        jButton2 = new javax.swing.JButton();
+        JList_connective = new javax.swing.JList<>();
+        searchField = new javax.swing.JTextField();
+        legendButton = new javax.swing.JButton();
+        conInfoLabel = new javax.swing.JLabel();
         jMenuBar1 = new javax.swing.JMenuBar();
         jMenu1 = new javax.swing.JMenu();
         jMenuItem1 = new javax.swing.JMenuItem();
@@ -90,10 +89,10 @@ public class MainWindow extends javax.swing.JFrame {
         setMinimumSize(new java.awt.Dimension(500, 300));
         setName("mainFrame"); // NOI18N
 
-        jButton1.setText("Search");
-        jButton1.addActionListener(new java.awt.event.ActionListener() {
+        searchButton.setText("Search");
+        searchButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton1ActionPerformed(evt);
+                searchButtonActionPerformed(evt);
             }
         });
 
@@ -101,29 +100,34 @@ public class MainWindow extends javax.swing.JFrame {
         mainScrollPane.setViewportView(jTextPane1);
 
         TreeSet<String> connectiveList = new TreeSet(connectiveSenseMap.keySet());
-        jList1.setModel(new javax.swing.AbstractListModel<String>() {
+        JList_connective.setModel(new javax.swing.AbstractListModel<String>() {
             String[] strings = connectiveList.toArray(new String[connectiveList.size()]);
             public int getSize() { return strings.length; }
             public String getElementAt(int i) { return strings[i]; }
         });
-        jList1.addMouseListener(new java.awt.event.MouseAdapter() {
+        JList_connective.addListSelectionListener(new javax.swing.event.ListSelectionListener() {
+            public void valueChanged(javax.swing.event.ListSelectionEvent evt) {
+                JList_connectiveValueChanged(evt);
+            }
+        });
+        listScrollPane.setViewportView(JList_connective);
+
+        searchField.setText("Search connective..");
+        searchField.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jList1MouseClicked(evt);
+                searchFieldMouseClicked(evt);
             }
         });
-        listScrollPane.setViewportView(jList1);
-
-        jTextField1.setText("Search connective..");
-        jTextField1.addActionListener(new java.awt.event.ActionListener() {
+        searchField.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField1ActionPerformed(evt);
+                searchFieldActionPerformed(evt);
             }
         });
 
-        jButton2.setText("Legend");
-        jButton2.addActionListener(new java.awt.event.ActionListener() {
+        legendButton.setText("Legend");
+        legendButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton2ActionPerformed(evt);
+                legendButtonActionPerformed(evt);
             }
         });
 
@@ -146,57 +150,86 @@ public class MainWindow extends javax.swing.JFrame {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
-                .addGap(0, 0, 0)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addGroup(javax.swing.GroupLayout.Alignment.LEADING, layout.createSequentialGroup()
+                        .addGap(36, 36, 36)
+                        .addComponent(searchButton)
+                        .addGap(65, 65, 65)
+                        .addComponent(conInfoLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                     .addGroup(layout.createSequentialGroup()
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(jButton1))
-                    .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, 139, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addComponent(jButton2)
-                .addGap(49, 49, 49))
-            .addGroup(layout.createSequentialGroup()
-                .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 160, Short.MAX_VALUE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(mainScrollPane, javax.swing.GroupLayout.PREFERRED_SIZE, 719, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addContainerGap()
+                        .addComponent(searchField, javax.swing.GroupLayout.PREFERRED_SIZE, 139, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(legendButton)
+                        .addGap(20, 20, 20)))
                 .addGap(18, 18, 18))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addGap(14, 14, 14)
+                .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 146, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(mainScrollPane, javax.swing.GroupLayout.PREFERRED_SIZE, 719, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(14, 14, 14))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
-                        .addGap(25, 25, 25)
-                        .addComponent(jButton2))
+                        .addGap(20, 20, 20)
+                        .addComponent(legendButton)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(conInfoLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                     .addGroup(layout.createSequentialGroup()
                         .addContainerGap()
-                        .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, 28, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addComponent(searchField, javax.swing.GroupLayout.PREFERRED_SIZE, 28, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(jButton1)))
+                        .addComponent(searchButton)))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(mainScrollPane)
-                    .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 260, Short.MAX_VALUE))
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(listScrollPane, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 269, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(mainScrollPane, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 269, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addContainerGap())
         );
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+    private void searchButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_searchButtonActionPerformed
         // TODO add your handling code here:
+        String searchToken = searchField.getText();
+        JList_connective.setSelectedValue(searchToken, true);
+    }//GEN-LAST:event_searchButtonActionPerformed
 
-    }//GEN-LAST:event_jButton1ActionPerformed
-
-    private void jList1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jList1MouseClicked
+    private void searchFieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_searchFieldActionPerformed
         // TODO add your handling code here:
-        String chosenConnective = (String) jList1.getSelectedValue();
+    }//GEN-LAST:event_searchFieldActionPerformed
+
+    private void legendButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_legendButtonActionPerformed
+        // TODO add your handling code here:
+        jDialog1.setVisible(true);
+
+    }//GEN-LAST:event_legendButtonActionPerformed
+
+    private void searchFieldMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_searchFieldMouseClicked
+        // TODO add your handling code here:
+        searchField.setText("");
+    }//GEN-LAST:event_searchFieldMouseClicked
+
+    private void JList_connectiveValueChanged(javax.swing.event.ListSelectionEvent evt) {//GEN-FIRST:event_JList_connectiveValueChanged
+        // TODO add your handling code here:
+        String chosenConnective = (String) JList_connective.getSelectedValue();
+        int noOfAnno = connectiveNumberofAnnotation.get(chosenConnective);
+
         Random randGenerator = new Random();
         Annotation chosenAnnotation;
         ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
+
+        String conInfo = "<html> <font  face=\"verdana\" color=\"black\"><Strong>" + "The connective <i>" + chosenConnective + "</i> is annotated " + noOfAnno + " times." + "</Strong></font><br />" + "<br />";
+        conInfoLabel.setText(conInfo);
+
+        String output = "<html>";
         int senseNo = 1;
-        String output = "<html> <font  face=\"verdana\" color=\"black\"><Strong>" + "The connective <i>" + chosenConnective + "</i> is annotated " + "3 times." + "</Strong></font><br />" + "<br />";
         for (String str : senseList) {
             output = output + "<font  face=\"verdana\" color=\"red\">" + senseNo + ". " + str + "</font><br />";
             int randomNoForAnnotation = randGenerator.nextInt(connectiveAnnotationMap.get(chosenConnective).size());
@@ -218,18 +251,8 @@ public class MainWindow extends javax.swing.JFrame {
         }
         output = output + "</html>";
         jTextPane1.setContentType("text/html");
-        jTextPane1.setText(output );
-    }//GEN-LAST:event_jList1MouseClicked
-
-    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField1ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField1ActionPerformed
-
-    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-        // TODO add your handling code here:
-        jDialog1.setVisible(true);
-        
-    }//GEN-LAST:event_jButton2ActionPerformed
+        jTextPane1.setText(output);
+    }//GEN-LAST:event_JList_connectiveValueChanged
 
     /**
      * @param args the command line arguments
@@ -268,18 +291,19 @@ public class MainWindow extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JButton jButton1;
-    private javax.swing.JButton jButton2;
+    private javax.swing.JList<String> JList_connective;
+    private javax.swing.JLabel conInfoLabel;
     private javax.swing.JDialog jDialog1;
-    private javax.swing.JList<String> jList1;
     private javax.swing.JMenu jMenu1;
     private javax.swing.JMenu jMenu2;
     private javax.swing.JMenuBar jMenuBar1;
     private javax.swing.JMenuItem jMenuItem1;
-    private javax.swing.JTextField jTextField1;
     private javax.swing.JTextPane jTextPane1;
+    private javax.swing.JButton legendButton;
     private javax.swing.JScrollPane listScrollPane;
     private javax.swing.JScrollPane mainScrollPane;
+    private javax.swing.JButton searchButton;
+    private javax.swing.JTextField searchField;
     // End of variables declaration//GEN-END:variables
 
 }

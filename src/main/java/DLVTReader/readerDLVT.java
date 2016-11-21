@@ -25,17 +25,21 @@ public class readerDLVT {
     private ArrayList<Annotation> annotationList = new ArrayList<>();
     private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap;
     private HashMap<String, ArrayList<String>> connectiveSenseMap;
+    private HashMap<String, Integer> connectiveNumberofAnnotation;
+
+    
+
 
     private String delimiter = "!#!";
 
     public readerDLVT(String dir) throws ParserConfigurationException, SAXException, IOException {
         this.connectiveAnnotationMap = new HashMap<>();
         this.connectiveSenseMap = new HashMap<>();
-
+        this.connectiveNumberofAnnotation = new HashMap<>();
         this.readRelations(dir);
     }
 
-    public ArrayList<Annotation> readRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
+    private ArrayList<Annotation> readRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
 
         File fXmlFile = new File(dir);
         DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
@@ -53,7 +57,9 @@ public class readerDLVT {
             if (connectiveNode.getNodeType() == Node.ELEMENT_NODE) {
                 Element currentElement = (Element) connectiveNode;
                 conString = currentElement.getAttribute("Item");
-                connectiveSenseMap.put(currentElement.getAttribute("Item"), new ArrayList<>(Arrays.asList(currentElement.getAttribute("senseList").split(delimiter))));
+                int noOfAnno = Integer.parseInt(currentElement.getAttribute("Size"));
+                connectiveSenseMap.put(conString, new ArrayList<>(Arrays.asList(currentElement.getAttribute("senseList").split(delimiter))));
+                connectiveNumberofAnnotation.put(conString, noOfAnno);
                 NodeList annoNodeList = currentElement.getElementsByTagName("Annotation");
                 for (int i = 0; i < annoNodeList.getLength(); i++) {
 
@@ -142,5 +148,9 @@ public class readerDLVT {
 
     public HashMap<String, ArrayList<String>> getConnectiveSenseMap() {
         return connectiveSenseMap;
+    }
+    
+    public HashMap<String, Integer> getConnectiveNumberofAnnotation() {
+        return connectiveNumberofAnnotation;
     }
 }

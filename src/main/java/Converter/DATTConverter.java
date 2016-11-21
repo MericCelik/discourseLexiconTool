@@ -27,9 +27,10 @@ public class DATTConverter {
 
     String delimiter = "!#!";
 
-    ArrayList<Annotation> annotationList;
-    ArrayList<String> connectiveList = new ArrayList<>();
-    HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<>();
+    private ArrayList<Annotation> annotationList;
+    private ArrayList<String> connectiveList = new ArrayList<>();
+    private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<>();
+
 
     public DATTConverter(String inputDir, String outputDir) throws ParserConfigurationException, SAXException, IOException {
 
