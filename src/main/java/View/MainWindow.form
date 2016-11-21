@@ -237,7 +237,7 @@
                   <Group type="102" attributes="0">
                       <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
                       <Component id="legendButton" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace pref="12" max="32767" attributes="0"/>
+                      <EmptySpace type="separate" max="32767" attributes="0"/>
                       <Group type="103" groupAlignment="0" max="-2" attributes="0">
                           <Component id="conInfoLabel" max="32767" attributes="0"/>
                           <Component id="jButton1" max="32767" attributes="0"/>
@@ -246,7 +246,7 @@
               </Group>
               <EmptySpace type="unrelated" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Component id="listScrollPane" pref="282" max="32767" attributes="0"/>
+                  <Component id="listScrollPane" pref="273" max="32767" attributes="0"/>
                   <Component id="mainScrollPane" max="32767" attributes="0"/>
               </Group>
               <EmptySpace min="-2" max="-2" attributes="0"/>
@@ -303,7 +303,7 @@
           </Events>
           <AuxValues>
             <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JList&lt;&gt;()"/>
-            <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="TreeSet&lt;String&gt; connectiveList = new TreeSet(connectiveSenseMap.keySet());"/>
+            <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="Collator trCollator = Collator.getInstance(new Locale(&quot;tr&quot;, &quot;TR&quot;));&#xa;ArrayList&lt;String&gt; connectiveList = new ArrayList&lt;&gt; (connectiveSenseMap.keySet());&#xa;Collections.sort(connectiveList, trCollator);"/>
             <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
           </AuxValues>
         </Component>

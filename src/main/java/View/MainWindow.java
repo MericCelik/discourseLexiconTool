@@ -12,9 +12,12 @@ import java.awt.Image;
 import java.awt.Toolkit;
 
 import java.io.IOException;
+import java.text.Collator;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Locale;
 import java.util.Random;
 import java.util.Set;
 import java.util.TreeMap;
@@ -183,7 +186,9 @@ public class MainWindow extends javax.swing.JFrame {
         });
         mainScrollPane.setViewportView(jTextPane1);
 
-        TreeSet<String> connectiveList = new TreeSet(connectiveSenseMap.keySet());
+        Collator trCollator = Collator.getInstance(new Locale("tr", "TR"));
+        ArrayList<String> connectiveList = new ArrayList<> (connectiveSenseMap.keySet());
+        Collections.sort(connectiveList, trCollator);
         JList_connective.setModel(new javax.swing.AbstractListModel<String>() {
             String[] strings = connectiveList.toArray(new String[connectiveList.size()]);
             public int getSize() { return strings.length; }
@@ -277,13 +282,13 @@ public class MainWindow extends javax.swing.JFrame {
                     .addGroup(layout.createSequentialGroup()
                         .addGap(20, 20, 20)
                         .addComponent(legendButton)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 12, Short.MAX_VALUE)
+                        .addGap(18, 18, Short.MAX_VALUE)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                             .addComponent(conInfoLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                             .addComponent(jButton1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 282, Short.MAX_VALUE)
+                    .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 273, Short.MAX_VALUE)
                     .addComponent(mainScrollPane))
                 .addContainerGap())
         );
