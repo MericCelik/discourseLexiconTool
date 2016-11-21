@@ -56,6 +56,7 @@ public class MainWindow extends javax.swing.JFrame {
     private void initComponents() {
 
         jDialog1 = new javax.swing.JDialog();
+        jPanel1 = new javax.swing.JPanel();
         searchButton = new javax.swing.JButton();
         mainScrollPane = new javax.swing.JScrollPane();
         jTextPane1 = new javax.swing.JTextPane();
@@ -81,6 +82,17 @@ public class MainWindow extends javax.swing.JFrame {
         jDialog1Layout.setVerticalGroup(
             jDialog1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+        );
+
+        javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
+        jPanel1.setLayout(jPanel1Layout);
+        jPanel1Layout.setHorizontalGroup(
+            jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 100, Short.MAX_VALUE)
+        );
+        jPanel1Layout.setVerticalGroup(
+            jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 100, Short.MAX_VALUE)
         );
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
@@ -132,7 +144,6 @@ public class MainWindow extends javax.swing.JFrame {
         });
 
         jMenuBar1.setAutoscrolls(true);
-        jMenuBar1.setMinimumSize(new java.awt.Dimension(200, 200));
 
         jMenu1.setText("File");
 
@@ -166,8 +177,8 @@ public class MainWindow extends javax.swing.JFrame {
                 .addGap(18, 18, 18))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                 .addGap(14, 14, 14)
-                .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 146, Short.MAX_VALUE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 150, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(mainScrollPane, javax.swing.GroupLayout.PREFERRED_SIZE, 719, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(14, 14, 14))
         );
@@ -224,8 +235,11 @@ public class MainWindow extends javax.swing.JFrame {
         Random randGenerator = new Random();
         Annotation chosenAnnotation;
         ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
-
-        String conInfo = "<html> <font  face=\"verdana\" color=\"black\"><Strong>" + "The connective <i>" + chosenConnective + "</i> is annotated " + noOfAnno + " times." + "</Strong></font><br />" + "<br />";
+        String conInfo =  "<html> <font  face=\"verdana\" color=\"black\"><b>" + "The connective <i>" + chosenConnective + "</i> is annotated ";
+        if(senseList.size()  == 1 )
+            conInfo = conInfo + ". This connective conveys only one sense (Unambiguous)</b></font>";
+        else
+         conInfo = conInfo +"<u>" + noOfAnno + "</u> times. It conveys <u>" + senseList.size() + "</u>  different senses." + "</Strong></font>";
         conInfoLabel.setText(conInfo);
 
         String output = "<html>";
@@ -298,6 +312,7 @@ public class MainWindow extends javax.swing.JFrame {
     private javax.swing.JMenu jMenu2;
     private javax.swing.JMenuBar jMenuBar1;
     private javax.swing.JMenuItem jMenuItem1;
+    private javax.swing.JPanel jPanel1;
     private javax.swing.JTextPane jTextPane1;
     private javax.swing.JButton legendButton;
     private javax.swing.JScrollPane listScrollPane;
