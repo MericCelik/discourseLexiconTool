@@ -89,27 +89,22 @@ public class MainWindow extends javax.swing.JFrame {
             public int getSize() { return strings.length; }
             public String getElementAt(int i) { return strings[i]; }
         });
+        conSenseList.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                conSenseListMouseClicked(evt);
+            }
+        });
         conSenseList_pane1.setViewportView(conSenseList);
 
         javax.swing.GroupLayout connBasedonSenseDialogLayout = new javax.swing.GroupLayout(connBasedonSenseDialog.getContentPane());
         connBasedonSenseDialog.getContentPane().setLayout(connBasedonSenseDialogLayout);
         connBasedonSenseDialogLayout.setHorizontalGroup(
             connBasedonSenseDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-            .addGroup(connBasedonSenseDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addGroup(connBasedonSenseDialogLayout.createSequentialGroup()
-                    .addGap(0, 0, Short.MAX_VALUE)
-                    .addComponent(conSenseList_pane1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addGap(0, 0, Short.MAX_VALUE)))
+            .addComponent(conSenseList_pane1, javax.swing.GroupLayout.DEFAULT_SIZE, 102, Short.MAX_VALUE)
         );
         connBasedonSenseDialogLayout.setVerticalGroup(
             connBasedonSenseDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
-            .addGroup(connBasedonSenseDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addGroup(connBasedonSenseDialogLayout.createSequentialGroup()
-                    .addGap(0, 0, Short.MAX_VALUE)
-                    .addComponent(conSenseList_pane1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addGap(0, 0, Short.MAX_VALUE)))
+            .addComponent(conSenseList_pane1, javax.swing.GroupLayout.DEFAULT_SIZE, 204, Short.MAX_VALUE)
         );
 
         legendDialog.setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
@@ -295,7 +290,13 @@ public class MainWindow extends javax.swing.JFrame {
 
         String output = "<html> <ol>";
         for (String str : senseList) {
-            output = output + "<li> <font face=\"verdana\" color=\"blue\"><u>  " + str + "</u></font><br />   </li> ";
+            String[] senseTokens = str.split(":");
+            output = output + "<li> "; // + str + </li> ";
+            for (String token : senseTokens) {
+                output =  output + "<font face=\"verdana\" color=\"blue\"><u>  " + token + "</u></font>" + " : ";
+            }
+            output = output.substring(0, output.length()-3);
+            output = output + "<br /> </li> ";
             int randomNoForAnnotation = randGenerator.nextInt(connectiveAnnotationMap.get(chosenConnective).size());
             TreeMap<Integer, Span> argMapforPrettyPrint = connectiveAnnotationMap.get(chosenConnective).get(randomNoForAnnotation).getArgMapforPrettyPrint();
             for (Integer i : argMapforPrettyPrint.keySet()) {
@@ -344,6 +345,13 @@ public class MainWindow extends javax.swing.JFrame {
             }
         }
     }//GEN-LAST:event_jTextPane1MouseClicked
+
+    private void conSenseListMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_conSenseListMouseClicked
+        // TODO add your handling code here:
+        String selectedCon = (String) conSenseList.getSelectedValue();
+        JList_connective.setSelectedValue(selectedCon, true);
+        connBasedonSenseDialog.setVisible(false);
+    }//GEN-LAST:event_conSenseListMouseClicked
 
     /**
      * @param args the command line arguments
