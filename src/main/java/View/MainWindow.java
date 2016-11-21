@@ -69,6 +69,9 @@ public class MainWindow extends javax.swing.JFrame {
         conSenseList = new javax.swing.JList<>();
         legendDialog = new javax.swing.JDialog();
         legendLabel = new javax.swing.JLabel();
+        allAnnotationDialogue = new javax.swing.JDialog();
+        allAnnotationScrollPane = new javax.swing.JScrollPane();
+        allAnnotationPane = new javax.swing.JTextPane();
         searchButton = new javax.swing.JButton();
         mainScrollPane = new javax.swing.JScrollPane();
         jTextPane1 = new javax.swing.JTextPane();
@@ -77,6 +80,7 @@ public class MainWindow extends javax.swing.JFrame {
         searchField = new javax.swing.JTextField();
         legendButton = new javax.swing.JButton();
         conInfoLabel = new javax.swing.JLabel();
+        jButton1 = new javax.swing.JButton();
         jMenuBar1 = new javax.swing.JMenuBar();
         jMenu1 = new javax.swing.JMenu();
         jMenuItem1 = new javax.swing.JMenuItem();
@@ -135,6 +139,24 @@ public class MainWindow extends javax.swing.JFrame {
                     .addGap(0, 0, Short.MAX_VALUE)))
         );
 
+        allAnnotationDialogue.setMinimumSize(new java.awt.Dimension(700, 300));
+
+        allAnnotationScrollPane.setViewportView(allAnnotationPane);
+
+        javax.swing.GroupLayout allAnnotationDialogueLayout = new javax.swing.GroupLayout(allAnnotationDialogue.getContentPane());
+        allAnnotationDialogue.getContentPane().setLayout(allAnnotationDialogueLayout);
+        allAnnotationDialogueLayout.setHorizontalGroup(
+            allAnnotationDialogueLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(allAnnotationDialogueLayout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(allAnnotationScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 694, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        allAnnotationDialogueLayout.setVerticalGroup(
+            allAnnotationDialogueLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(allAnnotationScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 301, Short.MAX_VALUE)
+        );
+
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Discourse Lexicon Tool");
         setIconImage(im);
@@ -188,6 +210,13 @@ public class MainWindow extends javax.swing.JFrame {
             }
         });
 
+        jButton1.setText("See All Annotations");
+        jButton1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton1ActionPerformed(evt);
+            }
+        });
+
         jMenuBar1.setAutoscrolls(true);
 
         jMenu1.setText("File");
@@ -206,45 +235,50 @@ public class MainWindow extends javax.swing.JFrame {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addGroup(javax.swing.GroupLayout.Alignment.LEADING, layout.createSequentialGroup()
-                        .addGap(36, 36, 36)
-                        .addComponent(searchButton)
-                        .addGap(65, 65, 65)
-                        .addComponent(conInfoLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+            .addGroup(layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(searchField, javax.swing.GroupLayout.PREFERRED_SIZE, 139, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 712, Short.MAX_VALUE)
+                .addComponent(legendButton)
+                .addGap(38, 38, 38))
+            .addGroup(layout.createSequentialGroup()
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
-                        .addContainerGap()
-                        .addComponent(searchField, javax.swing.GroupLayout.PREFERRED_SIZE, 139, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 657, Short.MAX_VALUE)
-                        .addComponent(legendButton)
-                        .addGap(20, 20, 20)))
-                .addGap(18, 18, 18))
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addGap(14, 14, 14)
-                .addComponent(listScrollPane, javax.swing.GroupLayout.PREFERRED_SIZE, 146, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(mainScrollPane)
-                .addGap(14, 14, 14))
+                        .addGap(14, 14, 14)
+                        .addComponent(listScrollPane, javax.swing.GroupLayout.PREFERRED_SIZE, 155, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(36, 36, 36)
+                        .addComponent(searchButton)))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(layout.createSequentialGroup()
+                        .addComponent(conInfoLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addGap(18, 18, 18)
+                        .addComponent(jButton1))
+                    .addComponent(mainScrollPane))
+                .addContainerGap())
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
-                        .addGap(20, 20, 20)
-                        .addComponent(legendButton)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(conInfoLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-                    .addGroup(layout.createSequentialGroup()
                         .addContainerGap()
                         .addComponent(searchField, javax.swing.GroupLayout.PREFERRED_SIZE, 28, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(searchButton)))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(searchButton)
+                        .addGap(0, 0, Short.MAX_VALUE))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(20, 20, 20)
+                        .addComponent(legendButton)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 12, Short.MAX_VALUE)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                            .addComponent(conInfoLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jButton1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(listScrollPane, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 269, Short.MAX_VALUE)
-                    .addComponent(mainScrollPane, javax.swing.GroupLayout.Alignment.TRAILING))
+                    .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 282, Short.MAX_VALUE)
+                    .addComponent(mainScrollPane))
                 .addContainerGap())
         );
 
@@ -280,11 +314,11 @@ public class MainWindow extends javax.swing.JFrame {
         Random randGenerator = new Random();
         Annotation chosenAnnotation;
         ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
-        String conInfo = "<html> <font  face=\"verdana\" color=\"black\"><b>" + "The connective <i>" + chosenConnective + "</i> is annotated ";
+        String conInfo = "<html> <font  face=\"verdana\" color=\"black\"><b>" + "The connective <i>" + chosenConnective + "</i> is annotated <u>";
         if (senseList.size() == 1) {
-            conInfo = conInfo + ". This connective conveys only one sense (Unambiguous)</b></font>";
+            conInfo = conInfo + noOfAnno + " </u> times. It conveys only one sense (Unambiguous)</b></font>";
         } else {
-            conInfo = conInfo + "<u>" + noOfAnno + "</u> times. It conveys <u>" + senseList.size() + "</u>  different senses." + "</Strong></font>";
+            conInfo = conInfo + noOfAnno + "</u> times. It conveys <u>" + senseList.size() + "</u>  different senses." + "</Strong></font>";
         }
         conInfoLabel.setText(conInfo);
 
@@ -364,6 +398,65 @@ public class MainWindow extends javax.swing.JFrame {
         connBasedonSenseDialog.setVisible(false);
     }//GEN-LAST:event_conSenseListMouseClicked
 
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+        // TODO add your handling code here:
+        String chosenConnective = (String) JList_connective.getSelectedValue();
+        int noOfAnno = connectiveNumberofAnnotation.get(chosenConnective);
+
+        Random randGenerator = new Random();
+        Annotation chosenAnnotation;
+        ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
+        String conInfo = "<html> <font  face=\"verdana\" color=\"black\"><b>" + "The connective <i>" + chosenConnective + "</i> is annotated <u>";
+        if (senseList.size() == 1) {
+            conInfo = conInfo + noOfAnno + " </u> times. It conveys only one sense (Unambiguous)</b></font>";
+        } else {
+            conInfo = conInfo + noOfAnno + "</u> times. It conveys <u>" + senseList.size() + "</u>  different senses." + "</Strong></font>";
+        }
+        conInfoLabel.setText(conInfo);
+
+        String output = "<html> <ol>";
+        for (String str : senseList) {
+            String[] senseTokens = str.split(":");
+            output = output + "<li> "; // + str + </li> ";
+            for (String token : senseTokens) {
+                String tokenTmp = token;
+                int len = token.length() - tokenTmp.replaceAll(" ", "").length();
+                if (len > 1) {
+                    token = token.replaceAll(" ", "-");
+                    token = token.substring(1);
+                    System.out.println(token + " " + len);
+                }
+                output = output + "<font face=\"verdana\" color=\"blue\"><u>  " + token + "</u></font>" + " : ";
+            }
+            output = output.substring(0, output.length() - 3);
+            output = output + "<br /> </li> ";
+          //  int randomNoForAnnotation = randGenerator.nextInt(connectiveAnnotationMap.get(chosenConnective).size());
+            for (Annotation anno : connectiveAnnotationMap.get(chosenConnective)) {
+
+                TreeMap<Integer, Span> argMapforPrettyPrint = anno.getArgMapforPrettyPrint();
+
+                for (Integer i : argMapforPrettyPrint.keySet()) {
+                    String text = argMapforPrettyPrint.get(i).getText();
+                    if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("arg1")) {
+                        output = output + "<font face=\"verdana\" color=\"black\">" + " " + text + "</font>";
+                    } else if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("arg2")) {
+                        output = output + "<font face=\"verdana\" color=\"black\"><b>" + " " + text + "</b></font>";
+                    } else if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("conn")) {
+                        output = output + "<font face=\"verdana\" color=\"black\">" + " <u>" + text + "</u></font>";
+                    } else if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("mod")) {
+                        output = output + "<font face=\"verdana\" color=\"black\">" + " " + text + "</font>";
+                    }
+                }
+                output = output + "<br />" + "<br />";
+            }
+        }
+        output = output + "</ol></html>";
+        allAnnotationPane.setContentType("text/html");
+        allAnnotationPane.setText(output);
+        allAnnotationDialogue.setVisible(true);
+
+    }//GEN-LAST:event_jButton1ActionPerformed
+
     /**
      * @param args the command line arguments
      */
@@ -401,10 +494,14 @@ public class MainWindow extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JList<String> JList_connective;
+    private javax.swing.JDialog allAnnotationDialogue;
+    private javax.swing.JTextPane allAnnotationPane;
+    private javax.swing.JScrollPane allAnnotationScrollPane;
     private javax.swing.JLabel conInfoLabel;
     private javax.swing.JList<String> conSenseList;
     private javax.swing.JScrollPane conSenseList_pane1;
     private javax.swing.JDialog connBasedonSenseDialog;
+    private javax.swing.JButton jButton1;
     private javax.swing.JMenu jMenu1;
     private javax.swing.JMenu jMenu2;
     private javax.swing.JMenuBar jMenuBar1;
