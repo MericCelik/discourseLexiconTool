@@ -52,8 +52,8 @@ public class MainWindow extends javax.swing.JFrame {
         connectiveNumberofAnnotation = reader.getConnectiveNumberofAnnotation();
         senseConnectiveMap = reader.getSenseConnectiveMap();
         initComponents();
-     //   legendLabel.setText("<html><font  color=\"black\"><b> <ul> <li> The connectives are underlined </li> <br />"         + " <li> The second argument of the discourse relations are written in bold  </li> <br /> </b> </html>");
-       
+        //   legendLabel.setText("<html><font  color=\"black\"><b> <ul> <li> The connectives are underlined </li> <br />"         + " <li> The second argument of the discourse relations are written in bold  </li> <br /> </b> </html>");
+
     }
 
     public void initWithNewFile(String dir) throws ParserConfigurationException, SAXException, IOException {
@@ -83,6 +83,7 @@ public class MainWindow extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+        FileChooser_newFile = new javax.swing.JFileChooser();
         connBasedonSenseDialog = new javax.swing.JDialog();
         conSenseList_pane1 = new javax.swing.JScrollPane();
         conSenseList = new javax.swing.JList<>();
@@ -92,8 +93,6 @@ public class MainWindow extends javax.swing.JFrame {
         allAnnotationDialogue = new javax.swing.JDialog();
         allAnnotationScrollPane = new javax.swing.JScrollPane();
         allAnnotationPane = new javax.swing.JTextPane();
-        openFileDialog = new javax.swing.JDialog();
-        jFileChooser1 = new javax.swing.JFileChooser();
         searchButton = new javax.swing.JButton();
         mainScrollPane = new javax.swing.JScrollPane();
         jTextPane1 = new javax.swing.JTextPane();
@@ -187,30 +186,6 @@ public class MainWindow extends javax.swing.JFrame {
             .addComponent(allAnnotationScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 301, Short.MAX_VALUE)
         );
 
-        openFileDialog.setMinimumSize(new java.awt.Dimension(650, 300));
-        openFileDialog.setSize(new java.awt.Dimension(700, 400));
-
-        jFileChooser1.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jFileChooser1ActionPerformed(evt);
-            }
-        });
-
-        javax.swing.GroupLayout openFileDialogLayout = new javax.swing.GroupLayout(openFileDialog.getContentPane());
-        openFileDialog.getContentPane().setLayout(openFileDialogLayout);
-        openFileDialogLayout.setHorizontalGroup(
-            openFileDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 654, Short.MAX_VALUE)
-            .addGroup(openFileDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addComponent(jFileChooser1, javax.swing.GroupLayout.DEFAULT_SIZE, 654, Short.MAX_VALUE))
-        );
-        openFileDialogLayout.setVerticalGroup(
-            openFileDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 400, Short.MAX_VALUE)
-            .addGroup(openFileDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addComponent(jFileChooser1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-        );
-
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Discourse Lexicon Tool");
         setIconImage(im);
@@ -253,11 +228,6 @@ public class MainWindow extends javax.swing.JFrame {
         searchField.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 searchFieldMouseClicked(evt);
-            }
-        });
-        searchField.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                searchFieldActionPerformed(evt);
             }
         });
 
@@ -358,10 +328,6 @@ public class MainWindow extends javax.swing.JFrame {
         JList_connective.setSelectedValue(searchToken, true);
     }//GEN-LAST:event_searchButtonActionPerformed
 
-    private void searchFieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_searchFieldActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_searchFieldActionPerformed
-
     private void legendButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_legendButtonActionPerformed
         // TODO add your handling code here:
         legendDialog.setVisible(true);
@@ -445,7 +411,6 @@ public class MainWindow extends javax.swing.JFrame {
 
         for (String str : senseSet) {
             if (selectedText != null && str.contains(selectedText)) {
-
                 HashSet<String> conSet = (HashSet<String>) senseConnectiveMap.get(str);
                 conSenseList.setModel(new javax.swing.AbstractListModel<String>() {
                     String[] strings = conSet.toArray(new String[conSet.size()]);
@@ -521,25 +486,16 @@ public class MainWindow extends javax.swing.JFrame {
 
     private void jMenuItem1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem1ActionPerformed
         // TODO add your handling code here:
-        //   openFileDialog.setVisible(true);
-
+        FileChooser_newFile.showOpenDialog(this);
+        String dir = FileChooser_newFile.getSelectedFile().getPath();
+        this.dispose();
+        try {
+            new MainWindow(dir).setVisible(true);
+        } catch (IOException | SAXException | ParserConfigurationException ex) {
+            Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
+        }
 
     }//GEN-LAST:event_jMenuItem1ActionPerformed
-
-    private void jFileChooser1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jFileChooser1ActionPerformed
-        // TODO add your handling code here:
-        /*     File selectedFile = jFileChooser1.getSelectedFile();
-        String selectedFilePath = selectedFile.getAbsolutePath();
-        System.out.println(selectedFilePath);
-
-        try {
-            openFileDialog.setVisible(false);
-
-            initWithNewFile(selectedFilePath);
-        } catch (ParserConfigurationException | SAXException | IOException ex) {
-            Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
-        }*/
-    }//GEN-LAST:event_jFileChooser1ActionPerformed
 
     private String prepareForOutput(TreeMap<Integer, Span> argMapforPrettyPrint) {
         String output = "";
@@ -595,6 +551,7 @@ public class MainWindow extends javax.swing.JFrame {
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JFileChooser FileChooser_newFile;
     private javax.swing.JList<String> JList_connective;
     private javax.swing.JDialog allAnnotationDialogue;
     private javax.swing.JTextPane allAnnotationPane;
@@ -603,7 +560,6 @@ public class MainWindow extends javax.swing.JFrame {
     private javax.swing.JList<String> conSenseList;
     private javax.swing.JScrollPane conSenseList_pane1;
     private javax.swing.JDialog connBasedonSenseDialog;
-    private javax.swing.JFileChooser jFileChooser1;
     private javax.swing.JMenu jMenu1;
     private javax.swing.JMenu jMenu2;
     private javax.swing.JMenuBar jMenuBar;
@@ -615,7 +571,6 @@ public class MainWindow extends javax.swing.JFrame {
     private javax.swing.JLabel legendLabel;
     private javax.swing.JScrollPane listScrollPane;
     private javax.swing.JScrollPane mainScrollPane;
-    private javax.swing.JDialog openFileDialog;
     private javax.swing.JButton searchButton;
     private javax.swing.JTextField searchField;
     private javax.swing.JButton seeAll;
