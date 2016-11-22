@@ -29,8 +29,6 @@ public class readerDLVT {
     private HashMap<String, ArrayList<String>> connectiveSenseMap;
     private HashMap<String, Set<String>> senseConnectiveMap;
 
-   
-
     private HashMap<String, Integer> connectiveNumberofAnnotation;
     private String delimiter = "!#!";
 
@@ -77,7 +75,7 @@ public class readerDLVT {
                     ArrayList<Span> arg2 = getContext(arg2Node, "Arg2");
                     ArrayList<Span> mod = getContext(modNode, "Mod");
                     String sense = annotationElement.getAttribute("sense");
-                   
+
                     if (!senseConnectiveMap.containsKey(sense)) {
                         Set<String> connnectiveListforSenseCon = new HashSet<>();
                         connnectiveListforSenseCon.add(conString);
@@ -148,10 +146,11 @@ public class readerDLVT {
 
     public ArrayList<Annotation> getAnnotationBasedConnectiveSense(String connective, String sense) {
         ArrayList<Annotation> result = new ArrayList<>();
-        for (Annotation anno : annotationList) {
+        for (Annotation anno : connectiveAnnotationMap.get(connective)) {
             String allSense = anno.getFullSense();
-            if (anno.checkConnective(connective) && allSense.toLowerCase().contains(sense.toLowerCase()))
+            if (allSense.toLowerCase().equals(sense.toLowerCase())) {
                 result.add(anno);
+            }
         }
         return result;
     }
@@ -171,7 +170,7 @@ public class readerDLVT {
     public HashMap<String, Integer> getConnectiveNumberofAnnotation() {
         return connectiveNumberofAnnotation;
     }
-    
+
     public HashMap<String, Set<String>> getSenseConnectiveMap() {
         return senseConnectiveMap;
     }

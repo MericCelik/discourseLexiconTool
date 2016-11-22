@@ -24,6 +24,8 @@ import java.util.TreeMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.ImageIcon;
+import javax.swing.JDialog;
+import javax.swing.JOptionPane;
 import javax.swing.text.DefaultCaret;
 import javax.xml.parsers.ParserConfigurationException;
 
@@ -46,12 +48,16 @@ public class MainWindow extends javax.swing.JFrame {
 
     public MainWindow(String dir) throws IOException, SAXException, ParserConfigurationException {
 
-        reader = new readerDLVT(dir);
-        connectiveSenseMap = reader.getConnectiveSenseMap();
-        connectiveAnnotationMap = reader.getConnectiveAnnotationMap();
-        connectiveNumberofAnnotation = reader.getConnectiveNumberofAnnotation();
-        senseConnectiveMap = reader.getSenseConnectiveMap();
-        initComponents();
+        try {
+            reader = new readerDLVT(dir);
+            connectiveSenseMap = reader.getConnectiveSenseMap();
+            connectiveAnnotationMap = reader.getConnectiveAnnotationMap();
+            connectiveNumberofAnnotation = reader.getConnectiveNumberofAnnotation();
+            senseConnectiveMap = reader.getSenseConnectiveMap();
+            initComponents();
+        } catch (org.xml.sax.SAXException ex) {
+            JOptionPane.showMessageDialog(null, "Wrong File!!");
+        }
         //   legendLabel.setText("<html><font  color=\"black\"><b> <ul> <li> The connectives are underlined </li> <br />"         + " <li> The second argument of the discourse relations are written in bold  </li> <br /> </b> </html>");
 
     }
@@ -104,7 +110,7 @@ public class MainWindow extends javax.swing.JFrame {
         seeAll = new javax.swing.JButton();
         jMenuBar = new javax.swing.JMenuBar();
         jMenu1 = new javax.swing.JMenu();
-        jMenuItem1 = new javax.swing.JMenuItem();
+        MenuItem_NewFile = new javax.swing.JMenuItem();
         jMenu2 = new javax.swing.JMenu();
 
         connBasedonSenseDialog.setMinimumSize(new java.awt.Dimension(200, 400));
@@ -217,6 +223,11 @@ public class MainWindow extends javax.swing.JFrame {
             public int getSize() { return strings.length; }
             public String getElementAt(int i) { return strings[i]; }
         });
+        JList_connective.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                JList_connectiveMouseClicked(evt);
+            }
+        });
         JList_connective.addListSelectionListener(new javax.swing.event.ListSelectionListener() {
             public void valueChanged(javax.swing.event.ListSelectionEvent evt) {
                 JList_connectiveValueChanged(evt);
@@ -250,13 +261,13 @@ public class MainWindow extends javax.swing.JFrame {
 
         jMenu1.setText("File");
 
-        jMenuItem1.setText("Open File");
-        jMenuItem1.addActionListener(new java.awt.event.ActionListener() {
+        MenuItem_NewFile.setText("Open New File");
+        MenuItem_NewFile.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jMenuItem1ActionPerformed(evt);
+                MenuItem_NewFileActionPerformed(evt);
             }
         });
-        jMenu1.add(jMenuItem1);
+        jMenu1.add(MenuItem_NewFile);
 
         jMenuBar.add(jMenu1);
 
@@ -341,61 +352,51 @@ public class MainWindow extends javax.swing.JFrame {
 
     private void JList_connectiveValueChanged(javax.swing.event.ListSelectionEvent evt) {//GEN-FIRST:event_JList_connectiveValueChanged
         // TODO add your handling code here:
-        String chosenConnective = (String) JList_connective.getSelectedValue();
-        int noOfAnno = connectiveNumberofAnnotation.get(chosenConnective);
-        seeAll.setEnabled(true);
-        Random randGenerator = new Random();
-        ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
+//        String chosenConnective = (String) JList_connective.getSelectedValue();
+//        int noOfAnno = connectiveNumberofAnnotation.get(chosenConnective);
+//        seeAll.setEnabled(true);
+//        Random randGenerator = new Random();
+//        ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
+//
+//        conInfoLabel.setText(PrepareconInfo(chosenConnective, noOfAnno, senseList.size()));
+//
+//        String output = "<html> <ol>";
+//        for (String sense : senseList) {
+//
+//            ArrayList<Annotation> annoBasedonSense = reader.getAnnotationBasedConnectiveSense(chosenConnective, sense);
+//            int size = annoBasedonSense.size();
+//            String[] senseTokens = sense.split(":");
+//            output = output + "<li> "; // + str + </li> ";
+//            for (String token : senseTokens) {
+//                String tokenTmp = token;
+//                int len = token.length() - tokenTmp.replaceAll(" ", "").length();
+//                if (len > 1) {
+//                    token = token.replaceAll(" ", "-");
+//                    token = token.substring(1);
+//                    System.out.println(token + " " + len);
+//                }
+//                output = output + "<font face=\"verdana\" color=\"blue\"><u>  " + token + "</u></font>" + " : ";
+//            }
+//            output = output.substring(0, output.length() - 3);
+//            output = output + " (" + size + ") <br /> </li> ";
+//            int randomNoForAnnotation = randGenerator.nextInt(size);
+//            TreeMap<Integer, Span> argMapforPrettyPrint = annoBasedonSense.get(randomNoForAnnotation).getArgMapforPrettyPrint();
+//            output = output + prepareForOutput(argMapforPrettyPrint);
+//        }
+//        output = output + "</ol></html>";
+//        jTextPane1.setContentType("text/html");
+//        jTextPane1.setText(output);
+    }//GEN-LAST:event_JList_connectiveValueChanged
 
+    private String PrepareconInfo(String chosenConnective, int noOfAnno, int size) {
         String conInfo = "<html> <font  face=\"verdana\" color=\"black\"><b>" + "The connective <i>" + chosenConnective + "</i> is annotated <u>";
-        if (senseList.size() == 1) {
+        if (size == 1) {
             conInfo = conInfo + noOfAnno + " </u> times. It conveys only one sense (Unambiguous)</b></font>";
         } else {
-            conInfo = conInfo + noOfAnno + "</u> times. It conveys <u>" + senseList.size() + "</u>  different senses." + "</Strong></font>";
+            conInfo = conInfo + noOfAnno + "</u> times. It conveys <u>" + size + "</u>  different senses." + "</Strong></font>";
         }
-        conInfoLabel.setText(conInfo);
-
-        String output = "<html> <ol>";
-        for (String sense : senseList) {
-
-            ArrayList<Annotation> annoBasedonSense = reader.getAnnotationBasedConnectiveSense(chosenConnective, sense);
-            int size = annoBasedonSense.size();
-            String[] senseTokens = sense.split(":");
-            output = output + "<li> "; // + str + </li> ";
-            for (String token : senseTokens) {
-                String tokenTmp = token;
-                int len = token.length() - tokenTmp.replaceAll(" ", "").length();
-                if (len > 1) {
-                    token = token.replaceAll(" ", "-");
-                    token = token.substring(1);
-                    System.out.println(token + " " + len);
-                }
-                output = output + "<font face=\"verdana\" color=\"blue\"><u>  " + token + "</u></font>" + " : ";
-            }
-            output = output.substring(0, output.length() - 3);
-            output = output + " (" + size + ") <br /> </li> ";
-            int randomNoForAnnotation = randGenerator.nextInt(size);
-            TreeMap<Integer, Span> argMapforPrettyPrint = annoBasedonSense.get(randomNoForAnnotation).getArgMapforPrettyPrint();
-            output = output + prepareForOutput(argMapforPrettyPrint);
-            /*   for (Integer i : argMapforPrettyPrint.keySet()) {
-                String text = argMapforPrettyPrint.get(i).getText();
-                if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("arg1")) {
-                    output = output + "<font face=\"verdana\" color=\"black\"><em>" + " " + text + "</em></font>";
-                } else if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("arg2")) {
-                    output = output + "<font face=\"verdana\" color=\"black\"><b>" + " " + text + "</b></font>";
-                } else if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("conn")) {
-                    output = output + "<font face=\"verdana\" color=\"black\">" + " <u>" + text + "</u></font>";
-                } else if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("mod")) {
-                    output = output + "<font face=\"verdana\" color=\"black\">" + " (" + text + ") </font>";
-                }
-            }
-            output = output + "<br />" + "<br />";*/
-
-        }
-        output = output + "</ol></html>";
-        jTextPane1.setContentType("text/html");
-        jTextPane1.setText(output);
-    }//GEN-LAST:event_JList_connectiveValueChanged
+        return conInfo;
+    }
 
     private void jTextPane1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jTextPane1MouseClicked
         // TODO add your handling code here:
@@ -484,7 +485,7 @@ public class MainWindow extends javax.swing.JFrame {
 
     }//GEN-LAST:event_seeAllActionPerformed
 
-    private void jMenuItem1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem1ActionPerformed
+    private void MenuItem_NewFileActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_MenuItem_NewFileActionPerformed
         // TODO add your handling code here:
         FileChooser_newFile.showOpenDialog(this);
         String dir = FileChooser_newFile.getSelectedFile().getPath();
@@ -495,7 +496,50 @@ public class MainWindow extends javax.swing.JFrame {
             Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
         }
 
-    }//GEN-LAST:event_jMenuItem1ActionPerformed
+    }//GEN-LAST:event_MenuItem_NewFileActionPerformed
+
+    private void JList_connectiveMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_JList_connectiveMouseClicked
+        // TODO add your handling code here:
+        String chosenConnective = (String) JList_connective.getSelectedValue();
+        int noOfAnno = connectiveNumberofAnnotation.get(chosenConnective);
+        seeAll.setEnabled(true);
+        Random randGenerator = new Random();
+        ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
+
+        conInfoLabel.setText(PrepareconInfo(chosenConnective, noOfAnno, senseList.size()));
+
+        String output = "<html> <ol>";
+        for (String sense : senseList) {
+            System.out.println("Sense: " + sense);
+            ArrayList<Annotation> annoBasedonSense = reader.getAnnotationBasedConnectiveSense(chosenConnective, sense);
+            int size = annoBasedonSense.size();
+            String[] senseTokens = sense.split(":");
+            output = output + "<li> "; // + str + </li> ";
+            for (String token : senseTokens) {
+                String tokenTmp = token;
+                int len = token.length() - tokenTmp.replaceAll(" ", "").length();
+                if (len > 1) {
+                    token = token.replaceAll(" ", "-");
+                    token = token.substring(1);
+                    System.out.println(token + " " + len);
+                }
+                output = output + "<font face=\"verdana\" color=\"blue\"><u>  " + token + "</u></font>" + " : ";
+            }
+            output = output.substring(0, output.length() - 3);
+            output = output + " (" + size + ") <br /> </li> ";
+            System.out.println("Size: " + size);
+
+            int randomNoForAnnotation = randGenerator.nextInt(size);
+            System.out.println("Rand: " + randomNoForAnnotation);
+
+            TreeMap<Integer, Span> argMapforPrettyPrint = annoBasedonSense.get(randomNoForAnnotation).getArgMapforPrettyPrint();
+            output = output + prepareForOutput(argMapforPrettyPrint);
+        }
+        output = output + "</ol></html>";
+        jTextPane1.setContentType("text/html");
+        jTextPane1.setText(output);
+
+    }//GEN-LAST:event_JList_connectiveMouseClicked
 
     private String prepareForOutput(TreeMap<Integer, Span> argMapforPrettyPrint) {
         String output = "";
@@ -553,6 +597,7 @@ public class MainWindow extends javax.swing.JFrame {
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JFileChooser FileChooser_newFile;
     private javax.swing.JList<String> JList_connective;
+    private javax.swing.JMenuItem MenuItem_NewFile;
     private javax.swing.JDialog allAnnotationDialogue;
     private javax.swing.JTextPane allAnnotationPane;
     private javax.swing.JScrollPane allAnnotationScrollPane;
@@ -563,7 +608,6 @@ public class MainWindow extends javax.swing.JFrame {
     private javax.swing.JMenu jMenu1;
     private javax.swing.JMenu jMenu2;
     private javax.swing.JMenuBar jMenuBar;
-    private javax.swing.JMenuItem jMenuItem1;
     private javax.swing.JTextPane jTextPane1;
     private javax.swing.JButton legendButton;
     private javax.swing.JDialog legendDialog;

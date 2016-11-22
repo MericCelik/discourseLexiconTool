@@ -160,12 +160,12 @@
             <Property name="text" type="java.lang.String" value="File"/>
           </Properties>
           <SubComponents>
-            <MenuItem class="javax.swing.JMenuItem" name="jMenuItem1">
+            <MenuItem class="javax.swing.JMenuItem" name="MenuItem_NewFile">
               <Properties>
-                <Property name="text" type="java.lang.String" value="Open File"/>
+                <Property name="text" type="java.lang.String" value="Open New File"/>
               </Properties>
               <Events>
-                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jMenuItem1ActionPerformed"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="MenuItem_NewFileActionPerformed"/>
               </Events>
             </MenuItem>
           </SubComponents>
@@ -320,6 +320,7 @@
             </Property>
           </Properties>
           <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="JList_connectiveMouseClicked"/>
             <EventHandler event="valueChanged" listener="javax.swing.event.ListSelectionListener" parameters="javax.swing.event.ListSelectionEvent" handler="JList_connectiveValueChanged"/>
           </Events>
           <AuxValues>
