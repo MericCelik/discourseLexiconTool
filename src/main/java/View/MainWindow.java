@@ -181,7 +181,6 @@ public class MainWindow extends javax.swing.JFrame {
         );
 
         openFileDialog.setMinimumSize(new java.awt.Dimension(650, 300));
-        openFileDialog.setPreferredSize(new java.awt.Dimension(654, 400));
         openFileDialog.setSize(new java.awt.Dimension(700, 400));
 
         jFileChooser1.addActionListener(new java.awt.event.ActionListener() {
@@ -208,7 +207,7 @@ public class MainWindow extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Discourse Lexicon Tool");
         setIconImage(im);
-        setMinimumSize(new java.awt.Dimension(500, 300));
+        setMinimumSize(new java.awt.Dimension(955, 433));
         setName("mainFrame"); // NOI18N
 
         searchButton.setText("Search");
@@ -299,7 +298,7 @@ public class MainWindow extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(legendButton)
                 .addGap(38, 38, 38))
-            .addGroup(layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
                         .addGap(36, 36, 36)
@@ -309,12 +308,14 @@ public class MainWindow extends javax.swing.JFrame {
                         .addComponent(listScrollPane, javax.swing.GroupLayout.PREFERRED_SIZE, 167, javax.swing.GroupLayout.PREFERRED_SIZE)))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(layout.createSequentialGroup()
-                        .addGap(0, 0, Short.MAX_VALUE)
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                         .addComponent(conInfoLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 583, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(50, 50, 50)
-                        .addComponent(seeAll))
-                    .addComponent(mainScrollPane))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 50, Short.MAX_VALUE)
+                        .addComponent(seeAll)
+                        .addGap(10, 10, 10))
+                    .addGroup(layout.createSequentialGroup()
+                        .addComponent(mainScrollPane)
+                        .addGap(12, 12, 12)))
                 .addContainerGap())
         );
         layout.setVerticalGroup(
@@ -334,10 +335,10 @@ public class MainWindow extends javax.swing.JFrame {
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                             .addComponent(conInfoLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                             .addComponent(seeAll, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(mainScrollPane)
-                    .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 327, Short.MAX_VALUE))
+                    .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 311, Short.MAX_VALUE))
                 .addContainerGap())
         );
 
@@ -373,6 +374,7 @@ public class MainWindow extends javax.swing.JFrame {
         Random randGenerator = new Random();
         Annotation chosenAnnotation;
         ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
+
         String conInfo = "<html> <font  face=\"verdana\" color=\"black\"><b>" + "The connective <i>" + chosenConnective + "</i> is annotated <u>";
         if (senseList.size() == 1) {
             conInfo = conInfo + noOfAnno + " </u> times. It conveys only one sense (Unambiguous)</b></font>";
@@ -382,8 +384,11 @@ public class MainWindow extends javax.swing.JFrame {
         conInfoLabel.setText(conInfo);
 
         String output = "<html> <ol>";
-        for (String str : senseList) {
-            String[] senseTokens = str.split(":");
+        for (String sense : senseList) {
+
+            ArrayList<Annotation> annoBasedonSense = reader.getAnnotationBasedConnectiveSense(chosenConnective, sense);
+            int size = annoBasedonSense.size() ;
+            String[] senseTokens = sense.split(":");
             output = output + "<li> "; // + str + </li> ";
             for (String token : senseTokens) {
                 String tokenTmp = token;
@@ -396,9 +401,9 @@ public class MainWindow extends javax.swing.JFrame {
                 output = output + "<font face=\"verdana\" color=\"blue\"><u>  " + token + "</u></font>" + " : ";
             }
             output = output.substring(0, output.length() - 3);
-            output = output + "<br /> </li> ";
-            int randomNoForAnnotation = randGenerator.nextInt(connectiveAnnotationMap.get(chosenConnective).size());
-            TreeMap<Integer, Span> argMapforPrettyPrint = connectiveAnnotationMap.get(chosenConnective).get(randomNoForAnnotation).getArgMapforPrettyPrint();
+            output = output + " ("+ size + ") <br /> </li> ";
+            int randomNoForAnnotation = randGenerator.nextInt(size);
+            TreeMap<Integer, Span> argMapforPrettyPrint = annoBasedonSense.get(randomNoForAnnotation).getArgMapforPrettyPrint();
             for (Integer i : argMapforPrettyPrint.keySet()) {
                 String text = argMapforPrettyPrint.get(i).getText();
                 if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("arg1")) {
@@ -423,7 +428,7 @@ public class MainWindow extends javax.swing.JFrame {
 
         String selectedText = jTextPane1.getSelectedText();
         System.out.println(selectedText);
-        if (selectedText != null) {
+        if (selectedText != null && !selectedText.contains("contra-expectation")) {
             selectedText = selectedText.replaceAll("-", " ");
         }
         System.out.println(selectedText);
@@ -462,8 +467,6 @@ public class MainWindow extends javax.swing.JFrame {
         String chosenConnective = (String) JList_connective.getSelectedValue();
         int noOfAnno = connectiveNumberofAnnotation.get(chosenConnective);
 
-        Random randGenerator = new Random();
-        Annotation chosenAnnotation;
         ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
         String conInfo = "<html> <font  face=\"verdana\" color=\"black\"><b>" + "The connective <i>" + chosenConnective + "</i> is annotated <u>";
         if (senseList.size() == 1) {
@@ -521,14 +524,14 @@ public class MainWindow extends javax.swing.JFrame {
 
     private void jMenuItem1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem1ActionPerformed
         // TODO add your handling code here:
-     //   openFileDialog.setVisible(true);
+        //   openFileDialog.setVisible(true);
 
 
     }//GEN-LAST:event_jMenuItem1ActionPerformed
 
     private void jFileChooser1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jFileChooser1ActionPerformed
         // TODO add your handling code here:
-   /*     File selectedFile = jFileChooser1.getSelectedFile();
+        /*     File selectedFile = jFileChooser1.getSelectedFile();
         String selectedFilePath = selectedFile.getAbsolutePath();
         System.out.println(selectedFilePath);
 

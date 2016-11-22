@@ -146,8 +146,14 @@ public class readerDLVT {
         return res;
     }
 
-    public String getAnnotationBasedConnectiveSense(String connective, String sense) {
-        return "";
+    public ArrayList<Annotation> getAnnotationBasedConnectiveSense(String connective, String sense) {
+        ArrayList<Annotation> result = new ArrayList<>();
+        for (Annotation anno : annotationList) {
+            String allSense = anno.getFullSense();
+            if (anno.checkConnective(connective) && allSense.toLowerCase().contains(sense.toLowerCase()))
+                result.add(anno);
+        }
+        return result;
     }
 
     public ArrayList<Annotation> getAnnotationList() {
