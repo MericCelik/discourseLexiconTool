@@ -194,7 +194,7 @@ public class MainWindow extends javax.swing.JFrame {
             .addComponent(allAnnotationScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 400, Short.MAX_VALUE)
         );
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setTitle("Discourse Lexicon Tool");
         setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         setIconImage(im);
@@ -475,8 +475,8 @@ public class MainWindow extends javax.swing.JFrame {
 
     private void MenuItem_NewFileActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_MenuItem_NewFileActionPerformed
         // TODO add your handling code here:
-        FileChooser_newFile.showOpenDialog(this);
-        if (FileChooser_newFile.getSelectedFile() != null) {
+        int status = FileChooser_newFile.showOpenDialog(this);
+        if (FileChooser_newFile.getSelectedFile() != null && FileChooser_newFile.APPROVE_OPTION == status) {
             String dir = FileChooser_newFile.getSelectedFile().getPath();
             try {
                 new MainWindow(dir).setVisible(true);
