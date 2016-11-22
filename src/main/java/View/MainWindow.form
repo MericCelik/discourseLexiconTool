@@ -3,6 +3,9 @@
 <Form version="1.8" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
   <NonVisualComponents>
     <Component class="javax.swing.JFileChooser" name="FileChooser_newFile">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JFileChooser(fileChooserDefault)"/>
+      </AuxValues>
     </Component>
     <Container class="javax.swing.JDialog" name="connBasedonSenseDialog">
       <Properties>
@@ -170,6 +173,14 @@
             <MenuItem class="javax.swing.JMenuItem" name="MenuItem_NewFile">
               <Properties>
                 <Property name="text" type="java.lang.String" value="Open New File"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="MenuItem_NewFileActionPerformed"/>
+              </Events>
+            </MenuItem>
+            <MenuItem class="javax.swing.JMenuItem" name="MenuItem_NewFileNewWindow">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Open New File (in New Window)"/>
               </Properties>
               <Events>
                 <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="MenuItem_NewFileActionPerformed"/>
@@ -352,9 +363,6 @@
       </Events>
     </Component>
     <Component class="javax.swing.JLabel" name="conInfoLabel">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="xxxxxxxxxxxxxxx"/>
-      </Properties>
     </Component>
     <Component class="javax.swing.JButton" name="seeAll">
       <Properties>

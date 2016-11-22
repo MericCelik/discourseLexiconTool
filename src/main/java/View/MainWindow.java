@@ -45,6 +45,8 @@ public class MainWindow extends javax.swing.JFrame {
     private readerDLVT reader;
     private Image im = Toolkit.getDefaultToolkit().getImage("youtube.png");
     private ImageIcon icon = new ImageIcon("example.png");
+    private String userhome = System.getProperty("user.home");
+    private String fileChooserDefault = userhome + "\\Desktop\\NetBeansProjects";
 
     public MainWindow(String dir) throws IOException, SAXException, ParserConfigurationException {
 
@@ -88,7 +90,7 @@ public class MainWindow extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        FileChooser_newFile = new javax.swing.JFileChooser();
+        FileChooser_newFile = new javax.swing.JFileChooser(fileChooserDefault);
         connBasedonSenseDialog = new javax.swing.JDialog();
         conSenseList_pane1 = new javax.swing.JScrollPane();
         conSenseList = new javax.swing.JList<>();
@@ -110,6 +112,7 @@ public class MainWindow extends javax.swing.JFrame {
         jMenuBar = new javax.swing.JMenuBar();
         jMenu1 = new javax.swing.JMenu();
         MenuItem_NewFile = new javax.swing.JMenuItem();
+        MenuItem_NewFileNewWindow = new javax.swing.JMenuItem();
         jMenu2 = new javax.swing.JMenu();
 
         connBasedonSenseDialog.setMinimumSize(new java.awt.Dimension(200, 400));
@@ -244,8 +247,6 @@ public class MainWindow extends javax.swing.JFrame {
             }
         });
 
-        conInfoLabel.setText("xxxxxxxxxxxxxxx");
-
         seeAll.setText("See All Annotations");
         seeAll.setEnabled(false);
         seeAll.addActionListener(new java.awt.event.ActionListener() {
@@ -266,6 +267,14 @@ public class MainWindow extends javax.swing.JFrame {
             }
         });
         jMenu1.add(MenuItem_NewFile);
+
+        MenuItem_NewFileNewWindow.setText("Open New File (in New Window)");
+        MenuItem_NewFileNewWindow.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                MenuItem_NewFileActionPerformed(evt);
+            }
+        });
+        jMenu1.add(MenuItem_NewFileNewWindow);
 
         jMenuBar.add(jMenu1);
 
@@ -432,7 +441,7 @@ public class MainWindow extends javax.swing.JFrame {
         seeAll.setEnabled(true);
 
         ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
-      
+
         String output = "<html> <ol>";
         for (String sense : senseList) {
 
@@ -467,14 +476,18 @@ public class MainWindow extends javax.swing.JFrame {
     private void MenuItem_NewFileActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_MenuItem_NewFileActionPerformed
         // TODO add your handling code here:
         FileChooser_newFile.showOpenDialog(this);
-        String dir = FileChooser_newFile.getSelectedFile().getPath();
-        this.dispose();
-        try {
-            new MainWindow(dir).setVisible(true);
-        } catch (IOException | SAXException | ParserConfigurationException ex) {
-            Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
+        if (FileChooser_newFile.getSelectedFile() != null) {
+            String dir = FileChooser_newFile.getSelectedFile().getPath();
+            try {
+                new MainWindow(dir).setVisible(true);
+            } catch (IOException | SAXException | ParserConfigurationException ex) {
+                Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
+            }
+             if(evt.getSource() == MenuItem_NewFile)
+                this.dispose();
+        }else{
+            System.out.println("File not chosen!");
         }
-
     }//GEN-LAST:event_MenuItem_NewFileActionPerformed
 
     private String prepareForOutput(TreeMap<Integer, Span> argMapforPrettyPrint) {
@@ -539,6 +552,7 @@ public class MainWindow extends javax.swing.JFrame {
     private javax.swing.JList<String> JList_connective;
     private javax.swing.JTextPane MainTextPane;
     private javax.swing.JMenuItem MenuItem_NewFile;
+    private javax.swing.JMenuItem MenuItem_NewFileNewWindow;
     private javax.swing.JDialog allAnnotationDialogue;
     private javax.swing.JTextPane allAnnotationPane;
     private javax.swing.JScrollPane allAnnotationScrollPane;
