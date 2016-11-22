@@ -13,11 +13,11 @@ public class Annotation {
     private ArrayList<Span> mod;
     private ArrayList<Span> argument1;
     private ArrayList<Span> argument2;
+    private ArrayList<Span> supp1;
+    private ArrayList<Span> supp2;
 
     private TreeMap<Integer, Span> argMapforPrettyPrint;
 
-   
-    
     private String sense1;
     private String sense2;
     private String sense3;
@@ -31,12 +31,16 @@ public class Annotation {
         super();
     }
 
-    public Annotation(ArrayList<Span> conSpans, ArrayList<Span> arg1Spans, ArrayList<Span> arg2Spans, ArrayList<Span> modSpans, String sense, String note, String type, String genre) {
+    public Annotation(ArrayList<Span> conSpans, ArrayList<Span> arg1Spans, ArrayList<Span> arg2Spans, ArrayList<Span> modSpans,
+            ArrayList<Span> supp1Spans, ArrayList<Span> supp2Spans, String sense, String note, String type, String genre) {
         super();
         connective = conSpans;
         argument1 = arg1Spans;
         argument2 = arg2Spans;
         mod = modSpans;
+        supp1 = supp1Spans;
+        supp2 = supp2Spans;
+
         argMapforPrettyPrint = new TreeMap<>();
         generateTreeMapPP();
 
@@ -62,9 +66,8 @@ public class Annotation {
         this.type = type;
         this.genre = genre;
     }
-    
-    private void generateTreeMapPP()
-    {
+
+    private void generateTreeMapPP() {
         connective.forEach((s) -> {
             argMapforPrettyPrint.put(s.getBeg(), s);
         });
@@ -79,15 +82,31 @@ public class Annotation {
                 argMapforPrettyPrint.put(s.getBeg(), s);
             });
         }
+        if (supp1 != null) {
+            supp1.forEach((s) -> {
+                argMapforPrettyPrint.put(s.getBeg(), s);
+            });
+        }
+        if (supp2 != null) {
+            supp2.forEach((s) -> {
+                argMapforPrettyPrint.put(s.getBeg(), s);
+            });
+        }
     }
 
-
+// not used
     public boolean checkConnective(String searchedConnective) {
         boolean found = false;
+        String wholeConnective = "";
         for (Span s : this.connective) {
-            if (s.getText().equals(searchedConnective)) {
-                found = true;
-            }
+            wholeConnective = wholeConnective + "_" + s.getText();
+        }
+        wholeConnective = wholeConnective.substring(1);
+        System.out.println("check: " + searchedConnective + " s: " + wholeConnective);
+
+        if (wholeConnective.equals(searchedConnective)) {
+            System.out.println("check: " + searchedConnective + " s: " + wholeConnective);
+            found = true;
         }
         return found;
     }
@@ -101,7 +120,7 @@ public class Annotation {
         }
         return output;
     }
-    
+
     public String getFullSense() {
         return fullSense;
     }
@@ -133,9 +152,17 @@ public class Annotation {
     public ArrayList<Span> getMod() {
         return mod;
     }
-    
+
     public TreeMap<Integer, Span> getArgMapforPrettyPrint() {
         return argMapforPrettyPrint;
+    }
+
+    public ArrayList<Span> getSupp1() {
+        return supp1;
+    }
+
+    public ArrayList<Span> getSupp2() {
+        return supp2;
     }
 
 }

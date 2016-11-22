@@ -70,10 +70,15 @@ public class readerDLVT {
                     Node arg1Node = currentElement.getElementsByTagName("Arg1").item(i);
                     Node arg2Node = currentElement.getElementsByTagName("Arg2").item(i);
                     Node modNode = currentElement.getElementsByTagName("Mod").item(i);
+                    Node supp1Node = currentElement.getElementsByTagName("Supp1").item(i);
+                    Node supp2Node = currentElement.getElementsByTagName("Supp2").item(i);
 
+                    
                     ArrayList<Span> arg1 = getContext(arg1Node, "Arg1");
                     ArrayList<Span> arg2 = getContext(arg2Node, "Arg2");
                     ArrayList<Span> mod = getContext(modNode, "Mod");
+                    ArrayList<Span> supp1 = getContext(supp1Node, "Supp1");
+                    ArrayList<Span> supp2 = getContext(supp2Node, "Supp2");
                     String sense = annotationElement.getAttribute("sense");
 
                     if (!senseConnectiveMap.containsKey(sense)) {
@@ -101,7 +106,7 @@ public class readerDLVT {
 
                     // ArrayList<Span> conSpans, ArrayList<Span> arg1Spans, ArrayList<Span> arg2Spans, String sense, String note, String type, String genre
                     // reading connective and arguments
-                    Annotation anno = new Annotation(ConSpanList, arg1, arg2, mod, sense, "", "", "");
+                    Annotation anno = new Annotation(ConSpanList, arg1, arg2, mod, supp1, supp2, sense, "", "", "");
                     connectiveBasedAnnotations.add(anno);
                     annotationList.add(anno);
                 }

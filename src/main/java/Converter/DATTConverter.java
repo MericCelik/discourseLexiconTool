@@ -31,7 +31,6 @@ public class DATTConverter {
     private ArrayList<String> connectiveList = new ArrayList<>();
     private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<>();
 
-
     public DATTConverter(String inputDir, String outputDir) throws ParserConfigurationException, SAXException, IOException {
 
         this.readDATTRelations(inputDir);
@@ -63,11 +62,15 @@ public class DATTConverter {
                 NodeList arg1 = currentElement.getElementsByTagName("Arg1");
                 NodeList arg2 = currentElement.getElementsByTagName("Arg2");
                 NodeList mod = currentElement.getElementsByTagName("Mod");
-                
+                NodeList sup1 = currentElement.getElementsByTagName("Supp1");
+                NodeList sup2 = currentElement.getElementsByTagName("Supp2");
+
                 ArrayList<Span> connSpans = getContext(conn, "conn");
                 ArrayList<Span> arg1Spans = getContext(arg1, "arg1");
                 ArrayList<Span> arg2Spans = getContext(arg2, "arg2");
                 ArrayList<Span> modSpans = getContext(mod, "mod");
+                ArrayList<Span> sup1Spans = getContext(sup1, "supp1");
+                ArrayList<Span> sup2Spans = getContext(sup2, "supp2");
 
                 String connectiveString = "";
                 for (Span s : connSpans) {
@@ -100,7 +103,7 @@ public class DATTConverter {
                 }
                 // reading note-sense etc.
 
-                Annotation currentAnnotation = new Annotation(connSpans, arg1Spans, arg2Spans, modSpans, senses, note, type, genre);
+                Annotation currentAnnotation = new Annotation(connSpans, arg1Spans, arg2Spans, modSpans, sup1Spans, sup2Spans, senses, note, type, genre);
 
                 if (connectiveAnnotationMap.keySet().contains(connectiveString)) {
                     ArrayList<Annotation> tempList = connectiveAnnotationMap.get(connectiveString);
@@ -160,10 +163,14 @@ public class DATTConverter {
                     ArrayList<Span> arg1Spans = anno.getArgument1();
                     ArrayList<Span> arg2Spans = anno.getArgument2();
                     ArrayList<Span> modSpans = anno.getMod();
+                    ArrayList<Span> supp1Spans = anno.getSupp1();
+                    ArrayList<Span> supp2Spans = anno.getSupp2();
 
                     Element arg1Element = doc.createElement("Arg1");
                     Element arg2Element = doc.createElement("Arg2");
                     Element modElement = null;
+                    Element supp1Element = null;
+                    Element supp2Element = null;
 
                     Element arg1TextElement = doc.createElement("Text");
                     Element arg1OrderElement = doc.createElement("BeginOffset");
@@ -196,21 +203,61 @@ public class DATTConverter {
                         Element modTextElement = doc.createElement("Text");
                         Element modOrderElement = doc.createElement("BeginOffset");
 
-                            modOrderElement.appendChild(doc.createTextNode(modOffsetText.get(0)));
+                        modOrderElement.appendChild(doc.createTextNode(modOffsetText.get(0)));
                         modTextElement.appendChild(doc.createTextNode(modOffsetText.get(1)));
 
                         annotationElement.appendChild(modElement);
                         modElement.appendChild(modTextElement);
                         modElement.appendChild(modOrderElement);
-                    }else{
-                           modElement = doc.createElement("Mod");
-                           Element emptyTextElement = doc.createElement("Mod");
+                    } else {
+                        modElement = doc.createElement("Mod");
+                        Element emptyTextElement = doc.createElement("Mod");
 
-                          emptyTextElement.appendChild(doc.createTextNode(""));
+                        emptyTextElement.appendChild(doc.createTextNode(""));
 
-                           annotationElement.appendChild(modElement);
+                        annotationElement.appendChild(modElement);
+                    }
+                    if (!supp1Spans.isEmpty()) {
+                        supp1Element = doc.createElement("Supp1");
+                        ArrayList<String> modOffsetText = this.getArgumentsForXML(supp1Spans);
 
+                        Element Supp1TextElement = doc.createElement("Text");
+                        Element Supp1OrderElement = doc.createElement("BeginOffset");
 
+                        Supp1OrderElement.appendChild(doc.createTextNode(modOffsetText.get(0)));
+                        Supp1TextElement.appendChild(doc.createTextNode(modOffsetText.get(1)));
+
+                        annotationElement.appendChild(supp1Element);
+                        supp1Element.appendChild(Supp1TextElement);
+                        supp1Element.appendChild(Supp1OrderElement);
+                    } else {
+                        supp1Element = doc.createElement("Supp1");
+                        Element emptyTextElement = doc.createElement("Supp1");
+
+                        emptyTextElement.appendChild(doc.createTextNode(""));
+
+                        annotationElement.appendChild(supp1Element);
+                    }
+                    if (!supp2Spans.isEmpty()) {
+                        supp2Element = doc.createElement("Supp2");
+                        ArrayList<String> modOffsetText = this.getArgumentsForXML(supp2Spans);
+
+                        Element Supp2TextElement = doc.createElement("Text");
+                        Element Supp2OrderElement = doc.createElement("BeginOffset");
+
+                        Supp2OrderElement.appendChild(doc.createTextNode(modOffsetText.get(0)));
+                        Supp2TextElement.appendChild(doc.createTextNode(modOffsetText.get(1)));
+
+                        annotationElement.appendChild(supp2Element);
+                        supp2Element.appendChild(Supp2TextElement);
+                        supp2Element.appendChild(Supp2OrderElement);
+                    } else {
+                        supp2Element = doc.createElement("Supp2");
+                        Element emptyTextElement = doc.createElement("Supp2");
+
+                        emptyTextElement.appendChild(doc.createTextNode(""));
+
+                        annotationElement.appendChild(supp2Element);
                     }
                 }
                 String senseList = "";
