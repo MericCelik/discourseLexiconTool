@@ -10,7 +10,6 @@ import core.Annotation;
 import core.Span;
 import java.awt.Image;
 import java.awt.Toolkit;
-import java.io.File;
 
 import java.io.IOException;
 import java.text.Collator;
@@ -24,6 +23,7 @@ import java.util.Set;
 import java.util.TreeMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.swing.ImageIcon;
 import javax.swing.text.DefaultCaret;
 import javax.xml.parsers.ParserConfigurationException;
 
@@ -42,18 +42,18 @@ public class MainWindow extends javax.swing.JFrame {
 
     private readerDLVT reader;
     private Image im = Toolkit.getDefaultToolkit().getImage("youtube.png");
+    private ImageIcon icon = new ImageIcon("example.png");
 
-    public MainWindow() throws IOException, SAXException, ParserConfigurationException {
+    public MainWindow(String dir) throws IOException, SAXException, ParserConfigurationException {
 
-        reader = new readerDLVT("testing.xml");
+        reader = new readerDLVT(dir);
         connectiveSenseMap = reader.getConnectiveSenseMap();
         connectiveAnnotationMap = reader.getConnectiveAnnotationMap();
         connectiveNumberofAnnotation = reader.getConnectiveNumberofAnnotation();
         senseConnectiveMap = reader.getSenseConnectiveMap();
         initComponents();
-
-        legendLabel.setText("<html><font  color=\"black\"><b> <ul> <li> The connectives are underlined </li> <br />"
-                + " <li> The second argument of the discourse relations are written in bold  </li> <br /> </b> </html>");
+     //   legendLabel.setText("<html><font  color=\"black\"><b> <ul> <li> The connectives are underlined </li> <br />"         + " <li> The second argument of the discourse relations are written in bold  </li> <br /> </b> </html>");
+       
     }
 
     public void initWithNewFile(String dir) throws ParserConfigurationException, SAXException, IOException {
@@ -88,6 +88,7 @@ public class MainWindow extends javax.swing.JFrame {
         conSenseList = new javax.swing.JList<>();
         legendDialog = new javax.swing.JDialog();
         legendLabel = new javax.swing.JLabel();
+        legendImageLabel = new javax.swing.JLabel();
         allAnnotationDialogue = new javax.swing.JDialog();
         allAnnotationScrollPane = new javax.swing.JScrollPane();
         allAnnotationPane = new javax.swing.JTextPane();
@@ -135,29 +136,35 @@ public class MainWindow extends javax.swing.JFrame {
         legendDialog.setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         legendDialog.setTitle("Legend");
         legendDialog.setAlwaysOnTop(true);
-        legendDialog.setMinimumSize(new java.awt.Dimension(450, 200));
+        legendDialog.setMinimumSize(new java.awt.Dimension(760, 250));
+        legendDialog.setPreferredSize(new java.awt.Dimension(760, 250));
 
-        legendLabel.setText("jLabel1");
+        legendLabel.setText("<html>\"The connectives are presented underlined. <br />For the arguments of connectives,  <br /> the text whose interpretation is the basis for <i> Arg1 </i>  appears in italics,  <br /> while that of <b> Arg2 </b>  appears in bold \\\" </html> ");
+
+        legendImageLabel.setIcon(icon);
 
         javax.swing.GroupLayout legendDialogLayout = new javax.swing.GroupLayout(legendDialog.getContentPane());
         legendDialog.getContentPane().setLayout(legendDialogLayout);
         legendDialogLayout.setHorizontalGroup(
             legendDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 100, Short.MAX_VALUE)
-            .addGroup(legendDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addGroup(legendDialogLayout.createSequentialGroup()
-                    .addGap(0, 0, Short.MAX_VALUE)
-                    .addComponent(legendLabel)
-                    .addGap(0, 0, Short.MAX_VALUE)))
+            .addGroup(legendDialogLayout.createSequentialGroup()
+                .addGroup(legendDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(legendDialogLayout.createSequentialGroup()
+                        .addGap(97, 97, 97)
+                        .addComponent(legendImageLabel))
+                    .addGroup(legendDialogLayout.createSequentialGroup()
+                        .addGap(24, 24, 24)
+                        .addComponent(legendLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 385, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                .addContainerGap(341, Short.MAX_VALUE))
         );
         legendDialogLayout.setVerticalGroup(
             legendDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 100, Short.MAX_VALUE)
-            .addGroup(legendDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addGroup(legendDialogLayout.createSequentialGroup()
-                    .addGap(0, 0, Short.MAX_VALUE)
-                    .addComponent(legendLabel)
-                    .addGap(0, 0, Short.MAX_VALUE)))
+            .addGroup(legendDialogLayout.createSequentialGroup()
+                .addGap(22, 22, 22)
+                .addComponent(legendLabel, javax.swing.GroupLayout.DEFAULT_SIZE, 72, Short.MAX_VALUE)
+                .addGap(18, 18, 18)
+                .addComponent(legendImageLabel)
+                .addContainerGap(121, Short.MAX_VALUE))
         );
 
         allAnnotationDialogue.setMinimumSize(new java.awt.Dimension(700, 300));
@@ -309,8 +316,8 @@ public class MainWindow extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                        .addComponent(conInfoLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 583, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 50, Short.MAX_VALUE)
+                        .addComponent(conInfoLabel, javax.swing.GroupLayout.DEFAULT_SIZE, 583, Short.MAX_VALUE)
+                        .addGap(50, 50, 50)
                         .addComponent(seeAll)
                         .addGap(10, 10, 10))
                     .addGroup(layout.createSequentialGroup()
@@ -372,7 +379,6 @@ public class MainWindow extends javax.swing.JFrame {
         int noOfAnno = connectiveNumberofAnnotation.get(chosenConnective);
         seeAll.setEnabled(true);
         Random randGenerator = new Random();
-        Annotation chosenAnnotation;
         ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
 
         String conInfo = "<html> <font  face=\"verdana\" color=\"black\"><b>" + "The connective <i>" + chosenConnective + "</i> is annotated <u>";
@@ -387,7 +393,7 @@ public class MainWindow extends javax.swing.JFrame {
         for (String sense : senseList) {
 
             ArrayList<Annotation> annoBasedonSense = reader.getAnnotationBasedConnectiveSense(chosenConnective, sense);
-            int size = annoBasedonSense.size() ;
+            int size = annoBasedonSense.size();
             String[] senseTokens = sense.split(":");
             output = output + "<li> "; // + str + </li> ";
             for (String token : senseTokens) {
@@ -401,10 +407,11 @@ public class MainWindow extends javax.swing.JFrame {
                 output = output + "<font face=\"verdana\" color=\"blue\"><u>  " + token + "</u></font>" + " : ";
             }
             output = output.substring(0, output.length() - 3);
-            output = output + " ("+ size + ") <br /> </li> ";
+            output = output + " (" + size + ") <br /> </li> ";
             int randomNoForAnnotation = randGenerator.nextInt(size);
             TreeMap<Integer, Span> argMapforPrettyPrint = annoBasedonSense.get(randomNoForAnnotation).getArgMapforPrettyPrint();
-            for (Integer i : argMapforPrettyPrint.keySet()) {
+            output = output + prepareForOutput(argMapforPrettyPrint);
+            /*   for (Integer i : argMapforPrettyPrint.keySet()) {
                 String text = argMapforPrettyPrint.get(i).getText();
                 if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("arg1")) {
                     output = output + "<font face=\"verdana\" color=\"black\"><em>" + " " + text + "</em></font>";
@@ -416,7 +423,8 @@ public class MainWindow extends javax.swing.JFrame {
                     output = output + "<font face=\"verdana\" color=\"black\">" + " (" + text + ") </font>";
                 }
             }
-            output = output + "<br />" + "<br />";
+            output = output + "<br />" + "<br />";*/
+
         }
         output = output + "</ol></html>";
         jTextPane1.setContentType("text/html");
@@ -466,8 +474,10 @@ public class MainWindow extends javax.swing.JFrame {
         // TODO add your handling code here:
         String chosenConnective = (String) JList_connective.getSelectedValue();
         int noOfAnno = connectiveNumberofAnnotation.get(chosenConnective);
+        seeAll.setEnabled(true);
 
         ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
+
         String conInfo = "<html> <font  face=\"verdana\" color=\"black\"><b>" + "The connective <i>" + chosenConnective + "</i> is annotated <u>";
         if (senseList.size() == 1) {
             conInfo = conInfo + noOfAnno + " </u> times. It conveys only one sense (Unambiguous)</b></font>";
@@ -477,8 +487,11 @@ public class MainWindow extends javax.swing.JFrame {
         conInfoLabel.setText(conInfo);
 
         String output = "<html> <ol>";
-        for (String str : senseList) {
-            String[] senseTokens = str.split(":");
+        for (String sense : senseList) {
+
+            ArrayList<Annotation> annoBasedonSense = reader.getAnnotationBasedConnectiveSense(chosenConnective, sense);
+            int size = annoBasedonSense.size();
+            String[] senseTokens = sense.split(":");
             output = output + "<li> "; // + str + </li> ";
             for (String token : senseTokens) {
                 String tokenTmp = token;
@@ -491,31 +504,15 @@ public class MainWindow extends javax.swing.JFrame {
                 output = output + "<font face=\"verdana\" color=\"blue\"><u>  " + token + "</u></font>" + " : ";
             }
             output = output.substring(0, output.length() - 3);
-            output = output + "</li>  <br /> <ul>";
-            //  int randomNoForAnnotation = randGenerator.nextInt(connectiveAnnotationMap.get(chosenConnective).size());
-            for (Annotation anno : connectiveAnnotationMap.get(chosenConnective)) {
-                output = output + "<li>";
-                TreeMap<Integer, Span> argMapforPrettyPrint = anno.getArgMapforPrettyPrint();
+            output = output + " (" + size + ") <br /> </li> ";
 
-                for (Integer i : argMapforPrettyPrint.keySet()) {
-                    String text = argMapforPrettyPrint.get(i).getText();
-                    if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("arg1")) {
-                        output = output + "<font face=\"verdana\" color=\"black\">" + " " + text + "</font>";
-                    } else if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("arg2")) {
-                        output = output + "<font face=\"verdana\" color=\"black\"><b>" + " " + text + "</b></font>";
-                    } else if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("conn")) {
-                        output = output + "<font face=\"verdana\" color=\"black\">" + " <u>" + text + "</u></font>";
-                    } else if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("mod")) {
-                        output = output + "<font face=\"verdana\" color=\"black\">" + " " + text + "</font>";
-                    }
-                }
-                output = output + "</li> <br />" + "<br />";
+            for (Annotation anno : annoBasedonSense) {
+                TreeMap<Integer, Span> argMapforPrettyPrint = anno.getArgMapforPrettyPrint();
+                output = output + prepareForOutput(argMapforPrettyPrint);
+
             }
-            output = output + "</ul>";
         }
         output = output + "</ol></html>";
-        System.out.println(output);
-
         allAnnotationPane.setContentType("text/html");
         allAnnotationPane.setText(output);
         allAnnotationDialogue.setVisible(true);
@@ -544,6 +541,24 @@ public class MainWindow extends javax.swing.JFrame {
         }*/
     }//GEN-LAST:event_jFileChooser1ActionPerformed
 
+    private String prepareForOutput(TreeMap<Integer, Span> argMapforPrettyPrint) {
+        String output = "";
+        for (Integer i : argMapforPrettyPrint.keySet()) {
+            String text = argMapforPrettyPrint.get(i).getText();
+            if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("arg1")) {
+                output = output + "<font face=\"verdana\" color=\"black\"><em>" + " " + text + "</em></font>";
+            } else if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("arg2")) {
+                output = output + "<font face=\"verdana\" color=\"black\"><b>" + " " + text + "</b></font>";
+            } else if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("conn")) {
+                output = output + "<font face=\"verdana\" color=\"black\">" + " <u>" + text + "</u></font>";
+            } else if (argMapforPrettyPrint.get(i).getBelongsTo().equalsIgnoreCase("mod")) {
+                output = output + "<font face=\"verdana\" color=\"black\">" + " (" + text + ") </font>";
+            }
+        }
+        output = output + "<br />" + "<br />";
+        return output;
+    }
+
     /**
      * @param args the command line arguments
      */
@@ -570,7 +585,7 @@ public class MainWindow extends javax.swing.JFrame {
             @Override
             public void run() {
                 try {
-                    new MainWindow().setVisible(true);
+                    new MainWindow("testing.xml").setVisible(true);
                 } catch (IOException | SAXException | ParserConfigurationException ex) {
                     Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
                 }
@@ -596,6 +611,7 @@ public class MainWindow extends javax.swing.JFrame {
     private javax.swing.JTextPane jTextPane1;
     private javax.swing.JButton legendButton;
     private javax.swing.JDialog legendDialog;
+    private javax.swing.JLabel legendImageLabel;
     private javax.swing.JLabel legendLabel;
     private javax.swing.JScrollPane listScrollPane;
     private javax.swing.JScrollPane mainScrollPane;
