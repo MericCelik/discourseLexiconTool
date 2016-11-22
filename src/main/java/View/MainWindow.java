@@ -100,7 +100,7 @@ public class MainWindow extends javax.swing.JFrame {
         allAnnotationPane = new javax.swing.JTextPane();
         searchButton = new javax.swing.JButton();
         mainScrollPane = new javax.swing.JScrollPane();
-        jTextPane1 = new javax.swing.JTextPane();
+        MainTextPane = new javax.swing.JTextPane();
         listScrollPane = new javax.swing.JScrollPane();
         JList_connective = new javax.swing.JList<>();
         searchField = new javax.swing.JTextField();
@@ -170,25 +170,26 @@ public class MainWindow extends javax.swing.JFrame {
                 .addContainerGap(121, Short.MAX_VALUE))
         );
 
-        allAnnotationDialogue.setMinimumSize(new java.awt.Dimension(700, 400));
-        allAnnotationDialogue.setPreferredSize(new java.awt.Dimension(700, 400));
+        allAnnotationDialogue.setMinimumSize(new java.awt.Dimension(700, 500));
+        allAnnotationDialogue.setPreferredSize(new java.awt.Dimension(700, 450));
+
+        allAnnotationScrollPane.setMinimumSize(new java.awt.Dimension(300, 300));
 
         DefaultCaret caret = (DefaultCaret)allAnnotationPane.getCaret();
         caret.setUpdatePolicy(DefaultCaret.NEVER_UPDATE);
+        allAnnotationPane.setMinimumSize(new java.awt.Dimension(700, 400));
+        allAnnotationPane.setOpaque(false);
         allAnnotationScrollPane.setViewportView(allAnnotationPane);
 
         javax.swing.GroupLayout allAnnotationDialogueLayout = new javax.swing.GroupLayout(allAnnotationDialogue.getContentPane());
         allAnnotationDialogue.getContentPane().setLayout(allAnnotationDialogueLayout);
         allAnnotationDialogueLayout.setHorizontalGroup(
             allAnnotationDialogueLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(allAnnotationDialogueLayout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(allAnnotationScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 694, Short.MAX_VALUE)
-                .addContainerGap())
+            .addComponent(allAnnotationScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 700, Short.MAX_VALUE)
         );
         allAnnotationDialogueLayout.setVerticalGroup(
             allAnnotationDialogueLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(allAnnotationScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 301, Short.MAX_VALUE)
+            .addComponent(allAnnotationScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 400, Short.MAX_VALUE)
         );
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
@@ -205,15 +206,15 @@ public class MainWindow extends javax.swing.JFrame {
             }
         });
 
-        jTextPane1.setEditable(false);
-        caret = (DefaultCaret)jTextPane1.getCaret();
+        MainTextPane.setEditable(false);
+        caret = (DefaultCaret)MainTextPane.getCaret();
         caret.setUpdatePolicy(DefaultCaret.NEVER_UPDATE);
-        jTextPane1.addMouseListener(new java.awt.event.MouseAdapter() {
+        MainTextPane.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jTextPane1MouseClicked(evt);
+                MainTextPaneMouseClicked(evt);
             }
         });
-        mainScrollPane.setViewportView(jTextPane1);
+        mainScrollPane.setViewportView(MainTextPane);
 
         Collator trCollator = Collator.getInstance(new Locale("tr", "TR"));
         ArrayList<String> connectiveList = new ArrayList<> (connectiveSenseMap.keySet());
@@ -379,24 +380,24 @@ public class MainWindow extends javax.swing.JFrame {
             output = output + prepareForOutput(argMapforPrettyPrint);
         }
         output = output + "</ol></html>";
-        jTextPane1.setContentType("text/html");
-        jTextPane1.setText(output);
+        MainTextPane.setContentType("text/html");
+        MainTextPane.setText(output);
     }//GEN-LAST:event_JList_connectiveValueChanged
 
     private String PrepareconInfo(String chosenConnective, int noOfAnno, int size) {
-        String conInfo = "<html> <font  face=\"verdana\" color=\"black\"><b>" + "The connective <i>" + chosenConnective + "</i> is annotated <u>";
+        String conInfo = "<html> <font  face=\"verdana\" color=\"black\"><b>" + "The connective \"<i>" + chosenConnective + "</i>\" is annotated <u>";
         if (size == 1) {
-            conInfo = conInfo + noOfAnno + " </u> times. It conveys only one sense (Unambiguous)</b></font>";
+            conInfo = conInfo + noOfAnno + "</u> times. It conveys only one sense (Unambiguous)</b></font>";
         } else {
             conInfo = conInfo + noOfAnno + "</u> times. It conveys <u>" + size + "</u>  different senses." + "</Strong></font>";
         }
         return conInfo;
     }
 
-    private void jTextPane1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jTextPane1MouseClicked
+    private void MainTextPaneMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_MainTextPaneMouseClicked
         // TODO add your handling code here:
 
-        String selectedText = jTextPane1.getSelectedText();
+        String selectedText = MainTextPane.getSelectedText();
         if (selectedText != null && !selectedText.contains("contra-expectation")) {
             selectedText = selectedText.replaceAll("-", " ");
         }
@@ -420,7 +421,7 @@ public class MainWindow extends javax.swing.JFrame {
                 connBasedonSenseDialog.setVisible(true);
             }
         }
-    }//GEN-LAST:event_jTextPane1MouseClicked
+    }//GEN-LAST:event_MainTextPaneMouseClicked
 
     private void conSenseListMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_conSenseListMouseClicked
         // TODO add your handling code here:
@@ -432,19 +433,10 @@ public class MainWindow extends javax.swing.JFrame {
     private void seeAllActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_seeAllActionPerformed
         // TODO add your handling code here:
         String chosenConnective = (String) JList_connective.getSelectedValue();
-        int noOfAnno = connectiveNumberofAnnotation.get(chosenConnective);
         seeAll.setEnabled(true);
 
         ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
-
-        String conInfo = "<html> <font  face=\"verdana\" color=\"black\"><b>" + "The connective <i>" + chosenConnective + "</i> is annotated <u>";
-        if (senseList.size() == 1) {
-            conInfo = conInfo + noOfAnno + " </u> times. It conveys only one sense (Unambiguous)</b></font>";
-        } else {
-            conInfo = conInfo + noOfAnno + "</u> times. It conveys <u>" + senseList.size() + "</u>  different senses." + "</Strong></font>";
-        }
-        conInfoLabel.setText(conInfo);
-
+      
         String output = "<html> <ol>";
         for (String sense : senseList) {
 
@@ -467,7 +459,6 @@ public class MainWindow extends javax.swing.JFrame {
             for (Annotation anno : annoBasedonSense) {
                 TreeMap<Integer, Span> argMapforPrettyPrint = anno.getArgMapforPrettyPrint();
                 output = output + prepareForOutput(argMapforPrettyPrint);
-
             }
         }
         output = output + "</ol></html>";
@@ -550,6 +541,7 @@ public class MainWindow extends javax.swing.JFrame {
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JFileChooser FileChooser_newFile;
     private javax.swing.JList<String> JList_connective;
+    private javax.swing.JTextPane MainTextPane;
     private javax.swing.JMenuItem MenuItem_NewFile;
     private javax.swing.JDialog allAnnotationDialogue;
     private javax.swing.JTextPane allAnnotationPane;
@@ -561,7 +553,6 @@ public class MainWindow extends javax.swing.JFrame {
     private javax.swing.JMenu jMenu1;
     private javax.swing.JMenu jMenu2;
     private javax.swing.JMenuBar jMenuBar;
-    private javax.swing.JTextPane jTextPane1;
     private javax.swing.JButton legendButton;
     private javax.swing.JDialog legendDialog;
     private javax.swing.JLabel legendImageLabel;
