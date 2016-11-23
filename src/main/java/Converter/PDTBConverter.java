@@ -13,12 +13,9 @@ import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Scanner;
-import javax.xml.parsers.ParserConfigurationException;
-import org.xml.sax.SAXException;
 
 /**
  *
@@ -27,14 +24,17 @@ import org.xml.sax.SAXException;
 public class PDTBConverter {
 
     private Charset charset = Charset.forName("UTF-8");
+    private String outputDir ="";
 
     private ArrayList<String> connectiveList = new ArrayList<>();
     private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<>();
 
     public PDTBConverter(String annotationDir, String textDir, String outputDir) throws IOException {
+        this.outputDir = outputDir;
         connectiveAnnotationMap = readPDTBRelations(annotationDir, textDir);
         ConverterUtils.writeToFile(outputDir, connectiveAnnotationMap, "PDTB");
     }
+
 
     private HashMap<String, ArrayList<Annotation>> readPDTBRelations(String annotationDir, String textDir) throws IOException {
 
@@ -143,5 +143,10 @@ public class PDTBConverter {
             System.out.println("EXIT");
         }
         return identical;
+    }
+    
+    
+    public String getOutputDir() {
+        return outputDir;
     }
 }

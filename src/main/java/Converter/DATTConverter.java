@@ -11,17 +11,10 @@ import org.xml.sax.SAXException;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.transform.OutputKeys;
-import javax.xml.transform.Transformer;
-import javax.xml.transform.TransformerException;
-import javax.xml.transform.TransformerFactory;
-import javax.xml.transform.dom.DOMSource;
-import javax.xml.transform.stream.StreamResult;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
 
 public class DATTConverter {
 
@@ -29,9 +22,10 @@ public class DATTConverter {
 
     private ArrayList<String> connectiveList = new ArrayList<>();
     private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<>();
+    private String outputDir = "";
 
     public DATTConverter(String inputDir, String outputDir) throws ParserConfigurationException, SAXException, IOException {
-
+        this.outputDir = outputDir;
         this.readDATTRelations(inputDir);
         ConverterUtils.writeToFile(outputDir, connectiveAnnotationMap, "DATT");
     }
@@ -40,7 +34,7 @@ public class DATTConverter {
         DATTConverter d = new DATTConverter("annotations//DATT//explicit.xml", "testing_datt.xml");
     }
 
-    public HashMap<String, ArrayList<Annotation>> readDATTRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
+    private HashMap<String, ArrayList<Annotation>> readDATTRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
 
         File fXmlFile = new File(dir);
         DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
@@ -119,10 +113,8 @@ public class DATTConverter {
         return connectiveAnnotationMap;
     }
 
-    
-
-    
-
-   
+    public String getOutputDir() {
+        return outputDir;
+    }
 
 }

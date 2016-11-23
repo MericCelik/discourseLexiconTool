@@ -5,6 +5,8 @@
  */
 package View;
 
+import Converter.DATTConverter;
+import Converter.PDTBConverter;
 import java.io.File;
 import java.io.IOException;
 import java.util.logging.Level;
@@ -17,6 +19,10 @@ import org.xml.sax.SAXException;
  * @author Murathan
  */
 public class fileChooser extends javax.swing.JFrame {
+
+    boolean pdtb = false;
+    boolean datt = false;
+    String dir = "";
 
     /**
      * Creates new form fileChooser
@@ -36,8 +42,8 @@ public class fileChooser extends javax.swing.JFrame {
 
         buttonGroup = new javax.swing.ButtonGroup();
         FileChooser_annotation = new javax.swing.JFileChooser();
-        jRadioButton1 = new javax.swing.JRadioButton();
-        jRadioButton2 = new javax.swing.JRadioButton();
+        RadioButtonDATT = new javax.swing.JRadioButton();
+        RadioButtonPDTB = new javax.swing.JRadioButton();
         TextField_annotation = new javax.swing.JTextField();
         TextField_text = new javax.swing.JTextField();
         Button_ChooseAnnotationFile = new javax.swing.JButton();
@@ -53,19 +59,19 @@ public class fileChooser extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jRadioButton1.setText("DATT");
-        buttonGroup.add(jRadioButton1);
-        jRadioButton1.addActionListener(new java.awt.event.ActionListener() {
+        RadioButtonDATT.setText("DATT");
+        buttonGroup.add(RadioButtonDATT);
+        RadioButtonDATT.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jRadioButton1ActionPerformed(evt);
+                RadioButtonDATTActionPerformed(evt);
             }
         });
 
-        jRadioButton2.setText("PDTB");
-        buttonGroup.add(jRadioButton2);
-        jRadioButton2.addActionListener(new java.awt.event.ActionListener() {
+        RadioButtonPDTB.setText("PDTB");
+        buttonGroup.add(RadioButtonPDTB);
+        RadioButtonPDTB.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jRadioButton2ActionPerformed(evt);
+                RadioButtonPDTBActionPerformed(evt);
             }
         });
 
@@ -74,6 +80,7 @@ public class fileChooser extends javax.swing.JFrame {
         TextField_text.setText("jTextField1");
 
         Button_ChooseAnnotationFile.setText("Choose Annotation File");
+        Button_ChooseAnnotationFile.setEnabled(false);
         Button_ChooseAnnotationFile.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 Button_ChooseAnnotationFileActionPerformed(evt);
@@ -81,6 +88,7 @@ public class fileChooser extends javax.swing.JFrame {
         });
 
         Button_ChooseTextFile.setText("Choose Text File");
+        Button_ChooseTextFile.setEnabled(false);
         Button_ChooseTextFile.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 Button_ChooseAnnotationFileActionPerformed(evt);
@@ -103,9 +111,9 @@ public class fileChooser extends javax.swing.JFrame {
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
                         .addGap(0, 172, Short.MAX_VALUE)
-                        .addComponent(jRadioButton1)
+                        .addComponent(RadioButtonDATT)
                         .addGap(33, 33, 33)
-                        .addComponent(jRadioButton2)
+                        .addComponent(RadioButtonPDTB)
                         .addGap(57, 57, 57))
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
@@ -135,8 +143,8 @@ public class fileChooser extends javax.swing.JFrame {
                     .addComponent(Button_ChooseTextFile))
                 .addGap(44, 44, 44)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jRadioButton2)
-                    .addComponent(jRadioButton1)
+                    .addComponent(RadioButtonPDTB)
+                    .addComponent(RadioButtonDATT)
                     .addComponent(Button_run))
                 .addContainerGap(165, Short.MAX_VALUE))
         );
@@ -146,48 +154,67 @@ public class fileChooser extends javax.swing.JFrame {
 
     private void Button_ChooseAnnotationFileActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Button_ChooseAnnotationFileActionPerformed
         // TODO add your handling code here:
-        FileChooser_annotation.showOpenDialog(this);
-        String str = FileChooser_annotation.getSelectedFile().getAbsolutePath();
-        if (evt.getSource() == Button_ChooseAnnotationFile) {
-            TextField_annotation.setText(str);
-        } else {
-            TextField_text.setText(str);
-        }
-        System.out.println(str);
-    }//GEN-LAST:event_Button_ChooseAnnotationFileActionPerformed
-
-    private void jRadioButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jRadioButton2ActionPerformed
-        // TODO add your handling code here:
-        Button_ChooseTextFile.setVisible(true);
-        TextField_text.setVisible(true);
-    }//GEN-LAST:event_jRadioButton2ActionPerformed
-
-    private void jRadioButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jRadioButton1ActionPerformed
-        // TODO add your handling code here:
-        Button_ChooseTextFile.setVisible(false);
-        TextField_text.setVisible(false);
-    }//GEN-LAST:event_jRadioButton1ActionPerformed
-
-    private void FileChooser_annotationActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_FileChooser_annotationActionPerformed
-        // TODO add your handling code here:
         int status = FileChooser_annotation.showOpenDialog(null);
 
         if (status == FileChooser_annotation.APPROVE_OPTION) {
             File selectedFile = FileChooser_annotation.getSelectedFile();
-            System.out.println(selectedFile.getParent());
-            System.out.println(selectedFile.getName());
+            TextField_annotation.setText(selectedFile.getAbsolutePath());
+            System.out.println("n: " + selectedFile.getAbsolutePath());
         } else if (status == FileChooser_annotation.CANCEL_OPTION) {
             System.out.println("canceled");
-
         }
+
+    }//GEN-LAST:event_Button_ChooseAnnotationFileActionPerformed
+
+    private void RadioButtonPDTBActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_RadioButtonPDTBActionPerformed
+        // TODO add your handling code here:
+        Button_ChooseTextFile.setVisible(true);
+        TextField_text.setVisible(true);
+        Button_ChooseAnnotationFile.setEnabled(true);
+        Button_ChooseTextFile.setEnabled(true);
+    }//GEN-LAST:event_RadioButtonPDTBActionPerformed
+
+    private void RadioButtonDATTActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_RadioButtonDATTActionPerformed
+        // TODO add your handling code here:
+        Button_ChooseTextFile.setVisible(false);
+        TextField_text.setVisible(false);
+        Button_ChooseAnnotationFile.setEnabled(true);
+        // Button_ChooseTextFile.setEnabled(true);
+
+    }//GEN-LAST:event_RadioButtonDATTActionPerformed
+
+    private void FileChooser_annotationActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_FileChooser_annotationActionPerformed
+        // TODO add your handling code here:
+        
     }//GEN-LAST:event_FileChooser_annotationActionPerformed
 
     private void Button_runActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Button_runActionPerformed
         // TODO add your handling code here:
 
+        if (RadioButtonDATT.isSelected()) {
+            try {
+                System.out.println("Selected::: " + TextField_annotation.getText());
+                DATTConverter converterDATT = new DATTConverter(TextField_annotation.getText(), "testing_datt.xml");
+                dir = converterDATT.getOutputDir();
+            } catch (ParserConfigurationException | SAXException | IOException ex) {
+                Logger.getLogger(fileChooser.class.getName()).log(Level.SEVERE, null, ex);
+            }
+
+        } else if (RadioButtonPDTB.isSelected()) {
+
+            try {
+                PDTBConverter converterPDTB = new PDTBConverter(TextField_annotation.getText(), TextField_text.getText(), "testing_pdtb.xml");
+                dir = converterPDTB.getOutputDir();
+
+            } catch (IOException ex) {
+                Logger.getLogger(fileChooser.class.getName()).log(Level.SEVERE, null, ex);
+            }
+
+        }
+
         this.dispose();
         try {
-            new MainWindow(TextField_annotation.getText()).setVisible(true);
+            new MainWindow(dir).setVisible(true);
         } catch (IOException | SAXException | ParserConfigurationException ex) {
             Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -233,10 +260,10 @@ public class fileChooser extends javax.swing.JFrame {
     private javax.swing.JButton Button_ChooseTextFile;
     private javax.swing.JButton Button_run;
     private javax.swing.JFileChooser FileChooser_annotation;
+    private javax.swing.JRadioButton RadioButtonDATT;
+    private javax.swing.JRadioButton RadioButtonPDTB;
     private javax.swing.JTextField TextField_annotation;
     private javax.swing.JTextField TextField_text;
     private javax.swing.ButtonGroup buttonGroup;
-    private javax.swing.JRadioButton jRadioButton1;
-    private javax.swing.JRadioButton jRadioButton2;
     // End of variables declaration//GEN-END:variables
 }
