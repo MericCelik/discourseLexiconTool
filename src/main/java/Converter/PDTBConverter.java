@@ -76,7 +76,7 @@ public class PDTBConverter {
                             ArrayList<Span> arg1Spans = extractArgument(annotationTokens[14], textString, "Arg1");
                             ArrayList<Span> arg2Spans = extractArgument(annotationTokens[20], textString, "Arg2");
                             ArrayList<Span> supp1Spans = new ArrayList<>();// extractArgument(annotationTokens[32], textString, "Supp1");
-                            ArrayList<Span> supp2Spans = extractArgument(annotationTokens[31], textString, "Supp2");
+                            ArrayList<Span> supp2Spans = new ArrayList<>();// extractArgument(annotationTokens[31], textString, "Supp2");
                             ArrayList<Span> modSpans = new ArrayList<>();// extractArgument(annotationTokens[32], textString, "Mod");
 
                             String sense = annotationTokens[8];
@@ -101,7 +101,6 @@ public class PDTBConverter {
 
     public ArrayList<Span> extractArgument(String rawIndex, String textString, String belongsTo) {
         ArrayList<Span> argSpans = new ArrayList<>();
-        // 1895..1911;1917..2000
         if (!rawIndex.equals("")) {
             String multipleSelection[] = rawIndex.split(";");
             for (String selection : multipleSelection) {

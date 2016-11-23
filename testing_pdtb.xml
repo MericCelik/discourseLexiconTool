@@ -12,10 +12,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>1226</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1531" sense="Rhetorical">
       <Arg1>
@@ -28,10 +25,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>But</Text>
-        <BeginOffset>1531</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1871" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -44,10 +38,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>1871</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2415" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -60,10 +51,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>But</Text>
-        <BeginOffset>2415</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2964" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -76,10 +64,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>2964</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3142" sense="Comparison.Contrast">
       <Arg1>
@@ -92,10 +77,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>But</Text>
-        <BeginOffset>3142</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="5359" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -108,10 +90,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>But</Text>
-        <BeginOffset>5359</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="7331" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -124,10 +103,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>But</Text>
-        <BeginOffset>7331</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="8591" sense="Comparison.Contrast">
       <Arg1>
@@ -140,10 +116,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>8591</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="8731" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -156,10 +129,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>8731</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="9525" sense="Expansion.Conjunction">
       <Arg1>
@@ -172,10 +142,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>But</Text>
-        <BeginOffset>9525</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1889" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -188,10 +155,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>1889</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="625" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -204,10 +168,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>625</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1457" sense="Expansion.Conjunction">
       <Arg1>
@@ -220,10 +181,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>1457</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1640" sense="Expansion.Conjunction">
       <Arg1>
@@ -236,10 +194,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>But</Text>
-        <BeginOffset>1640</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2476" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -252,10 +207,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>2476</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3936" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -268,10 +220,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>But</Text>
-        <BeginOffset>3936</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4752" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -284,10 +233,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>4752</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="5929" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -300,10 +246,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>5929</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6340" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -316,10 +259,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>6340</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="897" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -332,10 +272,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>897</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="958" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -348,10 +285,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>But</Text>
-        <BeginOffset>958</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1734" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -364,10 +298,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>1734</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1830" sense="Expansion.Substitution.Arg2-as-subst">
       <Arg1>
@@ -380,10 +311,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>1830</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3023" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -396,10 +324,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>But</Text>
-        <BeginOffset>3023</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3181" sense="Comparison.Contrast">
       <Arg1>
@@ -412,10 +337,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>3181</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3470" sense="Expansion.Substitution.Arg2-as-subst">
       <Arg1>
@@ -428,10 +350,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>3470</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4013" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -444,10 +363,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>4013</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="5368" sense="Comparison.Contrast">
       <Arg1>
@@ -460,10 +376,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>5368</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6021" sense="Comparison.Contrast">
       <Arg1>
@@ -476,10 +389,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>6021</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="7157" sense="Comparison.Contrast">
       <Arg1>
@@ -492,10 +402,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>But</Text>
-        <BeginOffset>7157</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="7771" sense="Expansion.Substitution.Arg2-as-subst">
       <Arg1>
@@ -508,10 +415,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>7771</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="8361" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -524,10 +428,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>8361</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="8912" sense="Expansion.Substitution.Arg2-as-subst">
       <Arg1>
@@ -540,10 +441,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>8912</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="9520" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -556,10 +454,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>9520</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="562" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -572,10 +467,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>562</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="755" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -588,10 +480,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>But</Text>
-        <BeginOffset>755</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1230" sense="Comparison.Contrast">
       <Arg1>
@@ -604,10 +493,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>1230</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2709" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -620,10 +506,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>But</Text>
-        <BeginOffset>2709</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3654" sense="Comparison.Concession.Arg2-as-denier">
       <Arg1>
@@ -636,10 +519,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but</Text>
-        <BeginOffset>3654</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="however" Size="1" senseList="Comparison.Concession.Arg2-as-denier">
@@ -654,10 +534,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>However</Text>
-        <BeginOffset>220</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="through" Size="1" senseList="Expansion.Manner.Arg2-as-manner">
@@ -672,10 +549,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>through</Text>
-        <BeginOffset>708</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="rather_than" Size="1" senseList="Expansion.Substitution.Arg1-as-subst">
@@ -690,10 +564,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>rather</Text>
-        <BeginOffset>2215</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="if_if" Size="1" senseList="Contingency.Condition.Arg2-as-cond">
@@ -708,10 +579,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>If</Text>
-        <BeginOffset>4239</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="for" Size="1" senseList="Contingency.Cause.Reason">
@@ -726,10 +594,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>for</Text>
-        <BeginOffset>3331</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="clearly" Size="1" senseList="Expansion.Level-of-detail.Arg2-as-detail">
@@ -744,10 +609,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>clearly</Text>
-        <BeginOffset>1174</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="while" Size="1" senseList="Temporal.Synchronous">
@@ -762,10 +624,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>while</Text>
-        <BeginOffset>3658</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="when" Size="7" senseList="Temporal.Synchronous!#!Comparison.Contrast">
@@ -780,10 +639,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>when</Text>
-        <BeginOffset>1641</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1751" sense="Temporal.Synchronous">
       <Arg1>
@@ -796,10 +652,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>when</Text>
-        <BeginOffset>1751</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="795" sense="Temporal.Synchronous">
       <Arg1>
@@ -812,10 +665,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>when</Text>
-        <BeginOffset>795</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1163" sense="Temporal.Synchronous">
       <Arg1>
@@ -828,10 +678,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>when</Text>
-        <BeginOffset>1163</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4263" sense="Comparison.Contrast">
       <Arg1>
@@ -844,10 +691,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>when</Text>
-        <BeginOffset>4263</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="5886" sense="Temporal.Synchronous">
       <Arg1>
@@ -860,10 +704,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>when</Text>
-        <BeginOffset>5886</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="9350" sense="Temporal.Synchronous">
       <Arg1>
@@ -876,10 +717,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>when</Text>
-        <BeginOffset>9350</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="that's why" Size="1" senseList="Contingency.Cause.Reason">
@@ -894,10 +732,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>That's why</Text>
-        <BeginOffset>2141</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="in fact" Size="2" senseList="Expansion.Instantiation!#!Expansion.Level-of-detail.Arg2-as-detail">
@@ -912,10 +747,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>in fact</Text>
-        <BeginOffset>647</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="663" sense="Expansion.Instantiation">
       <Arg1>
@@ -928,10 +760,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>in fact</Text>
-        <BeginOffset>663</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="and" Size="101" senseList="Expansion.Conjunction!#!Contingency.Condition.Arg1-as-cond!#!Comparison.Contrast">
@@ -946,10 +775,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>123</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="489" sense="Expansion.Conjunction">
       <Arg1>
@@ -962,10 +788,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>And</Text>
-        <BeginOffset>489</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="802" sense="Expansion.Conjunction">
       <Arg1>
@@ -978,10 +801,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>802</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="923" sense="Expansion.Conjunction">
       <Arg1>
@@ -994,10 +814,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>923</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1083" sense="Expansion.Conjunction">
       <Arg1>
@@ -1010,10 +827,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>1083</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1271" sense="Expansion.Conjunction">
       <Arg1>
@@ -1026,10 +840,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>1271</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1320" sense="Expansion.Conjunction">
       <Arg1>
@@ -1042,10 +853,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>And</Text>
-        <BeginOffset>1320</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1348" sense="Expansion.Conjunction">
       <Arg1>
@@ -1058,10 +866,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>1348</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1448" sense="Expansion.Conjunction">
       <Arg1>
@@ -1074,10 +879,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>1448</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1826" sense="Expansion.Conjunction">
       <Arg1>
@@ -1090,10 +892,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>And</Text>
-        <BeginOffset>1826</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2283" sense="Expansion.Conjunction">
       <Arg1>
@@ -1106,10 +905,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>And</Text>
-        <BeginOffset>2283</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2457" sense="Expansion.Conjunction">
       <Arg1>
@@ -1122,10 +918,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>2457</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2631" sense="Expansion.Conjunction">
       <Arg1>
@@ -1138,10 +931,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>2631</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2778" sense="Expansion.Conjunction">
       <Arg1>
@@ -1154,10 +944,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>2778</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3084" sense="Expansion.Conjunction">
       <Arg1>
@@ -1170,10 +957,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>3084</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3505" sense="Expansion.Conjunction">
       <Arg1>
@@ -1186,10 +970,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>3505</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3582" sense="Expansion.Conjunction">
       <Arg1>
@@ -1202,10 +983,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>3582</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3683" sense="Expansion.Conjunction">
       <Arg1>
@@ -1218,10 +996,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>3683</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3726" sense="Expansion.Conjunction">
       <Arg1>
@@ -1234,10 +1009,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>3726</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3800" sense="Expansion.Conjunction">
       <Arg1>
@@ -1250,10 +1022,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>3800</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4008" sense="Expansion.Conjunction">
       <Arg1>
@@ -1266,10 +1035,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>4008</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4074" sense="Expansion.Conjunction">
       <Arg1>
@@ -1282,10 +1048,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>4074</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4273" sense="Expansion.Conjunction">
       <Arg1>
@@ -1298,10 +1061,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>4273</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4826" sense="Comparison.Contrast">
       <Arg1>
@@ -1314,10 +1074,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>And</Text>
-        <BeginOffset>4826</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="5130" sense="Comparison.Contrast">
       <Arg1>
@@ -1330,10 +1087,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>5130</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="5486" sense="Expansion.Conjunction">
       <Arg1>
@@ -1346,10 +1100,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>5486</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="5616" sense="Expansion.Conjunction">
       <Arg1>
@@ -1362,10 +1113,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>5616</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6114" sense="Expansion.Conjunction">
       <Arg1>
@@ -1378,10 +1126,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>6114</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6661" sense="Expansion.Conjunction">
       <Arg1>
@@ -1394,10 +1139,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>6661</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="7191" sense="Expansion.Conjunction">
       <Arg1>
@@ -1410,10 +1152,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>7191</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="8121" sense="Expansion.Conjunction">
       <Arg1>
@@ -1426,10 +1165,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>8121</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="8130" sense="Expansion.Conjunction">
       <Arg1>
@@ -1442,10 +1178,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>8130</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="9205" sense="Expansion.Conjunction">
       <Arg1>
@@ -1458,10 +1191,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>9205</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="9321" sense="Expansion.Conjunction">
       <Arg1>
@@ -1474,10 +1204,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>9321</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1138" sense="Expansion.Conjunction">
       <Arg1>
@@ -1490,10 +1217,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>1138</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1690" sense="Expansion.Conjunction">
       <Arg1>
@@ -1506,10 +1230,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>1690</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1814" sense="Expansion.Conjunction">
       <Arg1>
@@ -1522,10 +1243,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>1814</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1925" sense="Expansion.Conjunction">
       <Arg1>
@@ -1538,10 +1256,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>And</Text>
-        <BeginOffset>1925</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2276" sense="Expansion.Conjunction">
       <Arg1>
@@ -1554,10 +1269,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>2276</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2770" sense="Expansion.Conjunction">
       <Arg1>
@@ -1570,10 +1282,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>2770</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="253" sense="Expansion.Conjunction">
       <Arg1>
@@ -1586,10 +1295,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>253</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="516" sense="Expansion.Conjunction">
       <Arg1>
@@ -1602,10 +1308,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>516</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1092" sense="Expansion.Conjunction">
       <Arg1>
@@ -1618,10 +1321,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>1092</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1114" sense="Expansion.Conjunction">
       <Arg1>
@@ -1634,10 +1334,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>1114</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1750" sense="Expansion.Conjunction">
       <Arg1>
@@ -1650,10 +1347,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>1750</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1941" sense="Expansion.Conjunction">
       <Arg1>
@@ -1666,10 +1360,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>1941</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2544" sense="Expansion.Conjunction">
       <Arg1>
@@ -1682,10 +1373,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>2544</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2697" sense="Expansion.Conjunction">
       <Arg1>
@@ -1698,10 +1386,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>2697</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3187" sense="Contingency.Condition.Arg1-as-cond">
       <Arg1>
@@ -1714,10 +1399,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>3187</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3224" sense="Expansion.Conjunction">
       <Arg1>
@@ -1730,10 +1412,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>3224</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3594" sense="Expansion.Conjunction">
       <Arg1>
@@ -1746,10 +1425,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>3594</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3841" sense="Expansion.Conjunction">
       <Arg1>
@@ -1762,10 +1438,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>3841</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3910" sense="Expansion.Conjunction">
       <Arg1>
@@ -1778,10 +1451,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>And</Text>
-        <BeginOffset>3910</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4084" sense="Expansion.Conjunction">
       <Arg1>
@@ -1794,10 +1464,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>4084</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4346" sense="Expansion.Conjunction">
       <Arg1>
@@ -1810,10 +1477,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>4346</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4433" sense="Expansion.Conjunction">
       <Arg1>
@@ -1826,10 +1490,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>4433</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4592" sense="Expansion.Conjunction">
       <Arg1>
@@ -1842,10 +1503,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>4592</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4693" sense="Expansion.Conjunction">
       <Arg1>
@@ -1858,10 +1516,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>4693</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4854" sense="Expansion.Conjunction">
       <Arg1>
@@ -1874,10 +1529,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>4854</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="5028" sense="Expansion.Conjunction">
       <Arg1>
@@ -1890,10 +1542,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>5028</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="5818" sense="Expansion.Conjunction">
       <Arg1>
@@ -1906,10 +1555,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>5818</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6522" sense="Expansion.Conjunction">
       <Arg1>
@@ -1922,10 +1568,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>6522</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="744" sense="Expansion.Conjunction">
       <Arg1>
@@ -1938,10 +1581,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>744</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1495" sense="Expansion.Conjunction">
       <Arg1>
@@ -1954,10 +1594,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>1495</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1559" sense="Expansion.Conjunction">
       <Arg1>
@@ -1970,10 +1607,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>1559</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1703" sense="Expansion.Conjunction">
       <Arg1>
@@ -1986,10 +1620,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>And</Text>
-        <BeginOffset>1703</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1722" sense="Expansion.Conjunction">
       <Arg1>
@@ -2002,10 +1633,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>1722</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1791" sense="Expansion.Conjunction">
       <Arg1>
@@ -2018,10 +1646,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>1791</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2022" sense="Expansion.Conjunction">
       <Arg1>
@@ -2034,10 +1659,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>2022</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2039" sense="Expansion.Conjunction">
       <Arg1>
@@ -2050,10 +1672,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>2039</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2220" sense="Expansion.Conjunction">
       <Arg1>
@@ -2066,10 +1685,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>And</Text>
-        <BeginOffset>2220</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2320" sense="Expansion.Conjunction">
       <Arg1>
@@ -2082,10 +1698,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>2320</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2337" sense="Expansion.Conjunction">
       <Arg1>
@@ -2098,10 +1711,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>2337</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2356" sense="Expansion.Conjunction">
       <Arg1>
@@ -2114,10 +1724,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>2356</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2408" sense="Expansion.Conjunction">
       <Arg1>
@@ -2130,10 +1737,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>And</Text>
-        <BeginOffset>2408</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2447" sense="Expansion.Conjunction">
       <Arg1>
@@ -2146,10 +1750,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>2447</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4181" sense="Expansion.Conjunction">
       <Arg1>
@@ -2162,10 +1763,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>4181</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4457" sense="Expansion.Conjunction">
       <Arg1>
@@ -2178,10 +1776,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>4457</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4814" sense="Expansion.Conjunction">
       <Arg1>
@@ -2194,10 +1789,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>4814</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4872" sense="Expansion.Conjunction">
       <Arg1>
@@ -2210,10 +1802,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>4872</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="5095" sense="Expansion.Conjunction">
       <Arg1>
@@ -2226,10 +1815,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>5095</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="5953" sense="Expansion.Conjunction">
       <Arg1>
@@ -2242,10 +1828,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>5953</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6288" sense="Expansion.Conjunction">
       <Arg1>
@@ -2258,10 +1841,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>6288</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6435" sense="Expansion.Conjunction">
       <Arg1>
@@ -2274,10 +1854,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>6435</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6611" sense="Expansion.Conjunction">
       <Arg1>
@@ -2290,10 +1867,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>6611</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6698" sense="Expansion.Conjunction">
       <Arg1>
@@ -2306,10 +1880,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>6698</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6780" sense="Expansion.Conjunction">
       <Arg1>
@@ -2322,10 +1893,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>6780</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6944" sense="Expansion.Conjunction">
       <Arg1>
@@ -2338,10 +1906,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>6944</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="7271" sense="Expansion.Conjunction">
       <Arg1>
@@ -2354,10 +1919,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>And</Text>
-        <BeginOffset>7271</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="7505" sense="Expansion.Conjunction">
       <Arg1>
@@ -2370,10 +1932,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>7505</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="7645" sense="Expansion.Conjunction">
       <Arg1>
@@ -2386,10 +1945,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>7645</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="7828" sense="Expansion.Conjunction">
       <Arg1>
@@ -2402,10 +1958,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>7828</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="8075" sense="Expansion.Conjunction">
       <Arg1>
@@ -2418,10 +1971,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>8075</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="347" sense="Expansion.Conjunction">
       <Arg1>
@@ -2434,10 +1984,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>And</Text>
-        <BeginOffset>347</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="465" sense="Expansion.Conjunction">
       <Arg1>
@@ -2450,10 +1997,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>465</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="632" sense="Expansion.Conjunction">
       <Arg1>
@@ -2466,10 +2010,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>632</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="837" sense="Expansion.Conjunction">
       <Arg1>
@@ -2482,10 +2023,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>837</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1266" sense="Expansion.Conjunction">
       <Arg1>
@@ -2498,10 +2036,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>1266</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1571" sense="Expansion.Conjunction">
       <Arg1>
@@ -2514,10 +2049,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>1571</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2893" sense="Expansion.Conjunction">
       <Arg1>
@@ -2530,10 +2062,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>2893</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2903" sense="Expansion.Conjunction">
       <Arg1>
@@ -2546,10 +2075,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>and</Text>
-        <BeginOffset>2903</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="especially when" Size="1" senseList="Expansion.Level-of-detail.Arg2-as-detail">
@@ -2564,10 +2090,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>especially when</Text>
-        <BeginOffset>223</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="by" Size="5" senseList="Expansion.Manner.Arg2-as-manner">
@@ -2582,10 +2105,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>by</Text>
-        <BeginOffset>2590</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6294" sense="Expansion.Manner.Arg2-as-manner">
       <Arg1>
@@ -2598,10 +2118,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>by</Text>
-        <BeginOffset>6294</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="9078" sense="Expansion.Manner.Arg2-as-manner">
       <Arg1>
@@ -2614,10 +2131,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>by</Text>
-        <BeginOffset>9078</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2481" sense="Expansion.Manner.Arg2-as-manner">
       <Arg1>
@@ -2630,10 +2144,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>by</Text>
-        <BeginOffset>2481</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2808" sense="Expansion.Manner.Arg2-as-manner">
       <Arg1>
@@ -2646,10 +2157,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>by</Text>
-        <BeginOffset>2808</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="but indeed" Size="1" senseList="Expansion.Conjunction">
@@ -2664,10 +2172,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>but indeed</Text>
-        <BeginOffset>3264</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="where" Size="1" senseList="Comparison.Contrast">
@@ -2682,10 +2187,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>Where</Text>
-        <BeginOffset>2068</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="because" Size="15" senseList="Contingency.Cause+Belief.Reason+Belief!#!Contingency.Cause.Reason">
@@ -2700,10 +2202,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>because</Text>
-        <BeginOffset>431</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="9420" sense="Contingency.Cause.Reason">
       <Arg1>
@@ -2716,10 +2215,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>because</Text>
-        <BeginOffset>9420</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="9641" sense="Contingency.Cause.Reason">
       <Arg1>
@@ -2732,10 +2228,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>because</Text>
-        <BeginOffset>9641</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1023" sense="Contingency.Cause.Reason">
       <Arg1>
@@ -2748,10 +2241,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>because</Text>
-        <BeginOffset>1023</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1226" sense="Contingency.Cause.Reason">
       <Arg1>
@@ -2764,10 +2254,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>because</Text>
-        <BeginOffset>1226</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3618" sense="Contingency.Cause.Reason">
       <Arg1>
@@ -2780,10 +2267,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>because</Text>
-        <BeginOffset>3618</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3676" sense="Contingency.Cause.Reason">
       <Arg1>
@@ -2796,10 +2280,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>because</Text>
-        <BeginOffset>3676</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6812" sense="Contingency.Cause.Reason">
       <Arg1>
@@ -2812,10 +2293,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>because</Text>
-        <BeginOffset>6812</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="774" sense="Contingency.Cause.Reason">
       <Arg1>
@@ -2828,10 +2306,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>because</Text>
-        <BeginOffset>774</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3036" sense="Contingency.Cause.Reason">
       <Arg1>
@@ -2844,10 +2319,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>because</Text>
-        <BeginOffset>3036</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="5688" sense="Contingency.Cause.Reason">
       <Arg1>
@@ -2860,10 +2332,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>because</Text>
-        <BeginOffset>5688</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="7963" sense="Contingency.Cause.Reason">
       <Arg1>
@@ -2876,10 +2345,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>because</Text>
-        <BeginOffset>7963</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="8428" sense="Contingency.Cause.Reason">
       <Arg1>
@@ -2892,10 +2358,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>because</Text>
-        <BeginOffset>8428</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="8495" sense="Contingency.Cause.Reason">
       <Arg1>
@@ -2908,10 +2371,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>because</Text>
-        <BeginOffset>8495</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3233" sense="Contingency.Cause.Reason">
       <Arg1>
@@ -2924,10 +2384,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>because</Text>
-        <BeginOffset>3233</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="so" Size="15" senseList="Contingency.Cause+SpeechAct.Result+SpeechAct!#!Undecided!#!Contingency.Cause+Belief.Result+Belief!#!Contingency.Cause.Result">
@@ -2942,10 +2399,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>So</Text>
-        <BeginOffset>2730</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3229" sense="Contingency.Cause+SpeechAct.Result+SpeechAct">
       <Arg1>
@@ -2958,10 +2412,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>So</Text>
-        <BeginOffset>3229</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3311" sense="Contingency.Cause+SpeechAct.Result+SpeechAct">
       <Arg1>
@@ -2974,10 +2425,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>So</Text>
-        <BeginOffset>3311</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3918" sense="Contingency.Cause+SpeechAct.Result+SpeechAct">
       <Arg1>
@@ -2990,10 +2438,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>So</Text>
-        <BeginOffset>3918</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4958" sense="Contingency.Cause+SpeechAct.Result+SpeechAct">
       <Arg1>
@@ -3006,10 +2451,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>So</Text>
-        <BeginOffset>4958</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="5310" sense="Undecided">
       <Arg1>
@@ -3022,10 +2464,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>So</Text>
-        <BeginOffset>5310</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="5852" sense="Contingency.Cause.Result">
       <Arg1>
@@ -3038,10 +2477,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>so</Text>
-        <BeginOffset>5852</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6750" sense="Contingency.Cause.Result">
       <Arg1>
@@ -3054,10 +2490,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>so</Text>
-        <BeginOffset>6750</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="7290" sense="Contingency.Cause+Belief.Result+Belief">
       <Arg1>
@@ -3070,10 +2503,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>So</Text>
-        <BeginOffset>7290</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1929" sense="Contingency.Cause.Result">
       <Arg1>
@@ -3086,10 +2516,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>so</Text>
-        <BeginOffset>1929</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2301" sense="Contingency.Cause.Result">
       <Arg1>
@@ -3102,10 +2529,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>So</Text>
-        <BeginOffset>2301</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2860" sense="Contingency.Cause.Result">
       <Arg1>
@@ -3118,10 +2542,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>so</Text>
-        <BeginOffset>2860</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4022" sense="Contingency.Cause.Result">
       <Arg1>
@@ -3134,10 +2555,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>so</Text>
-        <BeginOffset>4022</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6702" sense="Contingency.Cause.Result">
       <Arg1>
@@ -3150,10 +2568,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>so</Text>
-        <BeginOffset>6702</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="351" sense="Contingency.Cause.Result">
       <Arg1>
@@ -3166,10 +2581,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>so</Text>
-        <BeginOffset>351</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="if" Size="13" senseList="Contingency.Condition+SpeechAct!#!Contingency.Condition.Arg2-as-cond">
@@ -3184,10 +2596,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>if</Text>
-        <BeginOffset>1485</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2733" sense="Contingency.Condition+SpeechAct">
       <Arg1>
@@ -3200,10 +2609,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>if</Text>
-        <BeginOffset>2733</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="5448" sense="Contingency.Condition+SpeechAct">
       <Arg1>
@@ -3216,10 +2622,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>if</Text>
-        <BeginOffset>5448</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6894" sense="Contingency.Condition.Arg2-as-cond">
       <Arg1>
@@ -3232,10 +2635,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>If</Text>
-        <BeginOffset>6894</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="7883" sense="Contingency.Condition.Arg2-as-cond">
       <Arg1>
@@ -3248,10 +2648,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>if</Text>
-        <BeginOffset>7883</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="8934" sense="Contingency.Condition.Arg2-as-cond">
       <Arg1>
@@ -3264,10 +2661,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>if</Text>
-        <BeginOffset>8934</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1619" sense="Contingency.Condition.Arg2-as-cond">
       <Arg1>
@@ -3280,10 +2674,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>If</Text>
-        <BeginOffset>1619</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3974" sense="Contingency.Condition.Arg2-as-cond">
       <Arg1>
@@ -3296,10 +2687,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>If</Text>
-        <BeginOffset>3974</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6139" sense="Contingency.Condition.Arg2-as-cond">
       <Arg1>
@@ -3312,10 +2700,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>If</Text>
-        <BeginOffset>6139</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="485" sense="Contingency.Condition.Arg2-as-cond">
       <Arg1>
@@ -3328,10 +2713,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>If</Text>
-        <BeginOffset>485</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3226" sense="Contingency.Condition.Arg2-as-cond">
       <Arg1>
@@ -3344,10 +2726,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>if</Text>
-        <BeginOffset>3226</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="7048" sense="Contingency.Condition.Arg2-as-cond">
       <Arg1>
@@ -3360,10 +2739,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>If</Text>
-        <BeginOffset>7048</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="7161" sense="Contingency.Condition.Arg2-as-cond">
       <Arg1>
@@ -3376,10 +2752,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>if</Text>
-        <BeginOffset>7161</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="or" Size="5" senseList="Expansion.Disjunction">
@@ -3394,10 +2767,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>or</Text>
-        <BeginOffset>3180</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="6777" sense="Expansion.Disjunction">
       <Arg1>
@@ -3410,10 +2780,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>or</Text>
-        <BeginOffset>6777</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="8070" sense="Expansion.Disjunction">
       <Arg1>
@@ -3426,10 +2793,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>or</Text>
-        <BeginOffset>8070</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="8886" sense="Expansion.Disjunction">
       <Arg1>
@@ -3442,10 +2806,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>or</Text>
-        <BeginOffset>8886</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="3309" sense="Expansion.Disjunction">
       <Arg1>
@@ -3458,10 +2819,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>or</Text>
-        <BeginOffset>3309</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="though" Size="1" senseList="Expansion.Level-of-detail.Arg2-as-detail">
@@ -3476,10 +2834,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>though</Text>
-        <BeginOffset>3306</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="so that" Size="1" senseList="Contingency.Purpose.Arg2-as-goal">
@@ -3494,10 +2849,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>so that</Text>
-        <BeginOffset>3790</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="in order" Size="2" senseList="Contingency.Purpose.Arg2-as-goal">
@@ -3512,10 +2864,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>in order</Text>
-        <BeginOffset>1397</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2953" sense="Contingency.Purpose.Arg2-as-goal">
       <Arg1>
@@ -3528,10 +2877,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>in order</Text>
-        <BeginOffset>2953</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="in short" Size="1" senseList="Expansion.Level-of-detail.Arg1-as-detail">
@@ -3546,10 +2892,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>In short</Text>
-        <BeginOffset>2462</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="also" Size="2" senseList="Expansion.Conjunction">
@@ -3564,10 +2907,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>also</Text>
-        <BeginOffset>1912</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="8365" sense="Expansion.Conjunction">
       <Arg1>
@@ -3580,10 +2920,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>also</Text>
-        <BeginOffset>8365</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="then" Size="7" senseList="Temporal.Asynchronous.Precedence">
@@ -3598,10 +2935,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>then</Text>
-        <BeginOffset>2169</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2280" sense="Temporal.Asynchronous.Precedence">
       <Arg1>
@@ -3614,10 +2948,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>then</Text>
-        <BeginOffset>2280</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="4697" sense="Temporal.Asynchronous.Precedence">
       <Arg1>
@@ -3630,10 +2961,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>then</Text>
-        <BeginOffset>4697</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="5004" sense="Temporal.Asynchronous.Precedence">
       <Arg1>
@@ -3646,10 +2974,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>Then</Text>
-        <BeginOffset>5004</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2324" sense="Temporal.Asynchronous.Precedence">
       <Arg1>
@@ -3662,10 +2987,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>then</Text>
-        <BeginOffset>2324</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2341" sense="Temporal.Asynchronous.Precedence">
       <Arg1>
@@ -3678,10 +3000,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>then</Text>
-        <BeginOffset>2341</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="2360" sense="Temporal.Asynchronous.Precedence">
       <Arg1>
@@ -3694,10 +3013,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>then</Text>
-        <BeginOffset>2360</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="at the same time" Size="1" senseList="Temporal.Synchronous">
@@ -3712,10 +3028,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>at the same time</Text>
-        <BeginOffset>9209</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="with" Size="1" senseList="Expansion.Level-of-detail.Arg2-as-detail">
@@ -3730,10 +3043,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>with</Text>
-        <BeginOffset>3807</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="as" Size="8" senseList="Temporal.Synchronous!#!Comparison.Similarity">
@@ -3748,10 +3058,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>As</Text>
-        <BeginOffset>427</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="752" sense="Temporal.Synchronous">
       <Arg1>
@@ -3764,10 +3071,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>As</Text>
-        <BeginOffset>752</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="822" sense="Temporal.Synchronous">
       <Arg1>
@@ -3780,10 +3084,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>as</Text>
-        <BeginOffset>822</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1507" sense="Temporal.Synchronous">
       <Arg1>
@@ -3796,10 +3097,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>as</Text>
-        <BeginOffset>1507</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1755" sense="Temporal.Synchronous">
       <Arg1>
@@ -3812,10 +3110,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>as</Text>
-        <BeginOffset>1755</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="1949" sense="Temporal.Synchronous">
       <Arg1>
@@ -3828,10 +3123,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>as</Text>
-        <BeginOffset>1949</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="8561" sense="Temporal.Synchronous">
       <Arg1>
@@ -3844,10 +3136,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>as</Text>
-        <BeginOffset>8561</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
     <Annotation conBeginOffset="819" sense="Comparison.Similarity">
       <Arg1>
@@ -3860,10 +3149,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>as</Text>
-        <BeginOffset>819</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="if_if_if" Size="1" senseList="Contingency.Condition.Arg2-as-cond">
@@ -3878,10 +3164,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>if</Text>
-        <BeginOffset>5933</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="until" Size="1" senseList="Contingency.Condition.Arg2-as-cond">
@@ -3896,10 +3179,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>Until</Text>
-        <BeginOffset>3711</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
   <Connective Item="since" Size="1" senseList="Contingency.Cause.Reason">
@@ -3914,10 +3194,7 @@
       </Arg2>
       <Mod/>
       <Supp1/>
-      <Supp2>
-        <Text>since</Text>
-        <BeginOffset>8735</BeginOffset>
-      </Supp2>
+      <Supp2/>
     </Annotation>
   </Connective>
 </Document>

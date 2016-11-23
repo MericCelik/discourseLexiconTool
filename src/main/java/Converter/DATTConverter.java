@@ -75,7 +75,7 @@ public class DATTConverter {
                     connectiveString = connectiveString + "_" + s.getText().toLowerCase();
                 }
                 connectiveString = connectiveString.substring(1);
-                if (!connectiveList.contains(connectiveString.toLowerCase())) {
+                if (!connectiveList.contains(connectiveString)) {
                     connectiveList.add(connectiveString);
                 }
                 // reading connective and arguments
