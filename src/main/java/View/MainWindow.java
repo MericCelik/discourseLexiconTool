@@ -537,7 +537,7 @@ public class MainWindow extends javax.swing.JFrame {
             @Override
             public void run() {
                 try {
-                    new MainWindow("testing_datt.xml").setVisible(true);
+                    new MainWindow("testing_pdtb.xml").setVisible(true);
                 } catch (IOException | SAXException | ParserConfigurationException ex) {
                     Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
                 }

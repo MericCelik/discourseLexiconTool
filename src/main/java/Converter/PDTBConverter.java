@@ -6,11 +6,17 @@
 package Converter;
 
 import core.Annotation;
+import core.Span;
 import java.io.File;
 import java.io.IOException;
+import java.nio.charset.Charset;
+import java.nio.file.Files;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.HashMap;
+import java.util.List;
+import java.util.Scanner;
 import javax.xml.parsers.ParserConfigurationException;
 import org.xml.sax.SAXException;
 
@@ -20,17 +26,17 @@ import org.xml.sax.SAXException;
  */
 public class PDTBConverter {
 
-    String delimiter = "!#!";
+    private Charset charset = Charset.forName("UTF-8");
 
     private ArrayList<String> connectiveList = new ArrayList<>();
     private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<>();
 
-    public PDTBConverter(String annotationDir, String textDir) throws IOException {
+    public PDTBConverter(String annotationDir, String textDir, String outputDir) throws IOException {
         connectiveAnnotationMap = readPDTBRelations(annotationDir, textDir);
-
+        ConverterUtils.writeToFile(outputDir, connectiveAnnotationMap, "PDTB");
     }
 
-    public HashMap<String, ArrayList<Annotation>> readPDTBRelations(String annotationDir, String textDir) throws IOException {
+    private HashMap<String, ArrayList<Annotation>> readPDTBRelations(String annotationDir, String textDir) throws IOException {
 
         if (checkDirectory(annotationDir, textDir)) {
 
@@ -41,22 +47,78 @@ public class PDTBConverter {
             File textFolder = new File(textDir);
             File[] arrayOfTextFiles = textFolder.listFiles();
             ArrayList<File> listOfTextFiles = new ArrayList<>(Arrays.asList(arrayOfTextFiles));
-            
-            for(File file : listOfAnnotationFiles)
-            {
-                    
-            
+
+            for (File annotationFile : listOfAnnotationFiles) {
+                System.out.println("PROCESSING ANNOTATION FILE: " + annotationFile.getName());
+                File textFile = null;
+                for (File textTmp : listOfTextFiles) {
+                    if (textTmp.getName().equals(annotationFile.getName())) {
+                        textFile = textTmp;
+                    }
+                }
+
+                List<String> annotationRaw = Files.readAllLines(annotationFile.toPath(), charset);
+                String textString = new Scanner(textFile, "UTF-8").useDelimiter("/n/r").next();
+                textString = textString.replaceAll("\n", "");
+                for (String annotation : annotationRaw) {
+
+                    if (!annotation.contains("Rejected")) {
+                        //  System.out.println(annotation);
+                        String[] annotationTokens = annotation.split("\\|");
+                        if (annotationTokens[0].equalsIgnoreCase("explicit")) {
+                            ArrayList<Span> conSpans = extractArgument(annotationTokens[1], textString, "Conn");
+                            String connectiveString = "";
+                            for (Span s : conSpans) {
+                                connectiveString = connectiveString + "_" + s.getText().toLowerCase();
+                            }
+                            connectiveString = connectiveString.substring(1);
+                            connectiveList.add(connectiveString);
+                            ArrayList<Span> arg1Spans = extractArgument(annotationTokens[14], textString, "Arg1");
+                            ArrayList<Span> arg2Spans = extractArgument(annotationTokens[20], textString, "Arg2");
+                            ArrayList<Span> supp1Spans = new ArrayList<>();// extractArgument(annotationTokens[32], textString, "Supp1");
+                            ArrayList<Span> supp2Spans = extractArgument(annotationTokens[31], textString, "Supp2");
+                            ArrayList<Span> modSpans = new ArrayList<>();// extractArgument(annotationTokens[32], textString, "Mod");
+
+                            String sense = annotationTokens[8];
+
+                            Annotation currentAnnotation = new Annotation(conSpans, arg1Spans, arg2Spans, modSpans, supp1Spans, supp2Spans, sense, "", "", "");
+                            if (connectiveAnnotationMap.keySet().contains(connectiveString)) {
+                                ArrayList<Annotation> tempList = connectiveAnnotationMap.get(connectiveString);
+                                tempList.add(currentAnnotation);
+                                connectiveAnnotationMap.put(connectiveString, tempList);
+                            } else {
+                                ArrayList<Annotation> tempList = new ArrayList<>();
+                                tempList.add(currentAnnotation);
+                                connectiveAnnotationMap.put(connectiveString, tempList);
+                            }
+                        }
+                    }
+                }
             }
-            
-            
-            
         }
-        return null;
+        return connectiveAnnotationMap;
+    }
+
+    public ArrayList<Span> extractArgument(String rawIndex, String textString, String belongsTo) {
+        ArrayList<Span> argSpans = new ArrayList<>();
+        // 1895..1911;1917..2000
+        if (!rawIndex.equals("")) {
+            String multipleSelection[] = rawIndex.split(";");
+            for (String selection : multipleSelection) {
+                String indexArray[] = selection.split("\\.\\.");
+                int begIndex = Integer.parseInt(indexArray[0]);
+                int endIndex = Integer.parseInt(indexArray[1]);
+
+                Span span = new Span(textString.substring(begIndex, endIndex), begIndex, belongsTo);
+                argSpans.add(span);
+            }
+        }
+        return argSpans;
     }
 
     public static void main(String[] args) throws IOException {
 
-        PDTBConverter pdtb = new PDTBConverter("annotations\\PDTB\\Annotation", "annotations\\PDTB\\Text");
+        PDTBConverter pdtb = new PDTBConverter("annotations\\PDTB\\Annotation", "annotations\\PDTB\\Text", "testing_pdtb.xml");
 
     }
 
@@ -73,11 +135,14 @@ public class PDTBConverter {
         for (String fileName : listOfAnnotationFiles) {
             if (!listOfTextFiles.contains(fileName)) {
                 System.out.println("There is not any text file for the annotation file: " + fileName);
+                System.out.println("Names of the Annotation and Text file must be identical!");
+
                 identical = false;
             }
         }
-        if(!identical)
+        if (!identical) {
             System.out.println("EXIT");
+        }
         return identical;
     }
 }
