@@ -58,6 +58,7 @@ public class fileChooser extends javax.swing.JFrame {
         });
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Convert and Run");
 
         RadioButtonDATT.setText("DATT");
         buttonGroup.add(RadioButtonDATT);
