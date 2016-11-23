@@ -27,7 +27,6 @@ public class DATTConverter {
 
     String delimiter = "!#!";
 
-    private ArrayList<Annotation> annotationList;
     private ArrayList<String> connectiveList = new ArrayList<>();
     private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<>();
 
@@ -38,7 +37,7 @@ public class DATTConverter {
     }
 
     public static void main(String[] args) throws ParserConfigurationException, SAXException, IOException {
-        DATTConverter d = new DATTConverter("annotations//explicit.xml", "testing.xml");
+        DATTConverter d = new DATTConverter("annotations//DATT//explicit.xml", "testing_datt.xml");
     }
 
     public HashMap<String, ArrayList<Annotation>> readDATTRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
@@ -49,7 +48,6 @@ public class DATTConverter {
         Document doc = dBuilder.parse(fXmlFile);
         doc.getDocumentElement().normalize();
 
-        annotationList = new ArrayList<>();
         NodeList nList = doc.getElementsByTagName("Relation");
         for (int temp = 0; temp < nList.getLength(); temp++) {
 
@@ -172,93 +170,12 @@ public class DATTConverter {
                     Element supp1Element = null;
                     Element supp2Element = null;
 
-                    Element arg1TextElement = doc.createElement("Text");
-                    Element arg1OrderElement = doc.createElement("BeginOffset");
+                    nodeCreation(doc, arg1Spans, arg1Element, "Arg1", annotationElement);
+                    nodeCreation(doc, arg2Spans, arg2Element, "Arg2", annotationElement);
+                    nodeCreation(doc, modSpans, modElement, "Mod", annotationElement);
+                    nodeCreation(doc, supp1Spans, supp1Element, "Supp1", annotationElement);
+                    nodeCreation(doc, supp2Spans, supp2Element, "Supp2", annotationElement);
 
-                    Element arg2TextElement = doc.createElement("Text");
-                    Element arg2OrderElement = doc.createElement("BeginOffset");
-
-                    ArrayList<String> arg1OffsetText = this.getArgumentsForXML(arg1Spans);
-                    ArrayList<String> arg2OffsetText = this.getArgumentsForXML(arg2Spans);
-
-                    arg1OrderElement.appendChild(doc.createTextNode(arg1OffsetText.get(0)));
-                    arg1TextElement.appendChild(doc.createTextNode(arg1OffsetText.get(1)));
-
-                    arg2OrderElement.appendChild(doc.createTextNode(arg2OffsetText.get(0)));
-                    arg2TextElement.appendChild(doc.createTextNode(arg2OffsetText.get(1)));
-
-                    annotationElement.appendChild(arg1Element);
-                    annotationElement.appendChild(arg2Element);
-
-                    arg1Element.appendChild(arg1TextElement);
-                    arg1Element.appendChild(arg1OrderElement);
-
-                    arg2Element.appendChild(arg2TextElement);
-                    arg2Element.appendChild(arg2OrderElement);
-
-                    if (!modSpans.isEmpty()) {
-                        modElement = doc.createElement("Mod");
-                        ArrayList<String> modOffsetText = this.getArgumentsForXML(modSpans);
-
-                        Element modTextElement = doc.createElement("Text");
-                        Element modOrderElement = doc.createElement("BeginOffset");
-
-                        modOrderElement.appendChild(doc.createTextNode(modOffsetText.get(0)));
-                        modTextElement.appendChild(doc.createTextNode(modOffsetText.get(1)));
-
-                        annotationElement.appendChild(modElement);
-                        modElement.appendChild(modTextElement);
-                        modElement.appendChild(modOrderElement);
-                    } else {
-                        modElement = doc.createElement("Mod");
-                        Element emptyTextElement = doc.createElement("Mod");
-
-                        emptyTextElement.appendChild(doc.createTextNode(""));
-
-                        annotationElement.appendChild(modElement);
-                    }
-                    if (!supp1Spans.isEmpty()) {
-                        supp1Element = doc.createElement("Supp1");
-                        ArrayList<String> modOffsetText = this.getArgumentsForXML(supp1Spans);
-
-                        Element Supp1TextElement = doc.createElement("Text");
-                        Element Supp1OrderElement = doc.createElement("BeginOffset");
-
-                        Supp1OrderElement.appendChild(doc.createTextNode(modOffsetText.get(0)));
-                        Supp1TextElement.appendChild(doc.createTextNode(modOffsetText.get(1)));
-
-                        annotationElement.appendChild(supp1Element);
-                        supp1Element.appendChild(Supp1TextElement);
-                        supp1Element.appendChild(Supp1OrderElement);
-                    } else {
-                        supp1Element = doc.createElement("Supp1");
-                        Element emptyTextElement = doc.createElement("Supp1");
-
-                        emptyTextElement.appendChild(doc.createTextNode(""));
-
-                        annotationElement.appendChild(supp1Element);
-                    }
-                    if (!supp2Spans.isEmpty()) {
-                        supp2Element = doc.createElement("Supp2");
-                        ArrayList<String> modOffsetText = this.getArgumentsForXML(supp2Spans);
-
-                        Element Supp2TextElement = doc.createElement("Text");
-                        Element Supp2OrderElement = doc.createElement("BeginOffset");
-
-                        Supp2OrderElement.appendChild(doc.createTextNode(modOffsetText.get(0)));
-                        Supp2TextElement.appendChild(doc.createTextNode(modOffsetText.get(1)));
-
-                        annotationElement.appendChild(supp2Element);
-                        supp2Element.appendChild(Supp2TextElement);
-                        supp2Element.appendChild(Supp2OrderElement);
-                    } else {
-                        supp2Element = doc.createElement("Supp2");
-                        Element emptyTextElement = doc.createElement("Supp2");
-
-                        emptyTextElement.appendChild(doc.createTextNode(""));
-
-                        annotationElement.appendChild(supp2Element);
-                    }
                 }
                 String senseList = "";
                 for (String str : conSenseSet) {
@@ -281,6 +198,28 @@ public class DATTConverter {
         }
         System.out.println("Done");
 
+    }
+
+    private void nodeCreation(Document doc, ArrayList<Span> spanList, Element addedElement, String tag, Element annotationElement) {
+        if (!spanList.isEmpty()) {
+            addedElement = doc.createElement(tag);
+            ArrayList<String> OffsetText = this.getArgumentsForXML(spanList);
+
+            Element addedTextElement = doc.createElement("Text");
+            Element addedOrderElement = doc.createElement("BeginOffset");
+
+            addedOrderElement.appendChild(doc.createTextNode(OffsetText.get(0)));
+            addedTextElement.appendChild(doc.createTextNode(OffsetText.get(1)));
+
+            annotationElement.appendChild(addedElement);
+            addedElement.appendChild(addedTextElement);
+            addedElement.appendChild(addedOrderElement);
+        } else {
+            addedElement = doc.createElement(tag);
+            Element emptyTextElement = doc.createElement(tag);
+            emptyTextElement.appendChild(doc.createTextNode(""));
+            annotationElement.appendChild(addedElement);
+        }
     }
 
     public ArrayList<Span> getContext(NodeList nodeList, String belongsTo) {

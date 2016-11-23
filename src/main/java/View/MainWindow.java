@@ -24,7 +24,6 @@ import java.util.TreeMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.ImageIcon;
-import javax.swing.JDialog;
 import javax.swing.JOptionPane;
 import javax.swing.text.DefaultCaret;
 import javax.xml.parsers.ParserConfigurationException;
@@ -538,7 +537,7 @@ public class MainWindow extends javax.swing.JFrame {
             @Override
             public void run() {
                 try {
-                    new MainWindow("testing.xml").setVisible(true);
+                    new MainWindow("testing_datt.xml").setVisible(true);
                 } catch (IOException | SAXException | ParserConfigurationException ex) {
                     Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
                 }
