@@ -51,6 +51,7 @@ public class fileChooser extends javax.swing.JFrame {
         Button_run = new javax.swing.JButton();
 
         FileChooser_annotation.setMinimumSize(new java.awt.Dimension(590, 400));
+        FileChooser_annotation.setFileSelectionMode(FileChooser_annotation.DIRECTORIES_ONLY);
         FileChooser_annotation.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 FileChooser_annotationActionPerformed(evt);
@@ -92,7 +93,7 @@ public class fileChooser extends javax.swing.JFrame {
         Button_ChooseTextFile.setEnabled(false);
         Button_ChooseTextFile.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                Button_ChooseAnnotationFileActionPerformed(evt);
+                Button_ChooseTextFileActionPerformed(evt);
             }
         });
 
@@ -186,7 +187,7 @@ public class fileChooser extends javax.swing.JFrame {
 
     private void FileChooser_annotationActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_FileChooser_annotationActionPerformed
         // TODO add your handling code here:
-        
+
     }//GEN-LAST:event_FileChooser_annotationActionPerformed
 
     private void Button_runActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Button_runActionPerformed
@@ -195,7 +196,7 @@ public class fileChooser extends javax.swing.JFrame {
         if (RadioButtonDATT.isSelected()) {
             try {
                 System.out.println("Selected::: " + TextField_annotation.getText());
-                DATTConverter converterDATT = new DATTConverter(TextField_annotation.getText(), "testing_datt.xml");
+                DATTConverter converterDATT = new DATTConverter(TextField_annotation.getText(), TextField_text.getText());
                 dir = converterDATT.getOutputDir();
             } catch (ParserConfigurationException | SAXException | IOException ex) {
                 Logger.getLogger(fileChooser.class.getName()).log(Level.SEVERE, null, ex);
@@ -220,6 +221,19 @@ public class fileChooser extends javax.swing.JFrame {
             Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
         }
     }//GEN-LAST:event_Button_runActionPerformed
+
+    private void Button_ChooseTextFileActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Button_ChooseTextFileActionPerformed
+        // TODO add your handling code here:
+        int status = FileChooser_annotation.showOpenDialog(null);
+
+        if (status == FileChooser_annotation.APPROVE_OPTION) {
+            File selectedFile = FileChooser_annotation.getSelectedFile();
+            TextField_text.setText(selectedFile.getAbsolutePath());
+            System.out.println("n: " + selectedFile.getAbsolutePath());
+        } else if (status == FileChooser_annotation.CANCEL_OPTION) {
+            System.out.println("canceled");
+        }
+    }//GEN-LAST:event_Button_ChooseTextFileActionPerformed
 
     /**
      * @param args the command line arguments

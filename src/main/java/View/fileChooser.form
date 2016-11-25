@@ -13,6 +13,9 @@
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="FileChooser_annotationActionPerformed"/>
       </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="FileChooser_annotation.setFileSelectionMode(FileChooser_annotation.DIRECTORIES_ONLY);"/>
+      </AuxValues>
     </Component>
   </NonVisualComponents>
   <Properties>
@@ -143,7 +146,7 @@
         <Property name="enabled" type="boolean" value="false"/>
       </Properties>
       <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Button_ChooseAnnotationFileActionPerformed"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Button_ChooseTextFileActionPerformed"/>
       </Events>
     </Component>
     <Component class="javax.swing.JButton" name="Button_run">
