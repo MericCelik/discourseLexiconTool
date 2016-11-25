@@ -24,7 +24,7 @@ import java.util.Scanner;
 public class PDTBConverter {
 
     private Charset charset = Charset.forName("UTF-8");
-    private String outputDir ="";
+    private String outputDir = "";
 
     private ArrayList<String> connectiveList = new ArrayList<>();
     private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<>();
@@ -34,7 +34,6 @@ public class PDTBConverter {
         connectiveAnnotationMap = readPDTBRelations(annotationDir, textDir);
         ConverterUtils.writeToFile(outputDir, connectiveAnnotationMap, "PDTB");
     }
-
 
     private HashMap<String, ArrayList<Annotation>> readPDTBRelations(String annotationDir, String textDir) throws IOException {
 
@@ -79,8 +78,10 @@ public class PDTBConverter {
                             ArrayList<Span> supp2Spans = new ArrayList<>();// extractArgument(annotationTokens[31], textString, "Supp2");
                             ArrayList<Span> modSpans = new ArrayList<>();// extractArgument(annotationTokens[32], textString, "Mod");
 
-                            String sense = annotationTokens[8];
-
+                            String senseArray[] = annotationTokens[8].split("\\.");
+                            String sense = "";
+                            for(String str: senseArray)
+                                sense = sense + ": " +str;
                             Annotation currentAnnotation = new Annotation(conSpans, arg1Spans, arg2Spans, modSpans, supp1Spans, supp2Spans, sense, "", "", "");
                             if (connectiveAnnotationMap.keySet().contains(connectiveString)) {
                                 ArrayList<Annotation> tempList = connectiveAnnotationMap.get(connectiveString);
@@ -144,8 +145,7 @@ public class PDTBConverter {
         }
         return identical;
     }
-    
-    
+
     public String getOutputDir() {
         return outputDir;
     }
