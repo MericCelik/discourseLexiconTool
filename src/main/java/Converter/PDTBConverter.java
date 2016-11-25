@@ -64,7 +64,7 @@ public class PDTBConverter {
                     if (!annotation.contains("Rejected")) {
                         //  System.out.println(annotation);
                         String[] annotationTokens = annotation.split("\\|");
-                        if (annotationTokens[0].equalsIgnoreCase("explicit")) {
+                        if (annotationTokens[0].equalsIgnoreCase("explicit") && !annotationTokens[1].equals("")) {
                             ArrayList<Span> conSpans = extractArgument(annotationTokens[1], textString, "Conn");
                             String connectiveString = "";
                             for (Span s : conSpans) {
@@ -118,7 +118,7 @@ public class PDTBConverter {
 
     public static void main(String[] args) throws IOException {
 
-        PDTBConverter pdtb = new PDTBConverter("annotations\\PDTB\\Annotation", "annotations\\PDTB\\Text", "testing_pdtb.xml");
+        PDTBConverter pdtb = new PDTBConverter("annotations\\PDTB\\TUR\\Ann", "annotations\\PDTB\\TUR\\raw", "testing_pdtb_tur.xml");
 
     }
 
