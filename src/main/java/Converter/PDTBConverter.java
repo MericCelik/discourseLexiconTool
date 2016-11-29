@@ -29,8 +29,17 @@ public class PDTBConverter {
     private ArrayList<String> connectiveList = new ArrayList<>();
     private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<>();
 
-    public PDTBConverter(String annotationDir, String textDir, String outputDir) throws IOException {
-        this.outputDir = outputDir;
+    public PDTBConverter(String annotationDir, String textDir) throws IOException {
+        File theDir = new File("Converted Files");
+        if (!theDir.exists()) {
+            try {
+                theDir.mkdir();
+            } catch (SecurityException se) {
+                //handle it
+            }
+        }
+        
+        this.outputDir = theDir.getAbsolutePath() + "//pdtb";
         connectiveAnnotationMap = readPDTBRelations(annotationDir, textDir);
         ConverterUtils.writeToFile(outputDir, connectiveAnnotationMap, "PDTB");
     }
@@ -119,7 +128,7 @@ public class PDTBConverter {
 
     public static void main(String[] args) throws IOException {
 
-        PDTBConverter pdtb = new PDTBConverter("annotations\\PDTB\\TUR\\Ann", "annotations\\PDTB\\TUR\\raw", "testing_pdtb_tur.xml");
+        PDTBConverter pdtb = new PDTBConverter("annotations\\PDTB\\TUR\\Ann", "annotations\\PDTB\\TUR\\raw");
 
     }
 

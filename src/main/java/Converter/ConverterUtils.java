@@ -26,8 +26,10 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
 /**
- * This class includes several methods which are mainly used in PDTBConverter. Also, it includes a "writeToFile" method which is called by both PDTBConverter and DATTConverter.
- * This method basically saves the read annotations in a way that DLVT can read.
+ * This class includes several methods which are mainly used in PDTBConverter.
+ * Also, it includes a "writeToFile" method which is called by both
+ * PDTBConverter and DATTConverter. This method basically saves the read
+ * annotations in a way that DLVT can read.
  *
  * @author Murathan
  */
@@ -100,15 +102,26 @@ public class ConverterUtils {
 
                 connectiveElement.setAttribute("senseList", senseList.substring(0, senseList.length() - delimiter.length()));
             }
+
+            System.out.println(dir);
+
+            File f = new File(dir + ".dlvt");
+            int fileNo = 2;
+            while (f.getAbsoluteFile().exists() && !f.isDirectory()) {
+                // do something
+                f = new File(dir + fileNo + ".dlvt");
+                fileNo++;
+            }
+
             //write the content into xml file
             Transformer transformer = TransformerFactory.newInstance().newTransformer();
             transformer.setOutputProperty(OutputKeys.INDENT, "yes");
             transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "2");
             DOMSource source = new DOMSource(doc);
 
-            StreamResult result = new StreamResult(new File(dir));
+            StreamResult result = new StreamResult(f);
             transformer.transform(source, result);
-            System.out.println(annotationToolType + " relations has been converted: " + dir);
+            System.out.println(annotationToolType + " relations has been converted: " + f.getPath());
 
         } catch (ParserConfigurationException | TransformerException pce) {
         }

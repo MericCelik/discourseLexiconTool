@@ -9,6 +9,10 @@ import Converter.DATTConverter;
 import Converter.PDTBConverter;
 import java.io.File;
 import java.io.IOException;
+import java.net.URISyntaxException;
+import java.net.URL;
+import java.security.CodeSource;
+import java.security.ProtectionDomain;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.xml.parsers.ParserConfigurationException;
@@ -18,7 +22,7 @@ import org.xml.sax.SAXException;
  *
  * @author Murathan
  */
-public class fileChooser extends javax.swing.JFrame {
+public class fileConverterView extends javax.swing.JFrame {
 
     boolean pdtb = false;
     boolean datt = false;
@@ -27,8 +31,20 @@ public class fileChooser extends javax.swing.JFrame {
     /**
      * Creates new form fileChooser
      */
-    public fileChooser() {
+    public fileConverterView() {
         initComponents();
+    }
+
+    public File getCurrentDirectory() {
+        ProtectionDomain pd = fileConverterView.class.getProtectionDomain();
+        CodeSource cs = pd.getCodeSource();
+        URL location = cs.getLocation();
+        File initialFile = null;
+        try {
+            initialFile = new File(location.toURI());
+        } catch (Exception e) {
+        }
+        return initialFile;
     }
 
     /**
@@ -41,7 +57,7 @@ public class fileChooser extends javax.swing.JFrame {
     private void initComponents() {
 
         buttonGroup = new javax.swing.ButtonGroup();
-        FileChooser_annotation = new javax.swing.JFileChooser();
+        FileChooser_annotation = new javax.swing.JFileChooser(getCurrentDirectory());
         RadioButtonDATT = new javax.swing.JRadioButton();
         RadioButtonPDTB = new javax.swing.JRadioButton();
         TextField_annotation = new javax.swing.JTextField();
@@ -83,7 +99,7 @@ public class fileChooser extends javax.swing.JFrame {
             }
         });
 
-        Button_ChooseAnnotationFile.setText("Choose Annotation File");
+        Button_ChooseAnnotationFile.setText("Choose Annotation Files");
         Button_ChooseAnnotationFile.setEnabled(false);
         Button_ChooseAnnotationFile.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -91,7 +107,7 @@ public class fileChooser extends javax.swing.JFrame {
             }
         });
 
-        Button_ChooseTextFile.setText("Choose Text File");
+        Button_ChooseTextFile.setText("Choose Text Files");
         Button_ChooseTextFile.setEnabled(false);
         Button_ChooseTextFile.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -110,11 +126,11 @@ public class fileChooser extends javax.swing.JFrame {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+            .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
-                        .addGap(0, 172, Short.MAX_VALUE)
+                        .addGap(0, 166, Short.MAX_VALUE)
                         .addComponent(RadioButtonDATT)
                         .addGap(33, 33, 33)
                         .addComponent(RadioButtonPDTB)
@@ -198,20 +214,20 @@ public class fileChooser extends javax.swing.JFrame {
         if (RadioButtonDATT.isSelected()) {
             try {
                 System.out.println("Selected::: " + TextField_annotation.getText());
-                DATTConverter converterDATT = new DATTConverter(TextField_annotation.getText(), TextField_text.getText());
+                DATTConverter converterDATT = new DATTConverter(TextField_annotation.getText());
                 dir = converterDATT.getOutputDir();
             } catch (ParserConfigurationException | SAXException | IOException ex) {
-                Logger.getLogger(fileChooser.class.getName()).log(Level.SEVERE, null, ex);
+                Logger.getLogger(fileConverterView.class.getName()).log(Level.SEVERE, null, ex);
             }
 
         } else if (RadioButtonPDTB.isSelected()) {
 
             try {
-                PDTBConverter converterPDTB = new PDTBConverter(TextField_annotation.getText(), TextField_text.getText(), "testing_pdtb.xml");
+                PDTBConverter converterPDTB = new PDTBConverter(TextField_annotation.getText(), TextField_text.getText());
                 dir = converterPDTB.getOutputDir();
 
             } catch (IOException ex) {
-                Logger.getLogger(fileChooser.class.getName()).log(Level.SEVERE, null, ex);
+                Logger.getLogger(fileConverterView.class.getName()).log(Level.SEVERE, null, ex);
             }
 
         }
@@ -258,20 +274,21 @@ public class fileChooser extends javax.swing.JFrame {
                 }
             }
         } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(fileChooser.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(fileConverterView.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(fileChooser.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(fileConverterView.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(fileChooser.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(fileConverterView.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(fileChooser.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(fileConverterView.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
         //</editor-fold>
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new fileChooser().setVisible(true);
+                new fileConverterView().setVisible(true);
             }
         });
     }

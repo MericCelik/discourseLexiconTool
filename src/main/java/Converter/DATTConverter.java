@@ -24,14 +24,22 @@ public class DATTConverter {
     private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<>();
     private String outputDir = "";
 
-    public DATTConverter(String inputDir, String outputDir) throws ParserConfigurationException, SAXException, IOException {
-        this.outputDir = outputDir;
+    public DATTConverter(String inputDir) throws ParserConfigurationException, SAXException, IOException {
+        File theDir = new File("Converted Files");
+        if (!theDir.exists()) {
+            try {
+                theDir.mkdir();
+            } catch (SecurityException se) {
+                //handle it
+            }
+        }
+        this.outputDir = theDir.getAbsolutePath() + "\\datt";
         this.readDATTRelations(inputDir);
         ConverterUtils.writeToFile(outputDir, connectiveAnnotationMap, "DATT");
     }
 
     public static void main(String[] args) throws ParserConfigurationException, SAXException, IOException {
-        DATTConverter d = new DATTConverter("annotations//DATT//explicit.xml", "testing_datt.xml");
+        DATTConverter d = new DATTConverter("annotations//DATT//explicit.xml");
     }
 
     private HashMap<String, ArrayList<Annotation>> readDATTRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
