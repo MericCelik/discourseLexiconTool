@@ -10,9 +10,6 @@
           <Dimension value="[590, 400]"/>
         </Property>
       </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="FileChooser_annotationActionPerformed"/>
-      </Events>
       <AuxValues>
         <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JFileChooser(getCurrentDirectory())"/>
         <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="FileChooser_annotation.setFileSelectionMode(FileChooser_annotation.DIRECTORIES_ONLY);"/>
@@ -42,7 +39,7 @@
   <Layout>
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
-          <Group type="102" alignment="0" attributes="0">
+          <Group type="102" attributes="0">
               <EmptySpace max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" attributes="0">
@@ -54,6 +51,7 @@
                   </Group>
                   <Group type="102" alignment="1" attributes="0">
                       <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="textFieldNameDLVTFile" alignment="0" max="32767" attributes="0"/>
                           <Component id="TextField_text" alignment="0" max="32767" attributes="0"/>
                           <Component id="TextField_annotation" max="32767" attributes="0"/>
                       </Group>
@@ -88,7 +86,9 @@
                   <Component id="TextField_text" alignment="3" min="-2" pref="31" max="-2" attributes="0"/>
                   <Component id="Button_ChooseTextFile" alignment="3" min="-2" max="-2" attributes="0"/>
               </Group>
-              <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="textFieldNameDLVTFile" min="-2" pref="27" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
               <Group type="103" groupAlignment="3" attributes="0">
                   <Component id="RadioButtonPDTB" alignment="3" min="-2" max="-2" attributes="0"/>
                   <Component id="RadioButtonDATT" alignment="3" min="-2" max="-2" attributes="0"/>
@@ -123,9 +123,6 @@
       </AuxValues>
     </Component>
     <Component class="javax.swing.JTextField" name="TextField_annotation">
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TextField_annotationActionPerformed"/>
-      </Events>
     </Component>
     <Component class="javax.swing.JTextField" name="TextField_text">
     </Component>
@@ -150,9 +147,19 @@
     <Component class="javax.swing.JButton" name="Button_run">
       <Properties>
         <Property name="text" type="java.lang.String" value="RUN"/>
+        <Property name="enabled" type="boolean" value="false"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Button_runActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="textFieldNameDLVTFile">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jTextField1"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="textFieldNameDLVTFileMouseClicked"/>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="textFieldNameDLVTFileKeyPressed"/>
       </Events>
     </Component>
   </SubComponents>

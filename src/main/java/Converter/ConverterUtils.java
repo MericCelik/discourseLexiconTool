@@ -36,6 +36,7 @@ import org.w3c.dom.NodeList;
 public class ConverterUtils {
 
     static String delimiter = "!#!";
+    static String outputFile = "";
 
     public static void writeToFile(String dir, HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap, String annotationToolType) {
         try {
@@ -122,6 +123,7 @@ public class ConverterUtils {
             StreamResult result = new StreamResult(f);
             transformer.transform(source, result);
             System.out.println(annotationToolType + " relations has been converted: " + f.getPath());
+            outputFile = f.getPath();
 
         } catch (ParserConfigurationException | TransformerException pce) {
         }

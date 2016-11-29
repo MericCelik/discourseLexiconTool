@@ -15,6 +15,7 @@ import java.security.CodeSource;
 import java.security.ProtectionDomain;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.swing.JOptionPane;
 import javax.xml.parsers.ParserConfigurationException;
 import org.xml.sax.SAXException;
 
@@ -26,6 +27,11 @@ public class fileConverterView extends javax.swing.JFrame {
 
     boolean pdtb = false;
     boolean datt = false;
+    boolean dattAnnotationSelected = false;
+    boolean PDTBAnnotationSelected = false;
+    boolean PDTBTextSelected = false;
+    String outputFileName = "";
+
     String dir = "";
 
     /**
@@ -65,14 +71,10 @@ public class fileConverterView extends javax.swing.JFrame {
         Button_ChooseAnnotationFile = new javax.swing.JButton();
         Button_ChooseTextFile = new javax.swing.JButton();
         Button_run = new javax.swing.JButton();
+        textFieldNameDLVTFile = new javax.swing.JTextField();
 
         FileChooser_annotation.setMinimumSize(new java.awt.Dimension(590, 400));
         FileChooser_annotation.setFileSelectionMode(FileChooser_annotation.DIRECTORIES_ONLY);
-        FileChooser_annotation.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                FileChooser_annotationActionPerformed(evt);
-            }
-        });
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Convert and Run");
@@ -93,12 +95,6 @@ public class fileConverterView extends javax.swing.JFrame {
             }
         });
 
-        TextField_annotation.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                TextField_annotationActionPerformed(evt);
-            }
-        });
-
         Button_ChooseAnnotationFile.setText("Choose Annotation Files");
         Button_ChooseAnnotationFile.setEnabled(false);
         Button_ChooseAnnotationFile.addActionListener(new java.awt.event.ActionListener() {
@@ -116,9 +112,22 @@ public class fileConverterView extends javax.swing.JFrame {
         });
 
         Button_run.setText("RUN");
+        Button_run.setEnabled(false);
         Button_run.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 Button_runActionPerformed(evt);
+            }
+        });
+
+        textFieldNameDLVTFile.setText("jTextField1");
+        textFieldNameDLVTFile.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                textFieldNameDLVTFileMouseClicked(evt);
+            }
+        });
+        textFieldNameDLVTFile.addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyPressed(java.awt.event.KeyEvent evt) {
+                textFieldNameDLVTFileKeyPressed(evt);
             }
         });
 
@@ -137,6 +146,7 @@ public class fileConverterView extends javax.swing.JFrame {
                         .addGap(57, 57, 57))
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                            .addComponent(textFieldNameDLVTFile, javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(TextField_text, javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(TextField_annotation))
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)))
@@ -161,7 +171,9 @@ public class fileConverterView extends javax.swing.JFrame {
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(TextField_text, javax.swing.GroupLayout.PREFERRED_SIZE, 31, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(Button_ChooseTextFile))
-                .addGap(44, 44, 44)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(textFieldNameDLVTFile, javax.swing.GroupLayout.PREFERRED_SIZE, 27, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(RadioButtonPDTB)
                     .addComponent(RadioButtonDATT)
@@ -179,6 +191,7 @@ public class fileConverterView extends javax.swing.JFrame {
         if (status == FileChooser_annotation.APPROVE_OPTION) {
             File selectedFile = FileChooser_annotation.getSelectedFile();
             TextField_annotation.setText(selectedFile.getAbsolutePath());
+            dattAnnotationSelected = true;
             System.out.println("n: " + selectedFile.getAbsolutePath());
         } else if (status == FileChooser_annotation.CANCEL_OPTION) {
             System.out.println("canceled");
@@ -203,19 +216,15 @@ public class fileConverterView extends javax.swing.JFrame {
 
     }//GEN-LAST:event_RadioButtonDATTActionPerformed
 
-    private void FileChooser_annotationActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_FileChooser_annotationActionPerformed
-        // TODO add your handling code here:
-
-    }//GEN-LAST:event_FileChooser_annotationActionPerformed
-
     private void Button_runActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Button_runActionPerformed
         // TODO add your handling code here:
 
         if (RadioButtonDATT.isSelected()) {
             try {
                 System.out.println("Selected::: " + TextField_annotation.getText());
-                DATTConverter converterDATT = new DATTConverter(TextField_annotation.getText());
+                DATTConverter converterDATT = new DATTConverter(TextField_annotation.getText(), outputFileName);
                 dir = converterDATT.getOutputDir();
+               
             } catch (ParserConfigurationException | SAXException | IOException ex) {
                 Logger.getLogger(fileConverterView.class.getName()).log(Level.SEVERE, null, ex);
             }
@@ -231,12 +240,12 @@ public class fileConverterView extends javax.swing.JFrame {
             }
 
         }
-
         this.dispose();
         try {
             new MainWindow(dir).setVisible(true);
         } catch (IOException | SAXException | ParserConfigurationException ex) {
             Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
+            JOptionPane.showMessageDialog(null, "COULD NOT BE CONVERTED!!");
         }
     }//GEN-LAST:event_Button_runActionPerformed
 
@@ -253,9 +262,22 @@ public class fileConverterView extends javax.swing.JFrame {
         }
     }//GEN-LAST:event_Button_ChooseTextFileActionPerformed
 
-    private void TextField_annotationActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_TextField_annotationActionPerformed
+    private void textFieldNameDLVTFileKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_textFieldNameDLVTFileKeyPressed
         // TODO add your handling code here:
-    }//GEN-LAST:event_TextField_annotationActionPerformed
+
+        if (!(evt.getKeyChar() == 27 || evt.getKeyChar() == 65535) && !textFieldNameDLVTFile.getText().equals("") && dattAnnotationSelected && RadioButtonDATT.isSelected())//this section will execute only when user is editing the JTextField
+        {
+           outputFileName = textFieldNameDLVTFile.getText();
+        }
+        if(!outputFileName.equals(""))
+            Button_run.setEnabled(true);
+
+    }//GEN-LAST:event_textFieldNameDLVTFileKeyPressed
+
+    private void textFieldNameDLVTFileMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_textFieldNameDLVTFileMouseClicked
+        // TODO add your handling code here:
+        textFieldNameDLVTFile.setText("");
+    }//GEN-LAST:event_textFieldNameDLVTFileMouseClicked
 
     /**
      * @param args the command line arguments
@@ -303,5 +325,6 @@ public class fileConverterView extends javax.swing.JFrame {
     private javax.swing.JTextField TextField_annotation;
     private javax.swing.JTextField TextField_text;
     private javax.swing.ButtonGroup buttonGroup;
+    private javax.swing.JTextField textFieldNameDLVTFile;
     // End of variables declaration//GEN-END:variables
 }

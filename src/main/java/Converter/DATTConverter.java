@@ -14,6 +14,7 @@ import javax.xml.parsers.ParserConfigurationException;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 
 public class DATTConverter {
@@ -24,7 +25,7 @@ public class DATTConverter {
     private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<>();
     private String outputDir = "";
 
-    public DATTConverter(String inputDir) throws ParserConfigurationException, SAXException, IOException {
+    public DATTConverter(String inputDir, String outputFile) throws ParserConfigurationException, SAXException, IOException {
         File theDir = new File("Converted Files");
         if (!theDir.exists()) {
             try {
@@ -33,18 +34,24 @@ public class DATTConverter {
                 //handle it
             }
         }
-        this.outputDir = theDir.getAbsolutePath() + "\\datt";
+        this.outputDir = theDir.getAbsolutePath() + "\\" + outputFile;
         this.readDATTRelations(inputDir);
         ConverterUtils.writeToFile(outputDir, connectiveAnnotationMap, "DATT");
     }
 
     public static void main(String[] args) throws ParserConfigurationException, SAXException, IOException {
-        DATTConverter d = new DATTConverter("annotations//DATT//explicit.xml");
+        DATTConverter d = new DATTConverter("annotations//DATT", "deneme_DATT");
     }
 
     private HashMap<String, ArrayList<Annotation>> readDATTRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
+        File dattAnnotationFolder = new File(dir);
+        String dattAnnotationFile = "";
+        if (dattAnnotationFolder.isDirectory()) {
 
-        File fXmlFile = new File(dir);
+            File[] arrayOfAnnotationFiles = dattAnnotationFolder.listFiles();
+            dattAnnotationFile = arrayOfAnnotationFiles[0].getAbsolutePath();
+        }
+        File fXmlFile = new File(dattAnnotationFile);
         DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
         Document doc = dBuilder.parse(fXmlFile);
@@ -122,7 +129,7 @@ public class DATTConverter {
     }
 
     public String getOutputDir() {
-        return outputDir;
+        return ConverterUtils.outputFile;
     }
 
 }
