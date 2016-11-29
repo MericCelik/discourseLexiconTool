@@ -77,9 +77,11 @@ public class fileChooser extends javax.swing.JFrame {
             }
         });
 
-        TextField_annotation.setText("jTextField1");
-
-        TextField_text.setText("jTextField1");
+        TextField_annotation.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                TextField_annotationActionPerformed(evt);
+            }
+        });
 
         Button_ChooseAnnotationFile.setText("Choose Annotation File");
         Button_ChooseAnnotationFile.setEnabled(false);
@@ -234,6 +236,10 @@ public class fileChooser extends javax.swing.JFrame {
             System.out.println("canceled");
         }
     }//GEN-LAST:event_Button_ChooseTextFileActionPerformed
+
+    private void TextField_annotationActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_TextField_annotationActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_TextField_annotationActionPerformed
 
     /**
      * @param args the command line arguments

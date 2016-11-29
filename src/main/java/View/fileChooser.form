@@ -122,14 +122,11 @@
       </AuxValues>
     </Component>
     <Component class="javax.swing.JTextField" name="TextField_annotation">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="jTextField1"/>
-      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TextField_annotationActionPerformed"/>
+      </Events>
     </Component>
     <Component class="javax.swing.JTextField" name="TextField_text">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="jTextField1"/>
-      </Properties>
     </Component>
     <Component class="javax.swing.JButton" name="Button_ChooseAnnotationFile">
       <Properties>

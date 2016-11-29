@@ -82,6 +82,7 @@ public class PDTBConverter {
                             String sense = "";
                             for(String str: senseArray)
                                 sense = sense + ": " +str;
+                            sense = sense.replaceAll("-", "_");
                             Annotation currentAnnotation = new Annotation(conSpans, arg1Spans, arg2Spans, modSpans, supp1Spans, supp2Spans, sense, "", "", "");
                             if (connectiveAnnotationMap.keySet().contains(connectiveString)) {
                                 ArrayList<Annotation> tempList = connectiveAnnotationMap.get(connectiveString);
