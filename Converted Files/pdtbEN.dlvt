@@ -1,0 +1,3200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+  <Connective Item="but" Size="40" senseList="Expansion: Conjunction!#!Comparison: Concession: Arg2_as_denier!#!Expansion: Substitution: Arg2_as_subst!#!Comparison: Contrast!#!Rhetorical">
+    <Annotation conBeginOffset="1226" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>these are environmental and social issues</Text>
+        <BeginOffset>1183</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>that's not all</Text>
+        <BeginOffset>1230</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1531" sense="Rhetorical">
+      <Arg1>
+        <Text>the temptation may be to do this: bury our heads in the sand and not think about it</Text>
+        <BeginOffset>1387</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>it makes me wonder if the investment rules of today are fit for purpose tomorrow</Text>
+        <BeginOffset>1535</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1871" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>these things are fundamental</Text>
+        <BeginOffset>1830</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they're not enough</Text>
+        <BeginOffset>1875</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2415" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>this is the really juicy stuff</Text>
+        <BeginOffset>2383</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ESG is the measure of sustainability, and sustainable investing incorporates ESG factors with financial factors into the investment process</Text>
+        <BeginOffset>2419</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2964" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>important</Text>
+        <BeginOffset>2954</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>crucial to business success</Text>
+        <BeginOffset>2968</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3142" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>About 80 percent of global CEOs see sustainability as the root to growth in innovation and leading to competitive advantage in their industries</Text>
+        <BeginOffset>2997</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>93 percent see ESG as the future, or as important to the future of their business</Text>
+        <BeginOffset>3146</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5359" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>It's not causation</Text>
+        <BeginOffset>5339</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>it does illustrate that environmental leadership is compatible with good returns</Text>
+        <BeginOffset>5363</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7331" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>They don't have indefinite social obligations, and prudent investing and finance theory aren't subordinate to sustainability. They're compatible. So I'm not talking about tradeoffs here</Text>
+        <BeginOffset>7144</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>institutional investors are the x-factor in sustainability</Text>
+        <BeginOffset>7335</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8591" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>There are risks and costs to a program of action</Text>
+        <BeginOffset>8541</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they are far less than the long-range risks and costs of comfortable inaction</Text>
+        <BeginOffset>8595</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8731" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>I can appreciate that there is estimation risk in this</Text>
+        <BeginOffset>8675</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>since this is based on widespread scientific consensus, the odds that it's not completely wrong are better than the odds that our house will burn down or we'll get in a car accident</Text>
+        <BeginOffset>8735</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9525" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Good, you like it. I like it too. (Laughter) I like it because it pokes fun at both sides of the climate change issue</Text>
+        <BeginOffset>9365</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>what I really like about it is that it reminds me of something Mark Twain said, which is, "Plan for the future, because that's where you're going to spend the rest of your life</Text>
+        <BeginOffset>9529</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1889" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>No, not yet</Text>
+        <BeginOffset>1876</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I would love to figure it out</Text>
+        <BeginOffset>1893</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="625" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Astronomers now believe that every star in the galaxy has a planet, and they speculate that up to one fifth of them have an Earth-like planet that might be able to harbor life</Text>
+        <BeginOffset>448</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we haven't seen any of them</Text>
+        <BeginOffset>629</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1457" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>We can still see the little moon</Text>
+        <BeginOffset>1423</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>let's go ten times further away again</Text>
+        <BeginOffset>1461</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1640" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>It's that pale blue dot of Carl Sagan's</Text>
+        <BeginOffset>1599</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>let's move yet again ten times further away</Text>
+        <BeginOffset>1644</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2476" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>I have a lot of colleagues working on really amazing technologies to do that</Text>
+        <BeginOffset>2398</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I want to tell you about one today that I think is the coolest, and probably the most likely to get us an Earth in the next decade</Text>
+        <BeginOffset>2480</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3936" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>we can't see planets</Text>
+        <BeginOffset>3914</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Spitzer actually knew the answer</Text>
+        <BeginOffset>3940</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4752" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>This sounds formidable</Text>
+        <BeginOffset>4728</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>brilliant engineers, colleagues of mine at JPL, came up with a fabulous design for how to do that and it looks like this</Text>
+        <BeginOffset>4756</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5929" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>This has to be done very precisely</Text>
+        <BeginOffset>5893</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>if we can do this, if we can build this technology, if we can get it into space, you might see something like this</Text>
+        <BeginOffset>5933</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6340" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>that's a family portrait of our solar system</Text>
+        <BeginOffset>6292</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>not ours</Text>
+        <BeginOffset>6344</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="897" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>I realized that success is a moment</Text>
+        <BeginOffset>860</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>what we're always celebrating is creativity and mastery</Text>
+        <BeginOffset>901</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="958" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>what we're always celebrating is creativity and mastery</Text>
+        <BeginOffset>901</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>this is the thing: What gets us to convert success into mastery</Text>
+        <BeginOffset>962</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1734" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>smiled</Text>
+        <BeginOffset>1726</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they sized me up as they made their way to the turf</Text>
+        <BeginOffset>1738</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1830" sense="Expansion: Substitution: Arg2_as_subst">
+      <Arg1>
+        <Text>spoke to each other not with words</Text>
+        <BeginOffset>1795</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>with numbers, degrees, I thought, positions for how they might plan to hit their target</Text>
+        <BeginOffset>1834</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3023" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>It's so rare in American culture, there's so little that's vocational about it anymore, to look at what doggedness looks like with this level of exactitude, what it means to align your body posture for three hours in order to hit a target, pursuing a kind of excellence in obscurity</Text>
+        <BeginOffset>2739</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I stayed</Text>
+        <BeginOffset>3027</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3181" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>success is hitting that ten ring</Text>
+        <BeginOffset>3147</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>mastery is knowing that it means nothing if you can't do it again and again</Text>
+        <BeginOffset>3185</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3470" sense="Expansion: Substitution: Arg2_as_subst">
+      <Arg1>
+        <Text>Mastery is not a commitment to a goal</Text>
+        <BeginOffset>3432</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>to a constant pursuit</Text>
+        <BeginOffset>3474</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4013" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Painter Paul Cézanne so often thought his works were incomplete that he would deliberately leave them aside with the intention of picking them back up again</Text>
+        <BeginOffset>3855</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>at the end of his life, the result was that he had only signed 10 percent of his paintings</Text>
+        <BeginOffset>4017</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5368" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>that his triumphs are not merely the result of a grand achievement</Text>
+        <BeginOffset>5300</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>of the propulsion of a lineage of near wins</Text>
+        <BeginOffset>5372</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6021" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>Success motivates us</Text>
+        <BeginOffset>5999</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>a near win can propel us in an ongoing quest</Text>
+        <BeginOffset>6025</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7157" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>If I ask you to envision what a great day looks like next week, you might describe it in more general terms</Text>
+        <BeginOffset>7048</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>if I ask you to describe a great day at TED tomorrow, you might describe it with granular, practical clarity</Text>
+        <BeginOffset>7161</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7771" sense="Expansion: Substitution: Arg2_as_subst">
+      <Arg1>
+        <Text>We thrive not when we've done it all</Text>
+        <BeginOffset>7733</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>when we still have more to do</Text>
+        <BeginOffset>7775</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8361" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>It's what's called a spirit line, a deliberate flaw in the pattern to give the weaver or maker a way out</Text>
+        <BeginOffset>8255</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>also a reason to continue making work</Text>
+        <BeginOffset>8365</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8912" sense="Expansion: Substitution: Arg2_as_subst">
+      <Arg1>
+        <Text>It didn't sound like a complaint, exactly</Text>
+        <BeginOffset>8869</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>just a way to let me know, a kind of tender admission, to remind me that he knew he was giving himself over to a voracious, unfinished path that always required more</Text>
+        <BeginOffset>8916</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9520" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Completion is a goal</Text>
+        <BeginOffset>9498</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we hope it is never the end</Text>
+        <BeginOffset>9524</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="562" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Years have passed</Text>
+        <BeginOffset>543</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>many of the adventures I fantasized about as a child -- traveling and weaving my way between worlds other than my own — have become realities through my work as a documentary photographer</Text>
+        <BeginOffset>566</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="755" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>many of the adventures I fantasized about as a child -- traveling and weaving my way between worlds other than my own — have become realities through my work as a documentary photographer</Text>
+        <BeginOffset>566</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>no other experience has felt as true to my childhood dreams as living amongst and documenting the lives of fellow wanderers across the United States</Text>
+        <BeginOffset>759</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1230" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>The word "hobo" conjures up an old black and white image of a weathered old man covered in coal, legs dangling out of a boxcar</Text>
+        <BeginOffset>1102</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>these photographs are in color, and they portray a community swirling across the country, fiercely alive and creatively free, seeing sides of America that no one else gets to see</Text>
+        <BeginOffset>1234</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2709" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>They sacrifice material comforts in exchange for the space and the time to explore a creative interior, to dream, to read, to work on music, art and writing</Text>
+        <BeginOffset>2551</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>there are many aspects to this life that are far from idyllic</Text>
+        <BeginOffset>2713</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3654" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>The answer to such a question is as varied as the people that take to the road</Text>
+        <BeginOffset>3574</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>travelers often respond with a single word: freedom</Text>
+        <BeginOffset>3658</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="however" Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="220" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>I was born and raised in Sierra Leone, a small and very beautiful country in West Africa, a country rich both in physical resources and creative talent</Text>
+        <BeginOffset>67</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Sierra Leone is infamous for a decade-long rebel war in the '90s when entire villages were burnt down</Text>
+        <BeginOffset>229</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="through" Size="1" senseList="Expansion: Manner: Arg2_as_manner">
+    <Annotation conBeginOffset="708" sense="Expansion: Manner: Arg2_as_manner">
+      <Arg1>
+        <Text>have become realities</Text>
+        <BeginOffset>686</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>my work as a documentary photographer</Text>
+        <BeginOffset>716</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="rather_than" Size="1" senseList="Expansion: Substitution: Arg1_as_subst">
+    <Annotation conBeginOffset="2215!#!2294" sense="Expansion: Substitution: Arg1_as_subst">
+      <Arg1>
+        <Text>They'd!#!live off of the excess of what they view as a wasteful consumer society</Text>
+        <BeginOffset>2208!#!2222</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>slave away at an unrealistic chance at the traditional American dream</Text>
+        <BeginOffset>2299</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="if_if" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="4239!#!4291" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>we can control diffraction</Text>
+        <BeginOffset>4318</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we make the edges of those petals exactly right!#!we control their shape</Text>
+        <BeginOffset>4242!#!4294</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="for" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="3331" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>received citations</Text>
+        <BeginOffset>3312</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>committing these so-called crimes</Text>
+        <BeginOffset>3335</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="clearly" Size="1" senseList="Expansion: Level_of_detail: Arg2_as_detail">
+    <Annotation conBeginOffset="1174" sense="Expansion: Level_of_detail: Arg2_as_detail">
+      <Arg1>
+        <Text>We have a population that's both growing and aging; we have seven billion souls today heading to 10 billion at the end of the century; we consume natural resources faster than they can be replenished; and the emissions that are mainly responsible for climate change just keep increasing</Text>
+        <BeginOffset>882</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>these are environmental and social issues, but that's not all</Text>
+        <BeginOffset>1183</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="while" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="3658" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>How many times have we designated something a classic, a masterpiece even</Text>
+        <BeginOffset>3583</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>its creator considers it hopelessly unfinished, riddled with difficulties and flaws, in other words, a near win</Text>
+        <BeginOffset>3664</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="when" Size="7" senseList="Temporal: Synchronous!#!Comparison: Contrast">
+    <Annotation conBeginOffset="1641" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>they look at financial data, metrics like sales growth, cash flow, market share, valuation -- you know, the really sexy stuff</Text>
+        <BeginOffset>1699</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they look at a company and decide whether to invest</Text>
+        <BeginOffset>1646</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1751" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>he asked me if I knew how to solve this problem</Text>
+        <BeginOffset>1818</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I met professor Hugh Herr about two and a half years ago</Text>
+        <BeginOffset>1756</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="795" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>It was taken by the Voyager spacecraft in 1990</Text>
+        <BeginOffset>747</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they turned it around as it was exiting the solar system to take a picture of the Earth from six billion kilometers away</Text>
+        <BeginOffset>800</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1163" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>I started to understand this</Text>
+        <BeginOffset>1134</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I went on one cold May day to watch a set of varsity archers</Text>
+        <BeginOffset>1168</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4263" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>Franz Kafka saw incompletion</Text>
+        <BeginOffset>4234</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>others would find only works to praise</Text>
+        <BeginOffset>4268</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5886" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>The Paris Review got it out of James Baldwin</Text>
+        <BeginOffset>5841</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they asked him, "What do you think increases with knowledge?" and he said, "You learn how little you know</Text>
+        <BeginOffset>5891</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9350" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>It's what I have to imagine Elizabeth Murray was thinking</Text>
+        <BeginOffset>9292</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I saw her smiling at those early paintings one day in the galleries</Text>
+        <BeginOffset>9355</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="that's why" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="2141" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>All we're seeing is the big beaming image of the star that's ten billion times brighter than the planet, which should be in that little red circle. That's what we want to see</Text>
+        <BeginOffset>1965</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>it's hard</Text>
+        <BeginOffset>2152</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="in fact" Size="2" senseList="Expansion: Level_of_detail: Arg2_as_detail!#!Expansion: Instantiation">
+    <Annotation conBeginOffset="647" sense="Expansion: Level_of_detail: Arg2_as_detail">
+      <Arg1>
+        <Text>that my own children would not go through the same experiences we had</Text>
+        <BeginOffset>564</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>They would!#!be part of a Sierra Leone where war and amputation were no longer a strategy for gaining power</Text>
+        <BeginOffset>635!#!656</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="663" sense="Expansion: Instantiation">
+      <Arg1>
+        <Text>that a few didn't quite meet her own mark for what she wanted them to be</Text>
+        <BeginOffset>571</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>One of the works!#!so didn't meet her mark, she had set it out in the trash in her studio</Text>
+        <BeginOffset>645!#!672</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="and" Size="101" senseList="Expansion: Conjunction!#!Comparison: Contrast!#!Contingency: Condition: Arg1_as_cond">
+    <Annotation conBeginOffset="123" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>The world is changing in some really profound ways</Text>
+        <BeginOffset>71</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I worry that investors aren't paying enough attention to some of the biggest drivers of change, especially when it comes to sustainability</Text>
+        <BeginOffset>127</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="489" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>I think it's reckless to ignore these things, because doing so can jeopardize future long-term returns</Text>
+        <BeginOffset>385</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>here's something that may surprise you: the balance of power to really influence sustainability rests with institutional investors, the large investors like pension funds, foundations and endowments</Text>
+        <BeginOffset>493</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="802" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>better-performing than you believe</Text>
+        <BeginOffset>766</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>more important than we can imagine</Text>
+        <BeginOffset>806</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="923" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>growing</Text>
+        <BeginOffset>915</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>aging</Text>
+        <BeginOffset>927</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1083" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>we consume natural resources faster than they can be replenished</Text>
+        <BeginOffset>1017</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>the emissions that are mainly responsible for climate change just keep increasing</Text>
+        <BeginOffset>1087</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1271" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>They're economic issues</Text>
+        <BeginOffset>1246</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>that makes them relevant to risk and return</Text>
+        <BeginOffset>1275</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1320" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>that makes them relevant to risk and return</Text>
+        <BeginOffset>1275</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they are really complex and they can seem really far off, that the temptation may be to do this: bury our heads in the sand and not think about it</Text>
+        <BeginOffset>1324</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1348" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>they are really complex</Text>
+        <BeginOffset>1324</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they can seem really far off</Text>
+        <BeginOffset>1352</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1448" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>bury our heads in the sand</Text>
+        <BeginOffset>1421</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>not think about it</Text>
+        <BeginOffset>1452</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1826" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>they look at financial data, metrics like sales growth, cash flow, market share, valuation -- you know, the really sexy stuff</Text>
+        <BeginOffset>1699</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>these things are fundamental, of course, but they're not enough</Text>
+        <BeginOffset>1830</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2283" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Social includes human capital, things like employee engagement and innovation capacity, as well as supply chain management and labor rights and human rights</Text>
+        <BeginOffset>2125</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>governance relates to the oversight of companies by their boards and investors</Text>
+        <BeginOffset>2287</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2457" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ESG is the measure of sustainability</Text>
+        <BeginOffset>2419</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>sustainable investing incorporates ESG factors with financial factors into the investment process</Text>
+        <BeginOffset>2461</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2631" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>It means limiting future risk by minimizing harm to people and planet</Text>
+        <BeginOffset>2560</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>it means providing capital to users who deploy it towards productive and sustainable outcomes</Text>
+        <BeginOffset>2635</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2778" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>if sustainability matters financially today</Text>
+        <BeginOffset>2733</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>all signs indicate more tomorrow</Text>
+        <BeginOffset>2782</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3084" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>the root to growth in innovation</Text>
+        <BeginOffset>3051</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>leading to competitive advantage in their industries</Text>
+        <BeginOffset>3088</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3505" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>State Street migrated 54 applications to the cloud environment</Text>
+        <BeginOffset>3441</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we retired another 85</Text>
+        <BeginOffset>3509</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3582" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>We virtualized our operating system environments</Text>
+        <BeginOffset>3532</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we completed numerous automation projects</Text>
+        <BeginOffset>3586</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3683" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>these initiatives create a more mobile workplace</Text>
+        <BeginOffset>3633</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they reduce our real estate footprint</Text>
+        <BeginOffset>3687</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3726" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>they reduce our real estate footprint</Text>
+        <BeginOffset>3687</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they yield savings of 23 million dollars in operating costs annually</Text>
+        <BeginOffset>3730</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3800" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>they yield savings of 23 million dollars in operating costs annually</Text>
+        <BeginOffset>3730</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>avoid the emissions of a 100,000 metric tons of carbon</Text>
+        <BeginOffset>3804</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4008" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Pentair is a U.S. industrial conglomerate</Text>
+        <BeginOffset>3965</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>about a decade ago, they sold their core power tools business and reinvested those proceeds in a water business</Text>
+        <BeginOffset>4012</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4074" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>they sold their core power tools business</Text>
+        <BeginOffset>4032</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>reinvested those proceeds in a water business</Text>
+        <BeginOffset>4078</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4273" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>there's more growth in water than in power tools</Text>
+        <BeginOffset>4223</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>this company has their sights set on what they call "the new New World</Text>
+        <BeginOffset>4277</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4826" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>In blue, we see the MSCI World. It's an index of large companies from developed markets across the world</Text>
+        <BeginOffset>4720</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>in gold, we see a subset of companies rated as having the best ESG performance</Text>
+        <BeginOffset>4830</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5130" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>In blue, we see the performance of the 500 largest global companies</Text>
+        <BeginOffset>5061</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>in gold, we see a subset of companies with best practice in climate change strategy and risk management</Text>
+        <BeginOffset>5134</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5486" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>the returns are the same or better</Text>
+        <BeginOffset>5451</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>the planet benefits</Text>
+        <BeginOffset>5490</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5616" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>some are</Text>
+        <BeginOffset>5606</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>a few are really at the vanguard</Text>
+        <BeginOffset>5620</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6114" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>CalPERS is the pension fund for public employees in California</Text>
+        <BeginOffset>6050</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>with assets of 244 billion [dollars], they are the second largest in the U.S. and the sixth largest in the world</Text>
+        <BeginOffset>6118</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6661" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>I do speak to a lot of investors as part of my job</Text>
+        <BeginOffset>6609</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>not all of them see it this way</Text>
+        <BeginOffset>6665</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7191" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>They don't have indefinite social obligations</Text>
+        <BeginOffset>7144</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>prudent investing and finance theory aren't subordinate to sustainability</Text>
+        <BeginOffset>7195</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8121" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>work</Text>
+        <BeginOffset>8116</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>save</Text>
+        <BeginOffset>8125</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8130" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>save</Text>
+        <BeginOffset>8125</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>invest</Text>
+        <BeginOffset>8134</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9205" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>reducing the risk to our planet and to our economy</Text>
+        <BeginOffset>9153</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we're not sacrificing performance</Text>
+        <BeginOffset>9246</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9321" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>What if it's a big hoax</Text>
+        <BeginOffset>9297</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we create a better world for nothing</Text>
+        <BeginOffset>9325</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1138" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>in which the amputee inserts their residual limb</Text>
+        <BeginOffset>1088</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>which connects to the prosthetic ankle</Text>
+        <BeginOffset>1142</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1690" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>If your prosthetic socket is uncomfortable, you will not use your leg</Text>
+        <BeginOffset>1619</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>that is just simply unacceptable in our age</Text>
+        <BeginOffset>1694</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1814" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>I met professor Hugh Herr about two and a half years ago</Text>
+        <BeginOffset>1756</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>he asked me if I knew how to solve this problem</Text>
+        <BeginOffset>1818</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1925" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>I said, "No, not yet, but I would love to figure it out</Text>
+        <BeginOffset>1867</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>for my Ph.D. at the MIT Media Lab, I designed custom prosthetic sockets quickly and cheaply that are more comfortable than conventional prostheses</Text>
+        <BeginOffset>1933</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2276" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>use finite element modeling to better predict the internal stresses and strains on the normal forces</Text>
+        <BeginOffset>2174</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>create a prosthetic socket for manufacture</Text>
+        <BeginOffset>2285</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2770" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>It's so soft, it's like walking on pillows</Text>
+        <BeginOffset>2726</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>it's effing sexy</Text>
+        <BeginOffset>2774</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="253" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>to image an Earth about another star</Text>
+        <BeginOffset>216</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>figure out whether it can harbor life</Text>
+        <BeginOffset>257</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="516" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Astronomers now believe that every star in the galaxy has a planet</Text>
+        <BeginOffset>448</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they speculate that up to one fifth of them have an Earth-like planet that might be able to harbor life</Text>
+        <BeginOffset>520</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1092" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>we take the Hubble Space Telescope</Text>
+        <BeginOffset>1057</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we turn it around</Text>
+        <BeginOffset>1096</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1114" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>we turn it around</Text>
+        <BeginOffset>1096</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we move it out to the orbit of Mars</Text>
+        <BeginOffset>1118</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1750" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>we are out at the Oort Cloud</Text>
+        <BeginOffset>1694</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we're starting to see the sun move into the field of view and get into where the planet is</Text>
+        <BeginOffset>1754</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1941" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>we're at Alpha Centauri</Text>
+        <BeginOffset>1889</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>the planet is gone</Text>
+        <BeginOffset>1945</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2544" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>that I think is the coolest</Text>
+        <BeginOffset>2515</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>probably the most likely to get us an Earth in the next decade</Text>
+        <BeginOffset>2548</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2697" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>It was first suggested by Lyman Spitzer!#!in 1962</Text>
+        <BeginOffset>2612!#!2688</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>he took his inspiration from an eclipse</Text>
+        <BeginOffset>2701</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3187" sense="Contingency: Condition: Arg1_as_cond">
+      <Arg1>
+        <Text>We put a telescope or a camera in that shadow, we look back at the sun</Text>
+        <BeginOffset>3115</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>most of the light's been removed</Text>
+        <BeginOffset>3191</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3224" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>most of the light's been removed</Text>
+        <BeginOffset>3191</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we can see that dim, fine structure in the corona</Text>
+        <BeginOffset>3228</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3594" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>there's that big screen</Text>
+        <BeginOffset>3569</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>there's no planets</Text>
+        <BeginOffset>3598</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3841" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>It's like water bending around a rock in a stream</Text>
+        <BeginOffset>3790</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>all that light just destroys the shadow</Text>
+        <BeginOffset>3845</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3910" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>It's a terrible shadow</Text>
+        <BeginOffset>3886</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we can't see planets</Text>
+        <BeginOffset>3914</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4084" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>If we can feather the edges, soften those edges so we can control diffraction, well then we can see a planet</Text>
+        <BeginOffset>3974</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>in the last 10 years or so we've come up with optimal solutions for doing that</Text>
+        <BeginOffset>4088</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4346" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>If we make the edges of those petals exactly right, if we control their shape, we can control diffraction</Text>
+        <BeginOffset>4239</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>now we have a great shadow</Text>
+        <BeginOffset>4350</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4433" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>It's about 10 billion times dimmer than it was before</Text>
+        <BeginOffset>4378</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we can see the planets beam out just like that</Text>
+        <BeginOffset>4437</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4592" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>That starshade is about the size of half a football field</Text>
+        <BeginOffset>4534</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>it has to fly 50,000 kilometers away from the telescope that has to be held right in its shadow</Text>
+        <BeginOffset>4596</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4693" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>it has to fly 50,000 kilometers away from the telescope that has to be held right in its shadow</Text>
+        <BeginOffset>4596</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>then we can see those planets</Text>
+        <BeginOffset>4697</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4854" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>brilliant engineers, colleagues of mine at JPL, came up with a fabulous design for how to do that</Text>
+        <BeginOffset>4756</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>it looks like this</Text>
+        <BeginOffset>4858</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5028" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>flip</Text>
+        <BeginOffset>5023</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>fly</Text>
+        <BeginOffset>5032</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5818" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>We ran this test 16 times</Text>
+        <BeginOffset>5791</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>16 times it went into the exact same place to a tenth of a millimeter</Text>
+        <BeginOffset>5822</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6522" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>you can see Saturn, Uranus, Neptune</Text>
+        <BeginOffset>6485</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>right there in the center, next to the residual light is that pale blue dot</Text>
+        <BeginOffset>6526</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="744" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>she had set it out in the trash in her studio</Text>
+        <BeginOffset>697</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>her neighbor had taken it</Text>
+        <BeginOffset>748</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1495" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>stood</Text>
+        <BeginOffset>1489</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>watched</Text>
+        <BeginOffset>1499</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1559" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>I stood and watched as the coach drove up these women in this gray van</Text>
+        <BeginOffset>1487</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they exited</Text>
+        <BeginOffset>1563</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1703" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>One held a half-eaten ice cream cone in one hand and arrows in the left with yellow fletching</Text>
+        <BeginOffset>1608</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they passed me and smiled</Text>
+        <BeginOffset>1707</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1722" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>they passed me</Text>
+        <BeginOffset>1707</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>smiled</Text>
+        <BeginOffset>1726</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1791" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>they sized me up as they made their way to the turf</Text>
+        <BeginOffset>1738</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>spoke to each other not with words but with numbers, degrees, I thought, positions for how they might plan to hit their target</Text>
+        <BeginOffset>1795</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2022" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>I stood behind one archer as her coach stood in between us to maybe assess who might need support</Text>
+        <BeginOffset>1923</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>watched her</Text>
+        <BeginOffset>2026</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2039" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>I stood behind one archer as her coach stood in between us to maybe assess who might need support, and watched her</Text>
+        <BeginOffset>1923</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I didn't understand how even one was going to hit the ten ring</Text>
+        <BeginOffset>2043</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2220" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>The ten ring from the standard 75-yard distance, it looks as small as a matchstick tip held out at arm's length</Text>
+        <BeginOffset>2107</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>this is while holding 50 pounds of draw weight on each shot</Text>
+        <BeginOffset>2224</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2320" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>She first hit a seven, I remember</Text>
+        <BeginOffset>2285</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>then a nine</Text>
+        <BeginOffset>2324</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2337" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>a nine</Text>
+        <BeginOffset>2329</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>then two tens</Text>
+        <BeginOffset>2341</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2356" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>two tens</Text>
+        <BeginOffset>2346</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>then the next arrow didn't even hit the target</Text>
+        <BeginOffset>2360</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2408" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>the next arrow didn't even hit the target</Text>
+        <BeginOffset>2365</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I saw that gave her more tenacity</Text>
+        <BeginOffset>2412</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2447" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>I saw that gave her more tenacity</Text>
+        <BeginOffset>2412</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>she went after it again and again</Text>
+        <BeginOffset>2451</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4181" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>His favorite novel was "The [Unknown] Masterpiece" by Honoré de Balzac</Text>
+        <BeginOffset>4109</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>he felt the protagonist was the painter himself</Text>
+        <BeginOffset>4185</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4457" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>His friend refused to honor the request</Text>
+        <BeginOffset>4416</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we now have all the works we now do by Kafka: "America," "The Trial" and "The Castle," a work so incomplete it even stops mid-sentence</Text>
+        <BeginOffset>4478</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4814" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Lord, grant that I desire more than I can accomplish," Michelangelo implored, as if to that Old Testament God on the Sistine Chapel</Text>
+        <BeginOffset>4681</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>he himself was that Adam with his finger outstretched and not quite touching that God's hand</Text>
+        <BeginOffset>4818</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4872" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>with his finger outstretched</Text>
+        <BeginOffset>4843</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>not quite touching that God's hand</Text>
+        <BeginOffset>4876</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5095" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Mastery is about sacrificing for your craft</Text>
+        <BeginOffset>5051</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>not for the sake of crafting your career</Text>
+        <BeginOffset>5099</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5953" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>they asked him, "What do you think increases with knowledge</Text>
+        <BeginOffset>5891</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>he said, "You learn how little you know</Text>
+        <BeginOffset>5957</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6288" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Thomas Gilovich and his team from Cornell studied this difference</Text>
+        <BeginOffset>6222</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>found that the frustration silver medalists feel compared to bronze!#!gives silver medalists a focus on follow-up competition</Text>
+        <BeginOffset>6292!#!6459</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6435" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>to have just not received fourth place</Text>
+        <BeginOffset>6396</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>not medaled at all</Text>
+        <BeginOffset>6439</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6611" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>that once picked up on this phenomenon of the near win</Text>
+        <BeginOffset>6556</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>created these scratch-off tickets that had a higher than average rate of near wins and so compelled people to buy more tickets that they were called heart-stoppers</Text>
+        <BeginOffset>6615</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6698" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>that had a higher than average rate of near wins</Text>
+        <BeginOffset>6649</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>compelled people to buy more tickets</Text>
+        <BeginOffset>6705</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6780" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>that once picked up on this phenomenon of the near win and created these scratch-off tickets that had a higher than average rate of near wins and so compelled people to buy more tickets that they were called heart-stoppers</Text>
+        <BeginOffset>6556</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>were set on a gambling industry set of abuses in Britain in the 1970s</Text>
+        <BeginOffset>6784</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6944" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>it changes our view of the landscape</Text>
+        <BeginOffset>6907</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>puts our goals, which we tend to put at a distance, into more proximate vicinity to where we stand</Text>
+        <BeginOffset>6948</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7271" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>if I ask you to describe a great day at TED tomorrow, you might describe it with granular, practical clarity</Text>
+        <BeginOffset>7161</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>this is what a near win does</Text>
+        <BeginOffset>7275</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7505" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>It's Jackie Joyner-Kersee, who in 1984 missed taking the gold in the heptathlon by one third of a second</Text>
+        <BeginOffset>7399</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>her husband predicted that would give her the tenacity she needed in follow-up competition</Text>
+        <BeginOffset>7509</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7645" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>she won the gold in the heptathlon</Text>
+        <BeginOffset>7610</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>set a record of 7,291 points</Text>
+        <BeginOffset>7649</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7828" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>thinking</Text>
+        <BeginOffset>7819</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>wondering</Text>
+        <BeginOffset>7832</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8075" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>We know that we thrive when we stay at our own leading edge</Text>
+        <BeginOffset>8014</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>it's why the deliberate incomplete is inbuilt into creation myths</Text>
+        <BeginOffset>8079</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="347" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>There was a deep restlessness in me, a primal fear that I would fall prey to a life of routine and boredom</Text>
+        <BeginOffset>239</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>many of my early memories involved intricate daydreams where I would walk across borders, forage for berries, and meet all kinds of strange people living unconventional lives on the road</Text>
+        <BeginOffset>355</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="465" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>forage for berries</Text>
+        <BeginOffset>445</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>meet all kinds of strange people living unconventional lives on the road</Text>
+        <BeginOffset>469</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="632" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>traveling</Text>
+        <BeginOffset>622</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>weaving my way between worlds other than my own</Text>
+        <BeginOffset>636</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="837" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>living amongst</Text>
+        <BeginOffset>822</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>documenting the lives of fellow wanderers across the United States</Text>
+        <BeginOffset>841</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1266" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>these photographs are in color</Text>
+        <BeginOffset>1234</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they portray a community swirling across the country, fiercely alive and creatively free, seeing sides of America that no one else gets to see</Text>
+        <BeginOffset>1270</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1571" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>stick out their thumbs</Text>
+        <BeginOffset>1547</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ride the highways with anyone from truckers to soccer moms</Text>
+        <BeginOffset>1575</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2893" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>maim</Text>
+        <BeginOffset>2888</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>kill</Text>
+        <BeginOffset>2897</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2903" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>freight trains maim and kill</Text>
+        <BeginOffset>2873</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>anyone who has lived on the streets can attest to the exhaustive list of laws that criminalize homeless existence</Text>
+        <BeginOffset>2907</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="especially when" Size="1" senseList="Expansion: Level_of_detail: Arg2_as_detail">
+    <Annotation conBeginOffset="223" sense="Expansion: Level_of_detail: Arg2_as_detail">
+      <Arg1>
+        <Text>that investors aren't paying enough attention to some of the biggest drivers of change</Text>
+        <BeginOffset>135</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>it comes to sustainability</Text>
+        <BeginOffset>239</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="by" Size="5" senseList="Expansion: Manner: Arg2_as_manner">
+    <Annotation conBeginOffset="2590" sense="Expansion: Manner: Arg2_as_manner">
+      <Arg1>
+        <Text>It means limiting future risk</Text>
+        <BeginOffset>2560</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>minimizing harm to people and planet</Text>
+        <BeginOffset>2593</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6294" sense="Expansion: Manner: Arg2_as_manner">
+      <Arg1>
+        <Text>they're moving toward 100 percent sustainable investment</Text>
+        <BeginOffset>6237</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>systematically integrated ESG across the entire fund</Text>
+        <BeginOffset>6297</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9078" sense="Expansion: Manner: Arg2_as_manner">
+      <Arg1>
+        <Text>we're doing two things</Text>
+        <BeginOffset>9103</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>investing sustainably</Text>
+        <BeginOffset>9081</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2481" sense="Expansion: Manner: Arg2_as_manner">
+      <Arg1>
+        <Text>They take advantage of the fact that in the United States, up to 40 percent of all food ends up in the garbage</Text>
+        <BeginOffset>2370</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>scavenging for perfectly good produce in dumpsters and trash cans</Text>
+        <BeginOffset>2484</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2808" sense="Expansion: Manner: Arg2_as_manner">
+      <Arg1>
+        <Text>loses their inner demons</Text>
+        <BeginOffset>2783</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>taking to the road</Text>
+        <BeginOffset>2811</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="but indeed" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="3264" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>this not only restores</Text>
+        <BeginOffset>3241</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>transforms their sense of human potential</Text>
+        <BeginOffset>3275</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="where" Size="1" senseList="Comparison: Contrast">
+    <Annotation conBeginOffset="2068" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>travelers view their own existence through the prism of liberation and freedom</Text>
+        <BeginOffset>2128</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>others see stories of privation and economic failure</Text>
+        <BeginOffset>2074</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="because" Size="15" senseList="Contingency: Cause: Reason!#!Contingency: Cause+Belief: Reason+Belief">
+    <Annotation conBeginOffset="431" sense="Contingency: Cause+Belief: Reason+Belief">
+      <Arg1>
+        <Text>it's reckless to ignore these things</Text>
+        <BeginOffset>393</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>doing so can jeopardize future long-term returns</Text>
+        <BeginOffset>439</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9420" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>I like it</Text>
+        <BeginOffset>9410</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>it pokes fun at both sides of the climate change issue</Text>
+        <BeginOffset>9428</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9641" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>Plan for the future</Text>
+        <BeginOffset>9620</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>that's where you're going to spend the rest of your life</Text>
+        <BeginOffset>9649</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1023" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>that their prosthetic sockets were painful</Text>
+        <BeginOffset>980</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they did not fit well</Text>
+        <BeginOffset>1031</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1226" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>We'll see something like that, a slightly blurry picture of the Earth</Text>
+        <BeginOffset>1155</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we're a fairly small telescope out at the orbit of Mars</Text>
+        <BeginOffset>1234</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3618" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>there's no planets</Text>
+        <BeginOffset>3598</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>unfortunately it doesn't actually work very well</Text>
+        <BeginOffset>3626</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3676" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>unfortunately it doesn't actually work very well</Text>
+        <BeginOffset>3626</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>the light waves of the light and waves diffracts around that screen the same way it did in the telescope</Text>
+        <BeginOffset>3684</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6812" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>That's why I got into doing this</Text>
+        <BeginOffset>6778</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I think that will change the world</Text>
+        <BeginOffset>6820</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="774" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>her neighbor had taken it</Text>
+        <BeginOffset>748</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>she saw its value</Text>
+        <BeginOffset>782</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3036" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>I stayed</Text>
+        <BeginOffset>3027</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I realized I was witnessing what's so rare to glimpse, that difference between success and mastery</Text>
+        <BeginOffset>3044</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5688" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>Part of the reason that the near win is inbuilt to mastery is</Text>
+        <BeginOffset>5626</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>the greater our proficiency, the more clearly we might see that we don't know all that we thought we did</Text>
+        <BeginOffset>5696</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7963" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>I stand here thinking and wondering about all the different ways that we might even manufacture a near win in this room, how your lives might play this out</Text>
+        <BeginOffset>7806</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I think on some gut level we do know this</Text>
+        <BeginOffset>7971</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8428" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>Masters are not experts</Text>
+        <BeginOffset>8404</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they take a subject to its conceptual end</Text>
+        <BeginOffset>8436</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8495" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>They're masters</Text>
+        <BeginOffset>8479</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they realize that there isn't one</Text>
+        <BeginOffset>8503</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3233" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>I know about these laws</Text>
+        <BeginOffset>3209</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I've watched as friends and other travelers were hauled off to jail or received citations for committing these so-called crimes</Text>
+        <BeginOffset>3241</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="so" Size="15" senseList="Contingency: Cause+SpeechAct: Result+SpeechAct!#!Contingency: Cause: Result!#!Contingency: Cause+Belief: Result+Belief!#!Undecided">
+    <Annotation conBeginOffset="2730" sense="Contingency: Cause+SpeechAct: Result+SpeechAct">
+      <Arg1>
+        <Text>It means limiting future risk by minimizing harm to people and planet, and it means providing capital to users who deploy it towards productive and sustainable outcomes</Text>
+        <BeginOffset>2560</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>if sustainability matters financially today, and all signs indicate more tomorrow, is the private sector paying attention</Text>
+        <BeginOffset>2733</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3229" sense="Contingency: Cause+SpeechAct: Result+SpeechAct">
+      <Arg1>
+        <Text>About 80 percent of global CEOs see sustainability as the root to growth in innovation and leading to competitive advantage in their industries. But 93 percent see ESG as the future, or as important to the future of their business</Text>
+        <BeginOffset>2997</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>the views of CEOs are clear</Text>
+        <BeginOffset>3232</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3311" sense="Contingency: Cause+SpeechAct: Result+SpeechAct">
+      <Arg1>
+        <Text>There's tremendous opportunity in sustainability</Text>
+        <BeginOffset>3261</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>how are companies actually leveraging ESG to drive hard business results</Text>
+        <BeginOffset>3314</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3918" sense="Contingency: Cause+SpeechAct: Result+SpeechAct">
+      <Arg1>
+        <Text>That's the equivalent of taking 21,000 cars off the road</Text>
+        <BeginOffset>3860</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>awesome, right</Text>
+        <BeginOffset>3921</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4958" sense="Contingency: Cause+SpeechAct: Result+SpeechAct">
+      <Arg1>
+        <Text>Over three plus years, no performance tradeoff</Text>
+        <BeginOffset>4910</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>that's okay, right</Text>
+        <BeginOffset>4961</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5310" sense="Undecided">
+      <Arg1>
+        <Text>over almost eight years, they've outperformed by about two thirds</Text>
+        <BeginOffset>5243</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>yes, this is correlation</Text>
+        <BeginOffset>5313</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5852" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>They believe that ESG has the potential to impact risks and returns</Text>
+        <BeginOffset>5783</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>incorporating it into the investment process is core to their duty to act in the best interest of fund members, core to their duty</Text>
+        <BeginOffset>5855</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6750" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>We are required to maximize returns</Text>
+        <BeginOffset>6713</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we don't do that here</Text>
+        <BeginOffset>6753</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7290" sense="Contingency: Cause+Belief: Result+Belief">
+      <Arg1>
+        <Text>They're compatible</Text>
+        <BeginOffset>7270</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I'm not talking about tradeoffs here</Text>
+        <BeginOffset>7293</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1929" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>I said, "No, not yet, but I would love to figure it out</Text>
+        <BeginOffset>1867</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>And!#!for my Ph.D. at the MIT Media Lab, I designed custom prosthetic sockets quickly and cheaply that are more comfortable than conventional prostheses</Text>
+        <BeginOffset>1925!#!1933</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2301" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>It's scattering inside the telescope, creating that very bright image that washes out the planet</Text>
+        <BeginOffset>2203</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>to see the planet, we have to do something about all of that light</Text>
+        <BeginOffset>2304</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2860" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>It blocks out most of the light</Text>
+        <BeginOffset>2828</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we can see that dim corona around it</Text>
+        <BeginOffset>2863</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4022" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>soften those edges</Text>
+        <BeginOffset>4003</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we can control diffraction</Text>
+        <BeginOffset>4025</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6702" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>that had a higher than average rate of near wins</Text>
+        <BeginOffset>6649</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>and!#!compelled people to buy more tickets</Text>
+        <BeginOffset>6698!#!6705</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="351" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>There was a deep restlessness in me, a primal fear that I would fall prey to a life of routine and boredom</Text>
+        <BeginOffset>239</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>And!#!many of my early memories involved intricate daydreams where I would walk across borders, forage for berries, and meet all kinds of strange people living unconventional lives on the road</Text>
+        <BeginOffset>347!#!355</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="if" Size="13" senseList="Contingency: Condition+SpeechAct!#!Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="1485" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>Resist this</Text>
+        <BeginOffset>1472</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>you can</Text>
+        <BeginOffset>1488</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2733" sense="Contingency: Condition+SpeechAct">
+      <Arg1>
+        <Text>is the private sector paying attention</Text>
+        <BeginOffset>2816</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>sustainability matters financially today, and all signs indicate more tomorrow</Text>
+        <BeginOffset>2736</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5448" sense="Contingency: Condition+SpeechAct">
+      <Arg1>
+        <Text>wouldn't this be the norm</Text>
+        <BeginOffset>5511</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>the returns are the same or better and the planet benefits</Text>
+        <BeginOffset>5451</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6894" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>just make money, give the profits to charities</Text>
+        <BeginOffset>6934</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>you want to do something about that</Text>
+        <BeginOffset>6897</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7883" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>we can reconsider some of these pressing challenges, like fresh water, clean air, feeding 10 billion mouths</Text>
+        <BeginOffset>7774</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>institutional investors integrated ESG into investment</Text>
+        <BeginOffset>7886</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8934" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>maybe not</Text>
+        <BeginOffset>8924</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>you live in Boston</Text>
+        <BeginOffset>8937</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1619" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>you will not use your leg</Text>
+        <BeginOffset>1663</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>your prosthetic socket is uncomfortable</Text>
+        <BeginOffset>1622</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3974" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>then we can see a planet</Text>
+        <BeginOffset>4058</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we can feather the edges, soften those edges so we can control diffraction</Text>
+        <BeginOffset>3977</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6139" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>what we might see is something like that -- that's a family portrait of our solar system -- but not ours</Text>
+        <BeginOffset>6248</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we can take a similar space telescope, slightly larger, put it out there, fly an occulter in front of it</Text>
+        <BeginOffset>6142</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="485" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>you might not have been able to guess</Text>
+        <BeginOffset>520</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>you didn't know they were hers</Text>
+        <BeginOffset>488</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3226" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>that it means nothing</Text>
+        <BeginOffset>3204</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>you can't do it again and again</Text>
+        <BeginOffset>3229</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7048" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>you might describe it in more general terms</Text>
+        <BeginOffset>7112</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I ask you to envision what a great day looks like next week</Text>
+        <BeginOffset>7051</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7161" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>you might describe it with granular, practical clarity</Text>
+        <BeginOffset>7215</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I ask you to describe a great day at TED tomorrow</Text>
+        <BeginOffset>7164</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="or" Size="5" senseList="Expansion: Disjunction">
+    <Annotation conBeginOffset="3180" sense="Expansion: Disjunction">
+      <Arg1>
+        <Text>as the future</Text>
+        <BeginOffset>3165</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>as important to the future of their business</Text>
+        <BeginOffset>3183</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6777" sense="Expansion: Disjunction">
+      <Arg1>
+        <Text>We are required to maximize returns, so we don't do that here</Text>
+        <BeginOffset>6713</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>We don't want to use the portfolio to make policy statements</Text>
+        <BeginOffset>6782</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8070" sense="Expansion: Disjunction">
+      <Arg1>
+        <Text>solving these challenges</Text>
+        <BeginOffset>8045</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>at least not exacerbating them</Text>
+        <BeginOffset>8073</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8886" sense="Expansion: Disjunction">
+      <Arg1>
+        <Text>our house will burn down</Text>
+        <BeginOffset>8861</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we'll get in a car accident</Text>
+        <BeginOffset>8889</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3309" sense="Expansion: Disjunction">
+      <Arg1>
+        <Text>hauled off to jail</Text>
+        <BeginOffset>3290</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>received citations for committing these so-called crimes</Text>
+        <BeginOffset>3312</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="though" Size="1" senseList="Expansion: Level_of_detail: Arg2_as_detail">
+    <Annotation conBeginOffset="3306" sense="Expansion: Level_of_detail: Arg2_as_detail">
+      <Arg1>
+        <Text>mastery is knowing that it means nothing if you can't do it again and again</Text>
+        <BeginOffset>3185</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Mastery is not just the same as excellence</Text>
+        <BeginOffset>3262</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="so that" Size="1" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="3790" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>where every human is assured dignity in their labor</Text>
+        <BeginOffset>3738</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they can work to live well</Text>
+        <BeginOffset>3798</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="in order" Size="2" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="1397" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>you have to aim at something slightly skew from it</Text>
+        <BeginOffset>1435</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>that!#!to actually hit your target</Text>
+        <BeginOffset>1392!#!1406</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2953" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>what it means to align your body posture for three hours</Text>
+        <BeginOffset>2896</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>to hit a target</Text>
+        <BeginOffset>2962</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="in short" Size="1" senseList="Expansion: Level_of_detail: Arg1_as_detail">
+    <Annotation conBeginOffset="2462" sense="Expansion: Level_of_detail: Arg1_as_detail">
+      <Arg1>
+        <Text>I used magnetic resonance imaging to capture the actual shape of the patient's anatomy, then use finite element modeling to better predict the internal stresses and strains on the normal forces, and then create a prosthetic socket for manufacture. We use a 3D printer to create a multi-material prosthetic socket which relieves pressure where needed on the anatomy of the patient</Text>
+        <BeginOffset>2081</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we're using data to make novel sockets quickly and cheaply</Text>
+        <BeginOffset>2472</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="also" Size="2" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="1912" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>they're not enough</Text>
+        <BeginOffset>1875</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Investors should!#!look at performance metrics in what we call ESG: environment, social and governance</Text>
+        <BeginOffset>1895!#!1917</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8365" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>It's what's called a spirit line, a deliberate flaw in the pattern to give the weaver or maker a way out</Text>
+        <BeginOffset>8255</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>a reason to continue making work</Text>
+        <BeginOffset>8370</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="then" Size="7" senseList="Temporal: Asynchronous: Precedence">
+    <Annotation conBeginOffset="2169" sense="Temporal: Asynchronous: Precedence">
+      <Arg1>
+        <Text>I used magnetic resonance imaging to capture the actual shape of the patient's anatomy</Text>
+        <BeginOffset>2081</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>use finite element modeling to better predict the internal stresses and strains on the normal forces</Text>
+        <BeginOffset>2174</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2280" sense="Temporal: Asynchronous: Precedence">
+      <Arg1>
+        <Text>use finite element modeling to better predict the internal stresses and strains on the normal forces</Text>
+        <BeginOffset>2174</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>and!#!create a prosthetic socket for manufacture</Text>
+        <BeginOffset>2276!#!2285</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4697" sense="Temporal: Asynchronous: Precedence">
+      <Arg1>
+        <Text>it has to fly 50,000 kilometers away from the telescope that has to be held right in its shadow</Text>
+        <BeginOffset>4596</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>and!#!we can see those planets</Text>
+        <BeginOffset>4693!#!4702</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5004" sense="Temporal: Asynchronous: Precedence">
+      <Arg1>
+        <Text>the telescope turns around</Text>
+        <BeginOffset>4976</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>you'll see it flip and fly out that 50,000 kilometers away from the telescope</Text>
+        <BeginOffset>5009</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2324" sense="Temporal: Asynchronous: Precedence">
+      <Arg1>
+        <Text>She first hit a seven, I remember</Text>
+        <BeginOffset>2285</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>a nine</Text>
+        <BeginOffset>2329</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2341" sense="Temporal: Asynchronous: Precedence">
+      <Arg1>
+        <Text>a nine</Text>
+        <BeginOffset>2329</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>two tens</Text>
+        <BeginOffset>2346</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2360" sense="Temporal: Asynchronous: Precedence">
+      <Arg1>
+        <Text>two tens</Text>
+        <BeginOffset>2346</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>the next arrow didn't even hit the target</Text>
+        <BeginOffset>2365</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="at the same time" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="9209" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>We're creating insurance, reducing the risk to our planet and to our economy</Text>
+        <BeginOffset>9127</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>and!#!we're not sacrificing performance</Text>
+        <BeginOffset>9205!#!9246</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="with" Size="1" senseList="Expansion: Level_of_detail: Arg2_as_detail">
+    <Annotation conBeginOffset="3807" sense="Expansion: Level_of_detail: Arg2_as_detail">
+      <Arg1>
+        <Text>Elizabeth Murray surprised me</Text>
+        <BeginOffset>3777</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>her admission about her earlier paintings</Text>
+        <BeginOffset>3812</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="as" Size="8" senseList="Comparison: Similarity!#!Temporal: Synchronous">
+    <Annotation conBeginOffset="427" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>I resolved that I would do everything I could to ensure that my own children would not go through the same experiences we had</Text>
+        <BeginOffset>508</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>my family and I ran for safety when I was about 12 from one of those attacks</Text>
+        <BeginOffset>430</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="752" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>one thing that deeply troubled me was that many of the amputees in the country would not use their prostheses</Text>
+        <BeginOffset>827</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I watched people who I knew, loved ones, recover from this devastation</Text>
+        <BeginOffset>755</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="822" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>they turned it around</Text>
+        <BeginOffset>800</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>it was exiting the solar system to take a picture of the Earth from six billion kilometers away</Text>
+        <BeginOffset>825</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1507" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>I stood and watched</Text>
+        <BeginOffset>1487</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>the coach drove up these women in this gray van</Text>
+        <BeginOffset>1510</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1755" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>they sized me up</Text>
+        <BeginOffset>1738</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>they made their way to the turf</Text>
+        <BeginOffset>1758</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1949" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>I stood behind one archer</Text>
+        <BeginOffset>1923</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>her coach stood in between us</Text>
+        <BeginOffset>1952</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8561" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>it occurred to me</Text>
+        <BeginOffset>8542</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>I thought about this</Text>
+        <BeginOffset>8564</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="819" sense="Comparison: Similarity">
+      <Arg1>
+        <Text>no other experience has felt as true to my childhood dreams</Text>
+        <BeginOffset>759</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>living amongst and documenting the lives of fellow wanderers across the United States</Text>
+        <BeginOffset>822</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="if_if_if" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="5933!#!5952!#!5985" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>you might see something like this</Text>
+        <BeginOffset>6014</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we can do this!#!we can build this technology!#!we can get it into space</Text>
+        <BeginOffset>5936!#!5955!#!5988</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="until" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="3711" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>there will always be an element of those who seek the open road as a means of escape, of liberation and, of course, of rebellion</Text>
+        <BeginOffset>3852</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>we live in a society where every human is assured dignity in their labor so that they can work to live well, not only work to survive</Text>
+        <BeginOffset>3717</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="since" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="8735" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>the odds that it's not completely wrong are better than the odds that our house will burn down or we'll get in a car accident</Text>
+        <BeginOffset>8791</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>this is based on widespread scientific consensus</Text>
+        <BeginOffset>8741</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+</Document>

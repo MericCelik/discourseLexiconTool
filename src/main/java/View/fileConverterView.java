@@ -9,7 +9,6 @@ import Converter.DATTConverter;
 import Converter.PDTBConverter;
 import java.io.File;
 import java.io.IOException;
-import java.net.URISyntaxException;
 import java.net.URL;
 import java.security.CodeSource;
 import java.security.ProtectionDomain;
@@ -63,7 +62,7 @@ public class fileConverterView extends javax.swing.JFrame {
     private void initComponents() {
 
         buttonGroup = new javax.swing.ButtonGroup();
-        FileChooser_annotation = new javax.swing.JFileChooser(getCurrentDirectory());
+        FileChooserToConvert = new javax.swing.JFileChooser(getCurrentDirectory());
         RadioButtonDATT = new javax.swing.JRadioButton();
         RadioButtonPDTB = new javax.swing.JRadioButton();
         TextField_annotation = new javax.swing.JTextField();
@@ -73,8 +72,8 @@ public class fileConverterView extends javax.swing.JFrame {
         Button_run = new javax.swing.JButton();
         textFieldNameDLVTFile = new javax.swing.JTextField();
 
-        FileChooser_annotation.setMinimumSize(new java.awt.Dimension(590, 400));
-        FileChooser_annotation.setFileSelectionMode(FileChooser_annotation.DIRECTORIES_ONLY);
+        FileChooserToConvert.setMinimumSize(new java.awt.Dimension(590, 400));
+        FileChooserToConvert.setFileSelectionMode(FileChooserToConvert.DIRECTORIES_ONLY);
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Convert and Run");
@@ -186,19 +185,27 @@ public class fileConverterView extends javax.swing.JFrame {
 
     private void Button_ChooseAnnotationFileActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Button_ChooseAnnotationFileActionPerformed
         // TODO add your handling code here:
-        int status = FileChooser_annotation.showOpenDialog(null);
+        int status = FileChooserToConvert.showOpenDialog(null);
 
-        if (status == FileChooser_annotation.APPROVE_OPTION) {
-            File selectedFile = FileChooser_annotation.getSelectedFile();
+        if (status == FileChooserToConvert.APPROVE_OPTION) {
+            File selectedFile = FileChooserToConvert.getSelectedFile();
             TextField_annotation.setText(selectedFile.getAbsolutePath());
-            dattAnnotationSelected = true;
-            System.out.println("n: " + selectedFile.getAbsolutePath());
-        } else if (status == FileChooser_annotation.CANCEL_OPTION) {
+            if (!TextField_annotation.getText().equals("") && RadioButtonDATT.isSelected()) {
+                dattAnnotationSelected = true;
+            }
+            if (!TextField_annotation.getText().equals("") && RadioButtonPDTB.isSelected()) {
+                PDTBAnnotationSelected = true;
+            }
+
+            System.out.println("n: " + selectedFile.getAbsolutePath() + " " + PDTBTextSelected + " " + PDTBAnnotationSelected);
+        } else if (status == FileChooserToConvert.CANCEL_OPTION) {
             System.out.println("canceled");
         }
 
     }//GEN-LAST:event_Button_ChooseAnnotationFileActionPerformed
-
+    
+  
+    
     private void RadioButtonPDTBActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_RadioButtonPDTBActionPerformed
         // TODO add your handling code here:
         Button_ChooseTextFile.setVisible(true);
@@ -224,7 +231,7 @@ public class fileConverterView extends javax.swing.JFrame {
                 System.out.println("Selected::: " + TextField_annotation.getText());
                 DATTConverter converterDATT = new DATTConverter(TextField_annotation.getText(), outputFileName);
                 dir = converterDATT.getOutputDir();
-               
+
             } catch (ParserConfigurationException | SAXException | IOException ex) {
                 Logger.getLogger(fileConverterView.class.getName()).log(Level.SEVERE, null, ex);
             }
@@ -232,9 +239,8 @@ public class fileConverterView extends javax.swing.JFrame {
         } else if (RadioButtonPDTB.isSelected()) {
 
             try {
-                PDTBConverter converterPDTB = new PDTBConverter(TextField_annotation.getText(), TextField_text.getText());
+                PDTBConverter converterPDTB = new PDTBConverter(TextField_annotation.getText(), TextField_text.getText(), outputFileName);
                 dir = converterPDTB.getOutputDir();
-
             } catch (IOException ex) {
                 Logger.getLogger(fileConverterView.class.getName()).log(Level.SEVERE, null, ex);
             }
@@ -251,13 +257,19 @@ public class fileConverterView extends javax.swing.JFrame {
 
     private void Button_ChooseTextFileActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Button_ChooseTextFileActionPerformed
         // TODO add your handling code here:
-        int status = FileChooser_annotation.showOpenDialog(null);
+                                                
+        int status = FileChooserToConvert.showOpenDialog(null);
 
-        if (status == FileChooser_annotation.APPROVE_OPTION) {
-            File selectedFile = FileChooser_annotation.getSelectedFile();
+        if (status == FileChooserToConvert.APPROVE_OPTION) {
+            File selectedFile = FileChooserToConvert.getSelectedFile();
             TextField_text.setText(selectedFile.getAbsolutePath());
-            System.out.println("n: " + selectedFile.getAbsolutePath());
-        } else if (status == FileChooser_annotation.CANCEL_OPTION) {
+			
+            if (!TextField_text.getText().equals("") && RadioButtonPDTB.isSelected()) {
+                PDTBTextSelected = true;
+            }
+			
+            System.out.println("n: " + selectedFile.getAbsolutePath() + " " + PDTBTextSelected + " " + PDTBAnnotationSelected);
+        } else if (status == FileChooserToConvert.CANCEL_OPTION) {
             System.out.println("canceled");
         }
     }//GEN-LAST:event_Button_ChooseTextFileActionPerformed
@@ -265,12 +277,16 @@ public class fileConverterView extends javax.swing.JFrame {
     private void textFieldNameDLVTFileKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_textFieldNameDLVTFileKeyPressed
         // TODO add your handling code here:
 
-        if (!(evt.getKeyChar() == 27 || evt.getKeyChar() == 65535) && !textFieldNameDLVTFile.getText().equals("") && dattAnnotationSelected && RadioButtonDATT.isSelected())//this section will execute only when user is editing the JTextField
-        {
-           outputFileName = textFieldNameDLVTFile.getText();
+        if (!(evt.getKeyChar() == 27 || evt.getKeyChar() == 65535) && !textFieldNameDLVTFile.getText().equals("")
+                && dattAnnotationSelected && RadioButtonDATT.isSelected()) {
+            outputFileName = textFieldNameDLVTFile.getText();
+        } else if (!(evt.getKeyChar() == 27 || evt.getKeyChar() == 65535) && !textFieldNameDLVTFile.getText().equals("")
+                && PDTBAnnotationSelected && PDTBTextSelected && RadioButtonPDTB.isSelected()) {
+            outputFileName = textFieldNameDLVTFile.getText();
         }
-        if(!outputFileName.equals(""))
+        if (!outputFileName.equals("")) {
             Button_run.setEnabled(true);
+        }
 
     }//GEN-LAST:event_textFieldNameDLVTFileKeyPressed
 
@@ -319,7 +335,7 @@ public class fileConverterView extends javax.swing.JFrame {
     private javax.swing.JButton Button_ChooseAnnotationFile;
     private javax.swing.JButton Button_ChooseTextFile;
     private javax.swing.JButton Button_run;
-    private javax.swing.JFileChooser FileChooser_annotation;
+    private javax.swing.JFileChooser FileChooserToConvert;
     private javax.swing.JRadioButton RadioButtonDATT;
     private javax.swing.JRadioButton RadioButtonPDTB;
     private javax.swing.JTextField TextField_annotation;

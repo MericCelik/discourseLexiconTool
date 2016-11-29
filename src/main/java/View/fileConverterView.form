@@ -4,7 +4,7 @@
   <NonVisualComponents>
     <Component class="javax.swing.ButtonGroup" name="buttonGroup">
     </Component>
-    <Component class="javax.swing.JFileChooser" name="FileChooser_annotation">
+    <Component class="javax.swing.JFileChooser" name="FileChooserToConvert">
       <Properties>
         <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
           <Dimension value="[590, 400]"/>
@@ -12,7 +12,7 @@
       </Properties>
       <AuxValues>
         <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JFileChooser(getCurrentDirectory())"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="FileChooser_annotation.setFileSelectionMode(FileChooser_annotation.DIRECTORIES_ONLY);"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="FileChooserToConvert.setFileSelectionMode(FileChooserToConvert.DIRECTORIES_ONLY);"/>
       </AuxValues>
     </Component>
   </NonVisualComponents>

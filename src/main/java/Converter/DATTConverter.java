@@ -25,7 +25,7 @@ public class DATTConverter {
     private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<>();
     private String outputDir = "";
 
-    public DATTConverter(String inputDir, String outputFile) throws ParserConfigurationException, SAXException, IOException {
+    public DATTConverter(String inputDir, String outputFileName) throws ParserConfigurationException, SAXException, IOException {
         File theDir = new File("Converted Files");
         if (!theDir.exists()) {
             try {
@@ -34,7 +34,7 @@ public class DATTConverter {
                 //handle it
             }
         }
-        this.outputDir = theDir.getAbsolutePath() + "\\" + outputFile;
+        this.outputDir = theDir.getAbsolutePath() + "\\" + outputFileName;
         this.readDATTRelations(inputDir);
         ConverterUtils.writeToFile(outputDir, connectiveAnnotationMap, "DATT");
     }
