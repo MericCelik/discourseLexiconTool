@@ -14,6 +14,7 @@ import java.awt.Toolkit;
 import java.io.IOException;
 import java.text.Collator;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -108,6 +109,10 @@ public class MainWindow extends javax.swing.JFrame {
         legendButton = new javax.swing.JButton();
         conInfoLabel = new javax.swing.JLabel();
         seeAll = new javax.swing.JButton();
+        searchSenseButton = new javax.swing.JButton();
+        senseListComboBox = new javax.swing.JComboBox<>();
+        conListInfo = new javax.swing.JLabel();
+        resetButton = new javax.swing.JButton();
         jMenuBar = new javax.swing.JMenuBar();
         jMenu1 = new javax.swing.JMenu();
         MenuItem_NewFile = new javax.swing.JMenuItem();
@@ -200,7 +205,7 @@ public class MainWindow extends javax.swing.JFrame {
         setMinimumSize(new java.awt.Dimension(955, 433));
         setName("mainFrame"); // NOI18N
 
-        searchButton.setText("Search");
+        searchButton.setText("Search Connective");
         searchButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 searchButtonActionPerformed(evt);
@@ -231,6 +236,7 @@ public class MainWindow extends javax.swing.JFrame {
             }
         });
         listScrollPane.setViewportView(JList_connective);
+        conListInfo.setText("" + JList_connective.getModel().getSize() + " conns are being shown" );
 
         searchField.setText("Search connective..");
         searchField.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -251,6 +257,27 @@ public class MainWindow extends javax.swing.JFrame {
         seeAll.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 seeAllActionPerformed(evt);
+            }
+        });
+
+        searchSenseButton.setText("Search Sense");
+        searchSenseButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                searchSenseButtonActionPerformed(evt);
+            }
+        });
+
+        String[] senseListForComboBox = senseConnectiveMap.keySet().toArray(new String[senseConnectiveMap.keySet().size()]);
+        Arrays.sort(senseListForComboBox);
+        senseListComboBox.setModel(
+            new javax.swing.DefaultComboBoxModel<>(senseListForComboBox)
+
+        );
+
+        resetButton.setText("Reset Search");
+        resetButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                resetButtonActionPerformed(evt);
             }
         });
 
@@ -285,49 +312,59 @@ public class MainWindow extends javax.swing.JFrame {
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
-            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
             .addGroup(layout.createSequentialGroup()
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addComponent(legendButton))
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addGap(14, 14, 14)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
-                        .addGap(14, 14, 14)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(conListInfo, javax.swing.GroupLayout.PREFERRED_SIZE, 157, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addComponent(listScrollPane, javax.swing.GroupLayout.PREFERRED_SIZE, 167, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(searchField, javax.swing.GroupLayout.PREFERRED_SIZE, 167, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                            .addComponent(searchField, javax.swing.GroupLayout.PREFERRED_SIZE, 167, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addGap(18, 18, 18)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addGroup(layout.createSequentialGroup()
+                                .addGap(0, 0, Short.MAX_VALUE)
+                                .addComponent(legendButton))
+                            .addComponent(conInfoLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(mainScrollPane)))
                     .addGroup(layout.createSequentialGroup()
-                        .addGap(54, 54, 54)
-                        .addComponent(searchButton)))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(layout.createSequentialGroup()
-                        .addComponent(mainScrollPane)
-                        .addGap(9, 9, 9))
-                    .addGroup(layout.createSequentialGroup()
-                        .addComponent(conInfoLabel, javax.swing.GroupLayout.DEFAULT_SIZE, 617, Short.MAX_VALUE)
+                        .addComponent(senseListComboBox, javax.swing.GroupLayout.PREFERRED_SIZE, 300, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                        .addComponent(seeAll)
-                        .addGap(10, 10, 10)))
-                .addContainerGap())
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                            .addComponent(resetButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(searchSenseButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(searchButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 361, Short.MAX_VALUE)
+                        .addComponent(seeAll)))
+                .addGap(20, 20, 20))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addGroup(layout.createSequentialGroup()
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(searchField, javax.swing.GroupLayout.PREFERRED_SIZE, 28, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(searchButton))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(senseListComboBox, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(searchSenseButton))
+                        .addGap(8, 8, 8)
+                        .addComponent(resetButton))
                     .addGroup(layout.createSequentialGroup()
                         .addComponent(legendButton)
-                        .addGap(16, 16, 16))
-                    .addComponent(searchField, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 28, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGap(1, 1, 1)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(conInfoLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 27, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(seeAll)
-                    .addComponent(searchButton))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(seeAll)))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(conListInfo, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 19, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(conInfoLabel, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 27, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 402, Short.MAX_VALUE)
-                    .addComponent(mainScrollPane, javax.swing.GroupLayout.Alignment.TRAILING))
+                    .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 343, Short.MAX_VALUE)
+                    .addComponent(mainScrollPane))
                 .addContainerGap())
         );
 
@@ -482,12 +519,48 @@ public class MainWindow extends javax.swing.JFrame {
             } catch (IOException | SAXException | ParserConfigurationException ex) {
                 Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
             }
-             if(evt.getSource() == MenuItem_NewFile)
+            if (evt.getSource() == MenuItem_NewFile) {
                 this.dispose();
-        }else{
+            }
+        } else {
             System.out.println("File not chosen!");
         }
     }//GEN-LAST:event_MenuItem_NewFileActionPerformed
+
+    private void searchSenseButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_searchSenseButtonActionPerformed
+        // TODO add your handling code here:
+        JList_connective.setModel(new javax.swing.AbstractListModel<String>() {
+            String[] strings = senseConnectiveMap.get((String) senseListComboBox.getSelectedItem()).toArray(new String[senseConnectiveMap.get((String) senseListComboBox.getSelectedItem()).size()]);
+
+            public int getSize() {
+                return strings.length;
+            }
+
+            public String getElementAt(int i) {
+                return strings[i];
+            }
+        });
+
+        conListInfo.setText("" + JList_connective.getModel().getSize() + " conns are being shown");
+    }//GEN-LAST:event_searchSenseButtonActionPerformed
+
+    private void resetButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_resetButtonActionPerformed
+        // TODO add your handling code here:
+        Collator trCollator = Collator.getInstance(new Locale("tr", "TR"));
+        ArrayList<String> connectiveList = new ArrayList<>(connectiveSenseMap.keySet());
+        Collections.sort(connectiveList, trCollator);
+        JList_connective.setModel(new javax.swing.AbstractListModel<String>() {
+            String[] strings = connectiveList.toArray(new String[connectiveList.size()]);
+            public int getSize() {
+                return strings.length;
+            }
+            public String getElementAt(int i) {
+                return strings[i];
+            }
+        });
+       conListInfo.setText("" + JList_connective.getModel().getSize() + " conns are being shown");
+
+    }//GEN-LAST:event_resetButtonActionPerformed
 
     private String prepareForOutput(TreeMap<Integer, Span> argMapforPrettyPrint) {
         String output = "";
@@ -556,6 +629,7 @@ public class MainWindow extends javax.swing.JFrame {
     private javax.swing.JTextPane allAnnotationPane;
     private javax.swing.JScrollPane allAnnotationScrollPane;
     private javax.swing.JLabel conInfoLabel;
+    private javax.swing.JLabel conListInfo;
     private javax.swing.JList<String> conSenseList;
     private javax.swing.JScrollPane conSenseList_pane1;
     private javax.swing.JDialog connBasedonSenseDialog;
@@ -568,9 +642,12 @@ public class MainWindow extends javax.swing.JFrame {
     private javax.swing.JLabel legendLabel;
     private javax.swing.JScrollPane listScrollPane;
     private javax.swing.JScrollPane mainScrollPane;
+    private javax.swing.JButton resetButton;
     private javax.swing.JButton searchButton;
     private javax.swing.JTextField searchField;
+    private javax.swing.JButton searchSenseButton;
     private javax.swing.JButton seeAll;
+    private javax.swing.JComboBox<String> senseListComboBox;
     // End of variables declaration//GEN-END:variables
 
 }
