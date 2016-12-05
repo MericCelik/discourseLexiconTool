@@ -1,0 +1,3334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+  <Connective Item="tıpkı_gibi" Size="1" senseList="Comparison: Similarity">
+    <Annotation conBeginOffset="3712!#!3743" sense="Comparison: Similarity">
+      <Arg1>
+        <Text>gölgelikten sapma yapmaları</Text>
+        <BeginOffset>3749</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Bunun nedeni, ışık dalgalarının!#!teleskobun içinde olduğu</Text>
+        <BeginOffset>3680!#!3718</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="de" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="2008" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>yeterli değiller</Text>
+        <BeginOffset>1916</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Yatırımcılar ÇSY diye adlandırdığımız üç faktörün performans metriklerine!#!bakmalılar</Text>
+        <BeginOffset>1934!#!2011</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="edilerek" Size="1" senseList="Expansion: Manner: Arg2_as_manner">
+    <Annotation conBeginOffset="2689" sense="Expansion: Manner: Arg2_as_manner">
+      <Arg1>
+        <Text>gelecekteki riskin sınırlanması anlamına gelir</Text>
+        <BeginOffset>2698</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>insanlara ve gezegene olan zararın minimize edilerek</Text>
+        <BeginOffset>2645</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="üzere" Size="1" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="1966" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>koçu aramızda dururken</Text>
+        <BeginOffset>1972</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Belki de kimin desteğe ihtiyacı olabilir diye değerlendirmek</Text>
+        <BeginOffset>1905</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="istiyorsan" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="7185" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>sadece para kazan ve kârı hayır kurumlarına ver</Text>
+        <BeginOffset>7197</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Eğer bununla ilgili birşeyler yapmak istiyorsan</Text>
+        <BeginOffset>7148</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="eğer_eğer" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="4228!#!4282" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>sapmaları kontrol edebiliriz</Text>
+        <BeginOffset>4320</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bu yaprakların uçlarını!#!gerektiği gibi yaparsak!#!biçimlerini kontrol edebilirsek</Text>
+        <BeginOffset>4233!#!4257!#!4287</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="böylece" Size="5" senseList="Contingency: Cause: Result">
+    <Annotation conBeginOffset="1052" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>kesik uzvuna taktığı</Text>
+        <BeginOffset>1028</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ve!#!uzvu protez ayağa bağladığı</Text>
+        <BeginOffset>1049!#!1060</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1811" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>Hayır, henüz değil, ama öğrenmeyi çok isterim" dedim</Text>
+        <BeginOffset>1757</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>MIT Medya Laboratuvarı'nda doktora çalışmam olarak hızlı ve ucuz bir şekilde klasik soketlerden daha rahat protez soketleri tasarladım</Text>
+        <BeginOffset>1820</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2927" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>Işığın çoğunu engelliyor</Text>
+        <BeginOffset>2901</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>etrafındaki soluk koronayı görebiliyoruz</Text>
+        <BeginOffset>2935</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3271" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>ışığın çoğu yok olmuş oluyor</Text>
+        <BeginOffset>3239</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ve!#!korona bölgesinde kalan soluk detayları görebiliyoruz</Text>
+        <BeginOffset>3268!#!3279</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4352" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>eğer biçimlerini kontrol edebilirsek, sapmaları kontrol edebiliriz</Text>
+        <BeginOffset>4282</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ve!#!harika bir gölgeye sahip oluruz</Text>
+        <BeginOffset>4349!#!4360</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="üzereyken" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="877" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>onu bu tarafa çevirip</Text>
+        <BeginOffset>888</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Araç güneş sisteminden çıkmak üzereyken</Text>
+        <BeginOffset>847</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="yapamazsan" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="3156" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>ustalık!#!bunun hiçbir şey ifade etmediğini bilmektir</Text>
+        <BeginOffset>3129!#!3167</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bunu tekrar tekrar yapamazsan</Text>
+        <BeginOffset>3137</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ancak" Size="11" senseList="Expansion: Conjunction!#!Comparison: Concession: Arg2_as_denier!#!Comparison: Contrast">
+    <Annotation conBeginOffset="3338" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>Dünyadaki genel müdürlerin yaklaşık yüzde 80'i sürdürülebilirliği inovasyonda artış ve endüstrilerinde rekabet avantajına erişmenin kaynağı olarak görüyor</Text>
+        <BeginOffset>3182</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>yüzde 93'ü ÇSY'yi gelecek olarak veya şirketlerinin geleceği için önemli olarak görüyor</Text>
+        <BeginOffset>3344</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5632" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Sebep sonuç değil</Text>
+        <BeginOffset>5613</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bu, çevresel liderliğin iyi kazançla bağdaştığını gösteriyor</Text>
+        <BeginOffset>5638</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7585" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Sonsuz sosyal sorumlulukları yoktur ve mantıklı yatırım ile finans teorisi sürdürülebilirlikten aşağı değildir. Birbiriyle uyumludurlar. O yüzden burada birinden ödün vermekten bahsetmiyorum</Text>
+        <BeginOffset>7393</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>kurumsal yatırımcılar sürdürülebilirlikte x faktörüdür</Text>
+        <BeginOffset>7591</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8851" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>Bir hareket planının riskleri ve maliyetleri vardır</Text>
+        <BeginOffset>8798</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>zahmetsiz eylemsizliğin uzun dönemli riskleri ve maliyetlerinden çok daha azdır</Text>
+        <BeginOffset>8857</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8987" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Bunda değerleme riski olacağını kabul ediyorum</Text>
+        <BeginOffset>8939</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bu kabul edilmiş bilimsel mutabakata dayalı olduğu için tamamen yanlış olmaması ihtimali evimizin yanması veya araba kazası geçirmemiz ihtimalinden daha fazla</Text>
+        <BeginOffset>8993</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9816" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Seviyorum, çünkü iklim değişikliği mevzusunun iki yönüyle de dalga geçiyor</Text>
+        <BeginOffset>9680</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bununla ilgili gerçekten sevdiğim şey, bana Mark Twain'in söylediği birşeyi hatırlatıyor olması, "Gelecek için planla, çünkü orası hayatının geri kalanını geçireceğin yerdir</Text>
+        <BeginOffset>9822</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="853" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Başarının bir an olduğunu</Text>
+        <BeginOffset>826</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>her zaman göklere çıkardığımız şeyin yaratıcılık ve ustalık olduğunu</Text>
+        <BeginOffset>859</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2945" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Amerikan kültüründe bu çok nadirdir, bunun artık meslekle pek ilgisi yoktur, bu derecede kusursuz bir kararlılığın nasıl olduğunu, bir hedefi vurmak için üç saat bedenin duruşunu ayarlamanın ne demek olduğunu görmek, bilinmezlik içinde bir çeşit mükemmellik aramak</Text>
+        <BeginOffset>2679</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>orada kaldım</Text>
+        <BeginOffset>2951</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3123" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>başarı o onluk daireye isabet ettirmektir</Text>
+        <BeginOffset>3080</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ustalık bunu tekrar tekrar yapamazsan bunun hiçbir şey ifade etmediğini bilmektir</Text>
+        <BeginOffset>3129</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3212" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>ustalık bunu tekrar tekrar yapamazsan bunun hiçbir şey ifade etmediğini bilmektir</Text>
+        <BeginOffset>3129</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ustalık mükemmellikle aynı şey değildir</Text>
+        <BeginOffset>3218</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3977" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>onları tekrar ele almak niyetiyle kasıtlı olarak bir kenara koyardı</Text>
+        <BeginOffset>3908</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>hayatının sonunda sonuç resimlerinin sadece yüzde onunu imzalamış olmasıydı</Text>
+        <BeginOffset>3983</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="olmayıp" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="6294" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>gümüş madalya alanların!#!hiç madalya almamaları söz konusu olmadığı!#!olmadığı</Text>
+        <BeginOffset>6260!#!6302!#!6336</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>dördüncü olmayıp</Text>
+        <BeginOffset>6285</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="özellikle de" Size="1" senseList="Expansion: Level_of_detail: Arg2_as_detail">
+    <Annotation conBeginOffset="214" sense="Expansion: Level_of_detail: Arg2_as_detail">
+      <Arg1>
+        <Text>endişem o ki yatırımcılar değişimin en büyük faktörlerinden bazılarına yeterince dikkat etmiyorlar</Text>
+        <BeginOffset>114</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>iş sürdürülebilirliğe gelince</Text>
+        <BeginOffset>227</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="uzaklaşarak" Size="1" senseList="Contingency: Cause: Result">
+    <Annotation conBeginOffset="1897" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>Alpha Centauri'ye varıyoruz</Text>
+        <BeginOffset>1909</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Bir kez daha 10 kat uzaklaşarak</Text>
+        <BeginOffset>1877</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="görürse" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="5771" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>bunun norm olması gerekmez mi</Text>
+        <BeginOffset>5780</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>eğer kazanç aynı ya da daha iyi olursa ve gezegen bundan fayda görürse</Text>
+        <BeginOffset>5708</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="başlarken" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="1537" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>yük trenlerinden atılıyorlar baş parmaklarını kaldırıyorlar ve kamyonculardan futbolcu annelerine kim gelirse onlarla yolculuk ediyorlar</Text>
+        <BeginOffset>1548</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Gün başlarken</Text>
+        <BeginOffset>1533</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="yapınca da" Size="1" senseList="Temporal: Asynchronous">
+    <Annotation conBeginOffset="9364" sense="Temporal: Asynchronous">
+      <Arg1>
+        <Text>iki şey yapıyoruz</Text>
+        <BeginOffset>9375</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>sürdürülebilir olarak yatırım yapınca</Text>
+        <BeginOffset>9334</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="yapabilirseniz" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="1480" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>buna karşı koyun</Text>
+        <BeginOffset>1496</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Yapabilirseniz</Text>
+        <BeginOffset>1480</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="olsa bile" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="9131" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>Bitmemiş bir fikir üzerine inşa ederiz</Text>
+        <BeginOffset>9069</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bu fikir eski hâlimiz olsa bile</Text>
+        <BeginOffset>9109</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="karıştırıp" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="2523" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>yiyecek toplamak için mükemmel bir üretim yeri olduğudur</Text>
+        <BeginOffset>2534</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>çöplüklerin ve çöp tenekelerinin karıştırıp</Text>
+        <BeginOffset>2490</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="tabi alabilirse" Size="1" senseList="Contingency: Condition+SpeechAct">
+    <Annotation conBeginOffset="1200" sense="Contingency: Condition+SpeechAct">
+      <Arg1>
+        <Text>Gelişmiş ülkelerde bile bir hastanın rahat bir soket alabilmesi 3 haftadan yıllara kadar çıkabiliyor</Text>
+        <BeginOffset>1098</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>tabi alabilirse</Text>
+        <BeginOffset>1200</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="sonra da" Size="1" senseList="Temporal: Asynchronous: Precedence">
+    <Annotation conBeginOffset="2185" sense="Temporal: Asynchronous: Precedence">
+      <Arg1>
+        <Text>sonlu elemanlar modellemesini kullandım</Text>
+        <BeginOffset>2144</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>üretilmek üzere bir protez soketi yaptım</Text>
+        <BeginOffset>2194</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="kullansalar" Size="1" senseList="Contingency: Condition+SpeechAct">
+    <Annotation conBeginOffset="8321" sense="Contingency: Condition+SpeechAct">
+      <Arg1>
+        <Text>ne olurdu</Text>
+        <BeginOffset>8333</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>en azından bunları kötüleştirmeyen şirketlere daha fazla sermaye aktarmak için</Text>
+        <BeginOffset>8242</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="çevirip" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="902" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>6 milyar kilometre öteden Dünya'nın fotoğrafını çektirdiler</Text>
+        <BeginOffset>911</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bu tarafa çevirip</Text>
+        <BeginOffset>892</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ve_da" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="719!#!730" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>onu stüdyosunda çöpe atmıştı</Text>
+        <BeginOffset>690</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>komşusu!#!değerini anladığı için onu almıştı</Text>
+        <BeginOffset>722!#!733</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="sorduğunda" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="5825" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>Paris Review!#!şu cevabı alabilmişti</Text>
+        <BeginOffset>5795!#!5836</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>James Baldwin'e sorduğunda</Text>
+        <BeginOffset>5809</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="hem de" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="906" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Hem büyüyen</Text>
+        <BeginOffset>893</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>yaşlanan</Text>
+        <BeginOffset>913</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="aksine" Size="1" senseList="Expansion: Substitution: Arg2_as_subst">
+    <Annotation conBeginOffset="7750" sense="Expansion: Substitution: Arg2_as_subst">
+      <Arg1>
+        <Text>Her şeyi yaptığımızda gelişmeyiz</Text>
+        <BeginOffset>7716</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>daha yapacak şeyler olduğunda</Text>
+        <BeginOffset>7757</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="aşırılılıklarındansa" Size="1" senseList="Expansion: Substitution: Arg2_as_subst">
+    <Annotation conBeginOffset="2295" sense="Expansion: Substitution: Arg2_as_subst">
+      <Arg1>
+        <Text>geleneksel Amerikan rüyasında gerçek dışı bir şansla çok çalışarak yaşıyorlar</Text>
+        <BeginOffset>2316</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>boşa giden ve tüketici bir toplum olarak gördüklerinin aşırılılıklarındansa</Text>
+        <BeginOffset>2240</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="düşerek" Size="1" senseList="Expansion: Manner: Arg2_as_manner">
+    <Annotation conBeginOffset="2838" sense="Expansion: Manner: Arg2_as_manner">
+      <Arg1>
+        <Text>kendi içindeki şeytanından kurtulamıyor</Text>
+        <BeginOffset>2846</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Hiç kimse yollara düşerek</Text>
+        <BeginOffset>2820</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ve" Size="67" senseList="Expansion: Conjunction!#!Expansion: Level_of_detail: Arg2_as_detail!#!Contingency: Cause: Result">
+    <Annotation conBeginOffset="493" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Bence bunları gözardı etmek kayıtsızlık olur, çünkü gözardı edilmesi ileriye dönük uzun vadeli kazançları riske atabilir</Text>
+        <BeginOffset>371</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>sizi şaşırtabilecek bir şey: Sürdürülebilirliğe gerçekten etki edebilecek güç dengesi kurumsal yatırımcıların, emeklilik fonları, vakıflar ve bağış fonları gibi büyük yatırımcıların elinde</Text>
+        <BeginOffset>496</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="801" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>sandığınızdan çok daha iyi performansı var</Text>
+        <BeginOffset>758</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>hayal edebileceğimizden çok daha önemli</Text>
+        <BeginOffset>804</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1281" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Bunlar ekonomik sorunlar</Text>
+        <BeginOffset>1256</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bu da bu sorunları risk ve kazanç ile ilgili hâle getiriyor</Text>
+        <BeginOffset>1284</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1877" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>yatırımcılar bir şirkete bakıp yatırıma uygun olup olmadığına karar verirken finansal verilere bakıyorlar; satışların büyümesi, nakit akışı, pazar payı değerleme gibi metrikler -bilirsiniz, gerçekten seksi şeyler</Text>
+        <BeginOffset>1663</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>tabii ki bunların tümü gerekli, ama yeterli değiller</Text>
+        <BeginOffset>1880</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2539" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ÇSY sürdürülebilirliğin ölçüsüdür</Text>
+        <BeginOffset>2505</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>sürdürülebilir yatırım ÇSY faktörlerini finansal faktörlerle birlikte yatırım sürecine dahil eder</Text>
+        <BeginOffset>2542</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2906" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>bugün finansal olarak önemli ise</Text>
+        <BeginOffset>2873</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>tüm belirtiler gelecekte daha önemli olacağını gösteriyorsa</Text>
+        <BeginOffset>2909</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3266" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>inovasyonda artış</Text>
+        <BeginOffset>3248</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>endüstrilerinde rekabet avantajına erişmenin kaynağı</Text>
+        <BeginOffset>3269</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3707" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>State Street 54 uygulamayı bulut ortama taşıdı</Text>
+        <BeginOffset>3660</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>85 tanesini de emekliye ayırdık</Text>
+        <BeginOffset>3710</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3791" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>İşletim sistemi ortamlarını sanal hâle getirdik</Text>
+        <BeginOffset>3743</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>birçok otomasyon projesini tamamladık</Text>
+        <BeginOffset>3794</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3996" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>işletme maliyetlerinde yıllık olarak 23 milyon dolar tasarruf sağlıyor</Text>
+        <BeginOffset>3925</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>100.00 metrik ton karbon emisyonunu önlüyor</Text>
+        <BeginOffset>3999</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4173" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Pentair, bir ABD sanayi holdingi</Text>
+        <BeginOffset>4140</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>yaklaşık on yıl önce ana elektrikli alet işlerini sattılar</Text>
+        <BeginOffset>4176</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4235" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>yaklaşık on yıl önce ana elektrikli alet işlerini sattılar</Text>
+        <BeginOffset>4176</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bu kazançlarını su işine yatırdılar</Text>
+        <BeginOffset>4238</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4424" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>su işinde elektrkli aletlerden daha fazla büyüme var</Text>
+        <BeginOffset>4371</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bu şirket "yeni Yeni Dünya" adını verdikleri şeyi başarmak istiyorlardı</Text>
+        <BeginOffset>4427</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5005" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Mavide, MSCI World'ü görüyoruz. Bu, dünyadaki gelişmiş pazarlardaki büyük şirketlerin indeksi</Text>
+        <BeginOffset>4910</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>altın rengi olarak, ÇSY performansı en iyi olarak değerlendirilmiş şirketlerin bir alt kümesini görüyoruz</Text>
+        <BeginOffset>5008</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5371" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Mavide, dünyadaki en büyük 500 şirketin performansını görüyoruz</Text>
+        <BeginOffset>5307</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>altın rengi olarak iklim değişikliği stratejisi ve risk yönetiminde en iyi uygulamalara sahip şirketlerin alt kümesini görüyoruz</Text>
+        <BeginOffset>5374</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5747" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>kazanç aynı ya da daha iyi olursa</Text>
+        <BeginOffset>5713</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>gezegen bundan fayda görürse</Text>
+        <BeginOffset>5750</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5896" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>bazıları öyle</Text>
+        <BeginOffset>5882</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>birkaçı da öncü konumda</Text>
+        <BeginOffset>5899</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6408" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>CalPERS, Kaliforniya'da kamu çalışanları için bir emeklilik fonu</Text>
+        <BeginOffset>6343</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>244 milyar (dolar) varlığı var</Text>
+        <BeginOffset>6411</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6908" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>İşimin bir parçası olarak, birçok yatırımcı ile konuşuyorum</Text>
+        <BeginOffset>6848</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>hepsi durumu bu şekilde görmüyorlar</Text>
+        <BeginOffset>6911</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7215" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>sadece para kazan</Text>
+        <BeginOffset>7197</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>kârı hayır kurumlarına ver</Text>
+        <BeginOffset>7218</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7429" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Sonsuz sosyal sorumlulukları yoktur</Text>
+        <BeginOffset>7393</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>mantıklı yatırım ile finans teorisi sürdürülebilirlikten aşağı değildir</Text>
+        <BeginOffset>7432</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8388" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ya çalışıp, biriktirip, yatırım yapsak</Text>
+        <BeginOffset>8349</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>emekli olduğumuzda dünyanın şimdikinden daha stresli ve daha az güvenli olduğunu görsek</Text>
+        <BeginOffset>8391</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9463" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Gezegenimize ve ekonomimize olan riski azaltarak sigorta yaratıyoruz</Text>
+        <BeginOffset>9394</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>performanstan fedakârlık etmiyoruz</Text>
+        <BeginOffset>9494</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9580" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Peki ya bu koca bir yalansa</Text>
+        <BeginOffset>9552</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>hiçbir şey için daha iyi bir dünya yaratıyorsak</Text>
+        <BeginOffset>9583</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1049" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>kesik uzvuna taktığı</Text>
+        <BeginOffset>1028</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>böylece uzvu protez ayağa bağladığı</Text>
+        <BeginOffset>1052</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1294" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>kalıp çıkarma</Text>
+        <BeginOffset>1280</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>kalıba dökme</Text>
+        <BeginOffset>1297</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1691" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Yaklaşık iki buçuk yıl önce bir gün, Profesör Hugh Herr ile tanıştım</Text>
+        <BeginOffset>1622</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>o bana bu sorunun nasıl çözüleceğini bilip bilmediğimi sordu</Text>
+        <BeginOffset>1694</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2053" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Hastanın anatomisinin gerçek biçimini yakalamak için manyetik rezonans görüntülemesini kullandım</Text>
+        <BeginOffset>1956</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>normal kuvvetlerde iç gerilme ve deformasyon noktalarını daha iyi tahmin edebilmek için sonlu elemanlar modellemesini kullandım</Text>
+        <BeginOffset>2056</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2706" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>yastıkların üzerinde yürüyormuşsun gibi</Text>
+        <BeginOffset>2666</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>çok çekici</Text>
+        <BeginOffset>2709</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1183" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Hubble Uzay Teleskobu'nu tutup döndürdüğümüzü</Text>
+        <BeginOffset>1137</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>onu Mars'ın yörüngesine doğru gönderdiğimizi</Text>
+        <BeginOffset>1186</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1791" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>şimdi Oort Blulutu'ndayız, güneş sisteminin dışında</Text>
+        <BeginOffset>1739</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>güneşin görüş alanımıza, gezegenlerin oldukları yere geçtiğini görmeye başlıyoruz</Text>
+        <BeginOffset>1794</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1966" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Alpha Centauri'ye varıyoruz</Text>
+        <BeginOffset>1909</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>gezegen kayboldu</Text>
+        <BeginOffset>1969</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3236" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>güneşe tekrar bakıyoruz</Text>
+        <BeginOffset>3212</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ışığın çoğu yok olmuş oluyor</Text>
+        <BeginOffset>3239</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3268" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ışığın çoğu yok olmuş oluyor</Text>
+        <BeginOffset>3239</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>böylece korona bölgesinde kalan soluk detayları görebiliyoruz</Text>
+        <BeginOffset>3271</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3520" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Büyük bir gölgelik yapıp uzaya göndeririz, bunu yıldızın tam önüne koyarız, ışığın çoğunu engelleriz, oluşan gölgeye bir uzay teleskobu yerleştiririz</Text>
+        <BeginOffset>3370</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>işte, gezegenleri görebilir hâle geliriz</Text>
+        <BeginOffset>3523</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3837" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Bir akarsudaki kayanın etrafında suyun eğilmesine benziyor</Text>
+        <BeginOffset>3778</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>tüm bu ışık, gölgeyi yok ediyor</Text>
+        <BeginOffset>3840</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4066" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>gezegenleri görebilirdik</Text>
+        <BeginOffset>4041</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>yaklaşık son 10 yıldır bunu yapmak için en uygun çözümleri ortaya çıkardık</Text>
+        <BeginOffset>4069</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4349" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>eğer biçimlerini kontrol edebilirsek, sapmaları kontrol edebiliriz</Text>
+        <BeginOffset>4282</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>böylece harika bir gölgeye sahip oluruz</Text>
+        <BeginOffset>4352</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4434" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>Önceki hâlinden 10 milyar kat daha soluk</Text>
+        <BeginOffset>4393</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>gezegenlerin işte böyle belirdiğini görebiliyoruz</Text>
+        <BeginOffset>4437</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4601" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Bu yıldız gölgeleyici yaklaşık yarım futbol sahası büyüklüğünde</Text>
+        <BeginOffset>4537</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>gölgesi içinde tutulması gereken teleskoptan 50.000 kilometre uzakta uçması gerekiyor</Text>
+        <BeginOffset>4604</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5029" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>döne döne uzaklaşıyor</Text>
+        <BeginOffset>5007</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>teleskoptan 50.000 km uzağa uçuyor</Text>
+        <BeginOffset>5032</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5102" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Yıldızın önüne işte böyle geçecek</Text>
+        <BeginOffset>5068</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>harika bir gölge yaratacak</Text>
+        <BeginOffset>5105</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5774" sense="Expansion: Level_of_detail: Arg2_as_detail">
+      <Arg1>
+        <Text>Bu sınamayı 16 kez yaptık</Text>
+        <BeginOffset>5748</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>16 kez, milimetrenin onda biri hassaslıkla tam olarak aynı yere geldi</Text>
+        <BeginOffset>5777</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5880" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Bu tam bir doğrulukla yapılmalı</Text>
+        <BeginOffset>5848</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>eğer bunu yapabilirsek, eğer bu teknolojiyi inşa edebilirsek, eğer uzaya götürebilirsek, muhtemelen şöyle bir şey görebilirsiniz</Text>
+        <BeginOffset>5883</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6491" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Jüpiter'i görebilirsiniz, Satürn'ü görebilirsiniz, Uranüs, Neptün</Text>
+        <BeginOffset>6425</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>tam burada merkezde kalıntı ışıkların yanındaki soluk mavi noktayı. Bu Dünya</Text>
+        <BeginOffset>6494</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1542" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>durup seyrettim</Text>
+        <BeginOffset>1526</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>adeta rahat bir odaklanma içinde dışarı çıktılar</Text>
+        <BeginOffset>1545</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2024" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>bir okçunun arkasında durdum</Text>
+        <BeginOffset>1995</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>onu seyrettim</Text>
+        <BeginOffset>2027</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2348" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Önce yediyi, ardından dokuzu ve sonra iki kere onu vurduğunu hatırlıyorum</Text>
+        <BeginOffset>2274</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>sonraki ok da hedefi dahi vuramadı</Text>
+        <BeginOffset>2351</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2434" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Bunun ona daha çok kararlılık verdiğini gördüm</Text>
+        <BeginOffset>2387</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>tekrar tekrar denedi</Text>
+        <BeginOffset>2437</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4118" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>En sevdiği roman, Honoré de Balzac'ın Gizli Başyapıt'ıydı</Text>
+        <BeginOffset>4060</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ana karakteri kendisiyle özdeşleştirmişti</Text>
+        <BeginOffset>4121</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4418" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Arkadaşları bu isteğine uymayı reddettiler</Text>
+        <BeginOffset>4375</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bu yüzden şimdi Kafka'nın yaptığı bütün çalışmalara sahibiz: "Amerika", "Dava" ve "Şato", öylesine tamamlanmamış bir eser ki, cümlenin ortasında bitiyor</Text>
+        <BeginOffset>4421</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5893" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Paris Review, James Baldwin'e sorduğunda şu cevabı alabilmişti, "Bilgiyle artan şey sizce nedir</Text>
+        <BeginOffset>5795</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>o da şöyle söyledi, "Ne kadar az bildiğini öğreniyorsun</Text>
+        <BeginOffset>5896</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6257" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Thomas Gilovich ve Cornell'den ekibi bu farkı araştırmış</Text>
+        <BeginOffset>6200</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>gümüş madalya alanların, dördüncü olmayıp hiç madalya almamaları söz konusu olmadığı için tipik olarak daha mutlu olan bronz kazananlarla karşılaştırıldığında hissettikleri öfkenin, gümüş madalya kazananlara bir sonraki yarışmada bir odak noktası verdiğini bulmuştur</Text>
+        <BeginOffset>6260</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6705" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>neredeyse kazanma oranı ortalamadan daha yüksek olan kazı kazan biletleri yarattılar</Text>
+        <BeginOffset>6620</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>insanlar daha fazla bilet almak için öylesine istekliydi</Text>
+        <BeginOffset>6708</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6798" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>bunlara yürek durduran dendi</Text>
+        <BeginOffset>6769</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>1970'lerde Britanya'da kumar endüstrisinin bir dizi suistimali ile körüklendi</Text>
+        <BeginOffset>6801</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6960" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>, olaya bakışımızı değiştirmesi</Text>
+        <BeginOffset>6928</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>uzağa koymaya meyilli olduğumuz hedeflerimizi bulunduğumuz daha yakın bir yere koymasıdır</Text>
+        <BeginOffset>6963</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7499" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>altını saniyenin üçte biri ile kaçırmıştı</Text>
+        <BeginOffset>7457</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>kocası bunun bir sonraki yarışmada ona ihtiyacı olan kararlılığı vereceğini öngörmüştü</Text>
+        <BeginOffset>7502</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7625" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>heptatlonda altını kazandı</Text>
+        <BeginOffset>7598</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>7.921 puanla rekor kırdı</Text>
+        <BeginOffset>7628</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7925" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>düşünüyor</Text>
+        <BeginOffset>7915</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>merak ediyorum</Text>
+        <BeginOffset>7928</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="351" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>İçimde derin bir rahatsızlık var hayatın tek düzeliğine ve sıkkınlığa kurban düşeceğime dair ilkel bir korku</Text>
+        <BeginOffset>241</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bu yüzden çocukluk dönemi hatıralarımın çoğu sınırlarda yürüyüp, çilek peşinde koştuğum ve farklı farklı insanlarla karşılaştığım yollarda sıradışı bir hayat sürdüğüm karma karışık hayallerdi</Text>
+        <BeginOffset>354</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="442" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>sınırlarda yürüyüp, çilek peşinde koştuğum</Text>
+        <BeginOffset>399</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>farklı farklı insanlarla karşılaştığım</Text>
+        <BeginOffset>445</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="670" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>benim dünyam dışındaki dünyalar arasında seyahat ederken</Text>
+        <BeginOffset>613</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>yoluma dokunurken</Text>
+        <BeginOffset>673</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="837" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>çocukluk rüyalarımı yaşayanlar arasında olmak kadar</Text>
+        <BeginOffset>785</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Birleşik Devlet boyunca gezgin arkadaşların arasında yasamak kadar</Text>
+        <BeginOffset>840</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1259" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>bu fotoraflar renkli</Text>
+        <BeginOffset>1238</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>onlar ülke çapında fırıl fırıl dönen, oldukça canlı ve yaratıcı bir şekilde özgür, Amerikan'ın kimsenin görmediği taraflarını gören bir topluluğu tanımlıyor</Text>
+        <BeginOffset>1262</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1608" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>yük trenlerinden atılıyorlar baş parmaklarını kaldırıyorlar</Text>
+        <BeginOffset>1548</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>kamyonculardan futbolcu annelerine kim gelirse onlarla yolculuk ediyorlar</Text>
+        <BeginOffset>1611</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2951" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>yük trenleri öldürüyor</Text>
+        <BeginOffset>2928</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>sakatlıyor</Text>
+        <BeginOffset>2954</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2965" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>sakatlıyor</Text>
+        <BeginOffset>2954</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>sokaklarda yaşayan her hangi biri bunu onaylayabilir</Text>
+        <BeginOffset>2968</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="olduğumuzda" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="8398" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>dünyanın şimdikinden daha stresli ve daha az güvenli olduğunu</Text>
+        <BeginOffset>8410</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>emekli olduğumuzda</Text>
+        <BeginOffset>8391</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="izlerken" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="791" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>beni çok üzen şey ülkede uzuvları kesilmiş olan çoğu insanın protezlerini kullanmamasıydı</Text>
+        <BeginOffset>800</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Tanıdığım, sevdiğim insanların bu yıkımın yaralarını sarışını izlerken</Text>
+        <BeginOffset>729</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="o zaman" Size="2" senseList="Contingency: Cause+SpeechAct: Result+SpeechAct!#!Contingency: Cause: Result">
+    <Annotation conBeginOffset="5168" sense="Contingency: Cause+SpeechAct: Result+SpeechAct">
+      <Arg1>
+        <Text>Üç yıldan fazla sürede, hiçbir performans farkı yok</Text>
+        <BeginOffset>5115</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bu tamam, değil mi</Text>
+        <BeginOffset>5176</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4033" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>Eğer uçları inceltip, bu uçları yumuşatabilirsek sapmaları kontrol edebilirdik</Text>
+        <BeginOffset>3953</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>gezegenleri görebilirdik</Text>
+        <BeginOffset>4041</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="sadece" Size="1" senseList="Expansion: Substitution: Arg1_as_subst">
+    <Annotation conBeginOffset="8906" sense="Expansion: Substitution: Arg1_as_subst">
+      <Arg1>
+        <Text>tam olarak şikâyet gibi gelmedi bu</Text>
+        <BeginOffset>8870</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bana yaptığı naif bir itiraf gibiydi</Text>
+        <BeginOffset>8913</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="işte" Size="4" senseList="Expansion: Equivalence!#!Contingency: Cause: Result">
+    <Annotation conBeginOffset="1417" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>şimdi 10 kat daha uzaklaşalım</Text>
+        <BeginOffset>1386</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Uranüs'ün yörüngesindeyiz</Text>
+        <BeginOffset>1422</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1689" sense="Expansion: Equivalence">
+      <Arg1>
+        <Text>şeçilmiyor bile</Text>
+        <BeginOffset>1637</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Carl Sagan'ın "Soluk Mavi Nokta"sı!#!bu</Text>
+        <BeginOffset>1654!#!1694</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3523" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>Büyük bir gölgelik yapıp uzaya göndeririz, bunu yıldızın tam önüne koyarız, ışığın çoğunu engelleriz, oluşan gölgeye bir uzay teleskobu yerleştiririz</Text>
+        <BeginOffset>3370</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ve!#!gezegenleri görebilir hâle geliriz</Text>
+        <BeginOffset>3520!#!3529</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5133" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>Yıldızın önüne işte böyle geçecek ve harika bir gölge yaratacak</Text>
+        <BeginOffset>5068</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>yörüngesinde dönen gezegenleri bulduk</Text>
+        <BeginOffset>5139</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="koyarsak_getirirsek" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="6177!#!6209" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>bunun gibi bir şey görebiliriz</Text>
+        <BeginOffset>6221</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Eğer buna benzer biraz daha büyük bir uzay teleskobu alıp, oraya bir yere koyarsak, önüne bir gölgeleyici getirirsek</Text>
+        <BeginOffset>6103</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ama" Size="20" senseList="Expansion: Conjunction!#!Comparison: Concession: Arg2_as_denier!#!Comparison: Concession!#!Comparison: Contrast">
+    <Annotation conBeginOffset="1228" sense="Comparison: Concession">
+      <Arg1>
+        <Text>Bunlar belli ki çevresel ve sosyal sorunlar</Text>
+        <BeginOffset>1183</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>hepsi bununla kalmıyor</Text>
+        <BeginOffset>1232</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1912" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>tümü gerekli</Text>
+        <BeginOffset>1898</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>yeterli değiller</Text>
+        <BeginOffset>1916</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2501" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>size bunların cazip şeyler olduğunu söylemiştim</Text>
+        <BeginOffset>2452</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ÇSY sürdürülebilirliğin ölçüsüdür ve sürdürülebilir yatırım ÇSY faktörlerini finansal faktörlerle birlikte yatırım sürecine dahil eder</Text>
+        <BeginOffset>2505</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1777" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Hayır, henüz değil</Text>
+        <BeginOffset>1757</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>öğrenmeyi çok isterim</Text>
+        <BeginOffset>1781</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="671" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Bunların beşte birinin Dünya benzeri bir gezegene sahip olduklarını, yaşam barındırıyor olabileceklerini tahmin ediyorlar</Text>
+        <BeginOffset>548</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bunlardan hiçbirini görmüş değiliz</Text>
+        <BeginOffset>675</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1698" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Carl Sagan'ın "Soluk Mavi Nokta"sı işte bu</Text>
+        <BeginOffset>1654</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>hadi 10 kat daha uzağa gidelim</Text>
+        <BeginOffset>1702</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3617" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Şuradaki o büyük gölgelik</Text>
+        <BeginOffset>3590</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>hiç gezegen görünmüyor</Text>
+        <BeginOffset>3621</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3915" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Gezegenleri göremeyiz</Text>
+        <BeginOffset>3892</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Spitzer aslında yanıtı biliyordu</Text>
+        <BeginOffset>3919</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6290" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Bu güneş sistemimizin aile portresi</Text>
+        <BeginOffset>6253</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bizimkini değil, bir başka güneş sistemi görebilmeyi umuyoruz, gölgeleyici sayesinde, bunun gibi bir yıldız gölgeleyici sayesinde</Text>
+        <BeginOffset>6294</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="937" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Başarının bir an olduğunu, ancak her zaman göklere çıkardığımız şeyin yaratıcılık ve ustalık olduğunu anladım</Text>
+        <BeginOffset>826</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>işte olay şu</Text>
+        <BeginOffset>941</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1717" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Yanımdan geçip gülümsediler</Text>
+        <BeginOffset>1688</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>çim alana doğru giderken kim olduğumu anlamaya çalıştılar</Text>
+        <BeginOffset>1721</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5979" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>Başarı bizi motive eder</Text>
+        <BeginOffset>5954</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>neredeyse kazanmak süregelen bir arayışta bizi ileriye götürebilir</Text>
+        <BeginOffset>5983</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7168" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>Gelecek hafta harika bir günün neye benzediğini düşünmenizi istesem, bunu daha genel ifadelerle anlatabilirsiniz</Text>
+        <BeginOffset>7054</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>yarın TED'de harika bir günü anlatmanızı istesem, bunu tane tane, gerçekçi bir netlikte anlatabilirsiniz</Text>
+        <BeginOffset>7172</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9506" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Tamamlamak bir amaçtır</Text>
+        <BeginOffset>9482</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>onun hiçbir zaman son olmadığını ümit ederiz</Text>
+        <BeginOffset>9510</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="561" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Yıllar geçti</Text>
+        <BeginOffset>547</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>çocuk olarak hayalini kurduğum birçok macera -- benim dünyam dışındaki dünyalar arasında seyahat ederken ve yoluma dokunurken -- bir belgesel fotorafçısı olarak işim aracıyla bunlar gerçek oldu</Text>
+        <BeginOffset>565</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="760" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>bir belgesel fotorafçısı olarak işim aracıyla bunlar gerçek oldu</Text>
+        <BeginOffset>694</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>hiçbir başka deneyim çocukluk rüyalarımı yaşayanlar arasında olmak kadar ve Birleşik Devlet boyunca gezgin arkadaşların arasında yasamak kadar gerçek hissettirmedi</Text>
+        <BeginOffset>764</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1234" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>"Gezici rençper" kelimesi bacakları vagondan sarkan kömürle kaplı yıpranmış yaşlı bir adamı çağrıştırıyor</Text>
+        <BeginOffset>1127</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bu fotoraflar renkli ve onlar ülke çapında fırıl fırıl dönen, oldukça canlı ve yaratıcı bir şekilde özgür, Amerikan'ın kimsenin görmediği taraflarını gören bir topluluğu tanımlıyor</Text>
+        <BeginOffset>1238</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1923" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>Yolları tercih eden bazı gezginler maddeciliği, geleneksel işleri ve üniversite derecelerini bir maceranın zayıf ışığına tercih ediyor</Text>
+        <BeginOffset>1787</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>diğer toplumun alt kesimlerinden gelenlerin yukarlara doğru tırmanmaya şanşı yok: evlatlık olup bakıcılardan kaçanlar, kaçan ergenler, tacize uğrayanlar ve evinden atılalar</Text>
+        <BeginOffset>1927</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2752" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Nesnel rahatlığı yer ve zaman karşılığında içsel bir yaratıcılığı keşfetmek için, hayal kurmak, okumak, müzik, sanat ve edebiyatta çalışmak için feda ediyorlar</Text>
+        <BeginOffset>2592</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bir çok açıdan bu hayat cennet gibi sessiz bir yaşantıdan uzak</Text>
+        <BeginOffset>2756</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3714" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Böyle bir soruya yollara düşen insanlar tarafından çeşitli cevaplar verilebilir</Text>
+        <BeginOffset>3633</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>göçebeler genellikle is tek bir kelime ile cevap vereceklerdir: özgürlük</Text>
+        <BeginOffset>3718</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="değilse" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="1530" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>bacağınızı kullanamazsınız</Text>
+        <BeginOffset>1538</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Eğer protez soketiniz rahat değilse</Text>
+        <BeginOffset>1502</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="çalışıp" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="8352" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>biriktirip</Text>
+        <BeginOffset>8361</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>çalışıp</Text>
+        <BeginOffset>8352</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="doğup" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="79" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>büyüdüm</Text>
+        <BeginOffset>85</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>doğup</Text>
+        <BeginOffset>79</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="gösteriyorsa" Size="1" senseList="Contingency: Condition+SpeechAct">
+    <Annotation conBeginOffset="2956" sense="Contingency: Condition+SpeechAct">
+      <Arg1>
+        <Text>özel sektör bu konuya dikkat ediyor mu</Text>
+        <BeginOffset>2970</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>eğer sürdürülebilirlik bugün finansal olarak önemli ise ve tüm belirtiler gelecekte daha önemli olacağını gösteriyorsa</Text>
+        <BeginOffset>2850</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="biriktirip" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="8361" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>yatırım yapsak</Text>
+        <BeginOffset>8373</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>biriktirip</Text>
+        <BeginOffset>8361</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="sanki" Size="1" senseList="Comparison: Similarity">
+    <Annotation conBeginOffset="4741" sense="Comparison: Similarity">
+      <Arg1>
+        <Text>Tanrım, bana başarabileceğimden daha fazlasını istemeyi bahşet," diye yakarmıştı Michelangelo</Text>
+        <BeginOffset>4646</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Sistina Şapeli'ndeki Eski Ahit Tanrısı'na ve kendisi de uzattığı parmağı Tanrı'nın eline tam değmeyen Âdem'di</Text>
+        <BeginOffset>4747</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="gelse de" Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="4745" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>JPL'deki meslektaşlarım, parlak mühendisler bunu nasıl yapabileceğimize ilişkin şöyle muhteşem bir tasarım ortaya attılar</Text>
+        <BeginOffset>4755</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Bu ürkütücü gelse de</Text>
+        <BeginOffset>4733</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ve de" Size="2" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="1093" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>doğal kaynakları yenilenebileceğinden daha hızlı şekilde tüketiyoruz</Text>
+        <BeginOffset>1024</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>iklimsel degişikliklerin esas sorumlusu olan gaz emisyonları artmaya devam etmekte.</Text>
+        <BeginOffset>1099</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2745" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>insanlara ve gezegene olan zararın minimize edilerek gelecekteki riskin sınırlanması anlamına gelir</Text>
+        <BeginOffset>2645</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>üretken ve sürdürülebilir sonuçlar elde eden kullanıcılara sermaye sağlanması anlamına gelir</Text>
+        <BeginOffset>2751</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="dolayısıyla" Size="1" senseList="Contingency: Cause: Result">
+    <Annotation conBeginOffset="2344" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>Teleskobun içinde saçılarak, gezegeni görülemeyecek hâle getiren bu aşırı parlak görüntüyü yaratıyor</Text>
+        <BeginOffset>2242</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>gezegeni görmek için tüm bu ışığa ilişkin bir şeyler yapmamız gerek</Text>
+        <BeginOffset>2356</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="veya" Size="6" senseList="Expansion: Disjunction">
+    <Annotation conBeginOffset="3377" sense="Expansion: Disjunction">
+      <Arg1>
+        <Text>gelecek olarak</Text>
+        <BeginOffset>3362</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>şirketlerinin geleceği için önemli olarak</Text>
+        <BeginOffset>3382</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7042" sense="Expansion: Disjunction">
+      <Arg1>
+        <Text>Sık sık şunu duyarım, "Kazancı maksimize etmek zorundayız, bu yüzden bunu burada yapamayız</Text>
+        <BeginOffset>6948</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Portfolyomuzu politika beyanı yapmak için kullanmak istemiyoruz</Text>
+        <BeginOffset>7048</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8237" sense="Expansion: Disjunction">
+      <Arg1>
+        <Text>en azından bunları kötüleştirmeyen</Text>
+        <BeginOffset>8242</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bu sorunları çözmek için en fazla çalışan</Text>
+        <BeginOffset>8195</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9099" sense="Expansion: Disjunction">
+      <Arg1>
+        <Text>evimizin yanması</Text>
+        <BeginOffset>9082</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>araba kazası geçirmemiz</Text>
+        <BeginOffset>9104</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3199" sense="Expansion: Disjunction">
+      <Arg1>
+        <Text>Burada kim Birleşik Devletler'de birçok şehirde yol kenarına battaniyeye sarılı oturmanın yaşadışı oldupunu biliyor</Text>
+        <BeginOffset>3082</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>arabanızda uyumanın, veya yabancılara yiyecek önermenin</Text>
+        <BeginOffset>3204</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3385" sense="Expansion: Disjunction">
+      <Arg1>
+        <Text>şuç denen bu şeylerden dolayı hapishaneye götürüldüğünü</Text>
+        <BeginOffset>3329</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>uyarı aldığına</Text>
+        <BeginOffset>3390</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="yaşıyorsanız" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="9169" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>belki de değil</Text>
+        <BeginOffset>9182</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Boston'da yaşıyorsanız</Text>
+        <BeginOffset>9159</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="bilmeseniz" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="514" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>bunu tahmin edemezdiniz</Text>
+        <BeginOffset>526</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Ona ait olduğunu bilmeseniz</Text>
+        <BeginOffset>497</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="kaçtığımızda" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="492" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>kendi çocuklarımı bizim yaşadıklarımızı yaşamaktan korumak için elimden gelen her şeyi yapmaya karar verdim</Text>
+        <BeginOffset>505</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Yaklaşık 12 yaşlarındayken ailemle beraber bu saldırılardan birinden kaçtığımızda</Text>
+        <BeginOffset>423</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="eğer_eğer_eğer" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="5883!#!5907!#!5945" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>muhtemelen şöyle bir şey görebilirsiniz</Text>
+        <BeginOffset>5972</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bunu yapabilirsek!#!bu teknolojiyi inşa edebilirsek!#!uzaya götürebilirsek</Text>
+        <BeginOffset>5888!#!5912!#!5950</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="gömüp" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="1446" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>bunun hakkında düşünmemek</Text>
+        <BeginOffset>1453</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Kafamızı kuma gömüp</Text>
+        <BeginOffset>1432</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="karşılaştırıldığında" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="6398" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>hissettikleri öfkenin, gümüş madalya kazananlara bir sonraki yarışmada bir odak noktası verdiğini</Text>
+        <BeginOffset>6419</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>daha mutlu olan bronz kazananlarla karşılaştırıldığında</Text>
+        <BeginOffset>6363</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="yaklaşırken" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="1514" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>durup seyrettim</Text>
+        <BeginOffset>1526</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Koç bu kadınlarla gri minibüsünde yaklaşırken</Text>
+        <BeginOffset>1480</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="düşününce" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="8542" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>neden okçuluk koçunun idmanın sonunda bana okçularının işitmeyeceği mesafeden, onun ve meslektaşlarının ekipleri için ne yapsalar yetmeyeceğini düşündüklerini, kazanmak üzere olmak konusunu aşmalarına yardımcı olması için yeterli gözünde canlandırma tekniği ve duruş eğitimi olmadığını söylediğini anlıyorum</Text>
+        <BeginOffset>8553</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Bunun hakkında düşününce</Text>
+        <BeginOffset>8527</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="kısacası" Size="1" senseList="Expansion: Level_of_detail: Arg1_as_detail">
+    <Annotation conBeginOffset="2364" sense="Expansion: Level_of_detail: Arg1_as_detail">
+      <Arg1>
+        <Text>Hastanın anatomisinin gerçek biçimini yakalamak için manyetik rezonans görüntülemesini kullandım ve normal kuvvetlerde iç gerilme ve deformasyon noktalarını daha iyi tahmin edebilmek için sonlu elemanlar modellemesini kullandım, sonra da üretilmek üzere bir protez soketi yaptım. Hastanın anatomisinde gerekli yerlerdeki baskıyı azaltan çok parçalı bir protez soketi yapmak için üç boyutlu yazıcı kullandık</Text>
+        <BeginOffset>1956</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>çabuk ve ucuz yeni soketler yapmak için verileri kullanıyoruz</Text>
+        <BeginOffset>2374</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="yumuşatabilirsek" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="3985" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>sapmaları kontrol edebilirdik</Text>
+        <BeginOffset>4002</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Eğer uçları inceltip, bu uçları yumuşatabilirsek</Text>
+        <BeginOffset>3953</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="düşünerek" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="3897" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Ressam Paul Cézanne!#!onları tekrar ele almak niyetiyle kasıtlı olarak bir kenara koyardı</Text>
+        <BeginOffset>3834!#!3908</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>çalışmalarının sıklıkla bitmemiş olduğunu düşünerek</Text>
+        <BeginOffset>3855</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="istesem" Size="2" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="7114" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>bunu daha genel ifadelerle anlatabilirsiniz</Text>
+        <BeginOffset>7123</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Gelecek hafta harika bir günün neye benzediğini düşünmenizi istesem</Text>
+        <BeginOffset>7054</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7213" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>bunu tane tane, gerçekçi bir netlikte anlatabilirsiniz</Text>
+        <BeginOffset>7222</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>TED'de harika bir günü anlatmanızı istesem</Text>
+        <BeginOffset>7178</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ki" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="1566" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Eğer protez soketiniz rahat değilse bacağınızı kullanamazsınız</Text>
+        <BeginOffset>1502</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bu da açıkça bizim çağımızda kabul edilemez bir şey</Text>
+        <BeginOffset>1569</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="çünkü" Size="10" senseList="Contingency: Cause: Reason!#!Contingency: Cause+Belief: Reason+Belief">
+    <Annotation conBeginOffset="417" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>Bence bunları gözardı etmek kayıtsızlık olur</Text>
+        <BeginOffset>371</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>gözardı edilmesi ileriye dönük uzun vadeli kazançları riske atabilir</Text>
+        <BeginOffset>423</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9691" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>Seviyorum</Text>
+        <BeginOffset>9680</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>iklim değişikliği mevzusunun iki yönüyle de dalga geçiyor</Text>
+        <BeginOffset>9697</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9941" sense="Contingency: Cause+Belief: Reason+Belief">
+      <Arg1>
+        <Text>Gelecek için planla</Text>
+        <BeginOffset>9920</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>orası hayatının geri kalanını geçireceğin yerdir</Text>
+        <BeginOffset>9947</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1319" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>Göreceğimiz şey şöyle bir şey, Dünya'nın resminin hafifçe bulanık hâli gibi</Text>
+        <BeginOffset>1243</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Mars'ın yörüngesinde oldukça ufak bir teleskobumuz var</Text>
+        <BeginOffset>1325</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3644" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>hiç gezegen görünmüyor</Text>
+        <BeginOffset>3621</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ne yazık ki çok iyi çalışmaz</Text>
+        <BeginOffset>3650</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6768" sense="Contingency: Cause+Belief: Reason+Belief">
+      <Arg1>
+        <Text>bu işin içine girdim</Text>
+        <BeginOffset>6747</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bence bu dünyayı değiştirecek</Text>
+        <BeginOffset>6774</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2965" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>orada kaldım</Text>
+        <BeginOffset>2951</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>çok nadir olarak görülecek bir şeye tanıklık ettiğimi anladım, başarı ve ustalık arasındaki o farka</Text>
+        <BeginOffset>2971</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7944" sense="Contingency: Cause+Belief: Reason+Belief">
+      <Arg1>
+        <Text>merak ediyorum</Text>
+        <BeginOffset>7928</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bence biraz içgüdüsel seviyede bunu biliyoruz</Text>
+        <BeginOffset>7950</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8490" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>Ustalardır</Text>
+        <BeginOffset>8479</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bunun olmadığını fark ederler</Text>
+        <BeginOffset>8496</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3284" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>Bu kanunları biliyorum</Text>
+        <BeginOffset>3261</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bir kaç arkadaşın ve diğer gezginlerin şuç denen bu şeylerden dolayı hapishaneye götürüldüğünü veya uyarı aldığına şahit oldum</Text>
+        <BeginOffset>3290</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="aslında" Size="3" senseList="Expansion: Level_of_detail: Arg2_as_detail!#!Expansion: Instantiation">
+    <Annotation conBeginOffset="614" sense="Expansion: Level_of_detail: Arg2_as_detail">
+      <Arg1>
+        <Text>kendi çocuklarımı bizim yaşadıklarımızı yaşamaktan korumak için elimden gelen her şeyi yapmaya karar verdim</Text>
+        <BeginOffset>505</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>onlar artık savaşın ve amputasyonun güç elde etme taktiği olmadığı bir Sierra Leone'nun parçası olacaktı</Text>
+        <BeginOffset>623</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="631" sense="Expansion: Instantiation">
+      <Arg1>
+        <Text>Bana birkaçının olmasını istediği gibi kendi ölçülerine ulaşamadığını belirtti</Text>
+        <BeginOffset>551</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>biri kendi standartlarına öylesine ulaşmamıştı ki, onu stüdyosunda çöpe atmıştı</Text>
+        <BeginOffset>639</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8862" sense="Expansion: Level_of_detail: Arg2_as_detail">
+      <Arg1>
+        <Text>Bunun hakkında düşününce, neden okçuluk koçunun idmanın sonunda bana okçularının işitmeyeceği mesafeden, onun ve meslektaşlarının ekipleri için ne yapsalar yetmeyeceğini düşündüklerini, kazanmak üzere olmak konusunu aşmalarına yardımcı olması için yeterli gözünde canlandırma tekniği ve duruş eğitimi olmadığını söylediğini anlıyorum</Text>
+        <BeginOffset>8527</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>tam olarak şikâyet gibi gelmedi bu,</Text>
+        <BeginOffset>8870</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="bulurken" Size="1" senseList="Comparison: Contrast">
+    <Annotation conBeginOffset="4210" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>Franz Kafka bitmemiş olarak gördü</Text>
+        <BeginOffset>4220</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Diğerleri çalışmalarını yalnızca övgüye değer bulurken</Text>
+        <BeginOffset>4164</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="gülümserken" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="9317" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>Elizabeth Murray'in ne düşündüğünü anlamam için gereken şey bu</Text>
+        <BeginOffset>9345</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Bir gün galeride o ilk resimlerine gülümserken onu gördüğümde</Text>
+        <BeginOffset>9282</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="olsaydık bile" Size="1" senseList="Contingency: Negative_condition: Arg2_as_negcond">
+    <Annotation conBeginOffset="9428" sense="Contingency: Negative_condition: Arg2_as_negcond">
+      <Arg1>
+        <Text>bence hâlâ bitmemişlere sahip olurduk</Text>
+        <BeginOffset>9443</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Ütopyalar yaratmış olsaydık bile</Text>
+        <BeginOffset>9409</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="alıp" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="6615" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>neredeyse kazanma oranı ortalamadan daha yüksek olan kazı kazan biletleri yarattılar</Text>
+        <BeginOffset>6620</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bu neredeyse kazanma olgusunu bir zamanlar alıp</Text>
+        <BeginOffset>6572</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="görürken" Size="1" senseList="Comparison: Concession+SpeechAct">
+    <Annotation conBeginOffset="3661" sense="Comparison: Concession+SpeechAct">
+      <Arg1>
+        <Text>Kaç kere bir şeyi bir klasik, hatta başyapıt olarak tanımladık</Text>
+        <BeginOffset>3556</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>yaratıcısı onu umutsuzca bitmemiş olarak görürken</Text>
+        <BeginOffset>3620</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="açılıp" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="4952" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>genişliyor</Text>
+        <BeginOffset>4959</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>açılıp</Text>
+        <BeginOffset>4952</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="saçılarak" Size="1" senseList="Expansion: Manner: Arg2_as_manner">
+    <Annotation conBeginOffset="2260" sense="Expansion: Manner: Arg2_as_manner">
+      <Arg1>
+        <Text>gezegeni görülemeyecek hâle getiren bu aşırı parlak görüntüyü yaratıyor</Text>
+        <BeginOffset>2271</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Teleskobun içinde saçılarak</Text>
+        <BeginOffset>2242</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ederlerse" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="8176" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>bu acil sorunlardan bazılarını tekrar ele alabiliriz, temiz su, temiz hava, 10 milyar ağzı beslemek gibi</Text>
+        <BeginOffset>8014</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>eğer kurumsal yatırımcılar ÇSY'yi yatırımlarına entegre ederlerse</Text>
+        <BeginOffset>8120</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="dururken" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="1986" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>bir okçunun arkasında durdum ve onu seyrettim</Text>
+        <BeginOffset>1995</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>koçu aramızda dururken</Text>
+        <BeginOffset>1972</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="geçip" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="1697" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>gülümsediler</Text>
+        <BeginOffset>1703</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Yanımdan geçip</Text>
+        <BeginOffset>1688</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ancak," Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="208" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Ben Sierra Leone'da doğup büyüdüm, Batı Afrika'daki küçük ve çok güzel, hem maddi kaynaklar hem de yaratıcı yetenekler bakımından zengin bir ülkede</Text>
+        <BeginOffset>59</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Sierra Leone'nun 90'lı yıllarda on yıl süren ve tüm köylerin yakılıp yıkıldığı iç savaştan dolayı kötü bir şöhreti vardır</Text>
+        <BeginOffset>215</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="kadar" Size="2" senseList="Comparison: Similarity!#!Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="831" sense="Comparison: Similarity">
+      <Arg1>
+        <Text>ve Birleşik Devlet boyunca gezgin arkadaşların arasında yasamak kadar gerçek hissettirmedi</Text>
+        <BeginOffset>837</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>hiçbir başka deneyim çocukluk rüyalarımı yaşayanlar arasında olmak kadar</Text>
+        <BeginOffset>764</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3860" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>onlariyi yaşamak için çalışacaklar</Text>
+        <BeginOffset>3867</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Her insanın kendi işinin onurundan emin olduğu bir dünyada yaşayana kadar</Text>
+        <BeginOffset>3792</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="için" Size="28" senseList="Expansion: Level_of_detail: Arg2_as_detail!#!Contingency: Cause: Reason!#!Contingency: Purpose: Arg2_as_goal!#!Contingency: Cause+Belief: Reason+Belief (Arg2_gives_evidence)">
+    <Annotation conBeginOffset="7085" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>kullanmak istemiyoruz</Text>
+        <BeginOffset>7090</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Portfolyomuzu politika beyanı yapmak</Text>
+        <BeginOffset>7048</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8215" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>en fazla çalışan</Text>
+        <BeginOffset>8220</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bu sorunları çözmek</Text>
+        <BeginOffset>8195</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8316" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>kullansalar</Text>
+        <BeginOffset>8321</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>en azından bunları kötüleştirmeyen şirketlere daha fazla sermaye aktarmak</Text>
+        <BeginOffset>8242</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9044" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>tamamen yanlış olmaması ihtimali evimizin yanması veya araba kazası geçirmemiz ihtimalinden daha fazla</Text>
+        <BeginOffset>9049</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bu kabul edilmiş bilimsel mutabakata dayalı olduğu</Text>
+        <BeginOffset>8993</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9290" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>sigorta satın alıyoruz, değil mi</Text>
+        <BeginOffset>9295</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>birşey olursa diye kendimizi finansal olarak korumak</Text>
+        <BeginOffset>9237</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="564" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>elimden gelen her şeyi yapmaya karar verdim</Text>
+        <BeginOffset>569</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>kendi çocuklarımı bizim yaşadıklarımızı yaşamaktan korumak</Text>
+        <BeginOffset>505</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="963" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>canlarını yakmasıymış</Text>
+        <BeginOffset>968</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>düzgün oturmadığı</Text>
+        <BeginOffset>945</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1270" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>hala kalıp çıkarma ve kalıba dökme gibi geleneksel yöntemler kullanıyor</Text>
+        <BeginOffset>1275</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Protez kullananlar tek parça protez soketleri yapmak</Text>
+        <BeginOffset>1217</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2004" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>manyetik rezonans görüntülemesini kullandım</Text>
+        <BeginOffset>2009</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Hastanın anatomisinin gerçek biçimini yakalamak</Text>
+        <BeginOffset>1956</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2139" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>sonlu elemanlar modellemesini kullandım</Text>
+        <BeginOffset>2144</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>normal kuvvetlerde iç gerilme ve deformasyon noktalarını daha iyi tahmin edebilmek</Text>
+        <BeginOffset>2056</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2330" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>üç boyutlu yazıcı kullandık</Text>
+        <BeginOffset>2335</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Hastanın anatomisinde gerekli yerlerdeki baskıyı azaltan çok parçalı bir protez soketi yapmak</Text>
+        <BeginOffset>2236</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1131" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>Hubble Uzay Teleskobu'nu tutup döndürdüğümüzü ve onu Mars'ın yörüngesine doğru gönderdiğimizi varsayalım</Text>
+        <BeginOffset>1137</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Bunu anlamak</Text>
+        <BeginOffset>1118</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2372" sense="Expansion: Level_of_detail: Arg2_as_detail">
+      <Arg1>
+        <Text>tüm bu ışığa ilişkin bir şeyler yapmamız gerek</Text>
+        <BeginOffset>2377</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>gezegeni görmek</Text>
+        <BeginOffset>2356</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2467" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>gerçekten inanılmaz teknolojiler üzerinde çalışan pek çok meslektaşım var</Text>
+        <BeginOffset>2472</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Bunu başarmak</Text>
+        <BeginOffset>2453</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="156" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>kendimi çok şanslı hissediyorum</Text>
+        <BeginOffset>161</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>İlk işim Modern Sanat Müzesi'nde ressam Elizabeth Murray'in retrospektifinde çalışmak olduğu</Text>
+        <BeginOffset>63</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="751" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>komşusu da!#!onu almıştı</Text>
+        <BeginOffset>722!#!756</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>değerini anladığı</Text>
+        <BeginOffset>733</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1390" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>ondan biraz eğimli bir şeye nişan almanız gerektiğini</Text>
+        <BeginOffset>1395</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>hedefinizi vurmak</Text>
+        <BeginOffset>1372</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2828" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>üç saat bedenin duruşunu ayarlamanın ne demek olduğunu</Text>
+        <BeginOffset>2833</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bir hedefi vurmak</Text>
+        <BeginOffset>2810</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6345" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>tipik olarak daha mutlu olan bronz kazananlarla karşılaştırıldığında hissettikleri öfkenin, gümüş madalya kazananlara bir sonraki yarışmada bir odak noktası verdiğini</Text>
+        <BeginOffset>6350</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>dördüncü olmayıp hiç madalya almamaları söz konusu olmadığı</Text>
+        <BeginOffset>6285</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7357" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>şu an ne yapmayı planladığımıza odaklanmamızı sağlar</Text>
+        <BeginOffset>7362</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Görüş alanımız içinde olan o dağı ele almak</Text>
+        <BeginOffset>7313</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8313" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>desende kasti bir kusur</Text>
+        <BeginOffset>8383</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>dokumacı veya yapana bir çıkış yolu vermek</Text>
+        <BeginOffset>8270</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8455" sense="Contingency: Cause+Belief: Reason+Belief (Arg2_gives_evidence)">
+      <Arg1>
+        <Text>uzman değillerdir</Text>
+        <BeginOffset>8460</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Ustalar bir konuyu kavramsal sona getirdikleri</Text>
+        <BeginOffset>8408</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8770" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>yeterli gözünde canlandırma tekniği ve duruş eğitimi olmadığını</Text>
+        <BeginOffset>8775</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>kazanmak üzere olmak konusunu aşmalarına yardımcı olması</Text>
+        <BeginOffset>8713</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2668" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>Nesnel rahatlığı!#!hayal kurmak, okumak, müzik, sanat ve edebiyatta çalışmak için feda ediyorlar</Text>
+        <BeginOffset>2592!#!2674</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>yer ve zaman karşılığında içsel bir yaratıcılığı keşfetmek</Text>
+        <BeginOffset>2609</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2732" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>Nesnel rahatlığı yer ve zaman karşılığında içsel bir yaratıcılığı keşfetmek için!#!feda ediyorlar</Text>
+        <BeginOffset>2592!#!2737</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>hayal kurmak, okumak, müzik, sanat ve edebiyatta çalışmak</Text>
+        <BeginOffset>2674</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3884" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>çalışacaklar</Text>
+        <BeginOffset>3889</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>onlariyi yaşamak için</Text>
+        <BeginOffset>3867</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3924" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>onlariyi yaşamak için çalışacaklar</Text>
+        <BeginOffset>3867</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>sadece!#!hayatta kalmak!#!değil</Text>
+        <BeginOffset>3902!#!3909!#!3929</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3961" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>onlariyi yaşamak için çalışacaklar sadece hayatta kalmak için değil</Text>
+        <BeginOffset>3867</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>daima bir anlamda kaçmak</Text>
+        <BeginOffset>3936</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="yapsak" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="8381" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>ve emekli olduğumuzda dünyanın şimdikinden daha stresli ve daha az güvenli olduğunu görsek</Text>
+        <BeginOffset>8388</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>çalışıp, biriktirip, yatırım</Text>
+        <BeginOffset>8352</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="artık" Size="1" senseList="Contingency: Cause: Result">
+    <Annotation conBeginOffset="1572" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>Şimdi bir 10 kat daha ileri gidelim</Text>
+        <BeginOffset>1535</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>güneş sisteminin sınırlarında, Kuiper Kuşağı'ndayız</Text>
+        <BeginOffset>1578</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="olarak" Size="2" senseList="Temporal: Synchronous!#!Expansion: Manner: Arg2_as_manner">
+    <Annotation conBeginOffset="84" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>bir gün kaçan giden biri olmayı hayal ettim</Text>
+        <BeginOffset>92</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Küçük bir kız</Text>
+        <BeginOffset>70</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="719" sense="Expansion: Manner: Arg2_as_manner">
+      <Arg1>
+        <Text>işim aracıyla bunlar gerçek oldu</Text>
+        <BeginOffset>726</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bir belgesel fotorafçısı olarak</Text>
+        <BeginOffset>694</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="diğer bir deyişle" Size="1" senseList="Expansion: Equivalence">
+    <Annotation conBeginOffset="4592" sense="Expansion: Equivalence">
+      <Arg1>
+        <Text>"Amerika", "Dava" ve "Şato", öylesine tamamlanmamış bir eser ki, cümlenin ortasında bitiyor</Text>
+        <BeginOffset>4482</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Ustalığı arayış!#!hemen hemen hep ileriye doğrudur</Text>
+        <BeginOffset>4575!#!4611</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="giderken" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="1737" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>kim olduğumu anlamaya çalıştılar</Text>
+        <BeginOffset>1746</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>çim alana doğru giderken</Text>
+        <BeginOffset>1721</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ise" Size="4" senseList="Expansion: Conjunction!#!Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="2356" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Toplum; insan sermayesini, çalışan katılımı ve yenilik yapma kapasitesi gibi şeyleri ve aynı zamanda tedarik zinciri yönetimi, işçi hakları ve insan haklarını içeriyor</Text>
+        <BeginOffset>2179</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Yönetim!#!şirketlerin yönetim kurulları ve yatırımcıları tarafından gözetimde olmasıyla ilgili</Text>
+        <BeginOffset>2348!#!2360</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7139" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Sık sık şunu duyarım, "Kazancı maksimize etmek zorundayız, bu yüzden bunu burada yapamayız.", veya "Portfolyomuzu politika beyanı yapmak için kullanmak istemiyoruz</Text>
+        <BeginOffset>6948</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Beni gerçekten kızdıranı!#!şu, "Eğer bununla ilgili birşeyler yapmak istiyorsan, sadece para kazan ve kârı hayır kurumlarına ver</Text>
+        <BeginOffset>7114!#!7143</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7848" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Dünya hisse senedi pazarı 55 trilyon dolar değerindedir</Text>
+        <BeginOffset>7773</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Dünya bono!#!pazarı!#!78 trilyondur</Text>
+        <BeginOffset>7830!#!7841!#!7852</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2167" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Görebildiğimiz tek şey, şuradaki küçük kırmızı çemberin içinde bulunuyor olan gezegenden 10 milyar kat daha parlak olan yıldızın parıldayan büyük görüntüsü</Text>
+        <BeginOffset>1987</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>Görmek istediğimiz şey!#!o gezegen</Text>
+        <BeginOffset>2144!#!2171</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="fotoğraflayıp" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="210" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>orada hayat olup olmadığını ortaya çıkarabilecek</Text>
+        <BeginOffset>225</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>bir başka yıldızın yakınındaki bir Dünya'yı fotoğraflayıp</Text>
+        <BeginOffset>166</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="yani" Size="4" senseList="Expansion: Equivalence!#!Contingency: Cause+SpeechAct: Result+SpeechAct!#!Expansion: Substitution: Arg2_as_subst!#!Q/A">
+    <Annotation conBeginOffset="2125" sense="Expansion: Equivalence">
+      <Arg1>
+        <Text>Çevre; enerji tüketimini, su bulunabilirliğini, atık ve kirliliği içeriyor</Text>
+        <BeginOffset>2049</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>kaynakların etkin kullanımını sağlamakla ilgili</Text>
+        <BeginOffset>2130</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2845" sense="Contingency: Cause+SpeechAct: Result+SpeechAct">
+      <Arg1>
+        <Text>Bu, insanlara ve gezegene olan zararın minimize edilerek gelecekteki riskin sınırlanması anlamına gelir ve de üretken ve sürdürülebilir sonuçlar elde eden kullanıcılara sermaye sağlanması anlamına gelir</Text>
+        <BeginOffset>2641</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>eğer sürdürülebilirlik bugün finansal olarak önemli ise ve tüm belirtiler gelecekte daha önemli olacağını gösteriyorsa, özel sektör bu konuya dikkat ediyor mu</Text>
+        <BeginOffset>2850</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4651" sense="Q/A">
+      <Arg1>
+        <Text>bunlar sadece uç vakalar mı</Text>
+        <BeginOffset>4622</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>gerçekten mi öyle</Text>
+        <BeginOffset>4656</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7746" sense="Expansion: Substitution: Arg2_as_subst">
+      <Arg1>
+        <Text>Hem de çok</Text>
+        <BeginOffset>7734</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>gerçekten çok fazla</Text>
+        <BeginOffset>7752</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="aynı zamanda da" Size="2" senseList="Expansion: Conjunction!#!Temporal: Synchronous">
+    <Annotation conBeginOffset="9466" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>Gezegenimize ve ekonomimize olan riski azaltarak sigorta yaratıyoruz</Text>
+        <BeginOffset>9394</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>performanstan fedakârlık etmiyoruz</Text>
+        <BeginOffset>9494</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8319" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>dokumacı veya yapana bir çıkış yolu vermek için</Text>
+        <BeginOffset>8270</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>iş yapmasına devam etmesi için</Text>
+        <BeginOffset>8335</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="diye" Size="1" senseList="Expansion: Disjunction">
+    <Annotation conBeginOffset="9251" sense="Expansion: Disjunction">
+      <Arg1>
+        <Text>kendimizi finansal olarak korumak</Text>
+        <BeginOffset>9256</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>birşey olursa diye</Text>
+        <BeginOffset>9237</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="gittiğimde" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="1302" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>bunu anlamaya başladım</Text>
+        <BeginOffset>1313</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>okçuluk takımını seyretmeye gittiğimde</Text>
+        <BeginOffset>1274</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+</Document>

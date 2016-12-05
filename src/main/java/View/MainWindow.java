@@ -25,7 +25,9 @@ import java.util.TreeMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.ImageIcon;
+import javax.swing.JLabel;
 import javax.swing.JOptionPane;
+import javax.swing.text.BadLocationException;
 import javax.swing.text.DefaultCaret;
 import javax.xml.parsers.ParserConfigurationException;
 
@@ -260,7 +262,7 @@ public class MainWindow extends javax.swing.JFrame {
             }
         });
 
-        searchSenseButton.setText("Search Sense");
+        searchSenseButton.setText("Show Connectives");
         searchSenseButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 searchSenseButtonActionPerformed(evt);
@@ -329,12 +331,16 @@ public class MainWindow extends javax.swing.JFrame {
                             .addComponent(conInfoLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                             .addComponent(mainScrollPane)))
                     .addGroup(layout.createSequentialGroup()
-                        .addComponent(senseListComboBox, javax.swing.GroupLayout.PREFERRED_SIZE, 300, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(resetButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                            .addComponent(searchSenseButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                            .addComponent(searchButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addGroup(layout.createSequentialGroup()
+                                .addComponent(senseListComboBox, javax.swing.GroupLayout.PREFERRED_SIZE, 300, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                                    .addComponent(searchSenseButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                                    .addComponent(searchButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
+                            .addGroup(layout.createSequentialGroup()
+                                .addGap(120, 120, 120)
+                                .addComponent(resetButton, javax.swing.GroupLayout.PREFERRED_SIZE, 123, javax.swing.GroupLayout.PREFERRED_SIZE)))
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 361, Short.MAX_VALUE)
                         .addComponent(seeAll)))
                 .addGap(20, 20, 20))
@@ -342,7 +348,7 @@ public class MainWindow extends javax.swing.JFrame {
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                             .addComponent(searchField, javax.swing.GroupLayout.PREFERRED_SIZE, 28, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -351,11 +357,11 @@ public class MainWindow extends javax.swing.JFrame {
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                             .addComponent(senseListComboBox, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addComponent(searchSenseButton))
-                        .addGap(8, 8, 8)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                         .addComponent(resetButton))
                     .addGroup(layout.createSequentialGroup()
                         .addComponent(legendButton)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addGap(42, 42, 42)
                         .addComponent(seeAll)))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -363,7 +369,7 @@ public class MainWindow extends javax.swing.JFrame {
                     .addComponent(conInfoLabel, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 27, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 343, Short.MAX_VALUE)
+                    .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 340, Short.MAX_VALUE)
                     .addComponent(mainScrollPane))
                 .addContainerGap())
         );
@@ -389,7 +395,7 @@ public class MainWindow extends javax.swing.JFrame {
     }//GEN-LAST:event_searchFieldMouseClicked
 
     private void JList_connectiveValueChanged(javax.swing.event.ListSelectionEvent evt) {//GEN-FIRST:event_JList_connectiveValueChanged
-        // TODO add your handling code here:
+
         String chosenConnective = (String) JList_connective.getSelectedValue();
         int noOfAnno = connectiveNumberofAnnotation.get(chosenConnective);
         seeAll.setEnabled(true);
@@ -400,7 +406,6 @@ public class MainWindow extends javax.swing.JFrame {
 
         String output = "<html> <ol>";
         for (String sense : senseList) {
-
             ArrayList<Annotation> annoBasedonSense = reader.getAnnotationBasedConnectiveSense(chosenConnective, sense);
             int size = annoBasedonSense.size();
             String[] senseTokens = sense.split(":");
@@ -409,10 +414,13 @@ public class MainWindow extends javax.swing.JFrame {
                 String tokenTmp = token;
                 int len = token.length() - tokenTmp.replaceAll(" ", "").length();
                 if (len > 1) {
-                    token = token.replaceAll(" ", "-");
+                    System.out.println("tokne: " + token);
+                    token = token.replaceAll(" ", "_");
                     token = token.substring(1);
                 }
+
                 output = output + "<font face=\"verdana\" color=\"blue\"><u>  " + token + "</u></font>" + " : ";
+
             }
             output = output.substring(0, output.length() - 3);
             output = output + " (" + size + ") <br /> </li> ";
@@ -420,9 +428,12 @@ public class MainWindow extends javax.swing.JFrame {
             TreeMap<Integer, Span> argMapforPrettyPrint = annoBasedonSense.get(randomNoForAnnotation).getArgMapforPrettyPrint();
             output = output + prepareForOutput(argMapforPrettyPrint);
         }
+
         output = output + "</ol></html>";
-        MainTextPane.setContentType("text/html");
         MainTextPane.setText(output);
+        MainTextPane.setContentType("text/html");
+
+
     }//GEN-LAST:event_JList_connectiveValueChanged
 
     private String PrepareconInfo(String chosenConnective, int noOfAnno, int size) {
@@ -437,30 +448,37 @@ public class MainWindow extends javax.swing.JFrame {
 
     private void MainTextPaneMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_MainTextPaneMouseClicked
         // TODO add your handling code here:
-
+        boolean textSelected = false;
         String selectedText = MainTextPane.getSelectedText();
+        String currentConnective = JList_connective.getSelectedValue();
+        ArrayList<String> currentSenseList = connectiveSenseMap.get(currentConnective);
+     
         if (selectedText != null && !selectedText.contains("contra-expectation")) {
             selectedText = selectedText.replaceAll("-", " ");
         }
 
         Set<String> senseSet = senseConnectiveMap.keySet();
+        HashSet<String> conSet = new HashSet<>();
 
         for (String str : senseSet) {
             if (selectedText != null && str.contains(selectedText)) {
-                HashSet<String> conSet = (HashSet<String>) senseConnectiveMap.get(str);
-                conSenseList.setModel(new javax.swing.AbstractListModel<String>() {
-                    String[] strings = conSet.toArray(new String[conSet.size()]);
-
-                    public int getSize() {
-                        return strings.length;
-                    }
-
-                    public String getElementAt(int i) {
-                        return strings[i];
-                    }
-                });
-                connBasedonSenseDialog.setVisible(true);
+                conSet.addAll((HashSet<String>) senseConnectiveMap.get(str));
+                textSelected = true;
             }
+        }
+        if (textSelected) {
+            conSenseList.setModel(new javax.swing.AbstractListModel<String>() {
+                String[] strings = conSet.toArray(new String[conSet.size()]);
+
+                public int getSize() {
+                    return strings.length;
+                }
+
+                public String getElementAt(int i) {
+                    return strings[i];
+                }
+            });
+            connBasedonSenseDialog.setVisible(true);
         }
     }//GEN-LAST:event_MainTextPaneMouseClicked
 
@@ -551,14 +569,16 @@ public class MainWindow extends javax.swing.JFrame {
         Collections.sort(connectiveList, trCollator);
         JList_connective.setModel(new javax.swing.AbstractListModel<String>() {
             String[] strings = connectiveList.toArray(new String[connectiveList.size()]);
+
             public int getSize() {
                 return strings.length;
             }
+
             public String getElementAt(int i) {
                 return strings[i];
             }
         });
-       conListInfo.setText("" + JList_connective.getModel().getSize() + " conns are being shown");
+        conListInfo.setText("" + JList_connective.getModel().getSize() + " conns are being shown");
 
     }//GEN-LAST:event_resetButtonActionPerformed
 
