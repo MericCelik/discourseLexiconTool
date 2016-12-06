@@ -410,6 +410,7 @@
         </Property>
       </Properties>
       <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JComboBox&lt;&gt;()"/>
         <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="String[] senseListForComboBox = senseConnectiveMap.keySet().toArray(new String[senseConnectiveMap.keySet().size()]);&#xa;Arrays.sort(senseListForComboBox);"/>
         <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
       </AuxValues>

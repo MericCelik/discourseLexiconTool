@@ -25,9 +25,7 @@ import java.util.TreeMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.ImageIcon;
-import javax.swing.JLabel;
 import javax.swing.JOptionPane;
-import javax.swing.text.BadLocationException;
 import javax.swing.text.DefaultCaret;
 import javax.xml.parsers.ParserConfigurationException;
 
@@ -40,8 +38,6 @@ public class MainWindow extends javax.swing.JFrame {
 
     private HashMap<String, ArrayList<String>> connectiveSenseMap;
     private HashMap<String, Set<String>> senseConnectiveMap;
-
-    private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap;
     private HashMap<String, Integer> connectiveNumberofAnnotation;
 
     private readerDLVT reader;
@@ -51,11 +47,9 @@ public class MainWindow extends javax.swing.JFrame {
     private String fileChooserDefault = userhome + "\\Desktop\\NetBeansProjects";
 
     public MainWindow(String dir) throws IOException, SAXException, ParserConfigurationException {
-
         try {
             reader = new readerDLVT(dir);
             connectiveSenseMap = reader.getConnectiveSenseMap();
-            connectiveAnnotationMap = reader.getConnectiveAnnotationMap();
             connectiveNumberofAnnotation = reader.getConnectiveNumberofAnnotation();
             senseConnectiveMap = reader.getSenseConnectiveMap();
             initComponents();
@@ -63,21 +57,16 @@ public class MainWindow extends javax.swing.JFrame {
             JOptionPane.showMessageDialog(null, "Wrong File!! " + dir);
         }
         //   legendLabel.setText("<html><font  color=\"black\"><b> <ul> <li> The connectives are underlined </li> <br />"         + " <li> The second argument of the discourse relations are written in bold  </li> <br /> </b> </html>");
-
     }
 
     public void initWithNewFile(String dir) throws ParserConfigurationException, SAXException, IOException {
-
         reader = new readerDLVT(dir);
         connectiveSenseMap = reader.getConnectiveSenseMap();
-        connectiveAnnotationMap = reader.getConnectiveAnnotationMap();
         connectiveNumberofAnnotation = reader.getConnectiveNumberofAnnotation();
         senseConnectiveMap = reader.getSenseConnectiveMap();
         initComponents();
-
         legendLabel.setText("<html><font  color=\"black\"><b> <ul> <li> The connectives are underlined </li> <br />"
                 + " <li> The second argument of the discourse relations are written in bold  </li> <br /> </b> </html>");
-
     }
 
     /**
@@ -381,6 +370,7 @@ public class MainWindow extends javax.swing.JFrame {
         // TODO add your handling code here:
         String searchToken = searchField.getText();
         JList_connective.setSelectedValue(searchToken, true);
+        JList_connective.ensureIndexIsVisible(JList_connective.getSelectedIndex());
     }//GEN-LAST:event_searchButtonActionPerformed
 
     private void legendButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_legendButtonActionPerformed
@@ -397,13 +387,17 @@ public class MainWindow extends javax.swing.JFrame {
     private void JList_connectiveValueChanged(javax.swing.event.ListSelectionEvent evt) {//GEN-FIRST:event_JList_connectiveValueChanged
 
         String chosenConnective = (String) JList_connective.getSelectedValue();
+        if (chosenConnective == null) {
+            System.err.println("NULL");
+            JList_connective.setSelectedIndex(0);
+            chosenConnective = (String) JList_connective.getSelectedValue();
+        }
         int noOfAnno = connectiveNumberofAnnotation.get(chosenConnective);
+
         seeAll.setEnabled(true);
         Random randGenerator = new Random();
         ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
-
         conInfoLabel.setText(PrepareconInfo(chosenConnective, noOfAnno, senseList.size()));
-
         String output = "<html> <ol>";
         for (String sense : senseList) {
             ArrayList<Annotation> annoBasedonSense = reader.getAnnotationBasedConnectiveSense(chosenConnective, sense);
@@ -418,9 +412,7 @@ public class MainWindow extends javax.swing.JFrame {
                     token = token.replaceAll(" ", "_");
                     token = token.substring(1);
                 }
-
                 output = output + "<font face=\"verdana\" color=\"blue\"><u>  " + token + "</u></font>" + " : ";
-
             }
             output = output.substring(0, output.length() - 3);
             output = output + " (" + size + ") <br /> </li> ";
@@ -428,23 +420,10 @@ public class MainWindow extends javax.swing.JFrame {
             TreeMap<Integer, Span> argMapforPrettyPrint = annoBasedonSense.get(randomNoForAnnotation).getArgMapforPrettyPrint();
             output = output + prepareForOutput(argMapforPrettyPrint);
         }
-
         output = output + "</ol></html>";
         MainTextPane.setText(output);
         MainTextPane.setContentType("text/html");
-
-
     }//GEN-LAST:event_JList_connectiveValueChanged
-
-    private String PrepareconInfo(String chosenConnective, int noOfAnno, int size) {
-        String conInfo = "<html> <font  face=\"verdana\" color=\"black\"><b>" + "The connective \"<i>" + chosenConnective + "</i>\" is annotated <u>";
-        if (size == 1) {
-            conInfo = conInfo + noOfAnno + "</u> times. It conveys only one sense (Unambiguous)</b></font>";
-        } else {
-            conInfo = conInfo + noOfAnno + "</u> times. It conveys <u>" + size + "</u>  different senses." + "</Strong></font>";
-        }
-        return conInfo;
-    }
 
     private void MainTextPaneMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_MainTextPaneMouseClicked
         // TODO add your handling code here:
@@ -452,7 +431,7 @@ public class MainWindow extends javax.swing.JFrame {
         String selectedText = MainTextPane.getSelectedText();
         String currentConnective = JList_connective.getSelectedValue();
         ArrayList<String> currentSenseList = connectiveSenseMap.get(currentConnective);
-     
+
         if (selectedText != null && !selectedText.contains("contra-expectation")) {
             selectedText = selectedText.replaceAll("-", " ");
         }
@@ -486,6 +465,8 @@ public class MainWindow extends javax.swing.JFrame {
         // TODO add your handling code here:
         String selectedCon = (String) conSenseList.getSelectedValue();
         JList_connective.setSelectedValue(selectedCon, true);
+        JList_connective.ensureIndexIsVisible(JList_connective.getSelectedIndex());
+
         connBasedonSenseDialog.setVisible(false);
     }//GEN-LAST:event_conSenseListMouseClicked
 
@@ -558,12 +539,12 @@ public class MainWindow extends javax.swing.JFrame {
                 return strings[i];
             }
         });
-
         conListInfo.setText("" + JList_connective.getModel().getSize() + " conns are being shown");
     }//GEN-LAST:event_searchSenseButtonActionPerformed
 
     private void resetButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_resetButtonActionPerformed
         // TODO add your handling code here:
+
         Collator trCollator = Collator.getInstance(new Locale("tr", "TR"));
         ArrayList<String> connectiveList = new ArrayList<>(connectiveSenseMap.keySet());
         Collections.sort(connectiveList, trCollator);
@@ -578,7 +559,11 @@ public class MainWindow extends javax.swing.JFrame {
                 return strings[i];
             }
         });
+        JList_connective.setSelectedIndex(0);
+        JList_connective.ensureIndexIsVisible(JList_connective.getSelectedIndex());
+
         conListInfo.setText("" + JList_connective.getModel().getSize() + " conns are being shown");
+        searchField.setText("");
 
     }//GEN-LAST:event_resetButtonActionPerformed
 
@@ -602,6 +587,16 @@ public class MainWindow extends javax.swing.JFrame {
         }
         output = output + "<br />" + "<br />";
         return output;
+    }
+
+    private String PrepareconInfo(String chosenConnective, int noOfAnno, int size) {
+        String conInfo = "<html> <font  face=\"verdana\" color=\"black\"><b>" + "The connective \"<i>" + chosenConnective + "</i>\" is annotated <u>";
+        if (size == 1) {
+            conInfo = conInfo + noOfAnno + "</u> times. It conveys only one sense (Unambiguous)</b></font>";
+        } else {
+            conInfo = conInfo + noOfAnno + "</u> times. It conveys <u>" + size + "</u>  different senses." + "</Strong></font>";
+        }
+        return conInfo;
     }
 
     /**
@@ -638,7 +633,6 @@ public class MainWindow extends javax.swing.JFrame {
         });
     }
 
-
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JFileChooser FileChooser_newFile;
     private javax.swing.JList<String> JList_connective;
@@ -669,5 +663,4 @@ public class MainWindow extends javax.swing.JFrame {
     private javax.swing.JButton seeAll;
     private javax.swing.JComboBox<String> senseListComboBox;
     // End of variables declaration//GEN-END:variables
-
 }
