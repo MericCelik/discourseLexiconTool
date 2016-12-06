@@ -24,6 +24,8 @@ import java.util.Set;
 import java.util.TreeMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javafx.scene.input.KeyCode;
+import javafx.scene.input.KeyEvent;
 import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 import javax.swing.text.DefaultCaret;
@@ -544,7 +546,6 @@ public class MainWindow extends javax.swing.JFrame {
 
     private void resetButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_resetButtonActionPerformed
         // TODO add your handling code here:
-
         Collator trCollator = Collator.getInstance(new Locale("tr", "TR"));
         ArrayList<String> connectiveList = new ArrayList<>(connectiveSenseMap.keySet());
         Collections.sort(connectiveList, trCollator);
@@ -563,8 +564,7 @@ public class MainWindow extends javax.swing.JFrame {
         JList_connective.ensureIndexIsVisible(JList_connective.getSelectedIndex());
 
         conListInfo.setText("" + JList_connective.getModel().getSize() + " conns are being shown");
-        searchField.setText("");
-
+        searchField.setText("Search connective..");
     }//GEN-LAST:event_resetButtonActionPerformed
 
     private String prepareForOutput(TreeMap<Integer, Span> argMapforPrettyPrint) {
