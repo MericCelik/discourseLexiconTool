@@ -14,6 +14,7 @@ import java.security.CodeSource;
 import java.security.ProtectionDomain;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 import javax.xml.parsers.ParserConfigurationException;
 import org.xml.sax.SAXException;
@@ -30,7 +31,6 @@ public class fileConverterView extends javax.swing.JFrame {
     boolean PDTBAnnotationSelected = false;
     boolean PDTBTextSelected = false;
     String outputFileName = "";
-
     String dir = "";
 
     /**
@@ -77,6 +77,7 @@ public class fileConverterView extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Convert and Run");
+        setResizable(false);
 
         RadioButtonDATT.setText("DATT");
         buttonGroup.add(RadioButtonDATT);
@@ -187,7 +188,7 @@ public class fileConverterView extends javax.swing.JFrame {
         // TODO add your handling code here:
         int status = FileChooserToConvert.showOpenDialog(null);
 
-        if (status == FileChooserToConvert.APPROVE_OPTION) {
+        if (status == JFileChooser.APPROVE_OPTION) {
             File selectedFile = FileChooserToConvert.getSelectedFile();
             TextField_annotation.setText(selectedFile.getAbsolutePath());
             if (!TextField_annotation.getText().equals("") && RadioButtonDATT.isSelected()) {
@@ -196,9 +197,7 @@ public class fileConverterView extends javax.swing.JFrame {
             if (!TextField_annotation.getText().equals("") && RadioButtonPDTB.isSelected()) {
                 PDTBAnnotationSelected = true;
             }
-
-            System.out.println("n: " + selectedFile.getAbsolutePath() + " " + PDTBTextSelected + " " + PDTBAnnotationSelected);
-        } else if (status == FileChooserToConvert.CANCEL_OPTION) {
+        } else if (status == JFileChooser.CANCEL_OPTION) {
             System.out.println("canceled");
         }
 
@@ -222,56 +221,70 @@ public class fileConverterView extends javax.swing.JFrame {
 
     }//GEN-LAST:event_RadioButtonDATTActionPerformed
 
+    private String fileExists() {
+        Object[] options = {"Overwrite", "Select Another FileName"};
+        int n = JOptionPane.showOptionDialog(this,
+                "The file " + outputFileName + " exists! Do you want to overwrite the existing file?", "File exists!",
+                JOptionPane.DEFAULT_OPTION,
+                JOptionPane.WARNING_MESSAGE,
+                null,
+                options,
+                options[1]);
+        if (n == 0) {
+            JOptionPane.showMessageDialog(this, "The file " + outputFileName + " is overwritten!");
+        }
+        if (n == 1) {
+            String showInputDialog = JOptionPane.showInputDialog(this, "New file name:");
+            outputFileName = showInputDialog;
+        }
+        return outputFileName;
+    }
+
     private void Button_runActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Button_runActionPerformed
         // TODO add your handling code here:
         System.out.println("outputdir: " + outputFileName);
         File f = new File("Converted Files\\" + outputFileName + ".dlvt");
         if (f.exists()) {
-            Object[] options = {"Overwrite", "select another name"};
-            int n = JOptionPane.showOptionDialog(this,
-                    "The file " + outputFileName + " exists! Do you want to overwrite the existing file?", "File exists!",
-                    JOptionPane.YES_NO_CANCEL_OPTION,
-                    JOptionPane.QUESTION_MESSAGE,
-                    null,
-                    options,
-                    options[1]);
-            if (n == 0) {
-                JOptionPane.showMessageDialog(this, "The file " + outputFileName + " is overwritten!");
-            }
-            if (n == 1) {
-                this.dispose();
-                new fileConverterView().setVisible(true);
+            outputFileName = fileExists();
+        }
+
+        if (RadioButtonDATT.isSelected()) {
+            dir = runConverter(TextField_annotation.getText(), "", outputFileName);
+        } else if (RadioButtonPDTB.isSelected()) {
+            dir = runConverter(TextField_annotation.getText(), TextField_text.getText(), outputFileName);
+        }
+        openMainWindow(dir);
+    }//GEN-LAST:event_Button_runActionPerformed
+
+    private String runConverter(String annotationDir, String textDir, String outputDir) {
+        String outDir = "";
+        if (textDir.equals("")) {
+            try {
+                DATTConverter converterDATT = new DATTConverter(annotationDir, outputDir);
+                outDir = converterDATT.getOutputDir();
+            } catch (ParserConfigurationException | SAXException | IOException ex) {
+                Logger.getLogger(fileConverterView.class.getName()).log(Level.SEVERE, null, ex);
             }
         } else {
-            if (RadioButtonDATT.isSelected()) {
-                try {
-                    System.out.println("Selected::: " + TextField_annotation.getText());
-                    DATTConverter converterDATT = new DATTConverter(TextField_annotation.getText(), outputFileName);
-                    dir = converterDATT.getOutputDir();
-
-                } catch (ParserConfigurationException | SAXException | IOException ex) {
-                    Logger.getLogger(fileConverterView.class.getName()).log(Level.SEVERE, null, ex);
-                }
-
-            } else if (RadioButtonPDTB.isSelected()) {
-
-                try {
-                    PDTBConverter converterPDTB = new PDTBConverter(TextField_annotation.getText(), TextField_text.getText(), outputFileName);
-                    dir = converterPDTB.getOutputDir();
-                } catch (IOException ex) {
-                    Logger.getLogger(fileConverterView.class.getName()).log(Level.SEVERE, null, ex);
-                }
-
-            }
-            this.dispose();
             try {
-                new MainWindow(dir).setVisible(true);
-            } catch (IOException | SAXException | ParserConfigurationException ex) {
-                Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
-                JOptionPane.showMessageDialog(null, "COULD NOT BE CONVERTED!!");
+                PDTBConverter converterPDTB = new PDTBConverter(annotationDir, textDir, outputDir);
+                outDir = converterPDTB.getOutputDir();
+            } catch (IOException ex) {
+                Logger.getLogger(fileConverterView.class.getName()).log(Level.SEVERE, null, ex);
             }
         }
-    }//GEN-LAST:event_Button_runActionPerformed
+        return outDir;
+    }
+
+    private void openMainWindow(String dir) {
+        this.dispose();
+        try {
+            new MainWindow(dir).setVisible(true);
+        } catch (IOException | SAXException | ParserConfigurationException ex) {
+            Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
+            JOptionPane.showMessageDialog(null, "COULD NOT BE CONVERTED!!");
+        }
+    }
 
     private void Button_ChooseTextFileActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Button_ChooseTextFileActionPerformed
         // TODO add your handling code here:

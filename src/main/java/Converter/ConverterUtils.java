@@ -104,16 +104,9 @@ public class ConverterUtils {
                 connectiveElement.setAttribute("senseList", senseList.substring(0, senseList.length() - delimiter.length()));
             }
 
-            System.out.println(dir);
-
+            System.out.println("converterUtils: " + dir);
             File f = new File(dir + ".dlvt");
-            int fileNo = 2;
-            while (f.getAbsoluteFile().exists() && !f.isDirectory()) {
-                // do something
-                f = new File(dir + fileNo + ".dlvt");
-                fileNo++;
-            }
-
+         
             //write the content into xml file
             Transformer transformer = TransformerFactory.newInstance().newTransformer();
             transformer.setOutputProperty(OutputKeys.INDENT, "yes");

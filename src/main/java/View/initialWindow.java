@@ -40,7 +40,7 @@ public class initialWindow extends javax.swing.JFrame {
 
         jFileChooser1 = new javax.swing.JFileChooser(getCurrentDirectory());
         buttonOpenExisting = new javax.swing.JButton();
-        jButton2 = new javax.swing.JButton();
+        buttonConvertandRun = new javax.swing.JButton();
 
         FileNameExtensionFilter filter = new FileNameExtensionFilter("DLVT files", "dlvt");
         jFileChooser1.setFileFilter(filter);
@@ -54,10 +54,10 @@ public class initialWindow extends javax.swing.JFrame {
             }
         });
 
-        jButton2.setText("Convert Annotation and Run DLVT");
-        jButton2.addActionListener(new java.awt.event.ActionListener() {
+        buttonConvertandRun.setText("Convert Annotation and Run DLVT");
+        buttonConvertandRun.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton2ActionPerformed(evt);
+                buttonConvertandRunActionPerformed(evt);
             }
         });
 
@@ -68,7 +68,7 @@ public class initialWindow extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addGap(98, 98, 98)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jButton2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(buttonConvertandRun, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(buttonOpenExisting, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addContainerGap(101, Short.MAX_VALUE))
         );
@@ -78,7 +78,7 @@ public class initialWindow extends javax.swing.JFrame {
                 .addGap(82, 82, 82)
                 .addComponent(buttonOpenExisting)
                 .addGap(40, 40, 40)
-                .addComponent(jButton2)
+                .addComponent(buttonConvertandRun)
                 .addContainerGap(132, Short.MAX_VALUE))
         );
 
@@ -104,12 +104,12 @@ public class initialWindow extends javax.swing.JFrame {
         }
     }//GEN-LAST:event_buttonOpenExistingActionPerformed
 
-    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
+    private void buttonConvertandRunActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_buttonConvertandRunActionPerformed
         // TODO add your handling code here:
         this.dispose();
         new fileConverterView().setVisible(true);
         
-    }//GEN-LAST:event_jButton2ActionPerformed
+    }//GEN-LAST:event_buttonConvertandRunActionPerformed
 
     /**
      * @param args the command line arguments
@@ -159,8 +159,8 @@ public class initialWindow extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton buttonConvertandRun;
     private javax.swing.JButton buttonOpenExisting;
-    private javax.swing.JButton jButton2;
     private javax.swing.JFileChooser jFileChooser1;
     // End of variables declaration//GEN-END:variables
 }

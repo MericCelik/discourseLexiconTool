@@ -21,7 +21,7 @@ import java.util.Scanner;
  *
  * @author Murathan
  */
-public class PDTBConverter {
+public class PDTBConverter extends abstractConverter{
 
     private Charset charset = Charset.forName("UTF-8");
     private String outputDir = "";

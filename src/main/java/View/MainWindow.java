@@ -56,7 +56,7 @@ public class MainWindow extends javax.swing.JFrame {
             senseConnectiveMap = reader.getSenseConnectiveMap();
             initComponents();
         } catch (org.xml.sax.SAXException ex) {
-            JOptionPane.showMessageDialog(null, "Wrong File!! " + dir);
+            JOptionPane.showMessageDialog(null, "The application could not be started. You may selected wrong file. " + dir);
         }
         //   legendLabel.setText("<html><font  color=\"black\"><b> <ul> <li> The connectives are underlined </li> <br />"         + " <li> The second argument of the discourse relations are written in bold  </li> <br /> </b> </html>");
     }
