@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Canlı</Text>
+                <BeginOffset>766</BeginOffset>
+                <EndOffset>771</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Irak&apos;la ABD arasında savaş rüzgârlarının
+                    esmeye başladığı günlerde
+                    İncirlik&apos;te bir TV kanalı işçi, esnaf, ev
+                    hanımları, öğrenciler, bazı                 öğretim
+                    üyelerinin katılımıyla bir açık oturum düzenlemişti</Text>
+                <BeginOffset>536</BeginOffset>
+                <EndOffset>764</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Canlı olarak                 verilen toplantıda
+                    beni en çok etkileyen İncirlik&apos;te oturan bir
+                    hanımın                 sözleri olmuştu</Text>
+                <BeginOffset>766</BeginOffset>
+                <EndOffset>898</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Tank</Text>
+                <BeginOffset>1736</BeginOffset>
+                <EndOffset>1740</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Türkiye İncirlik&apos;i ABD ve İngiliz uçaklarının
+                    kullanımına açtı</Text>
+                <BeginOffset>1672</BeginOffset>
+                <EndOffset>1734</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ank,                 helikopter vb. 116 ton yük
+                    taşıyabilen dünyanın en büyük nakliye uçağı C-5
+                    Galaxy&apos;ler 12 saatte 3 kez alana inip kalktı</Text>
+                <BeginOffset>1737</BeginOffset>
+                <EndOffset>1893</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>2085</BeginOffset>
+                <EndOffset>2087</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İncirlik, Afganistan daha sonra, ülkemizdeki
+                    havaalanları, limanlar,                 istasyonlar,
+                    ABD&apos;nin Irak savaşı için kendilerine verilsinmiş</Text>
+                <BeginOffset>1937</BeginOffset>
+                <EndOffset>2083</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu konuda                 denetleme kurulu geldi</Text>
+                <BeginOffset>2085</BeginOffset>
+                <EndOffset>2133</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Büyük</Text>
+                <BeginOffset>2858</BeginOffset>
+                <EndOffset>2863</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>1954 yılında                 Türkiye- ABD arasında
+                    özel bir anlaşmayla kuruldu</Text>
+                <BeginOffset>2778</BeginOffset>
+                <EndOffset>2856</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Büyük bir havaalanı                 bulunan
+                    İncirlik&apos;te lojmanlar, TV ve radyo istasyonu,
+                    okullar vardır</Text>
+                <BeginOffset>2858</BeginOffset>
+                <EndOffset>2962</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Demokrat</Text>
+                <BeginOffset>3098</BeginOffset>
+                <EndOffset>3106</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Anlaşma TBMM&apos;den geçmemiş, kim imzalamış,
+                    anlaşmada neler var bilinmiyor</Text>
+                <BeginOffset>3008</BeginOffset>
+                <EndOffset>3080</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Demokrat Parti iktidarının bu anlaşmayı kabul
+                    ettiği 1954&apos;ten bu yana 49                 yıl geçmiş</Text>
+                <BeginOffset>3098</BeginOffset>
+                <EndOffset>3197</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Yetkililer</Text>
+                <BeginOffset>6420</BeginOffset>
+                <EndOffset>6430</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ABD&apos;nin kuzeydoğusunu etkisi altına alan
+                    soğuk hava                 dalgası, New
+                    York&apos;tan Boston&apos;a kadar uzanan şeritte
+                    ısının eksi 20&apos;ye                 kadar
+                    düşmesine yol açtı</Text>
+                <BeginOffset>6240</BeginOffset>
+                <EndOffset>6418</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yetkililer, saatte 45 kilometre hızla esen
+                    rüzgârın etkisiyle, soğuğun eksi 60 derece gibi
+                    hissedildiğini belirtti</Text>
+                <BeginOffset>6420</BeginOffset>
+                <EndOffset>6550</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Meteoroloji</Text>
+                <BeginOffset>6568</BeginOffset>
+                <EndOffset>6579</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yetkililer, saatte 45 kilometre hızla esen
+                    rüzgârın etkisiyle, soğuğun eksi 60 derece gibi
+                    hissedildiğini belirtti</Text>
+                <BeginOffset>6420</BeginOffset>
+                <EndOffset>6550</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Meteoroloji soğuk havanın bugün ve yarın da etkili
+                    olacağını ve ısının                 biraz daha
+                    düşeceğini açıkladı</Text>
+                <BeginOffset>6568</BeginOffset>
+                <EndOffset>6685</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Toplanan</Text>
+                <BeginOffset>9051</BeginOffset>
+                <EndOffset>9059</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Geçen yıl oynanan oyunlarda 1 katrilyon 72 trilyon
+                    liralık hasılat elde                 edildi</Text>
+                <BeginOffset>8955</BeginOffset>
+                <EndOffset>9049</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Toplanan hasılattan KDV olarak 163.5 trilyon,
+                    Savunma Sanayii                 Destekleme
+                    Fonu&apos;na 90.8, Olimpiyat Fonu&apos;na 9.1,
+                    Yüksek Öğrenim Kredi ve                 Yurtlar
+                    Kurumu&apos;na 31.1, Türk Tanıtma Fonu&apos;na 28.1
+                    trilyon kesildi</Text>
+                <BeginOffset>9051</BeginOffset>
+                <EndOffset>9282</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>SEİA</Text>
+                <BeginOffset>3771</BeginOffset>
+                <EndOffset>3775</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>&apos;&apos;İncirlik konusundaki temel anlaşma 29
+                    Mart 1980 tarihli SEİA (Savunma ve
+                    Ekonomik İşbirliği) anlaşmasıdır</Text>
+                <BeginOffset>3646</BeginOffset>
+                <EndOffset>3769</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>SEİA stratejik hava savaşında
+                    kullanılacak savaş uçaklarının İncirlik
+                    Üssü&apos;nde bulunmasına izin                 vermiyor</Text>
+                <BeginOffset>3771</BeginOffset>
+                <EndOffset>3907</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Avrupa</Text>
+                <BeginOffset>11397</BeginOffset>
+                <EndOffset>11403</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İşte                 geçmişleri bu kadar kanlı
+                    olan bu iki ülke 22 Ocak 1963 tarihinde, henüz
+                    İkinci Dünya Savaşı&apos;nın dumanları tüterken
+                    kalıcı bir anlaşmaya imza                 attılar</Text>
+                <BeginOffset>11193</BeginOffset>
+                <EndOffset>11395</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Avrupa Birliği&apos;ne giden yolun köşe
+                    taşlarından biri oldu Elysee                 Antlaşması</Text>
+                <BeginOffset>11397</BeginOffset>
+                <EndOffset>11487</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Böyle</Text>
+                <BeginOffset>13105</BeginOffset>
+                <EndOffset>13110</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Fransızlar, eğer geçmiş tecrübeler
+                    açısından baksalardı, Almanlara hiç güvenmemeleri gerekirdi</Text>
+                <BeginOffset>12993</BeginOffset>
+                <EndOffset>13103</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Böyle düşünen                 Fransızlar hep
+                    vardı, fakat aklıselim sahibi Fransız siyasetçiler
+                    bu tür                 &apos;&apos;kaygı&apos;&apos;
+                    lara itibar etmek yerine geleceğe baktılar</Text>
+                <BeginOffset>13105</BeginOffset>
+                <EndOffset>13276</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Anayasa</Text>
+                <BeginOffset>16438</BeginOffset>
+                <EndOffset>16445</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>YSK Başkanvekili Ünlü, Anayasa Mahkemesi&apos;nin
+                    ihtar kararının ardından                 genel
+                    başkanlığı sürdüren AKP liderini eleştirdi</Text>
+                <BeginOffset>16302</BeginOffset>
+                <EndOffset>16436</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Anayasa Mahkemesi&apos;nin,
+                    Yargıtay Cumhuriyet Başsavcısı Sabih Kanadoğlu
+                    &apos;nun başvurusu üzerine
+                    AKP&apos;ye Erdoğan&apos;ın kurucu üyelikten
+                    çıkarılması için ihtar verdiğini
+                    anımsatan Ünlü, &apos;&apos;Anayasa Mahkemesi bu
+                    kararıyla Erdoğan&apos;ın kurucu üye
+                    olamayacağına karar verdi. Dolayısıyla Anayasa
+                    Mahkemesi, Erdoğan&apos;ın genel
+                    başkan olmasının da mümkün olamayacağına işaret
+                    etti&apos;&apos; dedi</Text>
+                <BeginOffset>16438</BeginOffset>
+                <EndOffset>16884</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>SPY&apos;ye</Text>
+                <BeginOffset>16886</BeginOffset>
+                <EndOffset>16892</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Anayasa Mahkemesi&apos;nin,
+                    Yargıtay Cumhuriyet Başsavcısı Sabih Kanadoğlu
+                    &apos;nun başvurusu üzerine
+                    AKP&apos;ye Erdoğan&apos;ın kurucu üyelikten
+                    çıkarılması için ihtar verdiğini
+                    anımsatan Ünlü, &apos;&apos;Anayasa Mahkemesi bu
+                    kararıyla Erdoğan&apos;ın kurucu üye
+                    olamayacağına karar verdi. Dolayısıyla Anayasa
+                    Mahkemesi, Erdoğan&apos;ın genel
+                    başkan olmasının da mümkün olamayacağına işaret
+                    etti&apos;&apos; dedi</Text>
+                <BeginOffset>16438</BeginOffset>
+                <EndOffset>16884</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>SPY&apos;ye göre                 parti
+                    sicillerinin Yargıtay Cumhuriyet Başsavcılığı
+                    tarafından tutulduğunu                 kaydeden
+                    Ünlü, Başsavcılığın parti genel başkanlarının
+                    adlarının sorulduğu                 tarihte 6 aylık
+                    ihtar süresinin dolmaması nedeniyle mevcut fiili ve
+                    hukuki                 duruma göre parti genel
+                    başkanlarının adlarını YSK&apos;ye bildirdiğini                 anımsattı</Text>
+                <BeginOffset>16886</BeginOffset>
+                <EndOffset>17279</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Ünlü</Text>
+                <BeginOffset>17281</BeginOffset>
+                <EndOffset>17285</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>SPY&apos;ye göre                 parti
+                    sicillerinin Yargıtay Cumhuriyet Başsavcılığı
+                    tarafından tutulduğunu                 kaydeden
+                    Ünlü, Başsavcılığın parti genel başkanlarının
+                    adlarının sorulduğu                 tarihte 6 aylık
+                    ihtar süresinin dolmaması nedeniyle mevcut fiili ve
+                    hukuki                 duruma göre parti genel
+                    başkanlarının adlarını YSK&apos;ye bildirdiğini                 anımsattı</Text>
+                <BeginOffset>16886</BeginOffset>
+                <EndOffset>17279</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ünlü, YSK&apos;nin de 3 Kasım&apos;da seçimi
+                    yapabilmek için mevcut fiili                 ve
+                    hukuki duruma göre gönderilen genel başkan
+                    isimlerine oy pusulalarında                 yer
+                    verdiğini söyledi</Text>
+                <BeginOffset>17281</BeginOffset>
+                <EndOffset>17472</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Karmaşanın</Text>
+                <BeginOffset>17474</BeginOffset>
+                <EndOffset>17484</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ünlü, YSK&apos;nin de 3 Kasım&apos;da seçimi
+                    yapabilmek için mevcut fiili                 ve
+                    hukuki duruma göre gönderilen genel başkan
+                    isimlerine oy pusulalarında                 yer
+                    verdiğini söyledi</Text>
+                <BeginOffset>17281</BeginOffset>
+                <EndOffset>17472</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Karmaşanın yargı kararlarına uyulmamasından
+                    kaynaklandığını vurgulayan Ünlü, &apos;&apos;Mahkeme
+                    kararında yer almayan birtakım
+                    hukuki yorumlar ve Erdoğan&apos;ın genel
+                    başkanlıktan ayrılmaması sonucu
+                    bugünkü tablo ortaya çıkmıştır. Seçimlerin
+                    dürüstlüğü ilkesi de
+                    zedelenmiştir&apos;&apos; diye konuştu</Text>
+                <BeginOffset>17474</BeginOffset>
+                <EndOffset>17816</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>3</Text>
+                <BeginOffset>17818</BeginOffset>
+                <EndOffset>17819</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Karmaşanın yargı kararlarına uyulmamasından
+                    kaynaklandığını vurgulayan Ünlü, &apos;&apos;Mahkeme
+                    kararında yer almayan birtakım
+                    hukuki yorumlar ve Erdoğan&apos;ın genel
+                    başkanlıktan ayrılmaması sonucu
+                    bugünkü tablo ortaya çıkmıştır. Seçimlerin
+                    dürüstlüğü ilkesi de
+                    zedelenmiştir&apos;&apos; diye konuştu</Text>
+                <BeginOffset>17474</BeginOffset>
+                <EndOffset>17816</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>3 Kasım seçimleri sürecinde Erdoğan&apos;ın
+                    adının genel başkan sıfatıyla oy pusulalarında yer
+                    alması nedeniyle itiraz                 başvurusunda
+                    bulunulduğunu belirten Ünlü, YSK&apos;nin bu
+                    itirazları &apos;&apos;fiili ve
+                    hukuki duruma göre karar verildiği&apos;&apos;
+                    gerekçesiyle reddettiğini söyledi</Text>
+                <BeginOffset>17818</BeginOffset>
+                <EndOffset>18125</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Algan</Text>
+                <BeginOffset>18410</BeginOffset>
+                <EndOffset>18415</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Tufan Algan da 3 Kasım ile ilgili başvuruları
+                    değerlendireceklerini                 söylerken
+                    &apos;&apos;Anayasa Mahkemesi&apos;nin verdiği karar
+                    gereğince eğer kurulca                 geçmişe
+                    yönelik hukuki bir karar alınması gerekirse, onu da
+                    görüşeceğiz&apos;&apos;                 dedi</Text>
+                <BeginOffset>18143</BeginOffset>
+                <EndOffset>18408</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Algan, 3 Kasım seçiminde Yargıtay Cumhuriyet
+                    Başsavcılığı&apos;ndan                 alınan bilgi
+                    doğrultusunda genel başkanların oy pusulalarına
+                    yazıldığını                 söyledi</Text>
+                <BeginOffset>18410</BeginOffset>
+                <EndOffset>18585</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

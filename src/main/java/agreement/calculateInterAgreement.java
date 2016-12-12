@@ -24,6 +24,8 @@ public class calculateInterAgreement {
     String annotator2Dir;
     HashMap<Integer, Annotation> anno1Map = new HashMap<>();
     HashMap<Integer, Annotation> anno2Map = new HashMap<>();
+    static int[] overallAgreed = {0, 0, 0};
+    static int overallSize = 0;
 
     public calculateInterAgreement(String dir1, String dir2) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException {
         File folderAnno1 = new File(dir1);
@@ -48,22 +50,45 @@ public class calculateInterAgreement {
         System.out.println("Annotations of anno1 : " + anno1Map.keySet().size());
         System.out.println("Annotations of anno2 : " + anno2Map.keySet().size());
 
+        int smaller = (anno1Map.keySet().size() < anno2Map.keySet().size()) ? anno1Map.keySet().size() : anno2Map.keySet().size();
+        overallSize = overallSize + smaller;
+        int[] agreed = {0, 0, 0};
         int commonSense = 0;
         int commonAnno = 0;
         for (Integer key1 : anno1Map.keySet()) {
             if (anno2Map.containsKey(key1)) {
                 commonAnno++;
+                if (anno1Map.get(key1).getSense1().equals(anno2Map.get(key1).getSense1())) {
+                    agreed[0] = agreed[0] + 1;
+                    overallAgreed[0] = overallAgreed[0] + 1;
+                }
+                if (anno1Map.get(key1).getSense2().equals(anno2Map.get(key1).getSense2())) {
+                    agreed[1] = agreed[1] + 1;
+                    overallAgreed[1] = overallAgreed[1] + 1;
+                }
+                if (anno1Map.get(key1).getSense3().equals(anno2Map.get(key1).getSense3())) {
+                    agreed[2] = agreed[2] + 1;
+                    overallAgreed[2] = overallAgreed[2] + 1;
+                }
                 if (anno1Map.get(key1).getFullSense().equals(anno2Map.get(key1).getFullSense())) {
                     commonSense++;
                 }
             }
         }
         System.out.println(commonSense + " - " + commonAnno);
+        for (int i : agreed) {
+            System.out.println((double) i / smaller);
+        }
 
     }
 
     public static void main(String[] args) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException {
         calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\Savas", "Agreement\\Agreed");
+        System.out.println(" - ");
+        for (int i : overallAgreed) {
+            System.out.println((double) i / overallSize);
+        }
+        
     }
 
 }

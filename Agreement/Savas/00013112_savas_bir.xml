@@ -9,6 +9,7 @@
                 <EndOffset>276</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Aşıklı Höyük Kazısı pek çok ilke ev sahipliği yapıyor</Text>
@@ -24,6 +25,10 @@
                 <EndOffset>363</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -34,6 +39,7 @@
                 <EndOffset>985</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Ülkemizde özellikle son yıllarda Neolitik
@@ -54,6 +60,10 @@
                 <EndOffset>1219</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -64,6 +74,7 @@
                 <EndOffset>1227</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text> Daha önce Güneydoğu Asya (Mezopotamya) ile
@@ -82,6 +93,10 @@
                 <EndOffset>1256</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -92,6 +107,7 @@
                 <EndOffset>2587</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>İÜ Prehistorya Anabilim Dalı&apos;ndayken bir
@@ -108,6 +124,10 @@
                 <EndOffset>2672</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Precedence: Sonra"
         sense="Temporal: Asynchronous: precedence" type="IMPLICIT">
@@ -118,6 +138,7 @@
                 <EndOffset>2958</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Keban Barajı bitince, Aşağı Fırat barajlarından
@@ -134,6 +155,10 @@
                 <EndOffset>3006</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Reason: Çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
         <Conn>
@@ -143,6 +168,7 @@
                 <EndOffset>3309</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Fakat Aşıklı&apos;da kazıya başlar başlamaz,
@@ -160,6 +186,10 @@
                 <EndOffset>3416</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Reason: Çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
         <Conn>
@@ -169,6 +199,7 @@
                 <EndOffset>3421</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Su altında kalmasının çok yazık olacağına inandık,
@@ -185,6 +216,10 @@
                 <EndOffset>3450</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -195,6 +230,7 @@
                 <EndOffset>3458</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Çok ilginç mimarisi olan bir yer</Text>
@@ -210,6 +246,10 @@
                 <EndOffset>3530</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Generalization: Genelleme yapacak olursak"
         sense="Expansion: Restatement: generalization" type="IMPLICIT">
@@ -220,6 +260,7 @@
                 <EndOffset>3538</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Burada önce kerpiçle başlayan insanlar, sonradan
@@ -235,6 +276,10 @@
                 <EndOffset>3571</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Purpose: Bu amaçla" sense="Contingency: Purpose" type="IMPLICIT">
         <Conn>
@@ -244,6 +289,7 @@
                 <EndOffset>3723</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Bu arada Keban ve Değirmentepe Kazıları&apos;nı
@@ -262,6 +308,10 @@
                 <EndOffset>3895</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Precedence: Sonra"
         sense="Temporal: Asynchronous: precedence" type="IMPLICIT">
@@ -272,6 +322,7 @@
                 <EndOffset>3904</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>ODTÜ&apos;ten arkadaşlarımızla, Boğaziçi ve
@@ -290,6 +341,10 @@
                 <EndOffset>3969</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -300,6 +355,7 @@
                 <EndOffset>4198</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Ayrıca Arkeometalurji çalışmalarında bir atılım yaptık</Text>
@@ -314,6 +370,10 @@
                 <EndOffset>4245</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Contra-expectation: Buna rağmen"
         sense="Comparison: Concession: contra-expectation" type="IMPLICIT">
@@ -324,6 +384,7 @@
                 <EndOffset>4500</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Türkiye&apos;de arkeometri yoktu, çünkü
@@ -340,6 +401,10 @@
                 <EndOffset>4578</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Generalization: Genelleme yapacak olursak"
         sense="Expansion: Restatement: generalization" type="IMPLICIT">
@@ -350,6 +415,7 @@
                 <EndOffset>5012</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Ayrıca yerleşme biriminin radyoaktif tarihlenmesi</Text>
@@ -364,6 +430,10 @@
                 <EndOffset>5038</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Result: Sonuç olarak"
         sense="Contingency: Cause: result" type="IMPLICIT">
@@ -374,6 +444,7 @@
                 <EndOffset>5762</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Prof. Dr. Güven Bakır, Prof. Dr. Hayat Erkanal
@@ -389,6 +460,10 @@
                 <EndOffset>5784</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Chosen alternative: Bunun yerine"
         sense="Expansion: Alternative: chosen alternative" type="IMPLICIT">
@@ -399,6 +474,7 @@
                 <EndOffset>6011</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Anadolu&apos;daki Neolitik dönem hakkında çok
@@ -415,6 +491,10 @@
                 <EndOffset>6082</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Result: Sonuç olarak"
         sense="Contingency: Cause: result" type="IMPLICIT">
@@ -425,6 +505,7 @@
                 <EndOffset>6197</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Sonra ilk yerleşik köy dönemi olarak da, yüzey
@@ -440,6 +521,10 @@
                 <EndOffset>6216</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -450,6 +535,7 @@
                 <EndOffset>7241</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Oysa şimdi çok ilginç yeni bir yorum getiriliyor</Text>
@@ -465,6 +551,10 @@
                 <EndOffset>7293</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Correction: Bilakis"
         sense="Comparison: Contrast: Correction" type="IMPLICIT">
@@ -475,6 +565,7 @@
                 <EndOffset>7308</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Antropolog Rudgley&apos;e göre, Hasandağı
@@ -491,33 +582,10 @@
                 <EndOffset>7371</EndOffset>
             </Span>
         </Arg2>
-    </Relation>
-    <Relation note="Specification: Şöyle ki"
-        sense="Expansion: Restatement: specification" type="IMPLICIT">
-        <Conn>
-            <Span>
-                <Text>Aşıklı&apos;daki</Text>
-                <BeginOffset>7373</BeginOffset>
-                <EndOffset>7384</EndOffset>
-            </Span>
-        </Conn>
-        <Arg1>
-            <Span>
-                <Text>Hasandağı&apos;nın resimdeki gibi görünüşü
-                    Aşıklı&apos;dan ve bu plan da Aşıklı&apos;ya ait</Text>
-                <BeginOffset>7295</BeginOffset>
-                <EndOffset>7371</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>Aşıklı&apos;daki insanlar Çatalhöyük&apos;e
-                    gittiler ve geldikleri yer, anayurtları Aşıklı
-                    olduğu için, onun resmini yaptılar</Text>
-                <BeginOffset>7373</BeginOffset>
-                <EndOffset>7488</EndOffset>
-            </Span>
-        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Generalization: Genelleme yapacak olursak"
         sense="Expansion: Restatement: generalization" type="IMPLICIT">
@@ -528,6 +596,7 @@
                 <EndOffset>7495</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Aşıklı&apos;daki insanlar Çatalhöyük&apos;e
@@ -544,31 +613,10 @@
                 <EndOffset>7517</EndOffset>
             </Span>
         </Arg2>
-    </Relation>
-    <Relation note="Juxtaposition: -ken"
-        sense="Comparison: Contrast: juxtaposition" type="IMPLICIT">
-        <Conn>
-            <Span>
-                <Text>Bu</Text>
-                <BeginOffset>7655</BeginOffset>
-                <EndOffset>7657</EndOffset>
-            </Span>
-        </Conn>
-        <Arg1>
-            <Span>
-                <Text>Çatalhöyük ile Aşıklı arasında kültür olarak da
-                    birtakım benzerlikler var</Text>
-                <BeginOffset>7580</BeginOffset>
-                <EndOffset>7653</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>Bu benzerliklerin yanında farklılıklar da var</Text>
-                <BeginOffset>7655</BeginOffset>
-                <EndOffset>7700</EndOffset>
-            </Span>
-        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Instantiation: Örneğin"
         sense="Expansion: Instantiation" type="IMPLICIT">
@@ -579,6 +627,7 @@
                 <EndOffset>7704</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Bu benzerliklerin yanında farklılıklar da var</Text>
@@ -595,6 +644,10 @@
                 <EndOffset>7815</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -605,6 +658,7 @@
                 <EndOffset>7830</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Bu farklılıkların en önemlisi, Aşıklı&apos;da daha
@@ -621,6 +675,10 @@
                 <EndOffset>7867</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Juxtaposition: -ken"
         sense="Comparison: Contrast: juxtaposition" type="IMPLICIT">
@@ -631,6 +689,7 @@
                 <EndOffset>7878</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Çatalhöyük&apos;de oturanlar aynı tip işlerle uğraşıyor</Text>
@@ -646,6 +705,10 @@
                 <EndOffset>7923</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Instantiation: Örneğin"
         sense="Expansion: Instantiation" type="IMPLICIT">
@@ -656,6 +719,7 @@
                 <EndOffset>7932</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Aşıklı&apos;da ise, başka başka işlerle uğraşan
@@ -673,6 +737,10 @@
                 <EndOffset>8067</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Juxtaposition: -ken"
         sense="Comparison: Contrast: juxtaposition" type="IMPLICIT">
@@ -683,6 +751,7 @@
                 <EndOffset>8158</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Bu işleri organize eden bazı özel konumlu
@@ -698,6 +767,10 @@
                 <EndOffset>8179</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -708,6 +781,7 @@
                 <EndOffset>8397</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Buzul çağı bitmiş, Holosen başlıyor</Text>
@@ -724,6 +798,10 @@
                 <EndOffset>8521</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -734,6 +812,7 @@
                 <EndOffset>8525</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Yeni zamanlar yeni başlıyor, iklim değişmeleri
@@ -750,6 +829,10 @@
                 <EndOffset>8553</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Opposition: Ama"
         sense="Comparison: Contrast: opposition" type="IMPLICIT">
@@ -760,6 +843,7 @@
                 <EndOffset>9079</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Hayır, ama tabakalar arasında bir çöp birikintisi var</Text>
@@ -774,6 +858,10 @@
                 <EndOffset>9124</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Reason: Çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
         <Conn>
@@ -783,6 +871,7 @@
                 <EndOffset>9245</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Burada bazı duvarlar, hep birbirini takip etmiş;
@@ -799,6 +888,10 @@
                 <EndOffset>9341</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Result: Sonuç olarak"
         sense="Contingency: Cause: result" type="IMPLICIT">
@@ -809,6 +902,7 @@
                 <EndOffset>9621</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>1. tabaka yok, o aşınmış zaten</Text>
@@ -823,6 +917,10 @@
                 <EndOffset>9672</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Reason: Çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
         <Conn>
@@ -832,6 +930,7 @@
                 <EndOffset>9916</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Melendiz&apos;e bakan tarafta duvar şimdi yok; ama
@@ -847,6 +946,10 @@
                 <EndOffset>9930</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -857,6 +960,7 @@
                 <EndOffset>10581</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Bir de olasılıkla 3. tabakada eski yerleşim yeri var</Text>
@@ -872,6 +976,10 @@
                 <EndOffset>10643</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Reason: Çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
         <Conn>
@@ -881,6 +989,7 @@
                 <EndOffset>10680</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>İlk defa orada yerleşmişler</Text>
@@ -897,6 +1006,10 @@
                 <EndOffset>10799</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Reason: Çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
         <Conn>
@@ -906,6 +1019,7 @@
                 <EndOffset>10870</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Melendiz&apos;in bugün aktığı yerde, o zaman
@@ -921,6 +1035,10 @@
                 <EndOffset>10913</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Reason: Çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
         <Conn>
@@ -930,6 +1048,7 @@
                 <EndOffset>11291</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Çünkü yerleşmenin genel görüntüsünü bozmak istemiyoruz</Text>
@@ -946,6 +1065,10 @@
                 <EndOffset>11394</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -956,6 +1079,7 @@
                 <EndOffset>12093</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Yerleşmede halkın oturduğu yerler var</Text>
@@ -970,6 +1094,10 @@
                 <EndOffset>12138</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -980,6 +1108,7 @@
                 <EndOffset>13169</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Evet ama, tarım çok az; yani tarıma başlangıç var
@@ -995,6 +1124,10 @@
                 <EndOffset>13198</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -1005,6 +1138,7 @@
                 <EndOffset>15213</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Evet, zaten bir yerden, başka yere getiriliyor</Text>
@@ -1021,5 +1155,9 @@
                 <EndOffset>15337</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
 </Document>

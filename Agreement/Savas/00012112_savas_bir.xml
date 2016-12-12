@@ -34,37 +34,6 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="Specifiation: Şöyle ki"
-        sense="Expansion: Restatement: specification" type="IMPLICIT">
-        <Conn>
-            <Span>
-                <Text>Bu</Text>
-                <BeginOffset>2105</BeginOffset>
-                <EndOffset>2107</EndOffset>
-            </Span>
-        </Conn>
-        <Mod/>
-        <Arg1>
-            <Span>
-                <Text>Marx, öncüllerinden farklı olarak, bu sistemi
-                    dönüştürmenin ve aşmanın maddi gücünü (kaldıracını)
-                    keşfetmiştir: proletarya</Text>
-                <BeginOffset>1981</BeginOffset>
-                <EndOffset>2103</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>Bu, onun en büyük keşfidir ve işin de özüdür</Text>
-                <BeginOffset>2105</BeginOffset>
-                <EndOffset>2149</EndOffset>
-            </Span>
-        </Arg2>
-        <Supp1/>
-        <Supp2/>
-        <Shared/>
-        <Supp_Shared/>
-    </Relation>
     <Relation note="Generalization: Genelleme yapacak olursak"
         sense="Expansion: Restatement: generalization" type="IMPLICIT">
         <Conn>
@@ -97,38 +66,6 @@
                     proletarya ortaya çıkmıştır, Marx da onu keşfetmiştir</Text>
                 <BeginOffset>2954</BeginOffset>
                 <EndOffset>3084</EndOffset>
-            </Span>
-        </Arg2>
-        <Supp1/>
-        <Supp2/>
-        <Shared/>
-        <Supp_Shared/>
-    </Relation>
-    <Relation note="Equivalence: Bir başka deyişle"
-        sense="Expansion: Restatement: equivalence" type="IMPLICIT">
-        <Conn>
-            <Span>
-                <Text>Marx</Text>
-                <BeginOffset>3633</BeginOffset>
-                <EndOffset>3637</EndOffset>
-            </Span>
-        </Conn>
-        <Mod/>
-        <Arg1>
-            <Span>
-                <Text>Marx&apos;ın öğretisinin kapsayıcılığının bir
-                    nedeni de, bu gür kaynaklardan beslenmesi, mirasçısı olmasıdır</Text>
-                <BeginOffset>3528</BeginOffset>
-                <EndOffset>3631</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>Marx ve Engels, insanlığın 19. yüzyılda yarattığı
-                    bu en iyi ürünleri eleştirel bir yaklaşımla ele
-                    almışlar ve bir sentezini oluşturarak aşmışlardır</Text>
-                <BeginOffset>3633</BeginOffset>
-                <EndOffset>3780</EndOffset>
             </Span>
         </Arg2>
         <Supp1/>
@@ -201,33 +138,6 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="Specification: Şöyle ki"
-        sense="Expansion: Restatement: specification" type="IMPLICIT">
-        <Conn>
-            <Span>
-                <Text>Bunlar</Text>
-                <BeginOffset>5796</BeginOffset>
-                <EndOffset>5802</EndOffset>
-            </Span>
-        </Conn>
-        <Arg1>
-            <Span>
-                <Text>Engels, kendi felsefelerinin üç büyük bilimsel
-                    bulgu ile doğrulandığını söyler</Text>
-                <BeginOffset>5716</BeginOffset>
-                <EndOffset>5794</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>Bunlar; canlı yapıtaşı olarak hücrenin keşfi,
-                    enerjinin sakınımı kanunu (hiçbir şey yoktan var,
-                    vardan yok olmaz ) ve Darwin&apos;in Evrim Kuramı&apos;dır</Text>
-                <BeginOffset>5796</BeginOffset>
-                <EndOffset>5940</EndOffset>
-            </Span>
-        </Arg2>
-    </Relation>
     <Relation note="Correction: Bilakis"
         sense="Comparison: Contrast: Correction" type="IMPLICIT">
         <Conn>
@@ -237,6 +147,7 @@
                 <EndOffset>6510</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Marx&apos;ın kuramında, daha sonraları bazı
@@ -253,6 +164,10 @@
                 <EndOffset>6606</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -263,6 +178,7 @@
                 <EndOffset>7607</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Tarihin itici gücünün sınıf savaşımı olduğu
@@ -280,6 +196,10 @@
                 <EndOffset>7725</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -290,6 +210,7 @@
                 <EndOffset>8930</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Bilginin kaynağı toplumsal pratiktir</Text>
@@ -306,6 +227,10 @@
                 <EndOffset>9046</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -316,6 +241,7 @@
                 <EndOffset>10993</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Marx ve Engels, 2.5 aylık işçi iktidarı Paris
@@ -333,6 +259,10 @@
                 <EndOffset>11071</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Instantiation: Örneğin"
         sense="Expansion: Instantiation" type="IMPLICIT">
@@ -343,6 +273,7 @@
                 <EndOffset>13205</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Buna rağmen Bilimsel Sosyalizm, 20. yüzyılda geri
@@ -362,6 +293,10 @@
                 <EndOffset>13364</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -372,6 +307,7 @@
                 <EndOffset>13557</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Marx, emekçilerin dünyayı değiştirebileceğini gösterdi</Text>
@@ -392,42 +328,9 @@
                 <EndOffset>13814</EndOffset>
             </Span>
         </Arg2>
-    </Relation>
-    <Relation note="Specification: Şöyle ki"
-        sense="Expansion: Restatement: specification" type="IMPLICIT">
-        <Conn>
-            <Span>
-                <Text>Mao</Text>
-                <BeginOffset>15871</BeginOffset>
-                <EndOffset>15874</EndOffset>
-            </Span>
-        </Conn>
-        <Arg1>
-            <Span>
-                <Text>Bu noktada, Sovyet deneyinin (kendisini yıkıma
-                    götüren) zaaflarını analiz eden ve Çin deneyine
-                    önderlik yapan Mao Zedung&apos;un katkıları önemlidir</Text>
-                <BeginOffset>15726</BeginOffset>
-                <EndOffset>15869</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>Mao, sosyalizmin uzun sürecek bir geçiş aşaması
-                    olduğunu, sınıfların ve sınıf mücadelesinin üretim
-                    araçlarının toplumsal mülkiyeti tamamlandıktan sonra
-                    da devam edeceğini, bu dönemde geri dönüş
-                    tehlikesinin tamamen bertaraf edilmediğini,
-                    tehlikenin tasfiye edilen burjuvaziden değil, bizzat
-                    sosyalist parti ve devlet aygıtı içinde yer alan
-                    mevki sahibi kapitalist yolculardan kaynaklandığını,
-                    sosyalizmi kurmanın esas itici gücünün emekçi
-                    kitlelerin devrimci inisiyatifi olduğunu, partinin
-                    de bu inisiyatifin önderi olabildiği sürece
-                    sosyalizm yolunda ilerlenebileceğini söylemiştir</Text>
-                <BeginOffset>15871</BeginOffset>
-                <EndOffset>16453</EndOffset>
-            </Span>
-        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
 </Document>

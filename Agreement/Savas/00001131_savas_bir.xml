@@ -8,6 +8,7 @@
                 <EndOffset>264</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Koca bir duvar taşıyordun yüreğinde kimsenin
@@ -24,6 +25,10 @@
                 <EndOffset>322</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Equivalence: Bir başka deyişle"
         sense="Expansion: Restatement: equivalence" type="IMPLICIT">
@@ -34,6 +39,7 @@
                 <EndOffset>549</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Çünkü her seferinde acımasız bir geriye dönüş vardı</Text>
@@ -48,6 +54,10 @@
                 <EndOffset>582</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Opposition: Ama"
         sense="Comparison: Contrast: opposition" type="IMPLICIT">
@@ -58,6 +68,7 @@
                 <EndOffset>870</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Benim yüreğim de duvar taşıyordu</Text>
@@ -72,6 +83,10 @@
                 <EndOffset>886</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Opposition: Ama"
         sense="Comparison: Contrast: opposition" type="IMPLICIT">
@@ -82,6 +97,7 @@
                 <EndOffset>1162</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Sen de haberdar değildin ve ben hayatımda ilk kez
@@ -97,6 +113,10 @@
                 <EndOffset>1192</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -107,6 +127,7 @@
                 <EndOffset>1201</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>İzin vermiyor, engeller koyuyordun</Text>
@@ -121,6 +142,10 @@
                 <EndOffset>1233</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Reason: Çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
         <Conn>
@@ -130,6 +155,7 @@
                 <EndOffset>1331</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Kırılıyordum, acıyordum, ama bırakmıyordum</Text>
@@ -145,6 +171,10 @@
                 <EndOffset>1384</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Relevance (değilse reason)"
         sense="Contingency: Pragmatic Condition: relevance" type="IMPLICIT">
@@ -155,6 +185,7 @@
                 <EndOffset>2550</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Bu ben değildim</Text>
@@ -169,6 +200,10 @@
                 <EndOffset>2565</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -179,6 +214,7 @@
                 <EndOffset>2573</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Ben yere bakmazdım</Text>
@@ -193,6 +229,10 @@
                 <EndOffset>2600</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Reason: Çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
         <Conn>
@@ -202,6 +242,7 @@
                 <EndOffset>2715</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Gözlerine bakamazdım ben insanların</Text>
@@ -216,6 +257,10 @@
                 <EndOffset>2719</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Reason: Çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
         <Conn>
@@ -225,6 +270,7 @@
                 <EndOffset>4184</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Altı ay önce bitirdiği bir resmi uzun süre
@@ -241,6 +287,10 @@
                 <EndOffset>4218</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -251,6 +301,7 @@
                 <EndOffset>4229</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Hiçbir tablosu değerli değildi onun için</Text>
@@ -266,6 +317,10 @@
                 <EndOffset>4287</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Result: Sonuç olarak"
         sense="Contingency: Cause: result" type="IMPLICIT">
@@ -276,6 +331,7 @@
                 <EndOffset>4406</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Onun ölümünden beri ilk kez girdiği bu odayı ağır
@@ -292,6 +348,10 @@
                 <EndOffset>4468</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -302,6 +362,7 @@
                 <EndOffset>4769</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Bu geç vakitte bile ortalıkta dolaşanlar vardı,
@@ -318,6 +379,10 @@
                 <EndOffset>4851</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Result: Sonuç olarak"
         sense="Contingency: Cause: result" type="IMPLICIT">
@@ -328,6 +393,7 @@
                 <EndOffset>5290</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Basamakları tırmanırken ayağı kaydı</Text>
@@ -342,6 +408,10 @@
                 <EndOffset>5324</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Result: Sonuç olarak"
         sense="Contingency: Cause: result" type="IMPLICIT">
@@ -352,6 +422,7 @@
                 <EndOffset>5331</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Dizini bir üst basamağın köşesine çarptı</Text>
@@ -366,6 +437,10 @@
                 <EndOffset>5359</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -376,6 +451,7 @@
                 <EndOffset>6998</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Dikkat çekmemek için geceden gidip terasa gizleniyordu</Text>
@@ -391,6 +467,10 @@
                 <EndOffset>7058</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Result: Sonuç olarak"
         sense="Contingency: Cause: result" type="IMPLICIT">
@@ -401,6 +481,7 @@
                 <EndOffset>7168</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Zaten kadın akşamdan astığı çamaşırları aceleyle
@@ -416,6 +497,10 @@
                 <EndOffset>7188</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Result: Sonuç olarak"
         sense="Contingency: Cause: result" type="IMPLICIT">
@@ -426,6 +511,7 @@
                 <EndOffset>7394</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Kadınlar oldukça kapalıydılar</Text>
@@ -440,30 +526,10 @@
                 <EndOffset>7432</EndOffset>
             </Span>
         </Arg2>
-    </Relation>
-    <Relation note="Specification: Şöyle ki"
-        sense="Expansion: Restatement: specification" type="IMPLICIT">
-        <Conn>
-            <Span>
-                <Text>Bunların</Text>
-                <BeginOffset>8504</BeginOffset>
-                <EndOffset>8512</EndOffset>
-            </Span>
-        </Conn>
-        <Arg1>
-            <Span>
-                <Text>Deliği açtığı yerde de eski takunyalar yığılıydı</Text>
-                <BeginOffset>8454</BeginOffset>
-                <EndOffset>8502</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>Bunların altındaki delik en az öbürü kadar güvenliydi</Text>
-                <BeginOffset>8504</BeginOffset>
-                <EndOffset>8557</EndOffset>
-            </Span>
-        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Justification: Çünkü (or &apos;reason&apos;)"
         sense="Contingency: Pragmatic Cause: justification" type="IMPLICIT">
@@ -474,6 +540,7 @@
                 <EndOffset>9487</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Ermeni Ante olmasa intihar edecek duruma gelmişti</Text>
@@ -489,32 +556,10 @@
                 <EndOffset>9575</EndOffset>
             </Span>
         </Arg2>
-    </Relation>
-    <Relation note="Specification: Şöyle ki"
-        sense="Expansion: Restatement: specification" type="IMPLICIT">
-        <Conn>
-            <Span>
-                <Text>Sayısı</Text>
-                <BeginOffset>9913</BeginOffset>
-                <EndOffset>9919</EndOffset>
-            </Span>
-        </Conn>
-        <Arg1>
-            <Span>
-                <Text>Nakışçı çok yaşlı bir adamdı ve kendisine kızı
-                    yardımcı oluyordu</Text>
-                <BeginOffset>9847</BeginOffset>
-                <EndOffset>9911</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>Sayısı oldukça fazla olan kadın müşterilerle bu
-                    kız ilgileniyordu</Text>
-                <BeginOffset>9913</BeginOffset>
-                <EndOffset>9978</EndOffset>
-            </Span>
-        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -525,6 +570,7 @@
                 <EndOffset>10152</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Kafasında kendi derdinin yanında Ante&apos;ninki
@@ -541,6 +587,10 @@
                 <EndOffset>10221</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Reason: Çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
         <Conn>
@@ -550,6 +600,7 @@
                 <EndOffset>10797</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Elleri, ayakları titremeye başladı</Text>
@@ -564,6 +615,10 @@
                 <EndOffset>10834</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -574,6 +629,7 @@
                 <EndOffset>11034</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Bir anda bu yüzü nereden tanıdığını hatırladı</Text>
@@ -588,6 +644,10 @@
                 <EndOffset>11083</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -598,6 +658,7 @@
                 <EndOffset>11949</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Hep yaşam öykülerini okuduğumuz, birden çok
@@ -615,6 +676,10 @@
                 <EndOffset>12061</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -625,6 +690,7 @@
                 <EndOffset>13011</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Üzerine gittikçe sinirleniyor ve bir daha asla
@@ -641,6 +707,10 @@
                 <EndOffset>13062</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -651,6 +721,7 @@
                 <EndOffset>13847</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Evet, intikamını alıyordu</Text>
@@ -666,6 +737,10 @@
                 <EndOffset>13926</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Reason: Çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
         <Conn>
@@ -675,6 +750,7 @@
                 <EndOffset>14568</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Hiç kıpırdamadan oturuyordun</Text>
@@ -689,6 +765,10 @@
                 <EndOffset>14622</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Reason: Çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
         <Conn>
@@ -698,6 +778,7 @@
                 <EndOffset>15087</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Kahve içince kendine gelebileceğini düşünerek
@@ -713,5 +794,9 @@
                 <EndOffset>15130</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
 </Document>

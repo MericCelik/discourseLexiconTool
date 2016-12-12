@@ -9,6 +9,7 @@
                 <EndOffset>249</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>İncirlik 1954 yılından beri 50 yıldır Türkiye ve
@@ -29,6 +30,10 @@
                 <EndOffset>518</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Equivalence: Bir başka deyişle"
         sense="Expansion: Restatement: equivalence" type="IMPLICIT">
@@ -39,6 +44,7 @@
                 <EndOffset>1679</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Sonra Afganistan eylemi başladı</Text>
@@ -54,33 +60,10 @@
                 <EndOffset>1734</EndOffset>
             </Span>
         </Arg2>
-    </Relation>
-    <Relation note="Synchronous: Aynı zamanda"
-        sense="Temporal: Synchronous" type="IMPLICIT">
-        <Conn>
-            <Span>
-                <Text>Tank</Text>
-                <BeginOffset>1736</BeginOffset>
-                <EndOffset>1740</EndOffset>
-            </Span>
-        </Conn>
-        <Arg1>
-            <Span>
-                <Text>Türkiye İncirlik&apos;i ABD ve İngiliz uçaklarının
-                    kullanımına açtı</Text>
-                <BeginOffset>1672</BeginOffset>
-                <EndOffset>1734</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>Tank,                 helikopter vb. 116 ton yük
-                    taşıyabilen dünyanın en büyük nakliye uçağı C-5
-                    Galaxy&apos;ler 12 saatte 3 kez alana inip kalktı</Text>
-                <BeginOffset>1736</BeginOffset>
-                <EndOffset>1893</EndOffset>
-            </Span>
-        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Result: Sonuç olarak"
         sense="Contingency: Cause: result" type="IMPLICIT">
@@ -91,6 +74,7 @@
                 <EndOffset>7543</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Yasal kesintilerin yüksekliği tartışma konusu olan
@@ -109,6 +93,10 @@
                 <EndOffset>7658</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Generalization: Genelleme yapacak olursak"
         sense="Expansion: Restatement: generalization" type="IMPLICIT">
@@ -119,6 +107,7 @@
                 <EndOffset>8485</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Buna göre, at yarışlarında                 oynanan
@@ -139,6 +128,10 @@
                 <EndOffset>8584</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Conjunction: Ayrıca" sense="Expansion: Conjunction" type="IMPLICIT">
         <Conn>
@@ -148,6 +141,7 @@
                 <EndOffset>9311</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Geçen yıl oynanan oyunlarda 1 katrilyon 72 trilyon
@@ -171,6 +165,10 @@
                 <EndOffset>9437</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Spec,f,cat,on: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -181,6 +179,7 @@
                 <EndOffset>10183</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Fransa ile Almanya arasında imzalanan Elysee
@@ -200,6 +199,10 @@
                 <EndOffset>10304</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -210,6 +213,7 @@
                 <EndOffset>10371</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Toplantının açış konuşmaları da ilginçti</Text>
@@ -225,6 +229,10 @@
                 <EndOffset>10464</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Conjunction: Ayrıca" sense="Expansion: Conjunction" type="IMPLICIT">
         <Conn>
@@ -234,6 +242,7 @@
                 <EndOffset>12176</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Onların ölümünden sonra bu köprü
@@ -252,6 +261,10 @@
                 <EndOffset>12245</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
@@ -262,6 +275,7 @@
                 <EndOffset>12368</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Bu yüzden Avrupa&apos;nın silaha ve orduya en
@@ -279,6 +293,10 @@
                 <EndOffset>12485</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Opposition: Ama"
         sense="Comparison: Contrast: opposition" type="IMPLICIT">
@@ -289,6 +307,7 @@
                 <EndOffset>12857</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Güvenlik                 tabii ki geçmişinde büyük
@@ -306,6 +325,10 @@
                 <EndOffset>12991</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Result: Sonuç olarak"
         sense="Contingency: Cause: result" type="IMPLICIT">
@@ -316,6 +339,7 @@
                 <EndOffset>13350</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Onların haklı                 olduğunu aradan
@@ -332,6 +356,10 @@
                 <EndOffset>13415</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Opposition: Ama"
         sense="Comparison: Contrast: opposition" type="IMPLICIT">
@@ -342,6 +370,7 @@
                 <EndOffset>14641</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Orada sorunun çözülmesi gerekiyordu</Text>
@@ -356,6 +385,10 @@
                 <EndOffset>14641</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
     <Relation note="Result: Sonuç olarak"
         sense="Contingency: Cause: result" type="IMPLICIT">
@@ -366,6 +399,7 @@
                 <EndOffset>15362</EndOffset>
             </Span>
         </Conn>
+        <Mod/>
         <Arg1>
             <Span>
                 <Text>Maalesef, Türkiye&apos;de hem kendi içimizle hem
@@ -381,5 +415,9 @@
                 <EndOffset>15413</EndOffset>
             </Span>
         </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
     </Relation>
 </Document>

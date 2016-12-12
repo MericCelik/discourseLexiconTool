@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>H</Text>
+                <BeginOffset>6452</BeginOffset>
+                <EndOffset>6453</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sabah çok erken saatte bir önceki akşam gün
+                    batmadan hemen önce astığı çamaşırları toplamaya
+                    çıkıyordu ve doğal olarak da gün batmadan o günkü
+                    çamaşırları asmak için geliyordu</Text>
+                <BeginOffset>6275</BeginOffset>
+                <EndOffset>6450</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Hamamın sorumlusu bu kadındı; kocası mahallenin
+                    öbür ucunda bulunan erkekler hamamıyla ilgileniyordu</Text>
+                <BeginOffset>6452</BeginOffset>
+                <EndOffset>6552</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>H</Text>
+                <BeginOffset>6706</BeginOffset>
+                <EndOffset>6707</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Gün ağarana dek uğraşıyor ve kadın terasa çıkmadan
+                    önce kaçıyordu.</Text>
+                <BeginOffset>6639</BeginOffset>
+                <EndOffset>6705</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Haftalarca uğraştıktan sonra terastan hamama
+                    uzanan bir delik açmayı başardı.</Text>
+                <BeginOffset>6706</BeginOffset>
+                <EndOffset>6783</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>K</Text>
+                <BeginOffset>7901</BeginOffset>
+                <EndOffset>7902</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Peştamal; havlu ve takunyasını hamamcı kadından
+                    alarak hususi banyoların yerini sordu oldukça
+                    incelttiği sesiyle.</Text>
+                <BeginOffset>7787</BeginOffset>
+                <EndOffset>7900</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kendisini banyolardan birisine attığında soluk
+                    soluğa kalmıştı.</Text>
+                <BeginOffset>7901</BeginOffset>
+                <EndOffset>7964</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>A</Text>
+                <BeginOffset>8237</BeginOffset>
+                <EndOffset>8238</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Korkuyla titredi Halil peçenin ardında.</Text>
+                <BeginOffset>8197</BeginOffset>
+                <EndOffset>8236</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Acele hareketlerle malzemeleri teslim ederek çıktı.</Text>
+                <BeginOffset>8237</BeginOffset>
+                <EndOffset>8288</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>8504</BeginOffset>
+                <EndOffset>8505</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Deliği açtığı yerde de eski takunyalar yığılıydı.</Text>
+                <BeginOffset>8454</BeginOffset>
+                <EndOffset>8503</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bunların altındaki delik en az öbürü kadar güvenliydi.</Text>
+                <BeginOffset>8504</BeginOffset>
+                <EndOffset>8558</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>P</Text>
+                <BeginOffset>8834</BeginOffset>
+                <EndOffset>8835</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kadının yüzünü beynine kazıdı.</Text>
+                <BeginOffset>8803</BeginOffset>
+                <EndOffset>8833</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Peştamalını çıkartmasını bekliyordu.</Text>
+                <BeginOffset>8834</BeginOffset>
+                <EndOffset>8870</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>A</Text>
+                <BeginOffset>9049</BeginOffset>
+                <EndOffset>9050</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ancak, aylardır çamaşır saatlerinde değişiklik
+                    yapmayan hamamcı, inanılmaz bir şekilde terasa çıkıyordu.</Text>
+                <BeginOffset>8944</BeginOffset>
+                <EndOffset>9048</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ayağındaki takunyaların sesi duyulmasa Halil az
+                    daha yakalanacaktı. </Text>
+                <BeginOffset>9049</BeginOffset>
+                <EndOffset>9117</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Z</Text>
+                <BeginOffset>9212</BeginOffset>
+                <EndOffset>9213</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Geceler boyu bir yerlerden yüzünü hatırladığı bu
+                    kadının kim olduğunu bulmaya çalıştı.</Text>
+                <BeginOffset>9125</BeginOffset>
+                <EndOffset>9211</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Zihninde canlanan güzel yüzün altına çıplak bir
+                    beden hayal edip resmedemiyordu. </Text>
+                <BeginOffset>9212</BeginOffset>
+                <EndOffset>9293</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>A</Text>
+                <BeginOffset>9577</BeginOffset>
+                <EndOffset>9578</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Halil her gün şarap satın almaya gidiyor, bu
+                    bahaneyle de tek dostu olan Ante&apos;yle konuşuyordu.</Text>
+                <BeginOffset>9482</BeginOffset>
+                <EndOffset>9576</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ante bu genç ressamın her sırrını biliyor ve onu
+                    çok iyi anlıyordu.</Text>
+                <BeginOffset>9577</BeginOffset>
+                <EndOffset>9644</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>H</Text>
+                <BeginOffset>9645</BeginOffset>
+                <EndOffset>9646</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ante bu genç ressamın her sırrını biliyor ve onu
+                    çok iyi anlıyordu.</Text>
+                <BeginOffset>9577</BeginOffset>
+                <EndOffset>9644</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Hayal etme gücünü kaybetmemesini söyleyerek
+                    sürekli resim çizmesini telkin ediyordu.</Text>
+                <BeginOffset>9645</BeginOffset>
+                <EndOffset>9729</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>S</Text>
+                <BeginOffset>9913</BeginOffset>
+                <EndOffset>9914</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Nakışçı çok yaşlı bir adamdı ve kendisine kızı
+                    yardımcı oluyordu.</Text>
+                <BeginOffset>9847</BeginOffset>
+                <EndOffset>9912</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sayısı oldukça fazla olan kadın müşterilerle bu
+                    kız ilgileniyordu.</Text>
+                <BeginOffset>9913</BeginOffset>
+                <EndOffset>9979</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>M</Text>
+                <BeginOffset>10223</BeginOffset>
+                <EndOffset>10224</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ante hastaydı ve bu hastalığı onu sevdiği kızı
+                    elde etmekten alıkoyuyordu.</Text>
+                <BeginOffset>10148</BeginOffset>
+                <EndOffset>10222</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Meyhanesinden dışarı çıkamıyordu.</Text>
+                <BeginOffset>10223</BeginOffset>
+                <EndOffset>10256</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>T</Text>
+                <BeginOffset>10544</BeginOffset>
+                <EndOffset>10545</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Halil de içtiği içkilerin etkisiyle kadınlara bir
+                    şaka yapmaya karar verdi.</Text>
+                <BeginOffset>10468</BeginOffset>
+                <EndOffset>10543</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Tezgâhın arkasına girerek kadınların olduğu tarafa dolandı.</Text>
+                <BeginOffset>10544</BeginOffset>
+                <EndOffset>10603</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>H</Text>
+                <BeginOffset>10700</BeginOffset>
+                <EndOffset>10701</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Başka kimse olmadığından iki kadının da yüzü açıktı.</Text>
+                <BeginOffset>10647</BeginOffset>
+                <EndOffset>10699</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Halil onları korkutacağı yere geldiğinde donakaldı.</Text>
+                <BeginOffset>10700</BeginOffset>
+                <EndOffset>10751</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>E</Text>
+                <BeginOffset>10752</BeginOffset>
+                <EndOffset>10753</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Halil onları korkutacağı yere geldiğinde donakaldı.</Text>
+                <BeginOffset>10700</BeginOffset>
+                <EndOffset>10751</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Elleri, ayakları titremeye başladı.</Text>
+                <BeginOffset>10752</BeginOffset>
+                <EndOffset>10787</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>E</Text>
+                <BeginOffset>11085</BeginOffset>
+                <EndOffset>11086</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Hususi banyoda gördüğü bu kadın mahalleden komşularıydı.</Text>
+                <BeginOffset>11028</BeginOffset>
+                <EndOffset>11084</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Eğer o büyük yangın çıkmamış olsaydı ve
+                    Halil&apos;in babası bir-iki gün daha yaşasaydı,
+                    birkaç ev ötelerinde oturan bu kızı oğlu için isteyecekti.</Text>
+                <BeginOffset>11085</BeginOffset>
+                <EndOffset>11227</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>E</Text>
+                <BeginOffset>11476</BeginOffset>
+                <EndOffset>11477</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Halil nakışçıdan hızla çıktı.</Text>
+                <BeginOffset>11446</BeginOffset>
+                <EndOffset>11475</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Evine doğru deli gibi koşarken amacına biraz daha
+                    yaklaşmanın sevincini yaşıyordu.</Text>
+                <BeginOffset>11476</BeginOffset>
+                <EndOffset>11558</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>N</Text>
+                <BeginOffset>13214</BeginOffset>
+                <EndOffset>13215</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Karşımda oturan ürkek, duygusal kişi gidiyor,
+                    yerine intikam hırsıyla gözleri parlayan bir canavar geliyordu</Text>
+                <BeginOffset>13104</BeginOffset>
+                <EndOffset>13212</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Nerede olduğunu bilmediğimi söylüyor ve kestirip
+                    atıyordum ama, eski dost ısrarla seni sormaya devam ediyordu.</Text>
+                <BeginOffset>13214</BeginOffset>
+                <EndOffset>13324</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>A</Text>
+                <BeginOffset>14797</BeginOffset>
+                <EndOffset>14798</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Halil mahzende baktığı her yerde Peride&apos;nin
+                    yüzünü görerek sabaha kadar oturdu.</Text>
+                <BeginOffset>14717</BeginOffset>
+                <EndOffset>14796</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Acıdan kıvrandı.</Text>
+                <BeginOffset>14797</BeginOffset>
+                <EndOffset>14813</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>G</Text>
+                <BeginOffset>6639</BeginOffset>
+                <EndOffset>6640</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Halil, kadın çamaşırları astıktan sonra bekliyor
+                    ve hava kararınca terasa çıkıyordu.</Text>
+                <BeginOffset>6554</BeginOffset>
+                <EndOffset>6638</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Gün ağarana dek uğraşıyor ve kadın terasa çıkmadan
+                    önce kaçıyordu.</Text>
+                <BeginOffset>6639</BeginOffset>
+                <EndOffset>6705</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>6784</BeginOffset>
+                <EndOffset>6785</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Haftalarca uğraştıktan sonra terastan hamama
+                    uzanan bir delik açmayı başardı.</Text>
+                <BeginOffset>6706</BeginOffset>
+                <EndOffset>6783</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bunu yaparken de paha biçilmez padişah hediyesini
+                    hurdaya çıkardı.</Text>
+                <BeginOffset>6784</BeginOffset>
+                <EndOffset>6850</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>S</Text>
+                <BeginOffset>7631</BeginOffset>
+                <EndOffset>7632</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çarşıdan satın aldığı çarşaflarla geceden giderek
+                    terasa saklandı.</Text>
+                <BeginOffset>7564</BeginOffset>
+                <EndOffset>7630</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sabah kadınlar gelmeye başlayınca çarşafları
+                    giyerek terastan indi.</Text>
+                <BeginOffset>7631</BeginOffset>
+                <EndOffset>7698</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>K</Text>
+                <BeginOffset>7699</BeginOffset>
+                <EndOffset>7700</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sabah kadınlar gelmeye başlayınca çarşafları
+                    giyerek terastan indi.</Text>
+                <BeginOffset>7631</BeginOffset>
+                <EndOffset>7698</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kimseye belli etmeden duvardan dışarı atladı.</Text>
+                <BeginOffset>7699</BeginOffset>
+                <EndOffset>7744</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>H</Text>
+                <BeginOffset>7745</BeginOffset>
+                <EndOffset>7746</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kimseye belli etmeden duvardan dışarı atladı.</Text>
+                <BeginOffset>7699</BeginOffset>
+                <EndOffset>7744</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Hamamın girişine yöneldi</Text>
+                <BeginOffset>7745</BeginOffset>
+                <EndOffset>7769</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>D</Text>
+                <BeginOffset>8067</BeginOffset>
+                <EndOffset>8068</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sonra duvara sırtını verdi ve adımlayarak
+                    yukarıdan deliği açacağı yeri hesapladı</Text>
+                <BeginOffset>7984</BeginOffset>
+                <EndOffset>8065</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ikkat çekici bir yerde olmamalıydı</Text>
+                <BeginOffset>8068</BeginOffset>
+                <EndOffset>8102</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>P</Text>
+                <BeginOffset>7787</BeginOffset>
+                <EndOffset>7788</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Parasını ödedi</Text>
+                <BeginOffset>7771</BeginOffset>
+                <EndOffset>7785</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Peştamal; havlu ve takunyasını hamamcı kadından
+                    alarak hususi banyoların yerini sordu oldukça
+                    incelttiği sesiyle</Text>
+                <BeginOffset>7787</BeginOffset>
+                <EndOffset>7899</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>P</Text>
+                <BeginOffset>7771</BeginOffset>
+                <EndOffset>7772</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Hamamın girişine yöneldi</Text>
+                <BeginOffset>7745</BeginOffset>
+                <EndOffset>7769</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Parasını ödedi</Text>
+                <BeginOffset>7771</BeginOffset>
+                <EndOffset>7785</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>A</Text>
+                <BeginOffset>4591</BeginOffset>
+                <EndOffset>4592</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Odadan çıkar çıkmaz derin soluk alıp dinlendi</Text>
+                <BeginOffset>4544</BeginOffset>
+                <EndOffset>4589</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text> Ağır ağır merdivenleri ind</Text>
+                <BeginOffset>4590</BeginOffset>
+                <EndOffset>4617</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>
