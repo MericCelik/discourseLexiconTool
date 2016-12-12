@@ -57,11 +57,11 @@ public class calculateInterAgreement {
         int commonAnno = 0;
         for (Integer key : anno1Map.keySet()) {
             if (anno2Map.containsKey(key)) {
-                System.out.println("COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
-
                 commonAnno++;
                 compareAnnotation(anno1Map.get(key), anno2Map.get(key), agreed);
             } else {
+                System.out.println("not COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
+
             }
         }
         System.out.println(commonAnno);
