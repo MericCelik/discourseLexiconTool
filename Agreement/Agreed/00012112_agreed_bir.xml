@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="reason: çünkü" sense="Contingency: Cause: reason" type="IMPLICIT" genre="article">
+        <Conn>
+            <Span>
+                <Text>İnsanlık</Text>
+                <BeginOffset>2374</BeginOffset>
+                <EndOffset>2382</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu soruya, 19. yüzyılın ilk yarısında,
+                    Avrupa&apos;nın gelişmiş merkezlerinin toplumsal
+                    yapısını analiz ederek yanıt verilebilir;
+                    Marx&apos;ın &quot;deha&quot;sına gönderme yaparak değil</Text>
+                <BeginOffset>2206</BeginOffset>
+                <EndOffset>2372</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İnsanlık ancak toplumsal pratiğin dayattığı ve
+                    gündeme getirdiği sorunları çözmeye çalışarak kendi
+                    bilgisini geliştirebiliyor</Text>
+                <BeginOffset>2374</BeginOffset>
+                <EndOffset>2499</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT" genre="article">
+        <Conn>
+            <Span>
+                <Text>Marx&apos;ın</Text>
+                <BeginOffset>4235</BeginOffset>
+                <EndOffset>4242</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Feuerbach&apos;ın yazıları, içlerinde Marx&apos;ın
+                    da bulunduğu demokratik ve tanrı tanımaz fikirlere
+                    sempati duyan gençleri büyük ölçüde etkilemişti</Text>
+                <BeginOffset>4094</BeginOffset>
+                <EndOffset>4233</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Marx&apos;ın kendisi de o dönem için, &quot;bir
+                    gecede hepimiz Feuerbachcı olmuştuk&quot; diye yazmıştır</Text>
+                <BeginOffset>4235</BeginOffset>
+                <EndOffset>4324</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT" genre="article">
+        <Conn>
+            <Span>
+                <Text>Engels</Text>
+                <BeginOffset>5716</BeginOffset>
+                <EndOffset>5722</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Diyalektik Materyalizm, dönemin büyük bilimsel
+                    devrimleriyle de beslenmiş ve kanıtlanmıştır</Text>
+                <BeginOffset>5623</BeginOffset>
+                <EndOffset>5714</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Engels, kendi felsefelerinin üç büyük bilimsel
+                    bulgu ile doğrulandığını söyler</Text>
+                <BeginOffset>5716</BeginOffset>
+                <EndOffset>5794</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="correction: tam tersine"
+        sense="Expansion: Correction" type="IMPLICIT" genre="article">
+        <Conn>
+            <Span>
+                <Text>Marx</Text>
+                <BeginOffset>6506</BeginOffset>
+                <EndOffset>6510</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Marx&apos;ın kuramında, daha sonraları bazı
+                    sosyalist akımlarda gözüken kaba belirlenimcilik yoktur</Text>
+                <BeginOffset>6410</BeginOffset>
+                <EndOffset>6504</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Marx ve Engels, diyalektik yöntemi toplumların
+                    analizine son derece başarılı biçimde uygulamışlardır</Text>
+                <BeginOffset>6506</BeginOffset>
+                <EndOffset>6606</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Temporal: Asynchronous" type="IMPLICIT" genre="article">
+        <Conn>
+            <Span>
+                <Text>Marx</Text>
+                <BeginOffset>7017</BeginOffset>
+                <EndOffset>7021</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Klasik ekonomi politik, en önemli isimleri Adam
+                    Smith ve David Ricardo olmak üzere,
+                    İngiltere&apos;de doğmuştur</Text>
+                <BeginOffset>6909</BeginOffset>
+                <EndOffset>7015</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Marx, onların çalışmalarını sürdürerek, ünlü
+                    artı-değer kuramına ulaşmıştır</Text>
+                <BeginOffset>7017</BeginOffset>
+                <EndOffset>7092</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Reason: çünkü" sense="Contingency: Cause: reason" type="IMPLICIT" genre="article">
+        <Conn>
+            <Span>
+                <Text>18</Text>
+                <BeginOffset>7605</BeginOffset>
+                <EndOffset>7607</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Tarihin itici gücünün sınıf savaşımı olduğu
+                    tezinin oluşturulmasının onuru Marx&apos;a ait değildir</Text>
+                <BeginOffset>7509</BeginOffset>
+                <EndOffset>7603</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>18. yüzyılın sonuna doğru tarihin en köklü
+                    devrimlerinden birinin gerçekleştiği Fransa&apos;da
+                    toplumbilimi bu teze ulaşmıştı</Text>
+                <BeginOffset>7605</BeginOffset>
+                <EndOffset>7725</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Result Specification"
+        sense="Expansion: Restatement: specification" type="IMPLICIT" genre="article">
+        <Conn>
+            <Span>
+                <Text>Büyük</Text>
+                <BeginOffset>8925</BeginOffset>
+                <EndOffset>8930</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bilginin kaynağı toplumsal pratiktir</Text>
+                <BeginOffset>8887</BeginOffset>
+                <EndOffset>8923</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Büyük bilimsel ve düşünsel devrimlerin kökenine
+                    indiğimiz zaman büyük toplumsal pratikleri ve insan
+                    ihtiyaçlarını görürüz</Text>
+                <BeginOffset>8925</BeginOffset>
+                <EndOffset>9046</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Result:bu yüzden (Pragmatic:hatta)"
+        sense="Contingency: Cause: result" type="IMPLICIT" genre="article">
+        <Conn>
+            <Span>
+                <Text>Bilimsel</Text>
+                <BeginOffset>14399</BeginOffset>
+                <EndOffset>14407</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Devrimin odağı Ezilen Dünya&apos;ya kaydı</Text>
+                <BeginOffset>14361</BeginOffset>
+                <EndOffset>14396</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bilimsel Sosyalizmin 20. yüzyıldaki en güçlü
+                    isimlerinden Sovyet Devrimi&apos;nin lideri Lenin,
+                    bu gelişmeye &quot;ileri Asya, geri Avrupa&quot;
+                    saptamasıyla vurgu yapmıştır</Text>
+                <BeginOffset>14399</BeginOffset>
+                <EndOffset>14557</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT" genre="article">
+        <Conn>
+            <Span>
+                <Text>Sosyalizm</Text>
+                <BeginOffset>10984</BeginOffset>
+                <EndOffset>10993</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Marx ve Engels, 2.5 aylık işçi iktidarı Paris
+                    Komünü deneyini kılı kırk yararcasına analiz ederek
+                    bazı sonuçlara varmışlardır</Text>
+                <BeginOffset>10857</BeginOffset>
+                <EndOffset>10982</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sosyalizm, kapitalizm ile sınıfsız toplum
+                    (komünizm) arasında kısa bir geçiş aşamasıdır</Text>
+                <BeginOffset>10984</BeginOffset>
+                <EndOffset>11071</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="juxtaposition: -ken"
+        sense="Comparison: Contrast: juxtaposition" type="IMPLICIT" genre="article">
+        <Conn>
+            <Span>
+                <Text>20</Text>
+                <BeginOffset>14294</BeginOffset>
+                <EndOffset>14296</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>19. yüzyılda Avrupa, burjuvazi ve proletarya
+                    olarak ikiye bölünmüştü</Text>
+                <BeginOffset>14224</BeginOffset>
+                <EndOffset>14292</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>20. yüzyılda dünya ezen ve ezilen uluslar
+                    biçiminde ikiye bölündü</Text>
+                <BeginOffset>14294</BeginOffset>
+                <EndOffset>14359</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result: bu yüzden"
+        sense="Contingency: Cause: result" type="IMPLICIT" genre="article">
+        <Conn>
+            <Span>
+                <Text>Sadece</Text>
+                <BeginOffset>13551</BeginOffset>
+                <EndOffset>13557</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Marx, emekçilerin dünyayı değiştirebileceğini gösterdi</Text>
+                <BeginOffset>13495</BeginOffset>
+                <EndOffset>13549</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sadece Paris&apos;in, Londra&apos;nın,
+                    Berlin&apos;in işçi yataklarında değil,
+                    Rusya&apos;nın steplerinde, Çin&apos;in köylerinde,
+                    Latin Amerika&apos;nın dağlarında, halinden hoşnut
+                    olmayan ve dünyanın varolan düzenini değiştirmek
+                    isteyen kim varsa, gitmiş Marx ve Engels&apos;in
+                    kuramını bulmuştur</Text>
+                <BeginOffset>13551</BeginOffset>
+                <EndOffset>13814</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="correction: bilakis"
+        sense="Expansion: Correction" type="IMPLICIT" genre="article">
+        <Conn>
+            <Span>
+                <Text>dünyanın</Text>
+                <BeginOffset>3211</BeginOffset>
+                <EndOffset>3219</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>başka bir yöresinde değil</Text>
+                <BeginOffset>3220</BeginOffset>
+                <EndOffset>3245</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>19. yüzyıl Avrupası&apos;nın İngiltere, Fransa,
+                    Almanya gibi en gelişmiş merkezlerinde oluşmuştu</Text>
+                <BeginOffset>3118</BeginOffset>
+                <EndOffset>3209</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="correction: bilakis"
+        sense="Expansion: Correction" type="IMPLICIT" genre="article">
+        <Conn>
+            <Span>
+                <Text>19</Text>
+                <BeginOffset>2217</BeginOffset>
+                <EndOffset>2219</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Marx&apos;ın &quot;deha&quot;sına gönderme yaparak değil</Text>
+                <BeginOffset>2331</BeginOffset>
+                <EndOffset>2372</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text> yüzyılın ilk yarısında, Avrupa&apos;nın gelişmiş
+                    merkezlerinin toplumsal yapısını analiz ederek yanıt verilebilir</Text>
+                <BeginOffset>2220</BeginOffset>
+                <EndOffset>2329</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

@@ -38,6 +38,8 @@ public class readRelationsForInterAgreement {
             File[] arrayOfAnnotationFiles = dattAnnotationFolder.listFiles();
             dattAnnotationFile = arrayOfAnnotationFiles[0].getAbsolutePath();
         }
+        else
+            dattAnnotationFile = dir;
         File fXmlFile = new File(dattAnnotationFile);
         DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();

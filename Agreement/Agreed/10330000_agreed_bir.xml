@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="result: bu yüzden"
+        sense="Contingency: Cause: result" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>Çoluk</Text>
+                <BeginOffset>983</BeginOffset>
+                <EndOffset>988</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Her gece üstümüzden geçen dev uçakların
+                    gürültüsüyle uyanıyoruz</Text>
+                <BeginOffset>918</BeginOffset>
+                <EndOffset>981</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çoluk                 çocuk hepimizin eli
+                    yüreğimizde, acaba bir şey mi oldu</Text>
+                <BeginOffset>983</BeginOffset>
+                <EndOffset>1059</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result: bu yüzden"
+        sense="Contingency: Cause: result" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>Atçılık</Text>
+                <BeginOffset>7536</BeginOffset>
+                <EndOffset>7543</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yasal kesintilerin yüksekliği tartışma konusu olan
+                    at                 yarışlarından devlete önemli
+                    miktarda kaynak aktarılıyor</Text>
+                <BeginOffset>7408</BeginOffset>
+                <EndOffset>7534</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Atçılık                 camiasında &apos;&apos;at
+                    koşar baht kazanır&apos;&apos; sözü de
+                    &apos;&apos;at koşar devlet kazanır&apos;&apos; a                 dönüştü</Text>
+                <BeginOffset>7536</BeginOffset>
+                <EndOffset>7658</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction: ve" sense="Expansion: Conjunction" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>1998</Text>
+                <BeginOffset>7660</BeginOffset>
+                <EndOffset>7664</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Atçılık                 camiasında &apos;&apos;at
+                    koşar baht kazanır&apos;&apos; sözü de
+                    &apos;&apos;at koşar devlet kazanır&apos;&apos; a                 dönüştü</Text>
+                <BeginOffset>7536</BeginOffset>
+                <EndOffset>7658</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>1998-2002 arasında oynanan müşterek bahis
+                    oyunlarında yapılan                 yasal
+                    kesintilerin tutarı 1.5 milyar doları geçti</Text>
+                <BeginOffset>7660</BeginOffset>
+                <EndOffset>7787</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="equivalence: başka bir deyişle"
+        sense="Expansion: Restatement: equivalence" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>5</Text>
+                <BeginOffset>8484</BeginOffset>
+                <EndOffset>8485</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Buna göre, at yarışlarında                 oynanan
+                    müşterek bahislerden 1998&apos;de 317 milyon,
+                    1999&apos;da 341.3 milyon,                 2000
+                    yılında 368 milyon, 2001&apos;de 238.5 milyon ve
+                    geçen yıl 261.2 milyon                 dolarlık
+                    yasal kesinti yapıldı</Text>
+                <BeginOffset>8234</BeginOffset>
+                <EndOffset>8482</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>5 yıllık dönemde yapılan yasal
+                    kesintilerin toplamı 1 milyar 526 milyon doları buldu</Text>
+                <BeginOffset>8484</BeginOffset>
+                <EndOffset>8584</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>Bahislerden</Text>
+                <BeginOffset>8586</BeginOffset>
+                <EndOffset>8597</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>5 yıllık dönemde yapılan yasal
+                    kesintilerin toplamı 1 milyar 526 milyon doları buldu</Text>
+                <BeginOffset>8484</BeginOffset>
+                <EndOffset>8584</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bahislerden, özel                 iletişim
+                    vergisi, eğitime katkı payı, KDV, Savunma Sanayii
+                    Destekleme                 Fonu, Yüksek Öğrenim
+                    Kredi ve Yurtlar Kurumu Fonu, Olimpiyat Fonu, Türk
+                    Tanıtma Fonu için kesinti yapılıyor</Text>
+                <BeginOffset>8586</BeginOffset>
+                <EndOffset>8829</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction: ve" sense="Expansion: Conjunction" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>Belediyeler</Text>
+                <BeginOffset>9300</BeginOffset>
+                <EndOffset>9311</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Toplanan hasılattan KDV olarak 163.5 trilyon,
+                    Savunma Sanayii                 Destekleme
+                    Fonu&apos;na 90.8, Olimpiyat Fonu&apos;na 9.1,
+                    Yüksek Öğrenim Kredi ve                 Yurtlar
+                    Kurumu&apos;na 31.1, Türk Tanıtma Fonu&apos;na 28.1
+                    trilyon kesildi</Text>
+                <BeginOffset>9051</BeginOffset>
+                <EndOffset>9282</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Belediyeler eğlence vergisi olarak 37.2 trilyon
+                    tahsil etti</Text>
+                <BeginOffset>9300</BeginOffset>
+                <EndOffset>9359</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="instantiation: örneğin"
+        sense="Expansion: Instantiation" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>İstanbul&apos;da</Text>
+                <BeginOffset>10172</BeginOffset>
+                <EndOffset>10183</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Fransa ile Almanya arasında imzalanan Elysee
+                    Antlaşması&apos;nın 40. yılı iki
+                    ülkede ve bu ülkelerin dünyanın dört bir yanındaki
+                    temsilciliklerinde                 törenlerle kutlandı</Text>
+                <BeginOffset>9976</BeginOffset>
+                <EndOffset>10170</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İstanbul&apos;da Alman Başkonsolosluğu&apos;nda da
+                    iki dilden                 parçaların söylendiği bir
+                    konser ve ardından bir kokteyl yapıldı</Text>
+                <BeginOffset>10172</BeginOffset>
+                <EndOffset>10304</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement: specification" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>Almanya</Text>
+                <BeginOffset>10364</BeginOffset>
+                <EndOffset>10371</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Toplantının açış konuşmaları da ilginçti</Text>
+                <BeginOffset>10322</BeginOffset>
+                <EndOffset>10362</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Almanya temsilcisi bildirinin                 bir
+                    bölümünü, Fransız temsilcisi de bir bölümünü okudu</Text>
+                <BeginOffset>10364</BeginOffset>
+                <EndOffset>10464</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2>
+            <Span>
+                <Text>Alman, metni                 Fransızca okurken
+                    Fransız, Almanca okudu</Text>
+                <BeginOffset>10466</BeginOffset>
+                <EndOffset>10535</EndOffset>
+            </Span>
+        </Supp2>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="contra-expectation: arg1’e rağmen arg2"
+        sense="Comparison: Contrast: opposition" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>Onların</Text>
+                <BeginOffset>11994</BeginOffset>
+                <EndOffset>12001</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kurtuluş Savaşı&apos;nın hemen ardından Atatürk
+                    ve Venizelos , uzak görüşlü iki lider olarak
+                    Yunanistan&apos;la Türkiye                 arasında
+                    bir dostluk köprüsü kurmuşlardı</Text>
+                <BeginOffset>11810</BeginOffset>
+                <EndOffset>11992</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Onların ölümünden sonra bu köprü
+                    yeterince güçlendirilemediği gibi, iki ülke hep
+                    birbirinin hasmı gibi                 hareket ederek
+                    birbirlerine zarar verdiler</Text>
+                <BeginOffset>11994</BeginOffset>
+                <EndOffset>12171</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction: ve" sense="Expansion: Conjunction" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>İki</Text>
+                <BeginOffset>12173</BeginOffset>
+                <EndOffset>12176</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Onların ölümünden sonra bu köprü
+                    yeterince güçlendirilemediği gibi, iki ülke hep
+                    birbirinin hasmı gibi                 hareket ederek
+                    birbirlerine zarar verdiler</Text>
+                <BeginOffset>11994</BeginOffset>
+                <EndOffset>12171</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İki taraf hep birbirine
+                    saldıracakmış gibi önlemler aldı</Text>
+                <BeginOffset>12173</BeginOffset>
+                <EndOffset>12245</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>Türkiye</Text>
+                <BeginOffset>12361</BeginOffset>
+                <EndOffset>12368</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu yüzden Avrupa&apos;nın silaha ve orduya en
+                    çok para harcayan iki ülkesi oldu Türkiye ve Yunanistan</Text>
+                <BeginOffset>12247</BeginOffset>
+                <EndOffset>12359</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Türkiye yıllık                 gelirinin yüzde
+                    5&apos;ini savunmaya ayırırken bu rakam
+                    Yunanistan&apos;da yüzde                 4.8&apos;di</Text>
+                <BeginOffset>12361</BeginOffset>
+                <EndOffset>12485</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="pragmatic contrast: ancak"
+        sense="Comparison: Pragmatic Contrast" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>AB</Text>
+                <BeginOffset>12855</BeginOffset>
+                <EndOffset>12857</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Güvenlik                 tabii ki geçmişinde büyük
+                    olaylar yaşamış halklar için önemlidir</Text>
+                <BeginOffset>12764</BeginOffset>
+                <EndOffset>12853</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>AB                 içinde birlikte var olacak Türk
+                    ve Rum halkları için soruna güvenliğin
+                    ötesinde bakılması gerekmez mi</Text>
+                <BeginOffset>12855</BeginOffset>
+                <EndOffset>12991</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction: ve" sense="Expansion: Conjunction" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>Onların</Text>
+                <BeginOffset>13278</BeginOffset>
+                <EndOffset>13285</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>fakat aklıselim sahibi Fransız siyasetçiler bu tür
+                    &apos;&apos;kaygı&apos;&apos; lara itibar etmek
+                    yerine geleceğe baktılar</Text>
+                <BeginOffset>13157</BeginOffset>
+                <EndOffset>13276</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Onların haklı                 olduğunu aradan
+                    geçen 40 yıl doğruladı</Text>
+                <BeginOffset>13278</BeginOffset>
+                <EndOffset>13346</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction: ve" sense="Expansion: Conjunction" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>Orada</Text>
+                <BeginOffset>14598</BeginOffset>
+                <EndOffset>14603</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu suçlarla ilgili erteleme                 yasası çıktı</Text>
+                <BeginOffset>14540</BeginOffset>
+                <EndOffset>14596</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Orada sorunun çözülmesi gerekiyordu</Text>
+                <BeginOffset>14598</BeginOffset>
+                <EndOffset>14633</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="pragmatic contrast: ama zaten"
+        sense="Comparison: Pragmatic Contrast" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>Olmadı</Text>
+                <BeginOffset>14635</BeginOffset>
+                <EndOffset>14641</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Orada sorunun çözülmesi gerekiyordu</Text>
+                <BeginOffset>14598</BeginOffset>
+                <EndOffset>14633</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Olmadı</Text>
+                <BeginOffset>14635</BeginOffset>
+                <EndOffset>14641</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="cause: bu yüzden" sense="Contingency: Cause" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>14540</BeginOffset>
+                <EndOffset>14542</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Düşünün, iktidar partisinin genel
+                    başkanı bir konuşması nedeniyle mahkûm edildi</Text>
+                <BeginOffset>14443</BeginOffset>
+                <EndOffset>14538</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu suçlarla ilgili erteleme                 yasası çıktı</Text>
+                <BeginOffset>14540</BeginOffset>
+                <EndOffset>14596</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result: bundan dolayı"
+        sense="Contingency: Cause: result" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>Aday</Text>
+                <BeginOffset>14643</BeginOffset>
+                <EndOffset>14647</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Olmadı</Text>
+                <BeginOffset>14635</BeginOffset>
+                <EndOffset>14641</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Aday olamayan                 genel başkanın
+                    partisi iktidara geldi</Text>
+                <BeginOffset>14643</BeginOffset>
+                <EndOffset>14710</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction: ve" sense="Expansion: Conjunction" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>14712</BeginOffset>
+                <EndOffset>14714</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Aday olamayan                 genel başkanın
+                    partisi iktidara geldi</Text>
+                <BeginOffset>14643</BeginOffset>
+                <EndOffset>14710</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu konudaki yasal engeller
+                    kanunlarla kaldırıldı</Text>
+                <BeginOffset>14712</BeginOffset>
+                <EndOffset>14776</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction: ve" sense="Expansion: Conjunction" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>Bunun</Text>
+                <BeginOffset>15357</BeginOffset>
+                <EndOffset>15362</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Maalesef, Türkiye&apos;de hem kendi içimizle hem
+                    çevremizle bir türlü barışamıyoruz</Text>
+                <BeginOffset>15261</BeginOffset>
+                <EndOffset>15355</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bunun zararını da hep birlikte                 çekiyoruz</Text>
+                <BeginOffset>15357</BeginOffset>
+                <EndOffset>15413</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="result:bu nedenle"
+        sense="Contingency: Cause: result" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>1381</BeginOffset>
+                <EndOffset>1382</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ancak para karşılığı petrol satışı sağlanamadığı
+                    için yoksulluğun önü kesilememiş</Text>
+                <BeginOffset>1298</BeginOffset>
+                <EndOffset>1379</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Birçok Iraklı yaşamını, devletin her ay karneyle
+                    yaptığı gıda yardımı sayesinde sürdürebiliyor</Text>
+                <BeginOffset>1381</BeginOffset>
+                <EndOffset>1475</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result: bu yüzden"
+        sense="Contingency: Cause: result" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>A</Text>
+                <BeginOffset>3668</BeginOffset>
+                <EndOffset>3669</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>AKP&apos;lileri taşıyan uçak gemiye iniş sırasında
+                    da tekerlekle açılan bir parçanın çelik halatlara
+                    takılması nedeniyle sert bir iniş yaptı</Text>
+                <BeginOffset>3531</BeginOffset>
+                <EndOffset>3666</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>AKP&apos;liler piste çıkınca her birine kask,
+                    kulaklık ve gözlük takıldı</Text>
+                <BeginOffset>3668</BeginOffset>
+                <EndOffset>3735</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjuction: ve" sense="Expansion: Conjunction" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>P</Text>
+                <BeginOffset>4032</BeginOffset>
+                <EndOffset>4033</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu arada Çavuşoğlu, gemide öğle namazını kılmak
+                    isteyince, ABD&apos;li komutanlar hemen bir oda açtı</Text>
+                <BeginOffset>3935</BeginOffset>
+                <EndOffset>4030</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Pusulalarla kıbleyi saptayıp namaz kılmak isteyen
+                    Çavuşoğlu, Tekelioğlu ve Yağcı için üç halı seccade serildi</Text>
+                <BeginOffset>4032</BeginOffset>
+                <EndOffset>4141</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="restatement: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>G</Text>
+                <BeginOffset>5062</BeginOffset>
+                <EndOffset>5063</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ancak Elmadağ Tutukevi&apos;ne gönderilen üç genç,
+                    kendilerine işkence yaptıklarını öne sürdükleri
+                    polisler hakkında suç duyurusunda bulundu</Text>
+                <BeginOffset>4925</BeginOffset>
+                <EndOffset>5060</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Gençler, polislerin bölgedeki tüm faili meçhul
+                    hırsızları üzerlerine yıkmak için kendilerine
+                    işkence yaptığını iddia etti</Text>
+                <BeginOffset>5062</BeginOffset>
+                <EndOffset>5183</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result: bu yüzden"
+        sense="Contingency: Cause: result" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>Y</Text>
+                <BeginOffset>9088</BeginOffset>
+                <EndOffset>9089</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İki pilot arasındaki konuşmaları anlamakta güçlük çekiyoruz</Text>
+                <BeginOffset>9027</BeginOffset>
+                <EndOffset>9086</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yeniden dinleyeceğiz</Text>
+                <BeginOffset>9088</BeginOffset>
+                <EndOffset>9108</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>İ</Text>
+                <BeginOffset>13295</BeginOffset>
+                <EndOffset>13296</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sabancı Üniversitesi - Batı Koleji ve Microsoft
+                    tarafından bu yıl üçüncüsü düzenlenecek olan Lise ve
+                    İlköğretim Öğrencileri Bilişim Teknolojileri
+                    Olimpiyatı, Bitek - o&apos;da başvuru süresi 2 gün uzatıldı</Text>
+                <BeginOffset>13093</BeginOffset>
+                <EndOffset>13293</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İnternet üzerinden yapılan başvuruların bulunduğu
+                    servis sağlayıcıda oluşan bir sorun nedeniyle web
+                    sitesine ulaşılamayınca yönetim kurulu başvuru
+                    süresini iki gün uzatma kararı aldı</Text>
+                <BeginOffset>13295</BeginOffset>
+                <EndOffset>13477</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="synchronous: o sırada" sense="Temporal: Synchronous" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>K</Text>
+                <BeginOffset>14248</BeginOffset>
+                <EndOffset>14249</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yaklaşık 300 metre havadaydık</Text>
+                <BeginOffset>14217</BeginOffset>
+                <EndOffset>14246</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kesinlikle sis yoktu</Text>
+                <BeginOffset>14248</BeginOffset>
+                <EndOffset>14268</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result:  bu yüzden"
+        sense="Contingency: Cause: result" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>S</Text>
+                <BeginOffset>14426</BeginOffset>
+                <EndOffset>14427</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Birden kendimi alevlerin içinde buldum</Text>
+                <BeginOffset>14386</BeginOffset>
+                <EndOffset>14424</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Savaş çıktığını sandım</Text>
+                <BeginOffset>14426</BeginOffset>
+                <EndOffset>14448</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="reason: çünkü" sense="Contingency: Cause: reason" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>T</Text>
+                <BeginOffset>16690</BeginOffset>
+                <EndOffset>16691</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kumarhanelerin açılması sadece kaynak bakımından
+                    değil, turizm açısından da çok önemli</Text>
+                <BeginOffset>16602</BeginOffset>
+                <EndOffset>16688</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Türkiye&apos;nin tanıtımına büyük destek sağlayacaktır</Text>
+                <BeginOffset>16690</BeginOffset>
+                <EndOffset>16739</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="reason: çünkü" sense="Contingency: Cause: reason" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>K</Text>
+                <BeginOffset>15854</BeginOffset>
+                <EndOffset>15855</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İkincisi ekonomiyi canlandıracak diye, toplumsal
+                    etiği olduğu gibi sarsacak ve toplumsal yıkıntılar
+                    yaratacak bu tür yöntemlere hiçbir çağdaş ülke başvurmaz</Text>
+                <BeginOffset>15696</BeginOffset>
+                <EndOffset>15852</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kumarhanelerin yarattığı çöküntünün onarımı için
+                    harcanacak para, kumarhanelerden sağlanacak kaynağı
+                    binlerce defa aşar</Text>
+                <BeginOffset>15854</BeginOffset>
+                <EndOffset>15973</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="restatement: başka bir deyişle"
+        sense="Expansion: Restatement" type="IMPLICIT" genre="news">
+        <Conn>
+            <Span>
+                <Text>Y</Text>
+                <BeginOffset>6829</BeginOffset>
+                <EndOffset>6830</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ulaştırma Bakanı Binali Yıldırım,
+                    Diyarbakır&apos;da 8 Ocak&apos;ta 75 kişiye mezar
+                    olan Türk Hava Yolları&apos;na (THY) ait uçağın
+                    düşmesine ilişkin ilk somut bulguları ve ön raporu
+                    açıklarken &quot;pilotaj hatası&quot; mesajı verdi</Text>
+                <BeginOffset>6619</BeginOffset>
+                <EndOffset>6827</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yıldırım, &quot;Deşifre edilen konuşmalara göre,
+                    uçak, minimum alçalma irtifasına gelmesine rağmen
+                    pistin görülmediği anlaşılmış ve buna rağmen radar
+                    yardımı istenmemiştir&quot; dedi</Text>
+                <BeginOffset>6829</BeginOffset>
+                <EndOffset>7001</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+   </Document>

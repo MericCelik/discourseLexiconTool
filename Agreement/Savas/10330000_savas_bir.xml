@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="Specification: Şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>1958</Text>
+                <BeginOffset>245</BeginOffset>
+                <EndOffset>249</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>İncirlik 1954 yılından beri 50 yıldır Türkiye ve
+                    dünyanın gündeminde</Text>
+                <BeginOffset>159</BeginOffset>
+                <EndOffset>227</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>1958&apos;de ABD&apos;nin Lübnan&apos;a
+                    müdahelesinde, 1960&apos;ta İncirlik&apos;ten kalkan
+                    U-2                 casus uçağının Sovyetler Birliği
+                    semalarında düşürülmesinde, 1993&apos;te Kuzey
+                    Irak&apos;ta Mig-29 uçağının düşürülmesinde, son
+                    olarak da Afganistan                 operasyonunda</Text>
+                <BeginOffset>245</BeginOffset>
+                <EndOffset>518</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Equivalence: Bir başka deyişle"
+        sense="Expansion: Restatement: equivalence" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Türkiye</Text>
+                <BeginOffset>1672</BeginOffset>
+                <EndOffset>1679</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Sonra Afganistan eylemi başladı</Text>
+                <BeginOffset>1623</BeginOffset>
+                <EndOffset>1654</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Türkiye İncirlik&apos;i ABD ve İngiliz uçaklarının
+                    kullanımına açtı</Text>
+                <BeginOffset>1672</BeginOffset>
+                <EndOffset>1734</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Synchronous: Aynı zamanda"
+        sense="Temporal: Synchronous" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Tank</Text>
+                <BeginOffset>1736</BeginOffset>
+                <EndOffset>1740</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Türkiye İncirlik&apos;i ABD ve İngiliz uçaklarının
+                    kullanımına açtı</Text>
+                <BeginOffset>1672</BeginOffset>
+                <EndOffset>1734</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Tank,                 helikopter vb. 116 ton yük
+                    taşıyabilen dünyanın en büyük nakliye uçağı C-5
+                    Galaxy&apos;ler 12 saatte 3 kez alana inip kalktı</Text>
+                <BeginOffset>1736</BeginOffset>
+                <EndOffset>1893</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Result: Sonuç olarak"
+        sense="Contingency: Cause: result" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Atçılık</Text>
+                <BeginOffset>7536</BeginOffset>
+                <EndOffset>7543</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Yasal kesintilerin yüksekliği tartışma konusu olan
+                    at                 yarışlarından devlete önemli
+                    miktarda kaynak aktarılıyor</Text>
+                <BeginOffset>7408</BeginOffset>
+                <EndOffset>7534</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Atçılık                 camiasında &apos;&apos;at
+                    koşar baht kazanır&apos;&apos; sözü de
+                    &apos;&apos;at koşar devlet kazanır&apos;&apos; a                 dönüştü</Text>
+                <BeginOffset>7536</BeginOffset>
+                <EndOffset>7658</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Generalization: Genelleme yapacak olursak"
+        sense="Expansion: Restatement: generalization" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>5</Text>
+                <BeginOffset>8484</BeginOffset>
+                <EndOffset>8485</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Buna göre, at yarışlarında                 oynanan
+                    müşterek bahislerden 1998&apos;de 317 milyon,
+                    1999&apos;da 341.3 milyon,                 2000
+                    yılında 368 milyon, 2001&apos;de 238.5 milyon ve
+                    geçen yıl 261.2 milyon                 dolarlık
+                    yasal kesinti yapıldı</Text>
+                <BeginOffset>8234</BeginOffset>
+                <EndOffset>8482</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>5 yıllık dönemde yapılan yasal
+                    kesintilerin toplamı 1 milyar 526 milyon doları buldu</Text>
+                <BeginOffset>8484</BeginOffset>
+                <EndOffset>8584</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Conjunction: Ayrıca" sense="Expansion: Conjunction" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Belediyeler</Text>
+                <BeginOffset>9300</BeginOffset>
+                <EndOffset>9311</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Geçen yıl oynanan oyunlarda 1 katrilyon 72 trilyon
+                    liralık hasılat elde                 edildi.
+                    Toplanan hasılattan KDV olarak 163.5 trilyon,
+                    Savunma Sanayii                 Destekleme
+                    Fonu&apos;na 90.8, Olimpiyat Fonu&apos;na 9.1,
+                    Yüksek Öğrenim Kredi ve                 Yurtlar
+                    Kurumu&apos;na 31.1, Türk Tanıtma Fonu&apos;na 28.1
+                    trilyon kesildi</Text>
+                <BeginOffset>8955</BeginOffset>
+                <EndOffset>9282</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Belediyeler eğlence vergisi olarak 37.2 trilyon
+                    tahsil etti, Türkiye Jokey
+                    Kulübü&apos;ne de 149 trilyon liralık hisse ayrıldı</Text>
+                <BeginOffset>9300</BeginOffset>
+                <EndOffset>9437</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Spec,f,cat,on: Şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>İstanbul&apos;da</Text>
+                <BeginOffset>10172</BeginOffset>
+                <EndOffset>10183</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Fransa ile Almanya arasında imzalanan Elysee
+                    Antlaşması&apos;nın 40. yılı iki
+                    ülkede ve bu ülkelerin dünyanın dört bir yanındaki
+                    temsilciliklerinde                 törenlerle kutlandı</Text>
+                <BeginOffset>9976</BeginOffset>
+                <EndOffset>10170</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İstanbul&apos;da Alman Başkonsolosluğu&apos;nda da
+                    iki dilden                 parçaların söylendiği bir
+                    konser ve ardından bir kokteyl yapıldı</Text>
+                <BeginOffset>10172</BeginOffset>
+                <EndOffset>10304</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Specification: Şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Almanya</Text>
+                <BeginOffset>10364</BeginOffset>
+                <EndOffset>10371</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Toplantının açış konuşmaları da ilginçti</Text>
+                <BeginOffset>10322</BeginOffset>
+                <EndOffset>10362</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Almanya temsilcisi bildirinin                 bir
+                    bölümünü, Fransız temsilcisi de bir bölümünü okudu</Text>
+                <BeginOffset>10364</BeginOffset>
+                <EndOffset>10464</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Conjunction: Ayrıca" sense="Expansion: Conjunction" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>İki</Text>
+                <BeginOffset>12173</BeginOffset>
+                <EndOffset>12176</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Onların ölümünden sonra bu köprü
+                    yeterince güçlendirilemediği gibi, iki ülke hep
+                    birbirinin hasmı gibi                 hareket ederek
+                    birbirlerine zarar verdiler</Text>
+                <BeginOffset>11994</BeginOffset>
+                <EndOffset>12171</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İki taraf hep birbirine
+                    saldıracakmış gibi önlemler aldı</Text>
+                <BeginOffset>12173</BeginOffset>
+                <EndOffset>12245</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Specification: Şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Türkiye</Text>
+                <BeginOffset>12361</BeginOffset>
+                <EndOffset>12368</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Bu yüzden Avrupa&apos;nın silaha ve orduya en
+                    çok para harcayan iki ülkesi oldu Türkiye ve Yunanistan</Text>
+                <BeginOffset>12247</BeginOffset>
+                <EndOffset>12359</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Türkiye yıllık                 gelirinin yüzde
+                    5&apos;ini savunmaya ayırırken bu rakam
+                    Yunanistan&apos;da yüzde                 4.8&apos;di</Text>
+                <BeginOffset>12361</BeginOffset>
+                <EndOffset>12485</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Opposition: Ama"
+        sense="Comparison: Contrast: opposition" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>AB</Text>
+                <BeginOffset>12855</BeginOffset>
+                <EndOffset>12857</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Güvenlik                 tabii ki geçmişinde büyük
+                    olaylar yaşamış halklar için önemlidir</Text>
+                <BeginOffset>12764</BeginOffset>
+                <EndOffset>12853</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>AB                 içinde birlikte var olacak Türk
+                    ve Rum halkları için soruna güvenliğin
+                    ötesinde bakılması gerekmez mi</Text>
+                <BeginOffset>12855</BeginOffset>
+                <EndOffset>12991</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Result: Sonuç olarak"
+        sense="Contingency: Cause: result" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>13348</BeginOffset>
+                <EndOffset>13350</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Onların haklı                 olduğunu aradan
+                    geçen 40 yıl doğruladı</Text>
+                <BeginOffset>13278</BeginOffset>
+                <EndOffset>13346</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu işbirliği her iki ülkeye büyük
+                    olanaklar sağladı</Text>
+                <BeginOffset>13348</BeginOffset>
+                <EndOffset>13415</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Opposition: Ama"
+        sense="Comparison: Contrast: opposition" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Olmadı</Text>
+                <BeginOffset>14635</BeginOffset>
+                <EndOffset>14641</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Orada sorunun çözülmesi gerekiyordu</Text>
+                <BeginOffset>14598</BeginOffset>
+                <EndOffset>14633</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Olmadı</Text>
+                <BeginOffset>14635</BeginOffset>
+                <EndOffset>14641</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Result: Sonuç olarak"
+        sense="Contingency: Cause: result" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Bunun</Text>
+                <BeginOffset>15357</BeginOffset>
+                <EndOffset>15362</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Maalesef, Türkiye&apos;de hem kendi içimizle hem
+                    çevremizle bir türlü barışamıyoruz</Text>
+                <BeginOffset>15261</BeginOffset>
+                <EndOffset>15355</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bunun zararını da hep birlikte                 çekiyoruz</Text>
+                <BeginOffset>15357</BeginOffset>
+                <EndOffset>15413</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

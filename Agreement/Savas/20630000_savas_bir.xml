@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="Result: Sonuç olarak"
+        sense="Contingency: Cause: result" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Birçok</Text>
+                <BeginOffset>1381</BeginOffset>
+                <EndOffset>1387</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Son yıllarda petrol karşılığı mal alımı üzerindeki
+                    kurallar esnek tutularak Irak&apos;a bir parça nefes
+                    alma şansı tanınmış, ancak para karşılığı petrol
+                    satışı sağlanamadığı için yoksulluğun önü kesilememiş</Text>
+                <BeginOffset>1178</BeginOffset>
+                <EndOffset>1379</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Birçok Iraklı yaşamını, devletin her ay karneyle
+                    yaptığı gıda yardımı sayesinde sürdürebiliyor</Text>
+                <BeginOffset>1381</BeginOffset>
+                <EndOffset>1475</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Precedence: Sonra"
+        sense="Temporal: Asynchronous: precedence" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Pusulalarla</Text>
+                <BeginOffset>4032</BeginOffset>
+                <EndOffset>4043</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Bu arada Çavuşoğlu, gemide öğle namazını kılmak
+                    isteyince, ABD&apos;li komutanlar hemen bir oda açtı</Text>
+                <BeginOffset>3935</BeginOffset>
+                <EndOffset>4030</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Pusulalarla kıbleyi saptayıp namaz kılmak isteyen
+                    Çavuşoğlu, Tekelioğlu ve Yağcı için üç halı seccade serildi</Text>
+                <BeginOffset>4032</BeginOffset>
+                <EndOffset>4141</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Specification: Şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Gençler</Text>
+                <BeginOffset>5062</BeginOffset>
+                <EndOffset>5069</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Ancak Elmadağ Tutukevi&apos;ne gönderilen üç genç,
+                    kendilerine işkence yaptıklarını öne sürdükleri
+                    polisler hakkında suç duyurusunda bulundu</Text>
+                <BeginOffset>4925</BeginOffset>
+                <EndOffset>5060</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Gençler, polislerin bölgedeki tüm faili meçhul
+                    hırsızları üzerlerine yıkmak için kendilerine
+                    işkence yaptığını iddia etti</Text>
+                <BeginOffset>5062</BeginOffset>
+                <EndOffset>5183</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Result: Sonuç olarak"
+        sense="Contingency: Cause: result" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Başsavcılık</Text>
+                <BeginOffset>5846</BeginOffset>
+                <EndOffset>5857</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Bu soruşturma da önceki takipsizlik kararı gerekçe
+                    gösterilerek 3 Mayıs 2002&apos;de kapatıldı</Text>
+                <BeginOffset>5755</BeginOffset>
+                <EndOffset>5844</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Başsavcılık, polisler hakkında işlem yapmazken,
+                    gençler aleyhinde &quot;kendilerine zarar vererek,
+                    polise iftira attıkları&quot; gerekçesiyle dava açtı</Text>
+                <BeginOffset>5846</BeginOffset>
+                <EndOffset>5987</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Specification: Şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Yıldırım</Text>
+                <BeginOffset>6829</BeginOffset>
+                <EndOffset>6837</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Ulaştırma Bakanı Binali Yıldırım,
+                    Diyarbakır&apos;da 8 Ocak&apos;ta 75 kişiye mezar
+                    olan Türk Hava Yolları&apos;na (THY) ait uçağın
+                    düşmesine ilişkin ilk somut bulguları ve ön raporu
+                    açıklarken &quot;pilotaj hatası&quot; mesajı verdi</Text>
+                <BeginOffset>6619</BeginOffset>
+                <EndOffset>6827</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yıldırım, &quot;Deşifre edilen konuşmalara göre,
+                    uçak, minimum alçalma irtifasına gelmesine rağmen
+                    pistin görülmediği anlaşılmış ve buna rağmen radar
+                    yardımı istenmemiştir&quot; dedi</Text>
+                <BeginOffset>6829</BeginOffset>
+                <EndOffset>7001</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Result: Sonuç olarak"
+        sense="Contingency: Cause: result" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Yeniden</Text>
+                <BeginOffset>9088</BeginOffset>
+                <EndOffset>9095</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>İki pilot arasındaki konuşmaları anlamakta güçlük çekiyoruz</Text>
+                <BeginOffset>9027</BeginOffset>
+                <EndOffset>9086</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yeniden dinleyeceğiz</Text>
+                <BeginOffset>9088</BeginOffset>
+                <EndOffset>9108</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Specification: Şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>İnternet</Text>
+                <BeginOffset>13295</BeginOffset>
+                <EndOffset>13303</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Sabancı Üniversitesi - Batı Koleji ve Microsoft
+                    tarafından bu yıl üçüncüsü düzenlenecek olan Lise ve
+                    İlköğretim Öğrencileri Bilişim Teknolojileri
+                    Olimpiyatı, Bitek - o&apos;da başvuru süresi 2 gün uzatıldı</Text>
+                <BeginOffset>13093</BeginOffset>
+                <EndOffset>13293</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İnternet üzerinden yapılan başvuruların bulunduğu
+                    servis sağlayıcıda oluşan bir sorun nedeniyle web
+                    sitesine ulaşılamayınca yönetim kurulu başvuru
+                    süresini iki gün uzatma kararı aldı</Text>
+                <BeginOffset>13295</BeginOffset>
+                <EndOffset>13477</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Result: Sonuç olarak"
+        sense="Contingency: Cause: result" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Savaş</Text>
+                <BeginOffset>14426</BeginOffset>
+                <EndOffset>14431</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Birden kendimi alevlerin içinde buldum</Text>
+                <BeginOffset>14386</BeginOffset>
+                <EndOffset>14424</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Savaş çıktığını sandım</Text>
+                <BeginOffset>14426</BeginOffset>
+                <EndOffset>14448</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Precedence: Sonra"
+        sense="Temporal: Asynchronous: precedence" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Askerlerin</Text>
+                <BeginOffset>14773</BeginOffset>
+                <EndOffset>14783</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Ona beş arkadaşımın öldüğünü söyledim</Text>
+                <BeginOffset>14734</BeginOffset>
+                <EndOffset>14771</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Askerlerin nöbet kulesine doğru yürüdüm</Text>
+                <BeginOffset>14773</BeginOffset>
+                <EndOffset>14812</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Specification: Şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Kara</Text>
+                <BeginOffset>16078</BeginOffset>
+                <EndOffset>16082</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Bunları iyi kontrol etmek gerekir</Text>
+                <BeginOffset>16043</BeginOffset>
+                <EndOffset>16076</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kara para aklama yöntemi olarak kullanmalarına da
+                    izin verilmemelidir</Text>
+                <BeginOffset>16078</BeginOffset>
+                <EndOffset>16147</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Instantiation: Mesela"
+        sense="Expansion: Instantiation" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ülkemizde</Text>
+                <BeginOffset>16495</BeginOffset>
+                <EndOffset>16504</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Çünkü bizde denetim mekanizmalarının zafiyeti vardır</Text>
+                <BeginOffset>16441</BeginOffset>
+                <EndOffset>16493</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ülkemizde kumar yasak olmasına karşın, yaygın
+                    şekilde gayri resmi bir şekilde devam ediyor</Text>
+                <BeginOffset>16495</BeginOffset>
+                <EndOffset>16585</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Reason: Çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Türkiye&apos;nin</Text>
+                <BeginOffset>16690</BeginOffset>
+                <EndOffset>16701</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Kumarhanelerin açılması sadece kaynak bakımından
+                    değil, turizm açısından da çok öneml</Text>
+                <BeginOffset>16602</BeginOffset>
+                <EndOffset>16687</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text> Türkiye&apos;nin tanıtımına büyük destek
+                    sağlayacaktır. Türkiye&apos;nin imaj ve marka
+                    yaratmasında da avantaj sağlayacaktır</Text>
+                <BeginOffset>16689</BeginOffset>
+                <EndOffset>16804</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>
