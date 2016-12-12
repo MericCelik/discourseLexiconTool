@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="Expansion: Restatement" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Geleceğe uzanım yaparak ifade edersek</Text>
+                <BeginOffset>369</BeginOffset>
+                <EndOffset>406</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bilimsel Sosyalizmin kurucusu Marx, biten bin yıla
+                    damgasını vurmuş kapitalist uygarlığın, onun sonunu
+                    müjdeleyen, son büyük filozofudur</Text>
+                <BeginOffset>231</BeginOffset>
+                <EndOffset>367</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Marx&apos;ı, yepyeni bir toplumsal modelin
+                    müjdecisi ve ilk büyük filozofu olarak nitelemek
+                    daha doğru olacaktır</Text>
+                <BeginOffset>408</BeginOffset>
+                <EndOffset>515</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Geleceğe uzanım yaparak ifade edersek</Text>
+                <BeginOffset>1303</BeginOffset>
+                <EndOffset>1340</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Marx, 500 yıllık kapitalist uygarlığın, onun
+                    sonunu müjdeleyen, son büyük filozofudur</Text>
+                <BeginOffset>1216</BeginOffset>
+                <EndOffset>1301</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Marx&apos;ı, yepyeni bir toplumsal modelin
+                    müjdecisi ve ilk büyük filozofu olarak nitelemek
+                    daha doğru olacaktır</Text>
+                <BeginOffset>1342</BeginOffset>
+                <EndOffset>1449</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Contingency: Cause: reason" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Marx&apos;ın öğretisinin kapsayıcılığının bir
+                    nedeni de</Text>
+                <BeginOffset>3528</BeginOffset>
+                <EndOffset>3578</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bunlar dönemin burjuva toplumbiliminin üç doruğunu
+                    temsil ederler</Text>
+                <BeginOffset>3461</BeginOffset>
+                <EndOffset>3526</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu gür kaynaklardan beslenmesi, mirasçısı olmasıdır</Text>
+                <BeginOffset>3580</BeginOffset>
+                <EndOffset>3631</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Restatement" sense="Expansion: Restatement" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Gerçekten de</Text>
+                <BeginOffset>14559</BeginOffset>
+                <EndOffset>14571</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text> Bilimsel Sosyalizmin 20. yüzyıldaki en güçlü
+                    isimlerinden Sovyet Devrimi&apos;nin lideri Lenin,
+                    bu gelişmeye &quot;ileri Asya, geri Avrupa&quot;
+                    saptamasıyla vurgu yapmıştır</Text>
+                <BeginOffset>14398</BeginOffset>
+                <EndOffset>14557</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>20. yüzyılda kapitalizmi aşma yönündeki ilk
+                    atılım, Avrupa&apos;nın en ileri kapitalist
+                    ülkelerinden değil, çevreden, Rusya&apos;dan geldi</Text>
+                <BeginOffset>14572</BeginOffset>
+                <EndOffset>14700</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Gerçekten de</Text>
+                <BeginOffset>16455</BeginOffset>
+                <EndOffset>16467</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Mao, sosyalizmin uzun sürecek bir geçiş aşaması
+                    olduğunu, sınıfların ve sınıf mücadelesinin üretim
+                    araçlarının toplumsal mülkiyeti tamamlandıktan sonra
+                    da devam edeceğini, bu dönemde geri dönüş
+                    tehlikesinin tamamen bertaraf edilmediğini,
+                    tehlikenin tasfiye edilen burjuvaziden değil, bizzat
+                    sosyalist parti ve devlet aygıtı içinde yer alan
+                    mevki sahibi kapitalist yolculardan kaynaklandığını,
+                    sosyalizmi kurmanın esas itici gücünün emekçi
+                    kitlelerin devrimci inisiyatifi olduğunu, partinin
+                    de bu inisiyatifin önderi olabildiği sürece
+                    sosyalizm yolunda ilerlenebileceğini söylemiştir</Text>
+                <BeginOffset>15871</BeginOffset>
+                <EndOffset>16453</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sovyet deneyinin trajik sonu, Mao Zedung&apos;u doğrulamıştır</Text>
+                <BeginOffset>16468</BeginOffset>
+                <EndOffset>16524</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Expansion" sense="Expansion" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Öte yandan</Text>
+                <BeginOffset>3086</BeginOffset>
+                <EndOffset>3096</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>&quot;Deha&quot;yı yaratan işte bu toplumsal
+                    gelişmedir; &quot;kapitalizmin mezar kazıcısı&quot;
+                    proletarya ortaya çıkmıştır, Marx da onu keşfetmiştir</Text>
+                <BeginOffset>2954</BeginOffset>
+                <EndOffset>3084</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bütün bu gelişmeler, 19. yüzyıl Avrupası&apos;nın
+                    İngiltere, Fransa, Almanya gibi en gelişmiş
+                    merkezlerinde oluşmuştu; dünyanın başka bir
+                    yöresinde değil</Text>
+                <BeginOffset>3097</BeginOffset>
+                <EndOffset>3245</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>İnsanlık ancak toplumsal pratiğin dayattığı ve
+                    gündeme getirdiği sorunları çözmeye çalışarak kendi
+                    bilgisini geliştirebiliyor</Text>
+                <BeginOffset>2374</BeginOffset>
+                <EndOffset>2499</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2>
+            <Span>
+                <Text>Sosyalist düşüncenin ütopyacılıktan bilimselliğe
+                    evrilmesi; 19. yüzyılın ilk yarısında yaşanan sanayi
+                    devrimleriyle kapitalizmin gelişmesi, makineleşmenin
+                    yoğunlaşması, büyük çapta örgütlü üretimin yapıldığı
+                    dev fabrikaların ortaya çıkması, dolayısıyla
+                    sistemin çelişkilerinin netleşmesi ve sanayi
+                    proletaryasının dönüştürücü bir güç ve geleceği
+                    temsil eden bağımsız bir sınıf olarak siyaset
+                    sahnesine ağırlığını koymaya başlamasıyla olanaklı olmuştur</Text>
+                <BeginOffset>2501</BeginOffset>
+                <EndOffset>2952</EndOffset>
+            </Span>
+        </Supp2>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Expansion" sense="Expansion" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Öte yandan</Text>
+                <BeginOffset>7727</BeginOffset>
+                <EndOffset>7737</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>18. yüzyılın sonuna doğru tarihin en köklü
+                    devrimlerinden birinin gerçekleştiği Fransa&apos;da
+                    toplumbilimi bu teze ulaşmıştı</Text>
+                <BeginOffset>7605</BeginOffset>
+                <EndOffset>7725</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>özellikle Fransız ütopik sosyalistleri, Saint
+                    Simon, Fourier vb., kapitalizmi eleştirerek
+                    sömürüsüz-sınıfsız bir toplum düşüncesine ulaşmışlardı</Text>
+                <BeginOffset>7738</BeginOffset>
+                <EndOffset>7882</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Tarihin itici gücünün sınıf savaşımı olduğu
+                    tezinin oluşturulmasının onuru Marx&apos;a ait değildir</Text>
+                <BeginOffset>7509</BeginOffset>
+                <EndOffset>7603</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>öte yandan</Text>
+                <BeginOffset>9359</BeginOffset>
+                <EndOffset>9369</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bazı öngörüleri doğrular veya yanlışlar</Text>
+                <BeginOffset>9318</BeginOffset>
+                <EndOffset>9357</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>insanlığın önüne yeni sorular getirir</Text>
+                <BeginOffset>9370</BeginOffset>
+                <EndOffset>9407</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Her büyük devrim</Text>
+                <BeginOffset>9301</BeginOffset>
+                <EndOffset>9317</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result " sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>12713</BeginOffset>
+                <EndOffset>12723</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Marx, dünyanın Avrupa ve yakın çevresinden ibaret
+                    olduğu bir dönemde, hem de yaşlı kıtanın merkezinde
+                    yaşadı. 19. yüzyılda Asya&apos;nın, Latin
+                    Amerika&apos;nın, Afrika&apos;nın halkları henüz
+                    insanlığın ortak gelişme yatağının dışında bulunuyorlardı</Text>
+                <BeginOffset>12476</BeginOffset>
+                <EndOffset>12711</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>19. yüzyıl Bilimsel Sosyalizmi, ister istemez
+                    Avrupa merkezciliğin izlerini taşır</Text>
+                <BeginOffset>12724</BeginOffset>
+                <EndOffset>12805</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="contra-expectation "
+        sense="Comparison: Concession: contra-expectation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Buna rağmen</Text>
+                <BeginOffset>13081</BeginOffset>
+                <EndOffset>13092</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>yeni bir ileri atılımın, ancak en ileri olan yerde
+                    gündeme gelebileceği (19. yüzyıl devrim modeli)
+                    düşüncesi, &quot;geri&quot; halklara devrimi
+                    yasaklayan gerici &quot;üretici güçler
+                    teorisi&quot;ne kapıyı açık bırakır. Bu onun,
+                    tarihsel koşullardan kaynaklanan sınırlılığıdır</Text>
+                <BeginOffset>12814</BeginOffset>
+                <EndOffset>13070</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bilimsel Sosyalizm, 20. yüzyılda geri denilen
+                    bölgelerde yüz milyonlarca emekçinin esin kaynağı olabildi</Text>
+                <BeginOffset>13093</BeginOffset>
+                <EndOffset>13197</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Conjunction" sense="Expansion: Conjunction" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Daha birçok çalışmanın yanı sıra</Text>
+                <BeginOffset>7321</BeginOffset>
+                <EndOffset>7353</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Böylece kapitalist sömürünün mekanizması (emeğin
+                    meta haline gelmesi ve işçinin emeğinin bir bölümüne
+                    kapitalist tarafından el konulması) açıklanmış,
+                    kapitalist zenginliğin (sermaye&apos;nin) ve
+                    kâr&apos;ın temel kaynağı da bulunmuştur</Text>
+                <BeginOffset>7094</BeginOffset>
+                <EndOffset>7319</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Marx&apos;ın anıtsal eseri Kapital&apos;de bu konu
+                    son derece ayrıntılı biçimde incelenmiştir</Text>
+                <BeginOffset>7355</BeginOffset>
+                <EndOffset>7438</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result " sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>12713</BeginOffset>
+                <EndOffset>12723</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>19. yüzyılda Asya&apos;nın, Latin
+                    Amerika&apos;nın, Afrika&apos;nın halkları henüz
+                    insanlığın ortak gelişme yatağının dışında bulunuyorlardı</Text>
+                <BeginOffset>12586</BeginOffset>
+                <EndOffset>12711</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>19. yüzyıl Bilimsel Sosyalizmi, ister istemez
+                    Avrupa merkezciliğin izlerini taşır</Text>
+                <BeginOffset>12724</BeginOffset>
+                <EndOffset>12805</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="generalization"
+        sense="Expansion: Restatement: generalization" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Demek ki</Text>
+                <BeginOffset>13430</BeginOffset>
+                <EndOffset>13438</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>20. yüzyıl pratikleri, Bilimsel Sosyalizmi dünyalılaştırmıştır</Text>
+                <BeginOffset>13366</BeginOffset>
+                <EndOffset>13428</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Marx&apos;ın kuramı bu potansiyeli içinde barındırmaktaydı</Text>
+                <BeginOffset>13440</BeginOffset>
+                <EndOffset>13493</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="generalization"
+        sense="Expansion: Restatement: generalization" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Gerçekten de</Text>
+                <BeginOffset>16455</BeginOffset>
+                <EndOffset>16467</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>sosyalizmi kurmanın esas itici gücünün emekçi
+                    kitlelerin devrimci inisiyatifi olduğunu, partinin
+                    de bu inisiyatifin önderi olabildiği sürece
+                    sosyalizm yolunda ilerlenebileceğini söylemiştir</Text>
+                <BeginOffset>16264</BeginOffset>
+                <EndOffset>16453</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sovyet deneyinin trajik sonu, Mao Zedung&apos;u doğrulamıştır</Text>
+                <BeginOffset>16468</BeginOffset>
+                <EndOffset>16524</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ - &quot;bu öğretinin asıl önemi&quot; yeni  specification"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu öğretinin asıl önemi</Text>
+                <BeginOffset>944</BeginOffset>
+                <EndOffset>967</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bilimsel Sosyalizm; iki Alman filozof, bilim adamı
+                    ve politikacı Karl Marx ve Friedrich Engels&apos;in
+                    kurucusu oldukları öğretinin adıdır</Text>
+                <BeginOffset>809</BeginOffset>
+                <EndOffset>942</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>geçtiğimiz bin yılın özellikle ikinci yarısına
+                    damgasını vurmuş Batı Uygarlığına (daha doğrusu
+                    kapitalist uygarlığa) en köklü eleştiriyi getirmesi,
+                    bu uygarlık modelini pratikte aşmanın yolunu
+                    göstermesi ve yeni bir modelin ipuçlarını vermesidir</Text>
+                <BeginOffset>969</BeginOffset>
+                <EndOffset>1214</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ - &quot;sonraları&quot; yeni temporal:asynchronous"
+        sense="Temporal: Asynchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Sonraları</Text>
+                <BeginOffset>4593</BeginOffset>
+                <EndOffset>4602</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Marx&apos;ın kendisi de o dönem için, &quot;bir
+                    gecede hepimiz Feuerbachcı olmuştuk&quot; diye
+                    yazmıştır. Demokratik devrimin eşiğinde olan
+                    (1848&apos;de patlak verecektir) Almanya&apos;da
+                    tarihin akışı o kadar hızlanmıştı ki, birkaç yıl
+                    içinde, Marx ve 1844&apos;de tanışıp ömür boyu
+                    yoldaşlık ettiği Engels, Feuerbachcılığı da aşıp
+                    kendi felsefî sistemlerini oluşturmaya başlamışlardı</Text>
+                <BeginOffset>4235</BeginOffset>
+                <EndOffset>4591</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Feuerbach ile hesaplaştığı kitabındaki tezlerinin
+                    11.sinde Marx şöyle yazacaktır: &quot;Şimdiye kadar
+                    filozoflar hep dünyayı yorumlamakla yetindiler;
+                    aslolan onu değiştirmektir</Text>
+                <BeginOffset>4604</BeginOffset>
+                <EndOffset>4775</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ - &quot;nedeni bu olsa gerek&quot; yeni pragmatic cause DZ"
+        sense="Contingency: Pragmatic Cause" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>nedeni de bu olsa gerek</Text>
+                <BeginOffset>5172</BeginOffset>
+                <EndOffset>5195</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu saptama, bilimsel sosyalist bilgi teorisinin
+                    özünü teşkil eder</Text>
+                <BeginOffset>4778</BeginOffset>
+                <EndOffset>4843</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Klasik felsefeyi aşıp Diyalektik ve Tarihi
+                    Materyalizme ulaşanın, bir köyde inzivaya çekilip
+                    felsefe yapan &quot;hoca&quot; Feuerbach değil de,
+                    dönemin politik eylemlerine doğrudan katılan,
+                    Avrupa&apos;nın bir kentinden diğerine sürülen,
+                    Paris&apos;te barikatlara çıkıp Manchester&apos;de
+                    işçilerle birlikte yaşayan &quot;çömezler&quot; Marx
+                    ve Engels olmasının</Text>
+                <BeginOffset>4845</BeginOffset>
+                <EndOffset>5171</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Sonraları, Feuerbach ile hesaplaştığı kitabındaki
+                    tezlerinin 11.sinde Marx şöyle yazacaktır:
+                    &quot;Şimdiye kadar filozoflar hep dünyayı
+                    yorumlamakla yetindiler; aslolan onu değiştirmektir</Text>
+                <BeginOffset>4593</BeginOffset>
+                <EndOffset>4775</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ - &quot;en önemli ....eder&quot; yeni instantiation ya da specification. DZ"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>en önemli kilometre taşlarından birini teşkil eder</Text>
+                <BeginOffset>8234</BeginOffset>
+                <EndOffset>8284</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>1830&apos;larda büyük işçi mücadelelerine sahne
+                    olan Paris&apos;e 1843 yılında giden genç Marx,
+                    Avrupa&apos;nın bu en devrimci işçi sınıfı ile tanışmıştır</Text>
+                <BeginOffset>8052</BeginOffset>
+                <EndOffset>8191</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu tanışma onun düşüncesinin oluşmasında</Text>
+                <BeginOffset>8193</BeginOffset>
+                <EndOffset>8233</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

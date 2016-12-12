@@ -59,8 +59,9 @@ public class calculateInterAgreement {
             if (anno2Map.containsKey(key)) {
                 commonAnno++;
                 compareAnnotation(anno1Map.get(key), anno2Map.get(key), agreed);
+               //  System.out.println("!COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
             } else {
-                System.out.println("not COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
+               System.out.println("NOT COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
 
             }
         }
@@ -85,7 +86,7 @@ public class calculateInterAgreement {
     }
 
     public static void main(String[] args) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException {
-        calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\Savas", "Agreement\\Agreed");
+        calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\savas", "Agreement\\agreed");
         System.out.println(" - ");
         for (int i : overallAgreed) {
             System.out.println((double) i / overallSize);

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="juxtaposition"
+        sense="Comparison: Contrast: juxtaposition" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Buna karşılık</Text>
+                <BeginOffset>7789</BeginOffset>
+                <EndOffset>7802</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>1998-2002 arasında oynanan müşterek bahis
+                    oyunlarında yapılan                 yasal
+                    kesintilerin tutarı 1.5 milyar doları geçti</Text>
+                <BeginOffset>7660</BeginOffset>
+                <EndOffset>7787</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>at                 yarışı oynayanlara, bahis için
+                    verdikleri paranın yalnızca yarısı ikramiye
+                    olarak döndü</Text>
+                <BeginOffset>7804</BeginOffset>
+                <EndOffset>7926</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu yüzden</Text>
+                <BeginOffset>12247</BeginOffset>
+                <EndOffset>12256</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İki taraf hep birbirine
+                    saldıracakmış gibi önlemler aldı</Text>
+                <BeginOffset>12173</BeginOffset>
+                <EndOffset>12245</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Avrupa&apos;nın silaha ve orduya en
+                    çok para harcayan iki ülkesi oldu Türkiye ve Yunanistan</Text>
+                <BeginOffset>12257</BeginOffset>
+                <EndOffset>12359</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="equivalence"
+        sense="Expansion: Restatement: equivalence" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bir başka ifadeyle</Text>
+                <BeginOffset>9530</BeginOffset>
+                <EndOffset>9548</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Toplanan hasılatın 562.8                 trilyon
+                    liralık bölümü ise oynayanlara dağıtıldı</Text>
+                <BeginOffset>9439</BeginOffset>
+                <EndOffset>9528</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>müşterek bahis oynayanlar iki koyup bir kazandı</Text>
+                <BeginOffset>9566</BeginOffset>
+                <EndOffset>9613</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="Murathan: instantiation. ALTLEX karşılığı &quot;örneğin&quot; olabilirmiş gibi geldi.  DZ: katılıyorum"
+        sense="Expansion: Instantiation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Düşünün</Text>
+                <BeginOffset>14443</BeginOffset>
+                <EndOffset>14450</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bizdeki yargı kararlarının ve kanunların
+                    arkasında da geçmişten kalma bir hesaplaşma anlayışı
+                    yatmıyor mu? &apos;&apos;Kim                 kimin
+                    önünü nasıl kesecek? Kim ne kadar
+                    tehlikeli?&apos;&apos; mantığı üzerine
+                    kurulu bir sistem içinde yaşıyoruz</Text>
+                <BeginOffset>14177</BeginOffset>
+                <EndOffset>14441</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>iktidar partisinin genel                 başkanı
+                    bir konuşması nedeniyle mahkûm edildi</Text>
+                <BeginOffset>14452</BeginOffset>
+                <EndOffset>14538</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="DZ: &quot;buna göre&quot; yeni altlex specification"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Buna göre</Text>
+                <BeginOffset>8234</BeginOffset>
+                <EndOffset>8243</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Türkiye Yarış Atı Yetiştiricileri ve Sahipleri
+                    Derneği&apos;nin, &apos;&apos;Sayın
+                    milletvekilim, lütfen kıymetli zamanını ayırıp bu
+                    kitapçığı okuyun&apos;&apos;
+                    talebiyle yayımladığı kitapçıkta, 1998-2002 arasında
+                    at yarışı                 oyunlarından yapılan
+                    kesintiler yer aldı</Text>
+                <BeginOffset>7944</BeginOffset>
+                <EndOffset>8232</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>at yarışlarında                 oynanan müşterek
+                    bahislerden 1998&apos;de 317 milyon, 1999&apos;da
+                    341.3 milyon,                 2000 yılında 368
+                    milyon, 2001&apos;de 238.5 milyon ve geçen yıl 261.2
+                    milyon                 dolarlık yasal kesinti yapıldı</Text>
+                <BeginOffset>8245</BeginOffset>
+                <EndOffset>8482</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="DZ: &quot;kaynaklandığı&quot; yeni altlex result"
+        sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>kaynaklandığı</Text>
+                <BeginOffset>7181</BeginOffset>
+                <EndOffset>7194</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Güney Asya da dondurucu soğuğun etkisinde. Son 24
+                    saat içinde Hindistan&apos;da                 74,
+                    Bangladeş&apos;te de 13 kişinin ölmesiyle, bölgede
+                    bir ayda ölenlerin                 sayısı
+                    1792&apos;yi buldu</Text>
+                <BeginOffset>6859</BeginOffset>
+                <EndOffset>7055</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Güney Asya&apos;da kış mevsiminin kısa sürmesine
+                    rağmen,                 ölümlerin daha çok
+                    milyonlarca kişinin evsiz olmasından</Text>
+                <BeginOffset>7057</BeginOffset>
+                <EndOffset>7180</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

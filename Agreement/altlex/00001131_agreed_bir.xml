@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="condition " sense="Contingency: Condition" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>o zaman</Text>
+                <BeginOffset>14493</BeginOffset>
+                <EndOffset>14500</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Beni istemediğini söylemen &quot;düşsel sen&quot;i
+                    alırdı elimden</Text>
+                <BeginOffset>14431</BeginOffset>
+                <EndOffset>14486</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İnan</Text>
+                <BeginOffset>14488</BeginOffset>
+                <EndOffset>14492</EndOffset>
+            </Span>
+            <Span>
+                <Text>anlam taşımazdı yaşamım</Text>
+                <BeginOffset>14501</BeginOffset>
+                <EndOffset>14524</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="Murathan: ALTLEX karşılığı &quot;mesela&quot; olabilir. Instantiation Agreed DZ. "
+        sense="Expansion: Instantiation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>En basiti</Text>
+                <BeginOffset>3441</BeginOffset>
+                <EndOffset>3450</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Dudaklarına aç bir yaban hayvanı gibi uzanan
+                    dudaklarımı istemiyordun</Text>
+                <BeginOffset>3359</BeginOffset>
+                <EndOffset>3428</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>birlikte dolaşmak bile ıstıraptı senin için</Text>
+                <BeginOffset>3452</BeginOffset>
+                <EndOffset>3495</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="yeni AltLex - &quot;derken&quot; DZ. "
+        sense="Temporal: Synchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Derken</Text>
+                <BeginOffset>15646</BeginOffset>
+                <EndOffset>15652</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ağır ağır pencereye yürüdü. Bu güzel yaratığı
+                    ürkütmeden nasıl yakalayabilirdi? Nasıl açabilirdi pencereyi?</Text>
+                <BeginOffset>15538</BeginOffset>
+                <EndOffset>15645</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Derken kelebek havalandı ve sokağın öbür ucuna
+                    doğru uçmaya başladı.</Text>
+                <BeginOffset>15646</BeginOffset>
+                <EndOffset>15714</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

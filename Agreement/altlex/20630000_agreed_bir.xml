@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="reason" sense="Contingency: Cause: reason" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>bu yüzden</Text>
+                <BeginOffset>532</BeginOffset>
+                <EndOffset>541</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>Belki de</Text>
+                <BeginOffset>523</BeginOffset>
+                <EndOffset>531</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Gelecekleri çok uzaklarda masaya yatırılmış bu
+                    insanlar, önce İran&apos;la, ardından da ABD ile
+                    çatışarak, savaşa, ambargoya ve yokluğa alışmış durumda</Text>
+                <BeginOffset>375</BeginOffset>
+                <EndOffset>521</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>savaş boruları ötmüyor, hayat gündelik
+                    koşuşturmalar içinde akıp gidiyor</Text>
+                <BeginOffset>542</BeginOffset>
+                <EndOffset>614</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Bağdat, sisler altında sıradan bir güne
+                    hazırlanırken, Bağdatlılar, geçim derdiyle işlerinin
+                    yolunu tutuyor</Text>
+                <BeginOffset>266</BeginOffset>
+                <EndOffset>373</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>5301</BeginOffset>
+                <EndOffset>5311</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çocukların alerjisi vardı</Text>
+                <BeginOffset>5274</BeginOffset>
+                <EndOffset>5299</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kalorifere ve masaya sertçe sürtünerek kendilerini kaşıdılar</Text>
+                <BeginOffset>5312</BeginOffset>
+                <EndOffset>5372</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="contra-expectation"
+        sense="Comparison: Concession: contra-expectation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>buna rağmen</Text>
+                <BeginOffset>6956</BeginOffset>
+                <EndOffset>6967</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>uçak, minimum alçalma irtifasına gelmesine rağmen
+                    pistin görülmediği anlaşılmış</Text>
+                <BeginOffset>6873</BeginOffset>
+                <EndOffset>6952</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>radar yardımı istenmemiştir</Text>
+                <BeginOffset>6968</BeginOffset>
+                <EndOffset>6995</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result precedence" sense="Temporal: Synchronous: precedence" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O zaman</Text>
+                <BeginOffset>12850</BeginOffset>
+                <EndOffset>12857</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>da</Text>
+                <BeginOffset>12858</BeginOffset>
+                <EndOffset>12860</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Bu kez, &apos;pisti biz finanse edelim&apos; dedik</Text>
+                <BeginOffset>12808</BeginOffset>
+                <EndOffset>12848</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>önümüze ihale yasası engelini çıkarıp biraz
+                    bekleyin&apos; dediler</Text>
+                <BeginOffset>12861</BeginOffset>
+                <EndOffset>12922</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Pistte 37 metre kod farkı var ve pistin uzatılması
+                    gerekiyor. O da ancak 1.5 - 2 yıl sonra ihale
+                    edilir&apos; yanıtını aldık</Text>
+                <BeginOffset>12687</BeginOffset>
+                <EndOffset>12806</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="result precedence" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O zaman</Text>
+                <BeginOffset>12850</BeginOffset>
+                <EndOffset>12857</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>da</Text>
+                <BeginOffset>12858</BeginOffset>
+                <EndOffset>12860</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Bu kez, &apos;pisti biz finanse edelim&apos; dedik</Text>
+                <BeginOffset>12808</BeginOffset>
+                <EndOffset>12848</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>önümüze ihale yasası engelini çıkarıp biraz
+                    bekleyin&apos; dediler</Text>
+                <BeginOffset>12861</BeginOffset>
+                <EndOffset>12922</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Pistte 37 metre kod farkı var ve pistin uzatılması
+                    gerekiyor. O da ancak 1.5 - 2 yıl sonra ihale
+                    edilir&apos; yanıtını aldık</Text>
+                <BeginOffset>12687</BeginOffset>
+                <EndOffset>12806</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="synchronous" sense="Temporal: Asynchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>o zaman</Text>
+                <BeginOffset>14910</BeginOffset>
+                <EndOffset>14917</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ambulansta ellerim kilitlenmişti</Text>
+                <BeginOffset>14866</BeginOffset>
+                <EndOffset>14898</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yandığımı</Text>
+                <BeginOffset>14900</BeginOffset>
+                <EndOffset>14909</EndOffset>
+            </Span>
+            <Span>
+                <Text>anladım</Text>
+                <BeginOffset>14918</BeginOffset>
+                <EndOffset>14925</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Synchronous" sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu sırada</Text>
+                <BeginOffset>14321</BeginOffset>
+                <EndOffset>14330</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Pilot &apos;inişe geçiyoruz&apos; dedi ve kemerler bağlandı</Text>
+                <BeginOffset>14270</BeginOffset>
+                <EndOffset>14319</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>pilotun sesi bozuk kaset sesi gibi sarıldı ve kesildi</Text>
+                <BeginOffset>14331</BeginOffset>
+                <EndOffset>14384</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Synchronous" sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu esnada</Text>
+                <BeginOffset>14529</BeginOffset>
+                <EndOffset>14538</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>30 metre sırtüstü süründükten sonra ayağa kalkarak
+                    projektörlere doğru kaçtım</Text>
+                <BeginOffset>14450</BeginOffset>
+                <EndOffset>14527</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bir bina yüksekliğinde alevler çıkıyordu</Text>
+                <BeginOffset>14539</BeginOffset>
+                <EndOffset>14579</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="Murathan: sense ve arg2&apos;den emin olamadım. Geri kalan cümleler de konunun devamı gibi. DZ. Geri kalan bölümleri supp2 olarak seçebiliriz, o zaman sorun hallolur sanırım. &quot;bu yerlerin .... edecektir&quot; arası supp2 olabilir. "
+        sense="Expansion: Restatement" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Esasen</Text>
+                <BeginOffset>16856</BeginOffset>
+                <EndOffset>16862</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kumarhanelerde büyük bir istihdam yaratılacaktır</Text>
+                <BeginOffset>16806</BeginOffset>
+                <EndOffset>16854</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yeni düzende kumarhanelerin belli yörelerde
+                    toplanması öngörülüyor</Text>
+                <BeginOffset>16863</BeginOffset>
+                <EndOffset>16929</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2>
+            <Span>
+                <Text>Bu yerlerin işletme sahiplerine satışı söz konusu
+                    olabilir. Buradaki oyun makinelerinin her birinden
+                    alınacak senelik ücret büyük bir rakam teşkil edecektir</Text>
+                <BeginOffset>16931</BeginOffset>
+                <EndOffset>17087</EndOffset>
+            </Span>
+        </Supp2>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="Murathan: result. Tam emin olamadım ama gözden kaçmasın diye işaretledim."
+        sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Buna göre</Text>
+                <BeginOffset>13479</BeginOffset>
+                <EndOffset>13488</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İnternet üzerinden yapılan başvuruların bulunduğu
+                    servis sağlayıcıda oluşan bir sorun nedeniyle web
+                    sitesine ulaşılamayınca yönetim kurulu başvuru
+                    süresini iki gün uzatma kararı aldı</Text>
+                <BeginOffset>13295</BeginOffset>
+                <EndOffset>13477</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>öğrenciler 15 Ocak saat 17.00&apos;ye kadar
+                    başvuru işlemlerini yapabilecekler</Text>
+                <BeginOffset>13489</BeginOffset>
+                <EndOffset>13562</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

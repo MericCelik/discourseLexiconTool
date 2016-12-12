@@ -618,37 +618,6 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="Instantiation: Örneğin"
-        sense="Expansion: Instantiation" type="IMPLICIT">
-        <Conn>
-            <Span>
-                <Text>Bu</Text>
-                <BeginOffset>7702</BeginOffset>
-                <EndOffset>7704</EndOffset>
-            </Span>
-        </Conn>
-        <Mod/>
-        <Arg1>
-            <Span>
-                <Text>Bu benzerliklerin yanında farklılıklar da var</Text>
-                <BeginOffset>7655</BeginOffset>
-                <EndOffset>7700</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>Bu farklılıkların en önemlisi, Aşıklı&apos;da daha
-                    örgütlenmiş bir toplum modeli olması; oysa
-                    Çatalhöyük&apos;de öyle değil</Text>
-                <BeginOffset>7702</BeginOffset>
-                <EndOffset>7815</EndOffset>
-            </Span>
-        </Arg2>
-        <Supp1/>
-        <Supp2/>
-        <Shared/>
-        <Supp_Shared/>
-    </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
         <Conn>

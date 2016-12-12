@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="(epistemic) result &quot;"
+        sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O yüzden</Text>
+                <BeginOffset>3573</BeginOffset>
+                <EndOffset>3581</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>de</Text>
+                <BeginOffset>3582</BeginOffset>
+                <EndOffset>3584</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Birçok şey bakımından, burası başlangıç</Text>
+                <BeginOffset>3532</BeginOffset>
+                <EndOffset>3571</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yok olmaması gerekiyor</Text>
+                <BeginOffset>3585</BeginOffset>
+                <EndOffset>3607</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Aşıklı&apos;da kazıya başlar başlamaz, buranın
+                    mutlaka kurtarılması gerektiğini anladık</Text>
+                <BeginOffset>3223</BeginOffset>
+                <EndOffset>3305</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result " sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>bunların sonucunda</Text>
+                <BeginOffset>4074</BeginOffset>
+                <EndOffset>4092</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Keban ve Değirmentepe Kazıları&apos;nı yönetirken,
+                    yavaş yavaş Arkeometri Ünitesini kurdum.
+                    ODTÜ&apos;ten arkadaşlarımızla, Boğaziçi ve Çukurova
+                    Üniversiteleri&apos;nden bu işlere ilgi duyan,
+                    gerçekten arkeometrik çalışma yapmak isteyen kim
+                    varsa, onları topladık ve grup oluşturduk. TÜBİTAK
+                    nezdinde, TÜBİTAK Arkeometri Ünitesi&apos;ni kurduk
+                    ve orada çalıştık. Sonra onu yenilemek gerekti. Bu
+                    defa araştırma ve analiz yöntemlerine dayalı bir
+                    başka ünite kurduk</Text>
+                <BeginOffset>3628</BeginOffset>
+                <EndOffset>4070</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ODTÜ ve İTÜ&apos;de Arkeometri Yüksek Lisansı
+                    doğdu. Ayrıca Arkeometalurji çalışmalarında bir
+                    atılım yaptık</Text>
+                <BeginOffset>4093</BeginOffset>
+                <EndOffset>4195</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="condition" sense="Contingency: Condition" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O zaman</Text>
+                <BeginOffset>15098</BeginOffset>
+                <EndOffset>15105</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Analizler aynı sonuçları verirse, bakırın oradan
+                    alındığını öğreneceğiz. Değilse, başka yerlerde arayacağız</Text>
+                <BeginOffset>14977</BeginOffset>
+                <EndOffset>15084</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bakır başka bir yerden mi getirilmiş oluyor</Text>
+                <BeginOffset>15106</BeginOffset>
+                <EndOffset>15149</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>bu yüzden</Text>
+                <BeginOffset>10728</BeginOffset>
+                <EndOffset>10737</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Burada iklim değişikliğinden dolayı bir taşkın olmuş</Text>
+                <BeginOffset>10674</BeginOffset>
+                <EndOffset>10726</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>o yöreyi terk etmişler ve yerleşmenin üzerinde
+                    çakıl birikmiş</Text>
+                <BeginOffset>10738</BeginOffset>
+                <EndOffset>10799</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Bir de olasılıkla 3. tabakada eski yerleşim yeri var</Text>
+                <BeginOffset>10525</BeginOffset>
+                <EndOffset>10577</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Temporal: Synchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bundan sonra</Text>
+                <BeginOffset>2722</BeginOffset>
+                <EndOffset>2734</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu aşağı yukarı ilk çalışmalarımdan bir tanesi</Text>
+                <BeginOffset>2674</BeginOffset>
+                <EndOffset>2720</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kurtarma kazıları yaptım</Text>
+                <BeginOffset>2735</BeginOffset>
+                <EndOffset>2759</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Spektral analiz çalışmalarıyla Anadolu Maden
+                    Enstitüsü hakkında kapsamlı bir araştırma yaptım</Text>
+                <BeginOffset>2579</BeginOffset>
+                <EndOffset>2672</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ: bence burada pragmatic bir durum yok; neden-sonuç ilişkisi var. "
+        sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bunun üzerine</Text>
+                <BeginOffset>3073</BeginOffset>
+                <EndOffset>3086</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bunlar bitince, bu defa Aşıklı&apos;nın su altında
+                    kalacağı söylendi</Text>
+                <BeginOffset>3008</BeginOffset>
+                <EndOffset>3071</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Aşıklı&apos;da kurtarma kazılarına başladık</Text>
+                <BeginOffset>3087</BeginOffset>
+                <EndOffset>3125</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ: bence bu &quot;in addition&quot; anlamında; yani expansion olsa gerek? "
+        sense="Expansion" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu benzerliklerin yanında</Text>
+                <BeginOffset>7655</BeginOffset>
+                <EndOffset>7680</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çatalhöyük ile Aşıklı arasında kültür olarak da
+                    birtakım benzerlikler var</Text>
+                <BeginOffset>7580</BeginOffset>
+                <EndOffset>7653</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>farklılıklar da var</Text>
+                <BeginOffset>7681</BeginOffset>
+                <EndOffset>7700</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu tamir esnasında</Text>
+                <BeginOffset>9243</BeginOffset>
+                <EndOffset>9261</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Burada bazı duvarlar, hep birbirini takip etmiş;
+                    ama bazıları etmemiş</Text>
+                <BeginOffset>9172</BeginOffset>
+                <EndOffset>9241</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bütün çöpleri alıp yan tarafa atıyorlar ve burada
+                    bir çöp birikintisi oluşuyor</Text>
+                <BeginOffset>9263</BeginOffset>
+                <EndOffset>9341</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="Murathan: &quot;condition&quot; anlamı da yok mu? DZ: &quot;otherwise&quot; karşılığında; yani negative condition gibi bir şey. Hem contrast hem condition seçmek en iyisi sanırım. 
+son hali: condition &amp; contrast"
+        sense="Contingency: Condition" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Değilse</Text>
+                <BeginOffset>15050</BeginOffset>
+                <EndOffset>15057</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Analizler aynı sonuçları verirse, bakırın oradan
+                    alındığını öğreneceğiz</Text>
+                <BeginOffset>14977</BeginOffset>
+                <EndOffset>15048</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>başka yerlerde arayacağız</Text>
+                <BeginOffset>15059</BeginOffset>
+                <EndOffset>15084</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation
+        note="Murathan: &quot;condition&quot; anlamı da yok mu? DZ: &quot;otherwise&quot; karşılığında; yani negative condition gibi bir şey. Hem contrast hem condition seçmek en iyisi sanırım. 
+son hali: condition &amp; contrast"
+        sense="Comparison: Contrast" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Değilse</Text>
+                <BeginOffset>15050</BeginOffset>
+                <EndOffset>15057</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Analizler aynı sonuçları verirse, bakırın oradan
+                    alındığını öğreneceğiz</Text>
+                <BeginOffset>14977</BeginOffset>
+                <EndOffset>15048</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>başka yerlerde arayacağız</Text>
+                <BeginOffset>15059</BeginOffset>
+                <EndOffset>15084</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="DZ - yeni Altlex specification"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu farklılıkların en önemlisi</Text>
+                <BeginOffset>7702</BeginOffset>
+                <EndOffset>7731</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çatalhöyük ile Aşıklı arasında kültür olarak da
+                    birtakım benzerlikler var. Bu benzerliklerin yanında
+                    farklılıklar da var</Text>
+                <BeginOffset>7580</BeginOffset>
+                <EndOffset>7700</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Aşıklı&apos;da daha örgütlenmiş bir toplum modeli
+                    olması; oysa Çatalhöyük&apos;de öyle değil</Text>
+                <BeginOffset>7733</BeginOffset>
+                <EndOffset>7815</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>
