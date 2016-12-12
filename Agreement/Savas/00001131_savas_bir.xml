@@ -1,35 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Relation note="Specification: Şöyle ki" sense="" type="IMPLICIT">
-        <Conn>
-            <Span>
-                <Text>Dışa</Text>
-                <BeginOffset>260</BeginOffset>
-                <EndOffset>264</EndOffset>
-            </Span>
-        </Conn>
-        <Mod/>
-        <Arg1>
-            <Span>
-                <Text>Koca bir duvar taşıyordun yüreğinde kimsenin
-                    aşamayacağı, aşmaya cesaret bile edemeyeceği</Text>
-                <BeginOffset>169</BeginOffset>
-                <EndOffset>258</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>Dışa karşı güçlüydü, ama içe, kendi yüreğine
-                    yıkılmak üzereydi</Text>
-                <BeginOffset>260</BeginOffset>
-                <EndOffset>322</EndOffset>
-            </Span>
-        </Arg2>
-        <Supp1/>
-        <Supp2/>
-        <Shared/>
-        <Supp_Shared/>
-    </Relation>
     <Relation note="Equivalence: Bir başka deyişle"
         sense="Expansion: Restatement: equivalence" type="IMPLICIT">
         <Conn>
@@ -262,36 +232,6 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="Reason: Çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
-        <Conn>
-            <Span>
-                <Text>Hiçbir</Text>
-                <BeginOffset>4178</BeginOffset>
-                <EndOffset>4184</EndOffset>
-            </Span>
-        </Conn>
-        <Mod/>
-        <Arg1>
-            <Span>
-                <Text>Altı ay önce bitirdiği bir resmi uzun süre
-                    dayanması ve renklerini koruması için verniklediği
-                    bir gece ansızın bir tekme savurarak üst kata çıktı</Text>
-                <BeginOffset>4031</BeginOffset>
-                <EndOffset>4176</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>Hiçbir tablosu değerli değildi onun için</Text>
-                <BeginOffset>4178</BeginOffset>
-                <EndOffset>4218</EndOffset>
-            </Span>
-        </Arg2>
-        <Supp1/>
-        <Supp2/>
-        <Shared/>
-        <Supp_Shared/>
-    </Relation>
     <Relation note="Specification: Şöyle ki"
         sense="Expansion: Restatement: specification" type="IMPLICIT">
         <Conn>
@@ -315,37 +255,6 @@
                     atabiliyordu artık</Text>
                 <BeginOffset>4220</BeginOffset>
                 <EndOffset>4287</EndOffset>
-            </Span>
-        </Arg2>
-        <Supp1/>
-        <Supp2/>
-        <Shared/>
-        <Supp_Shared/>
-    </Relation>
-    <Relation note="Result: Sonuç olarak"
-        sense="Contingency: Cause: result" type="IMPLICIT">
-        <Conn>
-            <Span>
-                <Text>Küf</Text>
-                <BeginOffset>4403</BeginOffset>
-                <EndOffset>4406</EndOffset>
-            </Span>
-        </Conn>
-        <Mod/>
-        <Arg1>
-            <Span>
-                <Text>Onun ölümünden beri ilk kez girdiği bu odayı ağır
-                    bir koku kaplamıştı</Text>
-                <BeginOffset>4332</BeginOffset>
-                <EndOffset>4401</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>Küf kokusunu andıran bu havayı içine çekmemek için
-                    soluğunu tuttu</Text>
-                <BeginOffset>4403</BeginOffset>
-                <EndOffset>4468</EndOffset>
             </Span>
         </Arg2>
         <Supp1/>

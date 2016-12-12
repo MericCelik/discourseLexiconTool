@@ -38,7 +38,8 @@ public class calculateInterAgreement {
             System.out.println("I'm sorry, Dave. I'm afraid I can't do that".toUpperCase());
         }
         for (int i = 0; i < Anno1Files.length; i++) {
-            System.out.println(Anno1Files[i].getPath());
+            System.out.println("");
+            System.out.println(Anno1Files[i].getPath().toUpperCase());
             anno1Map = readRelationsForInterAgreement.readDATTRelations(Anno1Files[i].getPath());
             anno2Map = readRelationsForInterAgreement.readDATTRelations(Anno2Files[i].getPath());
             calculateInterAgreement(anno1Map, anno2Map);
@@ -53,31 +54,32 @@ public class calculateInterAgreement {
         int smaller = (anno1Map.keySet().size() < anno2Map.keySet().size()) ? anno1Map.keySet().size() : anno2Map.keySet().size();
         overallSize = overallSize + smaller;
         int[] agreed = {0, 0, 0};
-        int commonSense = 0;
         int commonAnno = 0;
-        for (Integer key1 : anno1Map.keySet()) {
-            if (anno2Map.containsKey(key1)) {
+        for (Integer key : anno1Map.keySet()) {
+            if (anno2Map.containsKey(key)) {
+                System.out.println("COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
+
                 commonAnno++;
-                if (anno1Map.get(key1).getSense1().equals(anno2Map.get(key1).getSense1())) {
-                    agreed[0] = agreed[0] + 1;
-                    overallAgreed[0] = overallAgreed[0] + 1;
-                }
-                if (anno1Map.get(key1).getSense2().equals(anno2Map.get(key1).getSense2())) {
-                    agreed[1] = agreed[1] + 1;
-                    overallAgreed[1] = overallAgreed[1] + 1;
-                }
-                if (anno1Map.get(key1).getSense3().equals(anno2Map.get(key1).getSense3())) {
-                    agreed[2] = agreed[2] + 1;
-                    overallAgreed[2] = overallAgreed[2] + 1;
-                }
-                if (anno1Map.get(key1).getFullSense().equals(anno2Map.get(key1).getFullSense())) {
-                    commonSense++;
-                }
+                compareAnnotation(anno1Map.get(key), anno2Map.get(key), agreed);
+            } else {
             }
         }
-        System.out.println(commonSense + " - " + commonAnno);
-        for (int i : agreed) {
-            System.out.println((double) i / smaller);
+        System.out.println(commonAnno);
+    }
+
+    private void compareAnnotation(Annotation a1, Annotation a2, int[] agreed) {
+
+        if (a1.getSense1().equals(a2.getSense1())) {
+            agreed[0] = agreed[0] + 1;
+            overallAgreed[0] = overallAgreed[0] + 1;
+        }
+        if (a1.getSense2().equals(a2.getSense2())) {
+            agreed[1] = agreed[1] + 1;
+            overallAgreed[1] = overallAgreed[1] + 1;
+        }
+        if (a1.getSense3().equals(a2.getSense3())) {
+            agreed[2] = agreed[2] + 1;
+            overallAgreed[2] = overallAgreed[2] + 1;
         }
 
     }
@@ -88,7 +90,7 @@ public class calculateInterAgreement {
         for (int i : overallAgreed) {
             System.out.println((double) i / overallSize);
         }
-        
+
     }
 
 }
