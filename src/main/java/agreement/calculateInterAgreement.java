@@ -22,8 +22,8 @@ public class calculateInterAgreement {
 
     String annotator1Dir;
     String annotator2Dir;
-    HashMap<String, ArrayList<Annotation>> anno1Map = new HashMap<>();
-    HashMap<String, ArrayList<Annotation>> anno2Map = new HashMap<>();
+    HashMap<Integer, Annotation> anno1Map = new HashMap<>();
+    HashMap<Integer, Annotation> anno2Map = new HashMap<>();
 
     public calculateInterAgreement(String dir1, String dir2) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException {
         File folderAnno1 = new File(dir1);
@@ -43,11 +43,26 @@ public class calculateInterAgreement {
         }
     }
 
-    private void calculateInterAgreement(HashMap<String, ArrayList<Annotation>> anno1Map, HashMap<String, ArrayList<Annotation>> anno2Map) {
+    private void calculateInterAgreement(HashMap<Integer, Annotation> anno1Map, HashMap<Integer, Annotation> anno2Map) {
+
+        System.out.println("Annotations of anno1 : " + anno1Map.keySet().size());
+        System.out.println("Annotations of anno2 : " + anno2Map.keySet().size());
+
+        int commonSense = 0;
+        int commonAnno = 0;
+        for (Integer key1 : anno1Map.keySet()) {
+            if (anno2Map.containsKey(key1)) {
+                commonAnno++;
+                if (anno1Map.get(key1).getFullSense().equals(anno2Map.get(key1).getFullSense())) {
+                    commonSense++;
+                }
+            }
+        }
+        System.out.println(commonSense + " - " + commonAnno);
+
     }
-    
-    public static void main(String[] args) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException{
-        
+
+    public static void main(String[] args) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException {
         calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\Savas", "Agreement\\Agreed");
     }
 

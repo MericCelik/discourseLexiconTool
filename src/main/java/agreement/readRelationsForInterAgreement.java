@@ -26,15 +26,15 @@ import org.w3c.dom.NodeList;
  */
 public class readRelationsForInterAgreement {
 
-    public static HashMap<String, ArrayList<Annotation>> readDATTRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
+    
+    public static HashMap<Integer, Annotation> readDATTRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
 
-        HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<>();
+        HashMap<Integer, Annotation> connectiveAnnotationMap = new HashMap<>();
         ArrayList<String> connectiveList = new ArrayList<>();
         File dattAnnotationFolder = new File(dir);
         String dattAnnotationFile = "";
 
         if (dattAnnotationFolder.isDirectory()) {
-
             File[] arrayOfAnnotationFiles = dattAnnotationFolder.listFiles();
             dattAnnotationFile = arrayOfAnnotationFiles[0].getAbsolutePath();
         }
@@ -72,14 +72,8 @@ public class readRelationsForInterAgreement {
                 ArrayList<Span> sup1Spans = ConverterUtils.getContext(sup1, "supp1");
                 ArrayList<Span> sup2Spans = ConverterUtils.getContext(sup2, "supp2");
 
-                String connectiveString = "";
-                for (Span s : connSpans) {
-                    connectiveString = connectiveString + "_" + s.getText().toLowerCase();
-                }
-                connectiveString = connectiveString.substring(1);
-                if (!connectiveList.contains(connectiveString)) {
-                    connectiveList.add(connectiveString);
-                }
+                
+                
                 // reading connective and arguments
 
                 // reading note-sense etc.
@@ -104,21 +98,18 @@ public class readRelationsForInterAgreement {
                 // reading note-sense etc.
 
                 Annotation currentAnnotation = new Annotation(connSpans, arg1Spans, arg2Spans, modSpans, sup1Spans, sup2Spans, senses, note, type, genre);
+                int connBeg = connSpans.get(0).getBeg();
 
-                if (connectiveAnnotationMap.keySet().contains(connectiveString)) {
-                    ArrayList<Annotation> tempList = connectiveAnnotationMap.get(connectiveString);
-                    tempList.add(currentAnnotation);
-                    connectiveAnnotationMap.put(connectiveString, tempList);
-                } else {
-                    ArrayList<Annotation> tempList = new ArrayList<>();
-                    tempList.add(currentAnnotation);
-                    connectiveAnnotationMap.put(connectiveString, tempList);
+                if(connectiveAnnotationMap.containsKey(connBeg))
+                {
+                    System.out.println("ALERT!!!! CONNECTIVES WITH SAME INDEX!!");
                 }
+                else
+                    connectiveAnnotationMap.put(connBeg, currentAnnotation);
             }
         }
 
-        System.out.println(
-                "DATT relations has been read from the file: " + dir);
+        System.out.println("DATT relations has been read from the file: " + dir);
 
         return connectiveAnnotationMap;
     }
