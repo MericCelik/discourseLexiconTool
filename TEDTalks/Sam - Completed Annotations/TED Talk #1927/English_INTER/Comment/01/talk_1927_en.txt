@@ -1,0 +1,9 @@
+#Wed Sep 07 09:50:56 BST 2016
+Implicit||1472..1483|1497..1518=token@1472, arg2@1497\: Is the relation between "Resist this" and "Don't do it at home"\nsimply conjunction?  Isn't the latter either MORE SPECIFIC than the former or an INSTANCE\n\n\n
+Explicit|1531..1534|1387..1470|1535..1615=Is arg1 is the referent of "it", but "it" does not have an explicit referent, i.e. it either refers to a general idea, or is pleonastic (dummy). What do others think?\n\narg2@1497\: Did you forget to identify an Arg1? Consider what the "it" refers to and use\nthat to choose and Arg1. Might it be that the world is changing in profound ways (first\nsentence of the talk)? If so, maybe Arg2-as-result\:  The world is changing in profound\nways, SO I wonder if today's investment rules are fit for tomorrow.  That is, the "but"\nis not serving a SEMANTIC rule, but rather a RHETORICAL role, as if the speaker had said\n"But seriously, folks" -- contrasting the joking with the serious message he has.
+EntRel||1895..2000|2002..2123=PDTB 2 guidelines say that arg1 and arg2 of an EntRel must be one sentence only. Shall we update to include multiple sentences?
+Implicit||1230..1244|1246..1269=\n
+EntRel||7451..7470|7483..7494=Arg2 is a fragment, should we still annotate?
+Implicit||5620..5652|5654..5780=I thought it made more sense to include the repetition of Hesta in arg2. What do others think?
+EntRel||223..265|267..383=entity_in_Arg1\: sustainability
+AltLex|7496..7502|7483..7494|7504..7522=Elision of verb "have" in both arg1 and arg2?

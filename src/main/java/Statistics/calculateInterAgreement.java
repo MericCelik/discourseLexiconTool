@@ -3,13 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package agreement;
+package Statistics;
 
-import Converter.DATTConverter;
 import core.Annotation;
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.HashMap;
 import javax.xml.parsers.ParserConfigurationException;
 import org.xml.sax.SAXException;
@@ -40,8 +38,8 @@ public class calculateInterAgreement {
         for (int i = 0; i < Anno1Files.length; i++) {
             System.out.println("");
             System.out.println(Anno1Files[i].getPath().toUpperCase());
-            anno1Map = readRelationsForInterAgreement.readDATTRelations(Anno1Files[i].getPath());
-            anno2Map = readRelationsForInterAgreement.readDATTRelations(Anno2Files[i].getPath());
+            anno1Map = readRelationsForStatistics.readDATTRelations(Anno1Files[i].getPath());
+            anno2Map = readRelationsForStatistics.readDATTRelations(Anno2Files[i].getPath());
             calculateInterAgreement(anno1Map, anno2Map);
         }
     }
@@ -58,7 +56,7 @@ public class calculateInterAgreement {
         for (Integer key : anno1Map.keySet()) {
             if (anno2Map.containsKey(key)) {
                 commonAnno++;
-                compareAnnotation(anno1Map.get(key), anno2Map.get(key), agreed);
+                compareAnnotationSenseBased(anno1Map.get(key), anno2Map.get(key), agreed);
                //  System.out.println("!COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
             } else {
                System.out.println("NOT COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
@@ -68,7 +66,7 @@ public class calculateInterAgreement {
         System.out.println(commonAnno);
     }
 
-    private void compareAnnotation(Annotation a1, Annotation a2, int[] agreed) {
+    private void compareAnnotationSenseBased(Annotation a1, Annotation a2, int[] agreed) {
 
         if (a1.getSense1().equals(a2.getSense1())) {
             agreed[0] = agreed[0] + 1;
@@ -85,6 +83,8 @@ public class calculateInterAgreement {
 
     }
 
+    
+    
     public static void main(String[] args) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException {
         calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\savas", "Agreement\\agreed");
         System.out.println(" - ");

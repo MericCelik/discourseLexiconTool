@@ -1,0 +1,47 @@
+EntRel||||||||||||||132..161||||||163..271||||||
+Explicit|169..176|Wr|Comm|Null|Null|||Relacja sytuacyjna (Contingency).Relacja celowa (Purpose)||||||306..453|Inh|Null|Null|Null||177..304|Inh|Null|Null|Null||
+Explicit|272..273|Wr|Comm|Null|Null|||Relacja rozwijająca (Expansion).Uszczegółowienie (Specification)||||||169..271|Inh|Null|Null|Null||274..304|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||innymi słowy|Relacja rozwijająca (Expansion).Równoważność (Equivalence)||||||132..161|Inh|Null|Null|Null||455..524|Inh|Null|Null|Null||
+Explicit|525..526|Wr|Comm|Null|Null|||Relacja rozwijająca (Expansion).Współrzędność (Conjunction)||||||455..524|Inh|Null|Null|Null||527..610|Inh|Null|Null|Null||
+Explicit|612..615|Wr|Comm|Null|Null|||Relacja porównawcza (Comparison).Zaprzeczone oczekiwanie (Concession)||||||527..610|Inh|Null|Null|Null||616..646|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||ponieważ (because)|Relacja sytuacyjna (Contingency).Relacja przyczynowo-skutkowa (Cause)||||||648..676|Inh|Null|Null|Null||616..646|Inh|Null|Null|Null||
+EntRel||||||||||||||304..453||||||678..724||||||
+EntRel||||||||||||||678..724||||||726..774||||||
+Implicit||Wr|Comm|Null|Null||ogólnie rzecz biorąc|Relacja rozwijająca (Expansion).Metoda (Manner)||||||726..774|Inh|Null|Null|Null||776..820|Inh|Null|Null|Null||
+Explicit|822..825|Wr|Comm|Null|Null|||Relacja sytuacyjna (Contingency).Relacja celowa (Purpose)||||||776..820|Inh|Null|Null|Null||826..883|Inh|Null|Null|Null|822..825|
+Implicit||Wr|Comm|Null|Null||podobnie do|Relacja porównawcza (Comparison).Podobieństwo (Similarity)||||||826..883|Inh|Null|Null|Null||885..942|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||podsumowując|Relacja sytuacyjna (Contingency).Relacja przyczynowo-skutkowa (Cause)||||||885..942|Inh|Null|Null|Null||944..994|Inh|Null|Null|Null||
+Explicit|995..1010|Wr|Comm|Null|Null|||Relacja sytuacyjna (Contingency).Sytuacja hipotetyczna (Condition)||||||944..994|Inh|Null|Null|Null||1012..1051|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||potem |Relacja temporalna (Temporal).Następstwo (Asynchronous)||||||995..1051|Inh|Null|Null|Null||1053..1064|Inh|Null|Null|Null||
+Explicit|1065..1066|Wr|Comm|Null|Null|||Relacja temporalna (Temporal).Jednoczesność (Synchronous)||||||1053..1064|Inh|Null|Null|Null||1067..1093|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||i w efekcie|Relacja sytuacyjna (Contingency).Relacja przyczynowo-skutkowa (Cause)||||||1067..1093|Inh|Null|Null|Null||1095..1145|Inh|Null|Null|Null||
+Explicit|1147..1149|Wr|Comm|Null|Null|||Relacja sytuacyjna (Contingency).Relacja przyczynowo-skutkowa (Cause)||||||1150..1188|Inh|Null|Null|Null||1095..1145|Inh|Null|Null|Null||
+Explicit|1190..1195|Wr|Comm|Null|Null|||Relacja temporalna (Temporal).Następstwo (Asynchronous)||||||1067..1093|Inh|Null|Null|Null||1196..1230|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||i w efekcie|Relacja rozwijająca (Expansion).Uszczegółowienie (Specification)||||||1190..1230|Inh|Null|Null|Null||1232..1257|Inh|Null|Null|Null||
+EntRel||||||||||||||1232..1257||||||1259..1287||||||
+Explicit|1289..1294|Wr|Comm|Null|Null|||Relacja temporalna (Temporal).Jednoczesność (Synchronous)||||||1232..1257|Inh|Null|Null|Null||1295..1322|Inh|Null|Null|Null||
+Explicit|1328..1332|Wr|Comm|Null|Null|||Relacja temporalna (Temporal).Następstwo (Asynchronous)||||||1295..1322|Inh|Null|Null|Null||1333..1367|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||i w efekcie|Relacja rozwijająca (Expansion).Uszczegółowienie (Specification)||||||1333..1367|Inh|Null|Null|Null||1369..1423|Inh|Null|Null|Null||
+Explicit|1425..1430|Wr|Comm|Null|Null|||Relacja temporalna (Temporal).Jednoczesność (Synchronous)||||||1369..1423|Inh|Null|Null|Null||1431..1460|Inh|Null|Null|Null||
+Explicit|1462..1467|Wr|Comm|Null|Null|||Relacja temporalna (Temporal).Jednoczesność (Synchronous)||||||1425..1460|Inh|Null|Null|Null||1468..1501|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||potem |Relacja temporalna (Temporal).Następstwo (Asynchronous)||||||1462..1502|Inh|Null|Null|Null||1503..1543|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||i w efekcie|Relacja rozwijająca (Expansion).Uszczegółowienie (Specification)||||||1503..1543|Inh|Null|Null|Null||1545..1592|Inh|Null|Null|Null||
+Explicit|1593..1594|Wr|Comm|Null|Null|||Relacja temporalna (Temporal).Jednoczesność (Synchronous)||||||1545..1592|Inh|Null|Null|Null||1595..1684|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||potem|Relacja temporalna (Temporal).Następstwo (Asynchronous)||||||1593..1684|Inh|Null|Null|Null||1686..1720|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||i w efekcie|Relacja sytuacyjna (Contingency).Relacja celowa (Purpose)||||||1686..1720|Inh|Null|Null|Null||1722..1772|Inh|Null|Null|Null||
+Explicit|1774..1775|Wr|Comm|Null|Null|||Relacja rozwijająca (Expansion).Współrzędność (Conjunction)||||||1722..1772|Inh|Null|Null|Null||1776..1792|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||i (and)|Relacja rozwijająca (Expansion).Współrzędność (Conjunction)||||||1776..1792|Inh|Null|Null|Null||1794..1916|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||i (and)|Relacja sytuacyjna (Contingency).Sytuacja hipotetyczna (Condition)||||||1794..1916|Inh|Null|Null|Null||1918..1936|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||NONE|Relacja sytuacyjna (Contingency).Relacja przyczynowo-skutkowa (Cause)||||||1918..1936|Inh|Null|Null|Null||1938..1960|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||krótko mówiąc|Relacja rozwijająca (Expansion).Uszczegółowienie (Specification)||||||1938..1960|Inh|Null|Null|Null||1962..1993|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||i (and)|Relacja rozwijająca (Expansion).Współrzędność (Conjunction)||||||1962..1993|Inh|Null|Null|Null||1995..2076|Inh|Null|Null|Null||
+Explicit|2078..2086|Wr|Comm|Null|Null|||Relacja sytuacyjna (Contingency).Sytuacja hipotetyczna (Condition)||||||2105..2137|Inh|Null|Null|Null||2087..2103|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||krótko mówiąc|Relacja rozwijająca (Expansion).Uszczegółowienie (Specification)||||||2105..2138|Inh|Null|Null|Null||2139..2159|Inh|Null|Null|Null||
+EntRel||||||||||||||306..454||||||2161..2220||||||
+Explicit|2222..2225|Wr|Comm|Null|Null|||Relacja rozwijająca (Expansion).Egzemplifikacja (Instantiation)||||||2161..2220|Inh|Null|Null|Null||2226..2272|Inh|Null|Null|Null||
+Explicit|2273..2274|Wr|Comm|Null|Null|||Relacja rozwijająca (Expansion).Współrzędność (Conjunction)||||||2226..2272|Inh|Null|Null|Null||2275..2337|Inh|Null|Null|Null||
+EntRel||||||||||||||2226..2337||||||2339..2437||||||
+EntRel||||||||||||||2339..2437||||||2439..2477||||||
+Implicit||Wr|Comm|Null|Null||krótko mówiąc|Relacja rozwijająca (Expansion).Uszczegółowienie (Specification)||||||2439..2477|Inh|Null|Null|Null||2479..2513|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||i (and)|Relacja rozwijająca (Expansion).Współrzędność (Conjunction)||||||2479..2513|Inh|Null|Null|Null||2515..2541|Inh|Null|Null|Null||
+Explicit|2542..2545|Wr|Comm|Null|Null|||Relacja rozwijająca (Expansion).Metoda (Manner)||||||2515..2541|Inh|Null|Null|Null||2547..2585|Inh|Null|Null|Null||

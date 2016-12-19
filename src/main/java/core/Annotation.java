@@ -24,6 +24,7 @@ public class Annotation {
     private String fullSense;
 
     private String type;
+
     private String note;
     private String genre;
 
@@ -121,6 +122,16 @@ public class Annotation {
         return output;
     }
 
+    public String toFullString() {
+        String output = "";
+        output = output + " " + type + " " + fullSense;
+        for (Integer i : argMapforPrettyPrint.keySet()) {
+            //  System.out.print(argMap.get(i) + " ");
+            output = output + " " + argMapforPrettyPrint.get(i).getText();
+        }
+        return output;
+    }
+
     public String getFullSense() {
         return fullSense;
     }
@@ -165,4 +176,11 @@ public class Annotation {
         return supp2;
     }
 
+    public String getType() {
+        return type;
+    }
+
+    public String getGenre() {
+        return genre;
+    }
 }

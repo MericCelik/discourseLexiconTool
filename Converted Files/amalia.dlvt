@@ -1,0 +1,3534 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+  <Connective Item="s n" Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="2086" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>tas coisas são fundamentais ,</Text>
+        <BeginOffset>2041</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>o são suficientes .</Text>
+        <BeginOffset>2090</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="s m" Size="1" senseList="Comparison: Contrast">
+    <Annotation conBeginOffset="1867" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>ssaram por mim e sorriram , m</Text>
+        <BeginOffset>1837</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>diram -me de alto a baixo enquanto se encaminhavam para o campo ,</Text>
+        <BeginOffset>1871</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="pois d" Size="1" senseList="Temporal: Asynchronous: Precedence">
+    <Annotation conBeginOffset="2578" sense="Temporal: Asynchronous: Precedence">
+      <Arg1>
+        <Text> nono ,</Text>
+        <BeginOffset>2568</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>as vezes no décimo ,</Text>
+        <BeginOffset>2585</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="s o" Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="2717" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>to é o que realmente interessa .</Text>
+        <BeginOffset>2682</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ASG é a medida de_ a sustentabilidade , e o investimento sustentável incorpora os fatores ASG com os fatores financeiros no processo de investimento .</Text>
+        <BeginOffset>2721</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ando o" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="1801" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>ham para os dados financeiros , medidas tais como crescimento de vendas , fluxo de caixa , quota de mercado , apreciação de_ o valor — vocês sabem , as coisas atraentes .</Text>
+        <BeginOffset>1858</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ham para uma empresa para decidir se investem ,</Text>
+        <BeginOffset>1808</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="pois a" Size="1" senseList="Temporal: Asynchronous: Precedence">
+    <Annotation conBeginOffset="2610" sense="Temporal: Asynchronous: Precedence">
+      <Arg1>
+        <Text>Recordo que ela primeiro acertou no sétimo , depois no nono , depois duas vezes no décimo ,</Text>
+        <BeginOffset>2514</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>d!#!flecha seguinte nem sequer acertou no alvo .</Text>
+        <BeginOffset>2608!#!2617</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="riássemos" Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="10505" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>ntinuaríamos a ter o incompleto . A conclu</Text>
+        <BeginOffset>10536</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>utopias , acho que</Text>
+        <BeginOffset>10515</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="a verdade " Size="1" senseList="Expansion: Level_of_detail: Arg2_as_detail">
+    <Annotation conBeginOffset="590" sense="Expansion: Level_of_detail: Arg2_as_detail">
+      <Arg1>
+        <Text>aria tudo o que pudesse para assegurar que os meus filhos não passassem pelo mesmo tipo de experiência que tivemos </Text>
+        <BeginOffset>472</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>les fariam parte de uma Serra Leoa em que a guerra e as amputações deixariam de ser uma estratégia para tomar o poder </Text>
+        <BeginOffset>603</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=" go" Size="2" senseList="Expansion: Conjunction!#!Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="10741" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ão adivinham de que lado estou . Mas o que</Text>
+        <BeginOffset>10696</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>to em_ isto é que me lembra uma coisa que Mark Twain disse : " Planeia para o futuro , " porque é onde vais passar o resto de_ a tua vida . " Obrigad</Text>
+        <BeginOffset>10745</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1929" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>da não , </Text>
+        <BeginOffset>1915</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>taria muito de descobrir . </Text>
+        <BeginOffset>1933</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="im , " Size="1" senseList="Contingency: Cause+Belief: Result+Belief">
+    <Annotation conBeginOffset="3703" sense="Contingency: Cause+Belief: Result+Belief">
+      <Arg1>
+        <Text>ca de 80 % de_ os administradores veem a sustentabilidade como a base para o crescimento na inovação e para alcançar vantagens competitivas nos seus setores industriais . Mas 93 % consideram o ASG como o futuro , ou igualmente importante para o futuro de_ os seus negócios . </Text>
+        <BeginOffset>3425</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>isão de_ os administradores é clara . </Text>
+        <BeginOffset>3711</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ltera " Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="7668" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>vitória tem propulsão é porqu</Text>
+        <BeginOffset>7636</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> nossa visão de_ a paisagem e coloca as nossas metas , que temos a tendência para pôr à distância , muito mais próximas de onde estamos . Se eu</Text>
+        <BeginOffset>7675</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="lus" Size="1" senseList="Comparison: Contrast">
+    <Annotation conBeginOffset="6125" sense="Comparison: Contrast">
+      <Arg1>
+        <Text> causalidade . Ma</Text>
+        <BeginOffset>6105</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ra que a liderança em ambientalismo é compatível com bons retornos . En</Text>
+        <BeginOffset>6129</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="s " Size="2" senseList="Expansion: Disjunction!#!Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="10022" sense="Expansion: Disjunction">
+      <Arg1>
+        <Text>casa arder totalmente ou de term</Text>
+        <BeginOffset>9989</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>m acidente de carro . Isso , s</Text>
+        <BeginOffset>10025</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7821" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>descrevê# -lo em termos muito gerais . Mas s</Text>
+        <BeginOffset>7902</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>edir para imaginarem como será um dia maravilhoso na próxima semana , poder</Text>
+        <BeginOffset>7824</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="nto an" Size="1" senseList="Expansion: Equivalence">
+    <Annotation conBeginOffset="2940" sense="Expansion: Equivalence">
+      <Arg1>
+        <Text>ão macio qu</Text>
+        <BeginOffset>2928</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ar sobre almofadas , </Text>
+        <BeginOffset>2947</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="al modo que que" Size="1" senseList="Contingency: Cause: Result">
+    <Annotation conBeginOffset="4737" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>z Kafka considerava incompleto o que outros consideravam obras dignas de elogio , d</Text>
+        <BeginOffset>4651</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ia que todos os seus diários , manuscritos , cartas e até mesmo rascunhos fossem queimados depois de ele morrer . O</Text>
+        <BeginOffset>4753</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=" sorri" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="10426" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>o que Elizabeth Murray estava a pensar quando a v</Text>
+        <BeginOffset>10376</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> um dia diante de_ aquelas primeiras pinturas nas galerias . Mesmo qu</Text>
+        <BeginOffset>10433</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="anto o s" Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="4009" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>tas vezes classificamos uma coisa como um clássico , uma obra-prima até , e</Text>
+        <BeginOffset>3931</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>u criador a considera irremediavelmente incompleta , cheia de dificuldades e de falhas , por outras palavras , uma quase vitória ? E</Text>
+        <BeginOffset>4018</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="o , c" Size="1" senseList="Contingency: Cause+SpeechAct: Result+SpeechAct">
+    <Annotation conBeginOffset="3808" sense="Contingency: Cause+SpeechAct: Result+SpeechAct">
+      <Arg1>
+        <Text>ste uma tremenda oportunidade na sustentabilidade . </Text>
+        <BeginOffset>3752</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> é que as empresas estão a promover o ASG para alcançarem resultados sólidos ? T</Text>
+        <BeginOffset>3816</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=" é que c" Size="1" senseList="Comparison: Concession+SpeechAct: Arg2_as_denier+SpeechAct">
+    <Annotation conBeginOffset="1293" sense="Comparison: Concession+SpeechAct: Arg2_as_denier+SpeechAct">
+      <Arg1>
+        <Text>mora um período de três semanas a anos até um paciente ter um encaixe confortável ,</Text>
+        <BeginOffset>1207</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ega a ter. </Text>
+        <BeginOffset>1302</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=" pode" Size="1" senseList="Temporal: Asynchronous: Precedence">
+    <Annotation conBeginOffset="4697" sense="Temporal: Asynchronous: Precedence">
+      <Arg1>
+        <Text>sombra estelar tem cerca de metade de_ o tamanho de um campo de futebol e tem que se distanciar 50 000 quilómetros de_ o telescópio que tem que ser mantido na sua sombra , e entã</Text>
+        <BeginOffset>4518</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>emos ver os planetas . Is</Text>
+        <BeginOffset>4703</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="até" Size="1" senseList="Temporal: Asynchronous: Precedence">
+    <Annotation conBeginOffset="4112" sense="Temporal: Asynchronous: Precedence">
+      <Arg1>
+        <Text>haverá sempre quem procure a estrada aberta como meio de fuga , de libertação e , é claro , de rebelião</Text>
+        <BeginOffset>4297</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>vivermos em_ uma sociedade em que a cada ser humano seja assegurada a dignidade no seu trabalho , para que possa trabalhar para viver bem , — não apenas trabalhar para sobreviver</Text>
+        <BeginOffset>4116</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="tempo , a curto " Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="10399" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>riar uma cobertura , reduzindo o risco para o nosso planeta e para a nossa economia e , a_ o m</Text>
+        <BeginOffset>10300</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> a sacrificar o nosso desempenho . [ " E se</Text>
+        <BeginOffset>10434</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ndo co" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="1766" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text> perguntou -me se eu sabia como resolver esse problema . </Text>
+        <BeginOffset>1836</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>heci o Professor Hugh Herr , há cerca de dois anos e meio , </Text>
+        <BeginOffset>1773</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="pois n" Size="1" senseList="Temporal: Asynchronous: Precedence">
+    <Annotation conBeginOffset="2561" sense="Temporal: Asynchronous: Precedence">
+      <Arg1>
+        <Text>a primeiro acertou no sétimo ,</Text>
+        <BeginOffset>2528</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> nono ,</Text>
+        <BeginOffset>2568</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=" " Size="14" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="991" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>stá a crescer </Text>
+        <BeginOffset>976</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> envelhecer </Text>
+        <BeginOffset>993</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1186" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>onsumimos recursos naturais mais depressa de_ o que eles podem ser repostos </Text>
+        <BeginOffset>1107</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>s emissões , que são as principais responsáveis pela alteração climática , continuam a aumentar </Text>
+        <BeginOffset>1188</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1396" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>stas são questões económicas </Text>
+        <BeginOffset>1364</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>sso torna -as relevantes quanto a_ o risco e a_ o retorno </Text>
+        <BeginOffset>1398</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1483" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ão realmente complexas </Text>
+        <BeginOffset>1459</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>odem parecer muito distantes </Text>
+        <BeginOffset>1485</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1577" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>nterrar a cabeça na areia </Text>
+        <BeginOffset>1550</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ão pensar mais em_ isso </Text>
+        <BeginOffset>1579</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2973" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ão macio quanto andar sobre almofadas , </Text>
+        <BeginOffset>2928</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>uper sexy . </Text>
+        <BeginOffset>2975</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3708" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>funciona lá muito bem por causa de_ as ondas luminosas e a</Text>
+        <BeginOffset>3649</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ndas sofrem difracção à volta de_ essa tela tal como no telescópio . É</Text>
+        <BeginOffset>3710</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4065" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>emos ver um planeta , e </Text>
+        <BeginOffset>4038</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ltimos 10 anos conseguimos soluções ideais para o conseguir . É </Text>
+        <BeginOffset>4067</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4595" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>sombra estelar tem cerca de metade de_ o tamanho de um campo de futebol e te</Text>
+        <BeginOffset>4518</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ue se distanciar 50 000 quilómetros de_ o telescópio que tem que ser mantido na sua sombra , e </Text>
+        <BeginOffset>4597</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6657" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text> ver Saturno , Urano , Neptuno , e me</Text>
+        <BeginOffset>6617</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>o centro , próximo de_ a luz residual está o ponto azul pálido . É a </Text>
+        <BeginOffset>6659</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5358" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text> àquele Deus de_ o Antigo Testamento na Capela Sistina , e </Text>
+        <BeginOffset>5296</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>osse aquele Adão com o dedo esticado e sem conseguir tocar na mão de_ aquele Deus . A </Text>
+        <BeginOffset>5360</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5402" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>osse aquele Adão com o dedo esticado e se</Text>
+        <BeginOffset>5360</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>onseguir tocar na mão de_ aquele Deus . A </Text>
+        <BeginOffset>5404</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7711" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text> nossa visão de_ a paisagem e coloc</Text>
+        <BeginOffset>7675</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>s nossas metas , que temos a tendência para pôr à distância , muito mais próximas de onde estamos . Se eu</Text>
+        <BeginOffset>7713</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8071" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>dir que descrevam um dia maravilhoso amanhã no TED , podem descrevê# -lo com uma clareza granular , prática . E é i</Text>
+        <BeginOffset>7953</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> que uma quase vitória faz . Leva </Text>
+        <BeginOffset>8073</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ter" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="7086" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>nte se sentem mais felizes por não</Text>
+        <BeginOffset>7051</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>m ficado em quarto lugar e não terem recebido nenhuma medalha , dá a_</Text>
+        <BeginOffset>7090</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ois us" Size="1" senseList="Temporal: Asynchronous: Precedence">
+    <Annotation conBeginOffset="2245" sense="Temporal: Asynchronous: Precedence">
+      <Arg1>
+        <Text>i imagens de ressonância magnética para captar a real anatomia de_ o paciente , </Text>
+        <BeginOffset>2162</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>i modelagem por elementos finitos para prever melhor as tensões e os esforços internos sobre as forças normais , </Text>
+        <BeginOffset>2252</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="nda te" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="8634" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>os quando a</Text>
+        <BeginOffset>8586</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>os mais para fazer . Estou </Text>
+        <BeginOffset>8641</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=" ho" Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="2451" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>ho vários colegas a trabalhar em tecnologias fantásticas para fazer isso , ma</Text>
+        <BeginOffset>2373</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>e quero falar -vos de uma que penso ser a mais fixe , e provavelmente a que tem mais hipóteses de nos conseguir uma Terra na próxima década . </Text>
+        <BeginOffset>2455</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="de tal modo_que" Size="1" senseList="Contingency: Cause: Result">
+    <Annotation conBeginOffset="681!#!724" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>não correspondia à sua marca</Text>
+        <BeginOffset>693</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ela tinha -a posto no lixo no seu estúdio</Text>
+        <BeginOffset>728</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="causa de_ isso , t" Size="1" senseList="Contingency: Cause: Result">
+    <Annotation conBeginOffset="4921" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>u amigo recusou -se a cumprir esse pedido e , p</Text>
+        <BeginOffset>4871</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>s todas as obras de Kafka que temos hoje : " América " , " O Veredito " e " O Castelo " , uma obra tão incompleta que até termina a meio de_ uma frase . P</Text>
+        <BeginOffset>4942</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ze" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="4217" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>os controlar a difracção , e </Text>
+        <BeginOffset>4293</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>mos as arestas de_ a forma correcta , se controlarmos a sua forma , po</Text>
+        <BeginOffset>4220</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="para que" Size="1" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="4214" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>a cada ser humano seja assegurada a dignidade no seu trabalho ,</Text>
+        <BeginOffset>4150</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>possa trabalhar para viver bem</Text>
+        <BeginOffset>4223</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="as " Size="3" senseList="Comparison: Concession: Arg2_as_denier!#!Comparison: Contrast">
+    <Annotation conBeginOffset="1342" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>stas são questões ambientais e sociais , </Text>
+        <BeginOffset>1300</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>sto não é tudo </Text>
+        <BeginOffset>1346</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="948" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>ercebi que o êxito é um momento </Text>
+        <BeginOffset>913</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> que estamos sempre a festejar é a criatividade e a mestria </Text>
+        <BeginOffset>952</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1015" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text> que estamos sempre a festejar é a criatividade e a mestria </Text>
+        <BeginOffset>952</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> problema é este </Text>
+        <BeginOffset>1019</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ar" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="9193" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>scobrir que o mundo onde nos aposentamos é mais cansativo e menos seguro de_ o que é agora ? E se nã</Text>
+        <BeginOffset>9235</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>os , pouparmos e investirmos só para d</Text>
+        <BeginOffset>9196</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="re" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="7866" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>inheiro e deem os lucros para obras de caridade . " É d</Text>
+        <BeginOffset>7915</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> fazer alguma coisa quanto a isso , " gan</Text>
+        <BeginOffset>7869</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="rg" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="2906" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>a o mesmo se </Text>
+        <BeginOffset>2892</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>esse o meu polegar e bloqueasse o ponto luminoso à frente de_ os meus olhos , pod</Text>
+        <BeginOffset>2909</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="udar" Size="1" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="9791" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>em que há visualizações técnicas e treinos de postura suficientes para as a</Text>
+        <BeginOffset>9715</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>a ultrapassar aquelas constantes quase vitórias . Não par</Text>
+        <BeginOffset>9796</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="stimos" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="10232" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>azer duas coisas . Estamos </Text>
+        <BeginOffset>10270</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>na sustentabilidade estamos a </Text>
+        <BeginOffset>10239</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=" 93" Size="1" senseList="Comparison: Contrast">
+    <Annotation conBeginOffset="3599" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>ca de 80 % de_ os administradores veem a sustentabilidade como a base para o crescimento na inovação e para alcançar vantagens competitivas nos seus setores industriais . </Text>
+        <BeginOffset>3425</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>% consideram o ASG como o futuro , ou igualmente importante para o futuro de_ os seus negócios . </Text>
+        <BeginOffset>3603</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="rm" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="10065" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>ão m</Text>
+        <BeginOffset>10058</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>s em Boston . ( Risos </Text>
+        <BeginOffset>10068</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="lhe pe" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="6467" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text> Review foi buscá# -lo a James Baldwin quando</Text>
+        <BeginOffset>6421</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>guntaram : " O que é que aumenta com o conhecimento ? " e ele disse : " Aprendemos quão pouco sabemos " . O </Text>
+        <BeginOffset>6474</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="r n" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="1019" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>encaixe de_ as próteses era doloroso p</Text>
+        <BeginOffset>980</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>o ser um encaixe perfeito .</Text>
+        <BeginOffset>1023</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ós " Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="5683" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>bem , certo ? Ma</Text>
+        <BeginOffset>5664</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ueremos mais . Eu</Text>
+        <BeginOffset>5687</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=" , não f" Size="1" senseList="Contingency: Cause: Result">
+    <Annotation conBeginOffset="7717" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>os para maximizar as receitas , " por</Text>
+        <BeginOffset>7675</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>mos isso aqui " , ou </Text>
+        <BeginOffset>7728</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="depois de" Size="1" senseList="Temporal: Asynchronous: Succession">
+    <Annotation conBeginOffset="170" sense="Temporal: Asynchronous: Succession">
+      <Arg1>
+        <Text>eu adorava olhar para as pinturas de_ os anos 70</Text>
+        <BeginOffset>281</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>o curador Robert Storr ter escolhido todos os quadros entre o conjunto de obras de_ a vida de_ ela</Text>
+        <BeginOffset>180</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ando ," Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="1246" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>mecei a perceber isso q</Text>
+        <BeginOffset>1222</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>em_ um frio dia de Maio fui ver uma equipa de arqueiras universitárias , s</Text>
+        <BeginOffset>1253</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="enso q" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="6938" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>uei a isto , porqu</Text>
+        <BeginOffset>6917</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>e vai mudar o mundo . Irá m</Text>
+        <BeginOffset>6945</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="através de_" Size="1" senseList="Expansion: Manner: Arg2_as_manner">
+    <Annotation conBeginOffset="714" sense="Expansion: Manner: Arg2_as_manner">
+      <Arg1>
+        <Text>muitas de_ as aventuras que fantasiava em criança , a viajar e a tecer o meu caminho entre mundos para além de_ o meu próprio , tornaram -se realidade</Text>
+        <BeginOffset>563</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>o meu trabalho como fotógrafa documental</Text>
+        <BeginOffset>726</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="se foss" Size="1" senseList="Comparison: Similarity">
+    <Annotation conBeginOffset="5288" sense="Comparison: Similarity">
+      <Arg1>
+        <Text>rava Miguel Ângelo , co</Text>
+        <BeginOffset>5262</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> àquele Deus de_ o Antigo Testamento na Capela Sistina , e ele fosse aquele Adão com o dedo esticado e sem conseguir tocar na mão de_ aquele Deus . A </Text>
+        <BeginOffset>5296</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=" o" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="1638" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>o usaremos a perna ,</Text>
+        <BeginOffset>1692</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>encaixe de_ a nossa prótese for desconfortável ,</Text>
+        <BeginOffset>1641</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="só res_que_ém tra" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="3532!#!3548!#!3556" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>aure mas</Text>
+        <BeginOffset>3539</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>sforme o seu senso de potencial humano . M</Text>
+        <BeginOffset>3563</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="a ca" Size="1" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="2200" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>sei imagens de ressonância magnética pa</Text>
+        <BeginOffset>2160</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>tar a real anatomia de_ o paciente , </Text>
+        <BeginOffset>2205</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="gen" Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="4757" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>arece formidável , mas</Text>
+        <BeginOffset>4732</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>eiros brilhantes , colegas meus no LPJ , conseguiram um " design " fabuloso para o conseguir e é p</Text>
+        <BeginOffset>4761</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=" ar" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="9599" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>einador de_ as arqueiras me disse no fim de_ aquele treino , sem que</Text>
+        <BeginOffset>9528</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ueiras ouvissem , que ele</Text>
+        <BeginOffset>9603</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="se" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="495" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>talvez não adivinhássemos</Text>
+        <BeginOffset>533</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>não soubéssemos que eram de_ ela</Text>
+        <BeginOffset>498</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="por" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="3684" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>amigos e outros viajantes foram levados para a prisão ou receberam citações</Text>
+        <BeginOffset>3608</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>praticarem estes alegados crimes</Text>
+        <BeginOffset>3688</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="e " Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="1617" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>esistam </Text>
+        <BeginOffset>1606</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>uderem </Text>
+        <BeginOffset>1620</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="mas" Size="6" senseList="Comparison: Concession: Arg2_as_denier!#!Comparison: Contrast">
+    <Annotation conBeginOffset="539" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>especulam que até um quinto de_ eles tem um planeta de_ o tipo de_ a Terra que poderá ter vida</Text>
+        <BeginOffset>442</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ainda não vimos nenhum de_ eles</Text>
+        <BeginOffset>543</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="559" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Os anos passaram</Text>
+        <BeginOffset>540</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>muitas de_ as aventuras que fantasiava em criança , a viajar e a tecer o meu caminho entre mundos para além de_ o meu próprio , tornaram -se realidade através de_ o meu trabalho como fotógrafa documental</Text>
+        <BeginOffset>563</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="769" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>muitas de_ as aventuras que fantasiava em criança , a viajar e a tecer o meu caminho entre mundos para além de_ o meu próprio , tornaram -se realidade através de_ o meu trabalho como fotógrafa documental</Text>
+        <BeginOffset>563</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>nenhuma outra experiência senti como tão fiel a_ os meus sonhos de infância , de_ o que viver entre companheiros errantes por_ os Estados Unidos e documentar as suas vidas</Text>
+        <BeginOffset>773</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1343" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>A palavra " vagabundo " evoca uma velha imagem a preto e branco , de um homem velho coberto com carvão , pernas para fora de uma carruagem de mercadorias</Text>
+        <BeginOffset>1187</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>estas fotos são a cor e retratam uma comunidade que percorre todo o país , ferozmente viva e criativamente livre , observando lados de_ a América que mais ninguém consegue ver</Text>
+        <BeginOffset>1347</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3007" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Sacrificam o conforto material em troca de_ o espaço e de_ o tempo para explorar um interior criativo , para sonhar , para ler , para trabalhar em música , arte e escrita</Text>
+        <BeginOffset>2833</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>existem muitos aspetos de_ esta vida que estão longe de ser idílicos</Text>
+        <BeginOffset>3011</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4040" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>. A resposta a esta pergunta é tão variada como as pessoas que se fazem à estrada</Text>
+        <BeginOffset>3956</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>os viajantes costumam responder com uma única palavra : liberdade</Text>
+        <BeginOffset>4044</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="a" Size="5" senseList="Expansion: Conjunction!#!Temporal: Synchronous">
+    <Annotation conBeginOffset="6245" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>rno é o mesmo ou melhor e o p</Text>
+        <BeginOffset>6215</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>eta beneficia , ist</Text>
+        <BeginOffset>6247</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1725" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>mover -se para o campo de visão e</Text>
+        <BeginOffset>1691</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>sobrepor -se a_ o planeta .</Text>
+        <BeginOffset>1727</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7344" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>a de_ o jogo , que , em tempos , se apercebeu deste fenómeno de_ a quase vitória e criou</Text>
+        <BeginOffset>7255</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>uelas raspadinhas que tinham uma taxa de quase vitórias mais alta de_ o que a média e por i</Text>
+        <BeginOffset>7346</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7531" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>raspadinhas que tinham uma taxa de quase vitórias mais alta de_ o que a média e por isso levavam as pessoas a comprar mais raspadinhas a que chamavam " heart-stoppers " , e provo</Text>
+        <BeginOffset>7352</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>am uma série de abusos na indústria de_ o jogo na Grã-Bretanha , nos anos 70 . A raz</Text>
+        <BeginOffset>7533</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="418" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>muitas de_ as minhas primeiras memórias envolviam sonhar acordada e de forma elaborada onde passaria fronteiras</Text>
+        <BeginOffset>304</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>recolher bagas e a conhecer todo o tipo de pessoas estranhas , com vidas fora de_ o convencional , pela estrada fora</Text>
+        <BeginOffset>420</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="st" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="8936" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>considerar alguns desses desafios prementes , como a água fresca , o ar puro , dar de comer a 10 mil milhões de bocas , se os i</Text>
+        <BeginOffset>8806</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>dores institucionais integrarem o ASG nos seus investimentos . Que tal</Text>
+        <BeginOffset>8939</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="uando " Size="3" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="372" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>ecidi que faria tudo o que pudesse para assegurar que os meus filhos não passassem pelo mesmo tipo de experiência que tivemos </Text>
+        <BeginOffset>461</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>u e a minha família fugimos de um desses ataques </Text>
+        <BeginOffset>379</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="715" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>oi tirada pela nave Voyager em 1990 </Text>
+        <BeginOffset>676</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> fizeram rodar a_ o sair de_ o sistema solar para tirar uma foto de_ a Terra à distância de seis mil milhões de quilómetros </Text>
+        <BeginOffset>722</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1160" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>la chega </Text>
+        <BeginOffset>1150</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>omeçamos a dar valor a_ o dom de uma quase vitória </Text>
+        <BeginOffset>1167</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="disse " Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="6067" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>abedoria que Duke Ellington percebia , quan</Text>
+        <BeginOffset>6021</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ue a canção preferida de_ o seu repertório era sempre a seguinte , sempre aquela que ele ainda ia compor . Part</Text>
+        <BeginOffset>6074</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="c" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="2707" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text> que isso deu -lhe mais persistência ,</Text>
+        <BeginOffset>2666</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ntinuou , continuou , sem parar .</Text>
+        <BeginOffset>2709</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="d" Size="6" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="4220" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>s iniciativas criam um ambiente de trabalho mais móvel e r</Text>
+        <BeginOffset>4161</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>zem a nossa pegada imobiliária . P</Text>
+        <BeginOffset>4222</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7594" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>com muitos investidores — faz p</Text>
+        <BeginOffset>7529</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>s eles encaram isto de_ esta maneira . Ouço </Text>
+        <BeginOffset>7596</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3217" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ior parte de_ a luz foi removida e p</Text>
+        <BeginOffset>3180</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>mos ver essa ténue e fina estrutura na coroa . A</Text>
+        <BeginOffset>3219</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3839" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>mo a água que contorna uma pedra em_ uma corrente , e</Text>
+        <BeginOffset>3783</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> essa luz destrói a sombra . É</Text>
+        <BeginOffset>3841</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2608" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>cordo que ela primeiro acertou no sétimo , depois no nono , depois duas vezes no décimo ,</Text>
+        <BeginOffset>2516</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>pois a flecha seguinte nem sequer acertou no alvo .</Text>
+        <BeginOffset>2610</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8340" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text> Joyner-Kersee que , em 1984 , não conseguiu o ouro no heptatlo por um terço de segundo , e o m</Text>
+        <BeginOffset>8242</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> previu que isso lhe iria dar a tenacidade de que ela precisava na competição seguinte . Em 19</Text>
+        <BeginOffset>8342</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="e" Size="12" senseList="Expansion: Conjunction!#!Temporal: Synchronous">
+    <Annotation conBeginOffset="6" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Nasci</Text>
+        <BeginOffset>0</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>fui criado</Text>
+        <BeginOffset>8</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="176" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>conseguisse a imagem de uma Terra na órbita de outra estrela</Text>
+        <BeginOffset>115</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>descobrisse se pode ter vida</Text>
+        <BeginOffset>178</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="440" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>Os astrónomos acreditam que cada estrela de_ a galáxia tem um planeta ,</Text>
+        <BeginOffset>368</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>especulam que até um quinto de_ eles tem um planeta de_ o tipo de_ a Terra que poderá ter vida</Text>
+        <BeginOffset>442</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="772" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ela tinha -a posto no lixo no seu estúdio</Text>
+        <BeginOffset>728</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>a vizinha tinha -a levado</Text>
+        <BeginOffset>774</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1675" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>treinador conduzia aquelas mulheres em_ uma carrinha cinzenta e</Text>
+        <BeginOffset>1611</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>as sairam com aquele ar de concentração descontraída .</Text>
+        <BeginOffset>1677</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8699" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>i à vossa frente , a pens</Text>
+        <BeginOffset>8671</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>a imaginar todos os caminhos diferentes que podíamos trabalhar para uma quase vitória em_ esta sala , como a</Text>
+        <BeginOffset>8701</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="435" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>, a recolher bagas</Text>
+        <BeginOffset>416</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>a conhecer todo o tipo de pessoas estranhas , com vidas fora de_ o convencional , pela estrada fora</Text>
+        <BeginOffset>437</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="624" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>a viajar</Text>
+        <BeginOffset>615</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>a tecer o meu caminho entre mundos para além de_ o meu próprio</Text>
+        <BeginOffset>626</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="918" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>viver entre companheiros errantes por_ os Estados Unidos</Text>
+        <BeginOffset>861</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>documentar as suas vidas</Text>
+        <BeginOffset>920</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1369" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>estas fotos são a cor</Text>
+        <BeginOffset>1347</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>retratam uma comunidade que percorre todo o país , ferozmente viva e criativamente livre , observando lados de_ a América que mais ninguém consegue ver</Text>
+        <BeginOffset>1371</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1709" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>levantam os polegares</Text>
+        <BeginOffset>1687</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>andam por_ os caminhos com qualquer um , desde camionistas a mães de futebol</Text>
+        <BeginOffset>1711</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3228" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>os comboios de mercadorias mutilam</Text>
+        <BeginOffset>3193</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>matam</Text>
+        <BeginOffset>3230</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="f" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="1939" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ssaram por mim e sorriram , mas mediram -me de alto a baixo enquanto se encaminhavam para o campo , e</Text>
+        <BeginOffset>1837</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>lavam umas com as outras , não com palavras , mas , segundo me pareceu , com números , graus , posições para o modo como podiam planear atingir o alvo .</Text>
+        <BeginOffset>1941</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="por isso" Size="1" senseList="Contingency: Cause: Result">
+    <Annotation conBeginOffset="293" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>Sentia uma profunda inquietação , um medo primordial de que seria vítima de uma vida de rotina e aborrecimento</Text>
+        <BeginOffset>180</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>muitas de_ as minhas primeiras memórias envolviam sonhar acordada e de forma elaborada onde passaria fronteiras , a recolher bagas e a conhecer todo o tipo de pessoas estranhas , com vidas fora de_ o convencional , pela estrada fora</Text>
+        <BeginOffset>304</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="h" Size="2" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="3155" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>camos um telescópio ou uma câmara em_ essa sombra , e</Text>
+        <BeginOffset>3099</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>mos para o Sol , e</Text>
+        <BeginOffset>3157</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4600" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>u romance preferido era " A Obra-Prima Desconhecida " de Honoré de Balzac , e</Text>
+        <BeginOffset>4520</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>va que o protagonista era o próprio pintor . F</Text>
+        <BeginOffset>4602</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="i" Size="4" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="4345" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>item uma economia em custos operacionais na ordem de 23 milhões de dólares anuais e e</Text>
+        <BeginOffset>4259</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>am emissões de 100 mil toneladas métricas de carbono . I</Text>
+        <BeginOffset>4347</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4643" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>eram o seu principal negócio de ferramentas elétricas e r</Text>
+        <BeginOffset>4585</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>vestiram o que apuraram no negócio de_ a água . F</Text>
+        <BeginOffset>4645</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1715" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>o usaremos a perna ,</Text>
+        <BeginOffset>1692</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>so é inaceitável nos nossos tempos .</Text>
+        <BeginOffset>1717</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6537" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>guntaram : " O que é que aumenta com o conhecimento ? " e </Text>
+        <BeginOffset>6474</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>se : " Aprendemos quão pouco sabemos " . O </Text>
+        <BeginOffset>6539</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="l" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="9191" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text> todo esse poder de fogo para colocar mais de_ o seu capital em companhias que dão o seu melhor para resolver este desafios ou , pelo menos , não os agravar ? E se tr</Text>
+        <BeginOffset>9022</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>armos , pouparmos e investirmos só para descobrir que o mundo onde nos aposentamos é mais cansativo e menos seguro de_ o que é agora ? E se nã</Text>
+        <BeginOffset>9193</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="m" Size="3" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="4113" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ualizámos os ambientes de_ os nossos sistemas operativos e c</Text>
+        <BeginOffset>4052</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>letámos numerosos projetos de automação . E</Text>
+        <BeginOffset>4115</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9221" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>e investi</Text>
+        <BeginOffset>9211</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>s só para d</Text>
+        <BeginOffset>9223</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3178" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>mos para o Sol , e</Text>
+        <BeginOffset>3157</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ior parte de_ a luz foi removida e p</Text>
+        <BeginOffset>3180</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="n" Size="3" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="6397" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text> estão e alg</Text>
+        <BeginOffset>6384</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> de_ eles estão realmente na vanguarda . A H</Text>
+        <BeginOffset>6399</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1790" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>a de_ elas tinha na mão um cone de gelado meio comido e</Text>
+        <BeginOffset>1734</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> mão esquerda flechas com penas amarelas .</Text>
+        <BeginOffset>1792</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2234" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>servei -a e</Text>
+        <BeginOffset>2222</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>o via como seria possível que , nem que fosse só uma , conseguisse acertar no décimo anel .</Text>
+        <BeginOffset>2236</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="o" Size="12" senseList="Expansion: Conjunction!#!Temporal: Synchronous!#!Comparison: Contrast">
+    <Annotation conBeginOffset="2763" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ASG é a medida de_ a sustentabilidade ,</Text>
+        <BeginOffset>2721</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>investimento sustentável incorpora os fatores ASG com os fatores financeiros no processo de investimento .</Text>
+        <BeginOffset>2765</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5852" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>l , vemos o desempenho de_ as 500 maiores companhias mundiais e a </Text>
+        <BeginOffset>5785</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>rado , vemos um subconjunto de companhias com as melhores práticas em estratégias de alteração climática e gestão de riscos . a_</Text>
+        <BeginOffset>5854</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="9338" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>lharmos , pouparmos e investirmos só para descobrir que o mundo onde nos aposentamos é mais cansativo e menos seguro de_ o que é agora ? E se nã</Text>
+        <BeginOffset>9191</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ver ar limpo ou água pura ? Uma per</Text>
+        <BeginOffset>9340</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1051" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>gamos no Telescópio Espacial Hubble e</Text>
+        <BeginOffset>1013</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>rodamos e</Text>
+        <BeginOffset>1053</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1063" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>rodamos e</Text>
+        <BeginOffset>1053</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>deslocamos para a órbita de Marte .</Text>
+        <BeginOffset>1065</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1871" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>tamos na Alfa Centauri , a nossa estrela vizinha mais próxima ,</Text>
+        <BeginOffset>1805</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>planeta desapareceu .</Text>
+        <BeginOffset>1873</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2932" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>esse o meu polegar e b</Text>
+        <BeginOffset>2909</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ueasse o ponto luminoso à frente de_ os meus olhos , p</Text>
+        <BeginOffset>2934</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3605" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text> está a tela grande , e</Text>
+        <BeginOffset>3579</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>há planetas , p</Text>
+        <BeginOffset>3607</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3898" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text> essa luz destrói a sombra . É uma sombra terrível . E</Text>
+        <BeginOffset>3841</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>conseguimos ver planetas . M</Text>
+        <BeginOffset>3900</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2220" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>quei por detrás de_ uma arqueira ,</Text>
+        <BeginOffset>2096</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>servei -a e</Text>
+        <BeginOffset>2222</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2888" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text> fim de_ o treino , uma de_ as arqueiras estava tão exausta que se deitou no chão sem se poder mexer ,</Text>
+        <BeginOffset>2783</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>har para o céu ,</Text>
+        <BeginOffset>2890</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8475" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text> ouro no heptatlo e bateu</Text>
+        <BeginOffset>8449</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>recorde com 7 291 pontos , uma pontuação de que , até aí , nenhuma atleta se tinha aproximado . Não f</Text>
+        <BeginOffset>8477</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="a m" Size="1" senseList="Comparison: Contrast">
+    <Annotation conBeginOffset="3471" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>ito é acertar em_ aquele décimo anel , m</Text>
+        <BeginOffset>3428</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>stria é saber que isso não significa nada se não se conseguir voltar a fazê# -lo vezes sem conta . M</Text>
+        <BeginOffset>3475</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ois cr" Size="1" senseList="Temporal: Asynchronous: Precedence">
+    <Annotation conBeginOffset="2373" sense="Temporal: Asynchronous: Precedence">
+      <Arg1>
+        <Text>i modelagem por elementos finitos para prever melhor as tensões e os esforços internos sobre as forças normais , </Text>
+        <BeginOffset>2252</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ar um encaixe de prótese para fabrico . </Text>
+        <BeginOffset>2380</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="urgir " Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="6990" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>r tudo quando </Text>
+        <BeginOffset>6975</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> Obrig</Text>
+        <BeginOffset>6997</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="p" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="4917" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>u amigo recusou -se a cumprir esse pedido e ,</Text>
+        <BeginOffset>4871</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>causa de_ isso , temos todas as obras de Kafka que temos hoje : " América " , " O Veredito " e " O Castelo " , uma obra tão incompleta que até termina a meio de_ uma frase . P</Text>
+        <BeginOffset>4921</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="amar" Size="1" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="9970" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>a propriamente um lamento , mas apenas uma forma de me transmitir uma espécie de meigo reconhecimento , para me</Text>
+        <BeginOffset>9856</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>a atenção de que ele sabia que estava empenhado em_ um caminho voraz , inacabado que exigia sempre mais . Constru</Text>
+        <BeginOffset>9975</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="q" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="1135" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text> que o amputado insere o coto de_ o membro ,</Text>
+        <BeginOffset>1088</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>e liga com a articulação prostética .</Text>
+        <BeginOffset>1137</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="is de ele" Size="1" senseList="Temporal: Asynchronous: Succession">
+    <Annotation conBeginOffset="4848" sense="Temporal: Asynchronous: Succession">
+      <Arg1>
+        <Text>ia que todos os seus diários , manuscritos , cartas e até mesmo rascunhos fossem queimados dep</Text>
+        <BeginOffset>4753</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>morrer . O</Text>
+        <BeginOffset>4858</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="umindo , " Size="1" senseList="Expansion: Level_of_detail: Arg1_as_detail">
+    <Annotation conBeginOffset="2579" sense="Expansion: Level_of_detail: Arg1_as_detail">
+      <Arg1>
+        <Text>i imagens de ressonância magnética para captar a real anatomia de_ o paciente , depois usei modelagem por elementos finitos para prever melhor as tensões e os esforços internos sobre as forças normais , para depois criar um encaixe de prótese para fabrico . Usamos uma impressora 3D para criar um encaixe feito de vários materiais que alivia a pressão onde é necessário , de acordo com a anatomia de_ o paciente . </Text>
+        <BeginOffset>2162</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>amos a usar dados para fazer novos encaixes , rapidamente e com baixo custo . </Text>
+        <BeginOffset>2591</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=" con" Size="1" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="4843" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>uiram um " design " fabuloso para </Text>
+        <BeginOffset>4808</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>eguir e é p</Text>
+        <BeginOffset>4848</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="r" Size="3" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="4860" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>uiram um " design " fabuloso para o conseguir e é p</Text>
+        <BeginOffset>4808</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>cido com isto . De </Text>
+        <BeginOffset>4862</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="6939" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ilovich e a sua equipa de_ a Universidade de Cornell estudaram esta diferença e desco</Text>
+        <BeginOffset>6853</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ram que a frustração que os " medalhas de prata " sentem . comparada com a de_ os " de bronze " , que normalmente se sentem mais felizes por não terem ficado em quarto lugar e não terem recebido nenhuma medalha , dá a_ os " medalhas de prata " uma concentração na competição seguinte . Vemos</Text>
+        <BeginOffset>6941</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7123" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>m ficado em quarto lugar e não t</Text>
+        <BeginOffset>7090</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>m recebido nenhuma medalha , dá a_</Text>
+        <BeginOffset>7125</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="s" Size="9" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="7931" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>inheiro e deem </Text>
+        <BeginOffset>7915</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>lucros para obras de caridade . " É d</Text>
+        <BeginOffset>7933</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="10395" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text> criar uma cobertura , reduzind</Text>
+        <BeginOffset>10298</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> a sacrificar o nosso desempenho . [ " E se</Text>
+        <BeginOffset>10434</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3509" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>truíamos uma tela grande , colocávamo# -la no espaço , em frente a uma estrela , bloqueávamos a maior parte de_ a luz , colocávamos um telescópio espacial em_ essa sombra criada , e</Text>
+        <BeginOffset>3325</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>eguíamos ver os planetas . S</Text>
+        <BeginOffset>3517</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4325" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>os controlar a difracção , e </Text>
+        <BeginOffset>4293</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>guimos uma grande sombra . É </Text>
+        <BeginOffset>4327</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4421" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>guimos uma grande sombra . É </Text>
+        <BeginOffset>4327</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>guimos ver os planetas a aparecer . Te</Text>
+        <BeginOffset>4423</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5886" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>uámos este teste 16 vezes , e de</Text>
+        <BeginOffset>5851</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>16 vezes voltou à posição exacta com a precisão de um décimo de milímetro . Isto</Text>
+        <BeginOffset>5888</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1854" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ssaram por mim e</Text>
+        <BeginOffset>1837</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>rriram ,</Text>
+        <BeginOffset>1856</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="7438" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>raspadinhas que tinham uma taxa de quase vitórias mais alta de_ o que a média e por i</Text>
+        <BeginOffset>7352</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> levavam as pessoas a comprar mais raspadinhas a que chamavam " heart-stoppers " , e pro</Text>
+        <BeginOffset>7440</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="8969" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ue florescemos quando nos situamos na nossa própria vanguarda , e é po</Text>
+        <BeginOffset>8896</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>o que o incompleto deliberado está entranhado nos mitos de_ a criação . Na cul</Text>
+        <BeginOffset>8971</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="oteg" Size="1" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="10149" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>m seguro para nos p</Text>
+        <BeginOffset>10129</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>rmos financeiramente no caso de essas coisas acontecerem , não é ? </Text>
+        <BeginOffset>10154</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="t" Size="3" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="4028" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ate Street migrou 54 aplicações para o ambiente de_ a nuvem , e r</Text>
+        <BeginOffset>3962</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>rámos outras 85 . V</Text>
+        <BeginOffset>4030</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4879" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>m crescimento maior em água de_ o que em ferramentas elétricas , e</Text>
+        <BeginOffset>4810</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> companhia tem a visão direcionada para o que eles chamam de " o novo Novo Mundo " . S</Text>
+        <BeginOffset>4881</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="5034" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ra -se e afa</Text>
+        <BeginOffset>5021</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> -se 50 000 quilómetros de_ o telescópio . Col</Text>
+        <BeginOffset>5036</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="u" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="3147" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ustentabilidade hoje tem importância financeira , </Text>
+        <BeginOffset>3092</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>o indica que amanhã ainda será mais importante — </Text>
+        <BeginOffset>3149</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ons" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="5404" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>osse aquele Adão com o dedo esticado e sem </Text>
+        <BeginOffset>5360</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>guir tocar na mão de_ aquele Deus . A </Text>
+        <BeginOffset>5408</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="v" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="2664" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>cordo que ela primeiro acertou no sétimo , depois no nono , depois duas vezes no décimo , e depois a flecha seguinte nem sequer acertou no alvo . E</Text>
+        <BeginOffset>2516</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> que isso deu -lhe mais persistência ,</Text>
+        <BeginOffset>2666</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=", n" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="4407" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ntor Paul Cézanne pensava tantas vezes que as suas obras estavam incompletas que as punha deliberadamente de lado com a intenção de pegar em_ elas outra vez mas</Text>
+        <BeginOffset>4246</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>im de_ a sua vida , o que aconteceu foi que ele só tinha assinado dez por cento de_ as suas pinturas . O</Text>
+        <BeginOffset>4413</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="vés de_ a c" Size="1" senseList="Expansion: Manner: Arg2_as_manner">
+    <Annotation conBeginOffset="3396" sense="Expansion: Manner: Arg2_as_manner">
+      <Arg1>
+        <Text>çar a curar as almas de_ as pessoas afetadas por guerras e doenças é a</Text>
+        <BeginOffset>3323</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>iação de dispositivos confortáveis e acessíveis para os seus corpos . Sej</Text>
+        <BeginOffset>3408</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="m p" Size="2" senseList="Expansion: Conjunction!#!Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="9850" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>ue há em_ isso um risco calculado . Mas como</Text>
+        <BeginOffset>9803</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>s de que não esteja completamente errado são melhores de_ o que a hipótese de a nossa casa arder totalmente ou de termos um acidente de carro . Isso , s</Text>
+        <BeginOffset>9903</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2733" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>ntinuou , continuou ,</Text>
+        <BeginOffset>2709</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>rar .</Text>
+        <BeginOffset>2737</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="a at" Size="1" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="3227" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>ter a postura de_ o nosso corpo durante três horas , </Text>
+        <BeginOffset>3171</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ngir um alvo , </Text>
+        <BeginOffset>3232</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="m s" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="2867" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text> deitou no chão s</Text>
+        <BeginOffset>2849</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> poder mexer ,</Text>
+        <BeginOffset>2871</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ava a " Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="9485" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>ensar em_ isto , recorde</Text>
+        <BeginOffset>9492</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> que o treinador de_ as arqueiras me disse no fim de_ aquele treino , sem que as arqueiras ouvissem , que ele e os seus colegas nunca sentem que fazem tudo o que podem pela sua equipa , nunca sentem que há visualizações técnicas e treinos de postura suficientes para as ajudar a ultrapassar aquelas constantes quase vitórias . Não par</Text>
+        <BeginOffset>9519</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="especialmente" Size="1" senseList="Expansion: Level_of_detail: Arg2_as_detail">
+    <Annotation conBeginOffset="171" sense="Expansion: Level_of_detail: Arg2_as_detail">
+      <Arg1>
+        <Text>que os investidores não estejam a prestar suficiente atenção a algumas de_ as principais forças de mudança</Text>
+        <BeginOffset>62</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>no que se refere à sustentabilidade</Text>
+        <BeginOffset>185</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="u p" Size="1" senseList="Comparison: Contrast">
+    <Annotation conBeginOffset="7949" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>s pedir para imaginarem como será um dia maravilhoso na próxima semana , poderão descrevê# -lo em termos muito gerais . Mas s</Text>
+        <BeginOffset>7821</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>dir que descrevam um dia maravilhoso amanhã no TED , podem descrevê# -lo com uma clareza granular , prática . E é i</Text>
+        <BeginOffset>7953</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ra a" Size="2" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="3030" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>ovidenciar capital a_ os utilizadores que o aplicam p</Text>
+        <BeginOffset>2976</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>obtenção de resultados produtivos e sustentáveis .</Text>
+        <BeginOffset>3035</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1515" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>preciso visar um pouco a_ o lado .</Text>
+        <BeginOffset>1547</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ertar em cheio no alvo ,</Text>
+        <BeginOffset>1520</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="di" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="7953" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>screvê# -lo com uma clareza granular , prática . E é i</Text>
+        <BeginOffset>8014</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> que descrevam um dia maravilhoso amanhã no TED , podem</Text>
+        <BeginOffset>7956</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="nso qu" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="8850" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>i à vossa frente , a pensar e a imaginar todos os caminhos diferentes que podíamos trabalhar para uma quase vitória em_ esta sala , como as nossas vidas podiam acontecer porque p</Text>
+        <BeginOffset>8671</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> , cá dentro , sabemos isso . Sabemo</Text>
+        <BeginOffset>8857</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ra c" Size="1" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="1401" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text> protésicos ainda usam processos convencionais , como a criação de moldes e gesso ,</Text>
+        <BeginOffset>1315</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>nfecionar encaixes de próteses de um único material .</Text>
+        <BeginOffset>1406</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="a de" Size="1" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="2368" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>i modelagem por elementos finitos para prever melhor as tensões e os esforços internos sobre as forças normais , </Text>
+        <BeginOffset>2252</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ois criar um encaixe de prótese para fabrico . </Text>
+        <BeginOffset>2373</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="o co" Size="1" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="4115" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>guimos soluções ideais para</Text>
+        <BeginOffset>4087</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>seguir . É </Text>
+        <BeginOffset>4120</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=", inc" Size="1" senseList="Contingency: Cause: Result">
+    <Annotation conBeginOffset="6682" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>creditam que o ASG tem o potencial de criar impacto em riscos e receitas , ass</Text>
+        <BeginOffset>6601</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>orar o ASG no processo de investimento é fundamental a_ o seu dever de agir no melhor interesse de_ os membros de_ o fundo , é fundamental a_ o seu dever . Tem</Text>
+        <BeginOffset>6690</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="me" Size="1" senseList="Expansion: Disjunction">
+    <Annotation conBeginOffset="9156" sense="Expansion: Disjunction">
+      <Arg1>
+        <Text>ste desafios ou , pelo</Text>
+        <BeginOffset>9133</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> , não os agravar ? E se tr</Text>
+        <BeginOffset>9161</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="o entanto " Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="151" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>Nasci e fui criado na Serra Leoa , um pequeno e lindo país de_ a África Ocidental , um país rico , tanto em recursos físicos quanto em criatividade</Text>
+        <BeginOffset>0</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> Serra Leoa é tristemente conhecida por 10 anos de guerra na década de 90 em que foram queimadas aldeias inteiras </Text>
+        <BeginOffset>164</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="r ba" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="9854" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>s de que não esteja completamente errado são melhores de_ o que a hipótese de a nossa casa arder totalmente ou de termos um acidente de carro . Isso , s</Text>
+        <BeginOffset>9903</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>e um amplo consenso científico , as hipót</Text>
+        <BeginOffset>9859</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ão , " Size="1" senseList="Contingency: Cause: Result">
+    <Annotation conBeginOffset="1965" sense="Contingency: Cause: Result">
+      <Arg1>
+        <Text>disse : " Não , ainda não , " mas gostaria muito de descobrir . </Text>
+        <BeginOffset>1896</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>a a minha tese de doutoramento no Media Lab de_ a MIT , desenvolvi encaixes de próteses por medida , de forma rápida e barata , que são mais confortáveis que as próteses convencionais . </Text>
+        <BeginOffset>1973</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="pit" Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="3932" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>conseguimos ver planetas . M</Text>
+        <BeginOffset>3900</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>er sabia a solução . Se</Text>
+        <BeginOffset>3936</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="rcebem" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="9437" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>es porque p</Text>
+        <BeginOffset>9425</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>que ele não existe . Ora be</Text>
+        <BeginOffset>9444</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ue , i" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="3625" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>há planetas , p</Text>
+        <BeginOffset>3607</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>lizmente , não funciona lá muito bem por causa de_ as ondas luminosas e a</Text>
+        <BeginOffset>3634</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="a cr" Size="1" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="2448" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>mos uma impressora 3D pa</Text>
+        <BeginOffset>2423</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ar um encaixe feito de vários materiais que alivia a pressão onde é necessário , de acordo com a anatomia de_ o paciente . </Text>
+        <BeginOffset>2453</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="mo" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="6241" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>oderemos ver é algo como isto — isto é um retrato de família de_ o nosso sistema solar — mas não o nosso . Espe</Text>
+        <BeginOffset>6368</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> um telescópio semelhante , ligeiramente maior , se o colocarmos no espaço , se pusermos uma antepara à sua frente , o qu</Text>
+        <BeginOffset>6244</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="e vais" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="10846" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text> o futuro , " porque </Text>
+        <BeginOffset>10820</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>passar o resto de_ a tua vida . " Obrigad</Text>
+        <BeginOffset>10853</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="nos ma" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="5980" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>os quando</Text>
+        <BeginOffset>5970</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>temos na nossa vanguarda . É um</Text>
+        <BeginOffset>5987</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ves" Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="8349" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>mento cauteloso e a teoria financeira não estão subordinados à sustentabilidade . São compatíveis . Portanto , não estou a falar apenas de compensações . Mas os</Text>
+        <BeginOffset>8186</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>idores institucionais são a peça chave para a sustentabilidade . Porque</Text>
+        <BeginOffset>8353</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ns_ pode" Size="1" senseList="Contingency: Condition: Arg1_as_cond">
+    <Annotation conBeginOffset="3962!#!4032" sense="Contingency: Condition: Arg1_as_cond">
+      <Arg1>
+        <Text>guirmos suavizar as arestas de modo a controlar a difracção , en</Text>
+        <BeginOffset>3965</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>emos ver um planeta , e </Text>
+        <BeginOffset>4038</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="abamos" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="8598" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>scemos quando a</Text>
+        <BeginOffset>8582</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>de fazer tudo , mas qu</Text>
+        <BeginOffset>8605</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=" cri" Size="1" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="3229" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>erramentas e os processos que desenvolvemos no nosso grupo de pesquisa possam ser usadas par</Text>
+        <BeginOffset>3136</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>r próteses altamente funcionais para aqueles que precisam . P</Text>
+        <BeginOffset>3234</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="et" Size="1" senseList="Contingency: Condition+SpeechAct">
+    <Annotation conBeginOffset="6212" sense="Contingency: Condition+SpeechAct">
+      <Arg1>
+        <Text>ão devia ser a regra ? Os </Text>
+        <BeginOffset>6269</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>rno é o mesmo ou melhor e o planeta beneficia , ist</Text>
+        <BeginOffset>6215</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=" o " Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="6464" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>um retrato de família de_ o nosso sistema solar — mas </Text>
+        <BeginOffset>6407</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>osso . Espe</Text>
+        <BeginOffset>6468</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="quanto o" Size="2" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="1602" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>quei a observar e</Text>
+        <BeginOffset>1584</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>treinador conduzia aquelas mulheres em_ uma carrinha cinzenta e elas sairam com aquele ar de concentração descontraída .</Text>
+        <BeginOffset>1611</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2133" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>quei por detrás de_ uma arqueira ,</Text>
+        <BeginOffset>2096</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>treinador , entre nós duas , avaliava talvez quem podia precisar de apoio ,</Text>
+        <BeginOffset>2142</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ele v" Size="1" senseList="Temporal: Asynchronous: Precedence">
+    <Annotation conBeginOffset="5015" sense="Temporal: Asynchronous: Precedence">
+      <Arg1>
+        <Text>alas desdobram -se , abrem -se , o telescópio vira -se . Ent</Text>
+        <BeginOffset>4952</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ra -se e afa</Text>
+        <BeginOffset>5021</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=" um" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="9381" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>s não são especialistas por leva</Text>
+        <BeginOffset>9348</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>tema a_ o seu fim conceptual . São mest</Text>
+        <BeginOffset>9385</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="quanto e" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="725" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>a coisa que me incomodava profundamente era que muitos desses amputados de_ o país não usavam as suas próteses .</Text>
+        <BeginOffset>817</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> via pessoas que conhecia , pessoas queridas , a recuperar de_ essa devastação ,</Text>
+        <BeginOffset>734</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="qua" Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="6610" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>motiva -nos , mas u</Text>
+        <BeginOffset>6588</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>e vitória pode impelir -nos em_ uma busca incessante . Um de</Text>
+        <BeginOffset>6614</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="os " Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="10606" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text> é uma meta , mas espe</Text>
+        <BeginOffset>10581</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ue nunca seja o fim . Obrigada</Text>
+        <BeginOffset>10610</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="a_ o" Size="2" senseList="Temporal: Synchronous!#!Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="426" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text>podemos comprometer retornos a longo prazo no futuro</Text>
+        <BeginOffset>443</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>fazê# -lo</Text>
+        <BeginOffset>431</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3124" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>Ninguém perde os seus demónios interiores</Text>
+        <BeginOffset>3082</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>meter -se à estrada .</Text>
+        <BeginOffset>3129</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ns" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="6020" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text> ver algo assim . Isto</Text>
+        <BeginOffset>6112</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>guirmos , se conseguirmos construir esta tecnologia , se a colocarmos no espaço , pode</Text>
+        <BeginOffset>6023</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="que pe" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="3320" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>fiquei ali po</Text>
+        <BeginOffset>3306</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>cebi que estava a assistir a uma coisa rara de observar , essa diferença entre êxito e mestria . </Text>
+        <BeginOffset>3327</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="odem " Size="1" senseList="Temporal: Asynchronous: Precedence">
+    <Annotation conBeginOffset="5664" sense="Temporal: Asynchronous: Precedence">
+      <Arg1>
+        <Text>er as pétalas a desdobrar . Essa</Text>
+        <BeginOffset>5522</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ê# -la a desenrolar . As p</Text>
+        <BeginOffset>5670</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=", quan" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="6259" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text> vitória está entranhada na mestria é porq</Text>
+        <BeginOffset>6214</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>maior for a nossa capacidade , mais claramente podemos ver que não sabemos tudo aquilo que julgávamos saber . Cham</Text>
+        <BeginOffset>6268</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=", não es" Size="1" senseList="Contingency: Cause+Belief: Result+Belief">
+    <Annotation conBeginOffset="8295" sense="Contingency: Cause+Belief: Result+Belief">
+      <Arg1>
+        <Text>tíveis . Portan</Text>
+        <BeginOffset>8277</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> a falar apenas de compensações . Mas os</Text>
+        <BeginOffset>8306</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=" estã" Size="1" senseList="Temporal: Asynchronous: Succession">
+    <Annotation conBeginOffset="7107" sense="Temporal: Asynchronous: Succession">
+      <Arg1>
+        <Text>egundo maior de_ os EUA e o sexto maior de_ o mundo . Agor</Text>
+        <BeginOffset>7046</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> passar para investimentos 100 % sustentáveis integrando sistematicamente o ASG em todo o fundo . Porq</Text>
+        <BeginOffset>7115</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=" eu" Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="3302" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>ão raro na cultura americana , já há tão pouca vocação em qualquer coisa , olhar para o que é a perseverança com este nível de exactidão , o que significa manter a postura de_ o nosso corpo durante três horas , para atingir um alvo , procurando uma qualquer excelência na obscuridade . Ma</Text>
+        <BeginOffset>3013</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>fiquei ali porque percebi que estava a assistir a uma coisa rara de observar , essa diferença entre êxito e mestria . O êx</Text>
+        <BeginOffset>3306</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ssa ideia" Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="10137" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text> a partir de_ a ideia inacabada , mesmo qu</Text>
+        <BeginOffset>10092</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>seja o nosso antigo Eu . É esta a</Text>
+        <BeginOffset>10147</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item=" levavam" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="7440" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>raspadinhas que tinham uma taxa de quase vitórias mais alta de_ o que a média e por iss</Text>
+        <BeginOffset>7352</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>as pessoas a comprar mais raspadinhas a que chamavam " heart-stoppers " , e p</Text>
+        <BeginOffset>7449</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="s situ" Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="8920" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text>os quando n</Text>
+        <BeginOffset>8908</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>mos na nossa própria vanguarda , e é po</Text>
+        <BeginOffset>8927</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="roça d" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="10619" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>que faz </Text>
+        <BeginOffset>10610</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>_ os dois lados de_ a questão de_ a alteração climática . Aposto qu</Text>
+        <BeginOffset>10626</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="para" Size="3" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="2755" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>Eles aproveitam -se de_ o facto de , nos Estados Unidos , cerca de 40 % de todos os alimentos acabarem no lixo</Text>
+        <BeginOffset>2642</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>procurar produtos perfeitamente bons em lixeiras e caixotes de_ o lixo</Text>
+        <BeginOffset>2760</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4239" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>possa trabalhar</Text>
+        <BeginOffset>4223</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>viver bem</Text>
+        <BeginOffset>4244</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="4279" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>trabalhar</Text>
+        <BeginOffset>4269</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>sobreviver</Text>
+        <BeginOffset>4284</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="rdar" Size="1" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="8197" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>em_ este preciso momento , pretendemos fazer para ab</Text>
+        <BeginOffset>8144</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>aquela montanha à nossa vista . É Jac</Text>
+        <BeginOffset>8202</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="_ o " Size="1" senseList="Temporal: Synchronous">
+    <Annotation conBeginOffset="738" sense="Temporal: Synchronous">
+      <Arg1>
+        <Text> fizeram rodar </Text>
+        <BeginOffset>722</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>air de_ o sistema solar </Text>
+        <BeginOffset>743</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="mes" Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="3578" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>stria é saber que isso não significa nada se não se conseguir voltar a fazê# -lo vezes sem conta . M</Text>
+        <BeginOffset>3475</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ria não é a mesma coisa que excelência . N</Text>
+        <BeginOffset>3582</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="a " Size="1" senseList="Contingency: Condition+SpeechAct">
+    <Annotation conBeginOffset="3089" sense="Contingency: Condition+SpeechAct">
+      <Arg1>
+        <Text>á que o setor privado está a prestar atenção ? </Text>
+        <BeginOffset>3201</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ustentabilidade hoje tem importância financeira , — e tudo indica que amanhã ainda será mais importante — </Text>
+        <BeginOffset>3092</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ós" Size="1" senseList="Expansion: Disjunction">
+    <Annotation conBeginOffset="7754" sense="Expansion: Disjunction">
+      <Arg1>
+        <Text>os para maximizar as receitas , " portanto , não fazemos isso aqui " , ou </Text>
+        <BeginOffset>7675</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>queremos usar o portfólio " para fazer declarações políticas . " O q</Text>
+        <BeginOffset>7761</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="á" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="2846" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text> amputado há cerca de 20 anos e </Text>
+        <BeginOffset>2813</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>usou dezenas de próteses , </Text>
+        <BeginOffset>2848</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="a ve" Size="1" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="2268" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>os que fazer algo em relação a toda esta luz . </Text>
+        <BeginOffset>2292</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>mos o planeta , </Text>
+        <BeginOffset>2273</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ã" Size="1" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="4695" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>sombra estelar tem cerca de metade de_ o tamanho de um campo de futebol e tem que se distanciar 50 000 quilómetros de_ o telescópio que tem que ser mantido na sua sombra , e </Text>
+        <BeginOffset>4518</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text> poderemos ver os planetas . Is</Text>
+        <BeginOffset>4697</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="na verdade" Size="1" senseList="Expansion: Level_of_detail: Arg2_as_detail">
+    <Annotation conBeginOffset="651" sense="Expansion: Level_of_detail: Arg2_as_detail">
+      <Arg1>
+        <Text>Ela disse -me que algumas de_ elas não correspondiam à sua marca , às suas expectativas</Text>
+        <BeginOffset>561</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>uma de_ as obras de tal modo não correspondia à sua marca , que ela tinha -a posto no lixo no seu estúdio</Text>
+        <BeginOffset>664</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ou" Size="1" senseList="Expansion: Disjunction">
+    <Annotation conBeginOffset="3662" sense="Expansion: Disjunction">
+      <Arg1>
+        <Text>foram levados para a prisão</Text>
+        <BeginOffset>3634</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>receberam citações por praticarem estes alegados crimes</Text>
+        <BeginOffset>3665</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ão" Size="1" senseList="Contingency: Condition: Arg2_as_cond">
+    <Annotation conBeginOffset="3521" sense="Contingency: Condition: Arg2_as_cond">
+      <Arg1>
+        <Text> não significa nada se </Text>
+        <BeginOffset>3497</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>se conseguir voltar a fazê# -lo vezes sem conta . M</Text>
+        <BeginOffset>3524</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="rque é" Size="1" senseList="Contingency: Cause: Reason">
+    <Annotation conBeginOffset="1162" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>ríamos algo assim , Uma imagem algo difusa de_ a Terra ,</Text>
+        <BeginOffset>1103</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>um telescópio um pouco pequeno na órbita de Marte .</Text>
+        <BeginOffset>1169</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="o b" Size="1" senseList="Comparison: Contrast">
+    <Annotation conBeginOffset="9713" sense="Comparison: Contrast">
+      <Arg1>
+        <Text> custos em_ um programa de ação , " mas el</Text>
+        <BeginOffset>9666</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>m menores de_ o que os riscos a longo prazo " de_ a inação confortável " . Reconh</Text>
+        <BeginOffset>9717</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="o a" Size="1" senseList="Comparison: Contrast">
+    <Annotation conBeginOffset="8630" sense="Comparison: Contrast">
+      <Arg1>
+        <Text>scemos quando acabamos de fazer tudo , mas qu</Text>
+        <BeginOffset>8582</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>nda temos mais para fazer . Estou </Text>
+        <BeginOffset>8634</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="o c" Size="1" senseList="Comparison: Concession: Arg2_as_denier">
+    <Annotation conBeginOffset="6016" sense="Comparison: Concession: Arg2_as_denier">
+      <Arg1>
+        <Text>m que ser feito com grande precisão , mas </Text>
+        <BeginOffset>5971</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>nseguirmos , se conseguirmos construir esta tecnologia , se a colocarmos no espaço , poderão ver algo assim . Isto</Text>
+        <BeginOffset>6020</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="s a" Size="2" senseList="Expansion: Conjunction">
+    <Annotation conBeginOffset="1381" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>nda podemos ver a pequena Lua ,</Text>
+        <BeginOffset>1347</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>astemo -nos de novo dez vezes mais ,</Text>
+        <BeginOffset>1385</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="1562" sense="Expansion: Conjunction">
+      <Arg1>
+        <Text>o ponto azul pálido , de Carl Sagan .</Text>
+        <BeginOffset>1522</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>astemo -nos de novo mais dez vezes .</Text>
+        <BeginOffset>1566</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="a fa" Size="2" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="2612" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>amos a usar dados pa</Text>
+        <BeginOffset>2591</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>er novos encaixes , rapidamente e com baixo custo . </Text>
+        <BeginOffset>2617</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="2433" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>ho vários colegas a trabalhar em tecnologias fantásticas pa</Text>
+        <BeginOffset>2373</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>er isso , </Text>
+        <BeginOffset>2438</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="ara " Size="2" senseList="Contingency: Purpose: Arg2_as_goal">
+    <Annotation conBeginOffset="497" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text>aria tudo o que pudesse </Text>
+        <BeginOffset>472</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>ssegurar que os meus filhos não passassem pelo mesmo tipo de experiência que tivemos </Text>
+        <BeginOffset>502</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="768" sense="Contingency: Purpose: Arg2_as_goal">
+      <Arg1>
+        <Text> fizeram rodar a_ o sair de_ o sistema solar </Text>
+        <BeginOffset>722</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>irar uma foto de_ a Terra à distância de seis mil milhões de quilómetros </Text>
+        <BeginOffset>773</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+  <Connective Item="porque" Size="4" senseList="Contingency: Cause: Reason!#!Contingency: Cause+Belief: Reason+Belief">
+    <Annotation conBeginOffset="417" sense="Contingency: Cause+Belief: Reason+Belief">
+      <Arg1>
+        <Text>Eu acho uma imprudência ignorar estas coisas</Text>
+        <BeginOffset>370</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>a_ o fazê# -lo , podemos comprometer retornos a longo prazo no futuro</Text>
+        <BeginOffset>426</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="22" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>Senti -me muito feliz</Text>
+        <BeginOffset>0</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>o meu primeiro trabalho foi trabalhar no Museu de Arte Moderna em_ uma retrospetiva de_ a pintora Elizabeth Murray</Text>
+        <BeginOffset>29</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="802" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>a vizinha tinha -a levado</Text>
+        <BeginOffset>774</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>reconhecera o seu valor</Text>
+        <BeginOffset>809</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+    <Annotation conBeginOffset="3587" sense="Contingency: Cause: Reason">
+      <Arg1>
+        <Text>Eu conheço estas leis</Text>
+        <BeginOffset>3563</BeginOffset>
+      </Arg1>
+      <Arg2>
+        <Text>observei como amigos e outros viajantes foram levados para a prisão ou receberam citações por praticarem estes alegados crimes</Text>
+        <BeginOffset>3594</BeginOffset>
+      </Arg2>
+      <Mod/>
+      <Supp1/>
+      <Supp2/>
+    </Annotation>
+  </Connective>
+</Document>

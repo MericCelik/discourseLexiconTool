@@ -1,0 +1,10 @@
+#This file contains user settings for your Annotator. It is safe to delete, but you will lose your settings.
+#Tue Dec 06 18:01:57 AST 2016
+commentRoot2=
+commentRoot1=
+outputCommentRoot=/Users/zeyrekbozsahin/Dropbox/PDTB shared files (1)/Sam - Completed Annotations/TED Talk \#1971/Comment
+rawRoot=/Users/zeyrekbozsahin/Dropbox/PDTB shared files (1)/Sam - Completed Annotations/TED Talk \#1971/Raw
+outputRoot=/Users/zeyrekbozsahin/Dropbox/PDTB shared files (1)/Sam - Completed Annotations/TED Talk \#1971/Ann
+annRoot2=
+annRoot1=
+lang=English

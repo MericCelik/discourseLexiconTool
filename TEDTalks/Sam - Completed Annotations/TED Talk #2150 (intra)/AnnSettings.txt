@@ -1,0 +1,10 @@
+#This file contains user settings for your Annotator. It is safe to delete, but you will lose your settings.
+#Thu Dec 15 16:01:56 GMT 2016
+commentRoot2=
+commentRoot1=
+outputCommentRoot=C\:\\Users\\Sam\\Dropbox\\DRD shared files\\Sam - Completed Annotations\\TED Talk \#2150 (intra)\\Comment
+rawRoot=C\:\\Users\\Sam\\Dropbox\\DRD shared files\\Sam - Completed Annotations\\TED Talk \#2150 (intra)\\Raw
+outputRoot=C\:\\Users\\Sam\\Dropbox\\DRD shared files\\Sam - Completed Annotations\\TED Talk \#2150 (intra)\\Ann
+annRoot2=
+annRoot1=
+lang=English

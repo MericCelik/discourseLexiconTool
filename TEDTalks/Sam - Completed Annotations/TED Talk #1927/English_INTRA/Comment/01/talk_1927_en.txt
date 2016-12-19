@@ -1,0 +1,25 @@
+#Thu Jun 23 17:21:56 BST 2016
+Explicit|8934..8936|8924..8933|8937..8955=Negative condition in Port...
+Explicit|3048..3050|2997..3047|3051..3140=2997\: Should this "as" be annotated as a connective, or is the "as"-clause simply an argument to "see"\n    (i.e., "see <X> as <Y>"). That is, are they really independent clauses?
+Explicit|1271..1274|1246..1269|1275..1318=1246\: Did you consider also annotating this Contingency.Cause.Result (... and so that makes them ...)\nYes, but we would need to insert an implicit "as a result", and we are not marking implicit relations for intra S in this task.
+Explicit|3084..3087|3051..3083|3088..3140=Is this a case of nominalisation? Or maybe reject, as not abstract objects?
+Explicit|3726..3729|3687..3724|3730..3798=3687\: Did you consider also annotating this Contingency.Cause.Result (i.e., less real estate being\n      needed leading to a savings?), as if it were "and so"?
+Explicit|1448..1451|1421..1447|1452..1470=1421\: Did you consider Arg2-as-purpose here (the purpose of burying our heads in the sand is so\n      that we don't have to think about it?
+Explicit|3683..3686|3633..3681|3687..3724=3363\: Did you consider also annotating this Contingency.Cause.Result (i.e., a more mobile workplace\n     meaning less real estate being needed?)
+Explicit|5448..5450|5511..5536|5451..5509=5511\: Is this simply Arg2-as-condition? What about Condition+Speech Act\: "If ..., I ask whether this\n      is the norm."
+Explicit|5130..5133|5061..5128|5134..5237=Note to Lisbon team\: Must be at least 2 differences between arg1 and arg2 to be a contrast relation.\nCould be plain conjunction.
+AltLex|4012..4030|3965..4006|4008..4011;4032..4123=arg1 is a state, therefore no emporal relation, i.e. it could have been a conglam before
+Explicit|2733..2735|2816..2854|2736..2814=2816\: Is this simply Arg2-as-condition? What about Condition+Speech Act\: "If ..., I ask whether the\n      private sector is paying attention."
+Explicit||5987..6013|6015..6020=Is this result + SA, or a type of tag question? Are we annotating result + SA in this task, given that we are not marking implicit relations? Also, there are several other tokens of this type in the text which I have ignored for the time being.\nManual\: Arg1 is the reason for speaker uttering the speech act in Arg2.
+Explicit|3505..3508|3441..3503|3509..3530=Note to Lisbon team\: Sentence initial PP scopes over both arguments, hence we do not select it as part of arg1.
+Explicit|1485..1487|1472..1483|1488..1495=Not sure about this one. Could be arg1 as cond.
+Explicit|2964..2967|2954..2963|2968..2995=Ellipsis of VP "seeing sustainability" in arg2.\n\n2920\: You might reconsider what you've chosen as Arg1\: Might it not just be "important"?\n
+Explicit|4008..4011|3965..4006|4012..4123=3965\: Did you consider whether this might also be Temporal.Asynch.Succession (arg2 precedes arg1)?\n
+Explicit|3180..3182|3165..3178|3183..3227=Again, elision of VP in arg2.\n3146\: You might reconsider what you've chosen as Arg1\: Might it not just be "as the future"?\n
+Explicit|4074..4077|4032..4073|4078..4123=4032\: Did you consider whether this might also be Temporal.Asynch.Precedence (arg1 precedes arg2)?\n
+Explicit|5839..5842|5823..5838|5843..5850=Again, elision of VP from arg2.\n5823\: Isn't this NP-conjunction (i.e., "returns" is a plural noun, conjoined with plural noun "risks")\n
+Explicit|8042..8044|8022..8041|8045..8103=8022\: Should this "at" be annotated as a connective, or is the "at"-clause simply the object of\n      "work at"? That is, are they really independent clauses?
+Explicit|9078..9080|9103..9125|9081..9102="when" in Turkish and Port, just indicates a temporal relation.
+Explicit|923..926|915..922|927..932=BOTH intensifier for VP's
+Explicit|1554..1556|1535..1553|1557..1615=1535\: Should this "if" be annotated as a connective, or is the "if"-clause just the object of "wonder"?\n
+AltLex|8105..8112|8142..8232|8113..8140=8142\: Did you consider the possibility of taking "what if" as an AltLex?  I don't think "if" functions\n      independently as a connective.
