@@ -16,21 +16,46 @@ public class annotationList {
 
     ArrayList<Annotation> annotationList;
     HashMap<String, Integer> typeFreqMap;
+    HashMap<String, Integer> sense1FreqMap;
+    HashMap<String, Integer> sense2FreqMap;
+    HashMap<String, Integer> sense3FreqMap;
 
     public annotationList() {
         annotationList = new ArrayList();
         typeFreqMap = new HashMap<>();
+        sense1FreqMap = new HashMap<>();
+        sense2FreqMap = new HashMap<>();
+        sense3FreqMap = new HashMap<>();
     }
 
     public void addAnnotation(Annotation anno) {
         this.annotationList.add(anno);
-        String type = anno.getType();
-        if (!typeFreqMap.containsKey(type)) {
-            typeFreqMap.put(type, 1);
+        updateMap(typeFreqMap, anno.getType());
+        updateMap(sense1FreqMap, anno.getSense1());
+        updateMap(sense2FreqMap, anno.getSense2());
+        updateMap(sense3FreqMap, anno.getSense3());
+    }
+
+    private void updateMap(HashMap<String, Integer> map, String toBeAdded) {
+        if (!map.containsKey(toBeAdded)) {
+            map.put(toBeAdded, 1);
         } else {
-            int oldValue = typeFreqMap.get(type);
-            typeFreqMap.put(type, oldValue + 1);
+            int oldValue = map.get(toBeAdded);
+            map.put(toBeAdded, oldValue + 1);
         }
+
+    }
+
+    public HashMap<String, Integer> getSense1FreqMap() {
+        return sense1FreqMap;
+    }
+
+    public HashMap<String, Integer> getSense2FreqMap() {
+        return sense2FreqMap;
+    }
+
+    public HashMap<String, Integer> getSense3FreqMap() {
+        return sense3FreqMap;
     }
 
     public void print() {
