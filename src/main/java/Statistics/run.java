@@ -31,6 +31,8 @@ public class run {
         annotationList turkish = readRelationsForStatistics.readPDTBRelations("TEDTalks\\Deniz - Completed Annotations\\Ann\\01",
                 "TEDTalks\\Deniz - Completed Annotations\\Raw\\01");
 
+        turkish.printEmpty();
+        
         annotationList english = readRelationsForStatistics.readPDTBRelations("TEDTalks\\Sam - Completed Annotations\\Ann",
                 "TEDTalks\\Sam - Completed Annotations\\Raw");
 
@@ -42,16 +44,17 @@ public class run {
         //      String textString = new Scanner(new File("TEDTalks//Yulia_german//Raw//section//talk_1971_de.txt"), charset.displayName()).useDelimiter("/n/r").next();
         //      System.out.println(textString);
         generate("Turkish", turkish);
-        generate("English", english);
-        generate("German", german);
+//        generate("Portugese", portugese);
+//        generate("English", english);
+//        generate("German", german);
 
         print(allLangType);
-        System.out.println("");
-   //     print(allLangSense1);
-        System.out.println("");
-  //      print(allLangSense2);
-        System.out.println("");
-   //     print(allLangSense3);
+//        System.out.println("");
+        print(allLangSense1);
+//        System.out.println("");
+//        print(allLangSense2);
+//        System.out.println("");
+//        print(allLangSense3);
 
     }
 
@@ -63,13 +66,27 @@ public class run {
     }
 
     public static void print(HashMap<String, HashMap<String, Integer>> map) {
-        for (String str : map.keySet()) {
-            System.out.println(str.toUpperCase());
-            for (String type : map.get(str).keySet()) {
-                System.out.printf("%-20s%5d", type + "!", map.get(str).get(type));
+        for (String language : map.keySet()) {
+            System.out.println(language.toUpperCase());
+
+            for (String type : map.get(language).keySet()) {
+                System.out.printf("%-20s%5d", type + "!", map.get(language).get(type));
+                //   System.out.print(type + "!"+  map.get(language).get(type)+"!");
                 System.out.println("");
             }
         }
+    }
+
+    public static void pprint(HashMap<String, HashMap<String, Integer>> map) {
+        for (String language : map.keySet()) {
+            System.out.printf("%-12s", language.toUpperCase() + " ");
+        }
+        System.out.println("");
+
+        for (String language : map.keySet()) {
+            System.out.printf("%-12d", map.get(language).get("Explicit"));
+        }
+
     }
 
 }

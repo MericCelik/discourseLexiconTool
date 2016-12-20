@@ -133,7 +133,7 @@ public class readRelationsForStatistics {
             ArrayList<File> listOfTextFiles = new ArrayList<>(Arrays.asList(arrayOfTextFiles));
 
             for (File annotationFile : listOfAnnotationFiles) {
-                System.out.println("PROCESSING ANNOTATION FILE: " + annotationFile.getName());
+                //    System.out.println("PROCESSING ANNOTATION FILE: " + annotationFile.getName());
                 File textFile = null;
                 for (File textTmp : listOfTextFiles) {
                     if (textTmp.getName().equals(annotationFile.getName())) {
@@ -151,7 +151,7 @@ public class readRelationsForStatistics {
                             String type = annotationTokens[0];
                             ArrayList<Span> conSpans = new ArrayList<>();
                             if (type.equalsIgnoreCase("implicit")) {
-                                conSpans.add(new Span(annotationTokens[7], 0,0, "impConn"));
+                                conSpans.add(new Span(annotationTokens[7], 0, 0, "impConn"));
                             } else {
                                 conSpans = extractArgument(annotationTokens[1], textString, "Conn");
                             }
@@ -167,9 +167,17 @@ public class readRelationsForStatistics {
                             for (String str : senseArray) {
                                 sense = sense + ": " + str;
                             }
-                            sense = sense.replaceAll("-", "_");
                             Annotation currentAnnotation = new Annotation(conSpans, arg1Spans, arg2Spans, modSpans, supp1Spans, supp2Spans, sense, "", type, "");
                             pdtbAnnotationList.addAnnotation(currentAnnotation);
+                            if (!annotationTokens[9].equals("")) {
+                                String sense2Array[] = annotationTokens[9].split("\\.");
+                                sense = "";
+                                for (String str : sense2Array) {
+                                    sense = sense + ": " + str;
+                                }
+                                currentAnnotation = new Annotation(conSpans, arg1Spans, arg2Spans, modSpans, supp1Spans, supp2Spans, sense, "", type, "");
+                                pdtbAnnotationList.addAnnotation(currentAnnotation);
+                            }
                         }
                     }
                 }

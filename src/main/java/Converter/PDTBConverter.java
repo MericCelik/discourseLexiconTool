@@ -21,7 +21,7 @@ import java.util.Scanner;
  *
  * @author Murathan
  */
-public class PDTBConverter extends abstractConverter{
+public class PDTBConverter extends abstractConverter {
 
     private Charset charset = Charset.forName("UTF-8");
     private String outputDir = "";
@@ -38,7 +38,7 @@ public class PDTBConverter extends abstractConverter{
                 //handle it
             }
         }
-        
+
         this.outputDir = theDir.getAbsolutePath() + "\\" + outputFileName;
         connectiveAnnotationMap = readPDTBRelations(annotationDir, textDir);
         ConverterUtils.writeToFile(outputDir, connectiveAnnotationMap, "PDTB");
@@ -89,8 +89,9 @@ public class PDTBConverter extends abstractConverter{
 
                             String senseArray[] = annotationTokens[8].split("\\.");
                             String sense = "";
-                            for(String str: senseArray)
-                                sense = sense + ": " +str;
+                            for (String str : senseArray) {
+                                sense = sense + ": " + str;
+                            }
                             sense = sense.replaceAll("-", "_");
                             Annotation currentAnnotation = new Annotation(conSpans, arg1Spans, arg2Spans, modSpans, supp1Spans, supp2Spans, sense, "", "", "");
                             if (connectiveAnnotationMap.keySet().contains(connectiveString)) {
@@ -101,6 +102,24 @@ public class PDTBConverter extends abstractConverter{
                                 ArrayList<Annotation> tempList = new ArrayList<>();
                                 tempList.add(currentAnnotation);
                                 connectiveAnnotationMap.put(connectiveString, tempList);
+                            }
+                            // MULTIPLE SENSE
+                            if (!annotationTokens[9].equals("")) {
+                                String sense2Array[] = annotationTokens[9].split("\\.");
+                                sense = "";
+                                for (String str : sense2Array) {
+                                    sense = sense + ": " + str;
+                                }
+                                currentAnnotation = new Annotation(conSpans, arg1Spans, arg2Spans, modSpans, supp1Spans, supp2Spans, sense, "", "", "");
+                                if (connectiveAnnotationMap.keySet().contains(connectiveString)) {
+                                    ArrayList<Annotation> tempList = connectiveAnnotationMap.get(connectiveString);
+                                    tempList.add(currentAnnotation);
+                                    connectiveAnnotationMap.put(connectiveString, tempList);
+                                } else {
+                                    ArrayList<Annotation> tempList = new ArrayList<>();
+                                    tempList.add(currentAnnotation);
+                                    connectiveAnnotationMap.put(connectiveString, tempList);
+                                }
                             }
                         }
                     }

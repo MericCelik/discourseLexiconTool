@@ -43,7 +43,14 @@ public class annotationList {
             int oldValue = map.get(toBeAdded);
             map.put(toBeAdded, oldValue + 1);
         }
-
+    }
+    
+    public void printEmpty() {
+       for(Annotation x: annotationList)
+       {
+            if(x.getSense1().equals("") && !x.getType().equalsIgnoreCase("norel"))
+                System.out.println(x.toFullString());
+       }
     }
 
     public HashMap<String, Integer> getSense1FreqMap() {
