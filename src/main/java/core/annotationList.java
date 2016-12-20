@@ -7,6 +7,8 @@ package core;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Map;
+import java.util.TreeMap;
 
 /**
  *
@@ -15,15 +17,15 @@ import java.util.HashMap;
 public class annotationList {
 
     ArrayList<Annotation> annotationList;
-    HashMap<String, Integer> typeFreqMap;
-    HashMap<String, Integer> sense1FreqMap;
-    HashMap<String, Integer> sense2FreqMap;
-    HashMap<String, Integer> sense3FreqMap;
+    Map<String, Integer> typeFreqMap;
+    Map<String, Integer> sense1FreqMap;
+    Map<String, Integer> sense2FreqMap;
+    Map<String, Integer> sense3FreqMap;
 
     public annotationList() {
         annotationList = new ArrayList();
-        typeFreqMap = new HashMap<>();
-        sense1FreqMap = new HashMap<>();
+        typeFreqMap = new TreeMap<>();
+        sense1FreqMap = new TreeMap<>();
         sense2FreqMap = new HashMap<>();
         sense3FreqMap = new HashMap<>();
     }
@@ -36,7 +38,7 @@ public class annotationList {
         updateMap(sense3FreqMap, anno.getSense3());
     }
 
-    private void updateMap(HashMap<String, Integer> map, String toBeAdded) {
+    private void updateMap(Map<String, Integer> map, String toBeAdded) {
         if (!map.containsKey(toBeAdded)) {
             map.put(toBeAdded, 1);
         } else {
@@ -53,15 +55,15 @@ public class annotationList {
        }
     }
 
-    public HashMap<String, Integer> getSense1FreqMap() {
+    public Map<String, Integer> getSense1FreqMap() {
         return sense1FreqMap;
     }
 
-    public HashMap<String, Integer> getSense2FreqMap() {
+    public Map<String, Integer> getSense2FreqMap() {
         return sense2FreqMap;
     }
 
-    public HashMap<String, Integer> getSense3FreqMap() {
+    public Map<String, Integer> getSense3FreqMap() {
         return sense3FreqMap;
     }
 
@@ -79,7 +81,7 @@ public class annotationList {
         }
     }
 
-    public HashMap<String, Integer> getTypeFreqMap() {
+    public Map<String, Integer> getTypeFreqMap() {
         return typeFreqMap;
     }
 
