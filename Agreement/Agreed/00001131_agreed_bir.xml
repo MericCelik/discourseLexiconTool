@@ -1150,4 +1150,127 @@
             </Span>
         </Arg2>
     </Relation>
+	
+	<!-- added after SAVAS 2nd PASS -->
+
+	  <Relation note="Specification: Şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Yokluğunda</Text>
+                <BeginOffset>11939</BeginOffset>
+                <EndOffset>11949</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Hep yaşam öykülerini okuduğumuz, birden çok
+                    kişilik taşıyan insanlara benziyordum gitgide</Text>
+                <BeginOffset>11848</BeginOffset>
+                <EndOffset>11937</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yokluğunda seni yadsıyan yanım öbürüne yenik
+                    düşüyordu ve geçmişe ait imlerden yararlanarak seni
+                    yaratıyordum yanı başımda</Text>
+                <BeginOffset>11939</BeginOffset>
+                <EndOffset>12061</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="Opposition: Ama"
+        sense="Comparison: Contrast: opposition" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>İzin</Text>
+                <BeginOffset>1158</BeginOffset>
+                <EndOffset>1162</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sen de haberdar değildin ve ben hayatımda ilk kez
+                    yıkmaya değil aşmaya çalışıyordum</Text>
+                <BeginOffset>1073</BeginOffset>
+                <EndOffset>1156</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İzin vermiyor, engeller koyuyordun</Text>
+                <BeginOffset>1158</BeginOffset>
+                <EndOffset>1192</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	 <Relation note="Reason: Çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Yukarıda</Text>
+                <BeginOffset>15079</BeginOffset>
+                <EndOffset>15087</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kahve içince kendine gelebileceğini düşünerek
+                    mahzenden çıktı</Text>
+                <BeginOffset>15016</BeginOffset>
+                <EndOffset>15077</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yukarıda, babasının odasında çuvallarla kahve vardı</Text>
+                <BeginOffset>15079</BeginOffset>
+                <EndOffset>15130</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="Specification: Şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Hususi</Text>
+                <BeginOffset>11028</BeginOffset>
+                <EndOffset>11034</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bir anda bu yüzü nereden tanıdığını hatırladı</Text>
+                <BeginOffset>10981</BeginOffset>
+                <EndOffset>11026</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Hususi banyoda gördüğü bu kadın mahalleden komşularıydı</Text>
+                <BeginOffset>11028</BeginOffset>
+                <EndOffset>11083</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
 </Document>

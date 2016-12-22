@@ -24,6 +24,7 @@ public class calculateInterAgreement {
     HashMap<Integer, Annotation> anno2Map = new HashMap<>();
     static int[] overallAgreed = {0, 0, 0};
     static int overallSize = 0;
+    public String filterString ="";
 
     public calculateInterAgreement(String dir1, String dir2) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException {
         File folderAnno1 = new File(dir1);
@@ -36,11 +37,13 @@ public class calculateInterAgreement {
             System.out.println("I'm sorry, Dave. I'm afraid I can't do that".toUpperCase());
         }
         for (int i = 0; i < Anno1Files.length; i++) {
+            if(Anno1Files[i].getPath().contains(filterString)){
             System.out.println("");
             System.out.println(Anno1Files[i].getPath().toUpperCase());
             anno1Map = readRelationsForStatistics.readDATTRelations(Anno1Files[i].getPath());
             anno2Map = readRelationsForStatistics.readDATTRelations(Anno2Files[i].getPath());
             calculateInterAgreement(anno1Map, anno2Map);
+            }
         }
     }
 
@@ -57,9 +60,9 @@ public class calculateInterAgreement {
             if (anno2Map.containsKey(key)) {
                 commonAnno++;
                 compareAnnotationSenseBased(anno1Map.get(key), anno2Map.get(key), agreed);
-               //  System.out.println("!COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
+                System.out.println("!COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
             } else {
-               System.out.println("NOT COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
+        //       System.out.println("NOT COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
 
             }
         }
@@ -82,8 +85,6 @@ public class calculateInterAgreement {
         }
 
     }
-
-    
     
     public static void main(String[] args) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException {
         calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\savas", "Agreement\\agreed");

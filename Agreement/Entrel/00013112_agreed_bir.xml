@@ -150,35 +150,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="" type="ENTREL">
-        <Conn>
-            <Span>
-                <Text>Burada</Text>
-                <BeginOffset>3452</BeginOffset>
-                <EndOffset>3458</EndOffset>
-            </Span>
-        </Conn>
-        <Mod/>
-        <Arg1>
-            <Span>
-                <Text>Çok ilginç mimarisi olan bir yer</Text>
-                <BeginOffset>3418</BeginOffset>
-                <EndOffset>3450</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>Burada önce kerpiçle başlayan insanlar, sonradan
-                    taşı öğreniyor, kullanıyorlar</Text>
-                <BeginOffset>3452</BeginOffset>
-                <EndOffset>3530</EndOffset>
-            </Span>
-        </Arg2>
-        <Supp1/>
-        <Supp2/>
-        <Shared/>
-        <Supp_Shared/>
-    </Relation>
+
     <Relation note="" sense="" type="ENTREL">
         <Conn>
             <Span>
@@ -244,37 +216,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note=""
-        sense="" type="ENTREL">
-        <Conn>
-            <Span>
-                <Text>Hasandağı&apos;nın</Text>
-                <BeginOffset>7295</BeginOffset>
-                <EndOffset>7308</EndOffset>
-            </Span>
-        </Conn>
-        <Mod/>
-        <Arg1>
-            <Span>
-                <Text>Antropolog Rudgley&apos;e göre, Hasandağı
-                    Çatalhöyük&apos;ten görünmüyor</Text>
-                <BeginOffset>7231</BeginOffset>
-                <EndOffset>7293</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>Hasandağı&apos;nın resimdeki gibi görünüşü
-                    Aşıklı&apos;dan ve bu plan da Aşıklı&apos;ya ait</Text>
-                <BeginOffset>7295</BeginOffset>
-                <EndOffset>7371</EndOffset>
-            </Span>
-        </Arg2>
-        <Supp1/>
-        <Supp2/>
-        <Shared/>
-        <Supp_Shared/>
-    </Relation>
+
     <Relation note="" sense="" type="ENTREL">
         <Conn>
             <Span>

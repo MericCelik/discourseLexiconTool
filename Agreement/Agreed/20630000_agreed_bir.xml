@@ -344,4 +344,29 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
+			<!-- added after SAVAS 2nd PASS -->
+  <Relation note="Precedence: Sonra"
+        sense="Temporal: Asynchronous: precedence" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Askerlerin</Text>
+                <BeginOffset>14773</BeginOffset>
+                <EndOffset>14783</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Ona beş arkadaşımın öldüğünü söyledim</Text>
+                <BeginOffset>14734</BeginOffset>
+                <EndOffset>14771</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Askerlerin nöbet kulesine doğru yürüdüm</Text>
+                <BeginOffset>14773</BeginOffset>
+                <EndOffset>14812</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
    </Document>

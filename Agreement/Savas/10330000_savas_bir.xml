@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Relation note="Specification: Şöyle ki"
-        sense="Expansion: Restatement: specification" type="IMPLICIT">
+    <Relation note="Instantiation: örneğin"
+        sense="Expansion: Instantiation" type="IMPLICIT">
         <Conn>
             <Span>
                 <Text>1958</Text>

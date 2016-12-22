@@ -38,7 +38,6 @@ public class readRelationsForStatistics {
     public static HashMap<Integer, Annotation> readDATTRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
 
         HashMap<Integer, Annotation> connectiveAnnotationMap = new HashMap<>();
-        ArrayList<String> connectiveList = new ArrayList<>();
         File dattAnnotationFolder = new File(dir);
         String dattAnnotationFile = "";
 

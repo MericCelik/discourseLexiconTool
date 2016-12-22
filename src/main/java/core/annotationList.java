@@ -6,7 +6,6 @@
 package core;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
@@ -26,8 +25,8 @@ public class annotationList {
         annotationList = new ArrayList();
         typeFreqMap = new TreeMap<>();
         sense1FreqMap = new TreeMap<>();
-        sense2FreqMap = new HashMap<>();
-        sense3FreqMap = new HashMap<>();
+        sense2FreqMap = new TreeMap<>();
+        sense3FreqMap = new TreeMap<>();
     }
 
     public void addAnnotation(Annotation anno) {

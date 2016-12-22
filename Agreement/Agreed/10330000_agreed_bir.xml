@@ -606,4 +606,42 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
+	
+		<!-- added after SAVAS 2nd PASS -->
+
+	  <Relation note="Instantiation: örneğin"
+        sense="Expansion: Instantiation" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>1958</Text>
+                <BeginOffset>245</BeginOffset>
+                <EndOffset>249</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İncirlik 1954 yılından beri 50 yıldır Türkiye ve
+                    dünyanın gündeminde</Text>
+                <BeginOffset>159</BeginOffset>
+                <EndOffset>227</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>1958&apos;de ABD&apos;nin Lübnan&apos;a
+                    müdahelesinde, 1960&apos;ta İncirlik&apos;ten kalkan
+                    U-2                 casus uçağının Sovyetler Birliği
+                    semalarında düşürülmesinde, 1993&apos;te Kuzey
+                    Irak&apos;ta Mig-29 uçağının düşürülmesinde, son
+                    olarak da Afganistan                 operasyonunda</Text>
+                <BeginOffset>245</BeginOffset>
+                <EndOffset>518</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
 </Document>
