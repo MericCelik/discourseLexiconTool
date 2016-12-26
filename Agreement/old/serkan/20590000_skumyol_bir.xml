@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>1900</BeginOffset>
+                <EndOffset>1902</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İdil Tarzi markasının ne şekilde yoluna devam
+                    edeceği konusunda bir takım stratejiler belirlerken,
+                    bir karar aldık</Text>
+                <BeginOffset>1784</BeginOffset>
+                <EndOffset>1898</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu markanın gidişatı ancak çok ciddi boyutta
+                    işbirliğiyle olacaktır</Text>
+                <BeginOffset>1900</BeginOffset>
+                <EndOffset>1967</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Contingency: Cause: result" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>İmalat</Text>
+                <BeginOffset>2064</BeginOffset>
+                <EndOffset>2070</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bir tasarımcının kendi maddi imkanlarıyla daha
+                    ileriye gidebilmesi tamamen bir ticaret konusu</Text>
+                <BeginOffset>1969</BeginOffset>
+                <EndOffset>2062</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İmalat, fiyat tutturma gibi konuların yanında
+                    toptan organizasyonu ve satış ekibine ihtiyacımız var</Text>
+                <BeginOffset>2064</BeginOffset>
+                <EndOffset>2163</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Tasarım</Text>
+                <BeginOffset>2904</BeginOffset>
+                <EndOffset>2911</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çok büyük bir ilki yaptık</Text>
+                <BeginOffset>2877</BeginOffset>
+                <EndOffset>2902</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Tasarım markası olarak İdil Tarzi&apos;nin lisans
+                    haklarını Eke Tekstil&apos;e kiraladık</Text>
+                <BeginOffset>2904</BeginOffset>
+                <EndOffset>2982</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: List" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>3880</BeginOffset>
+                <EndOffset>3882</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Dünya çok hızlı bir iletişim temposunun içine girdi</Text>
+                <BeginOffset>3827</BeginOffset>
+                <EndOffset>3878</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu iletişim hepimizi çok yoruyor</Text>
+                <BeginOffset>3880</BeginOffset>
+                <EndOffset>3912</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Contingency: Cause: result" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Onların</Text>
+                <BeginOffset>4264</BeginOffset>
+                <EndOffset>4271</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Hayatından bezmiş insanlara hitap edeceğim</Text>
+                <BeginOffset>4220</BeginOffset>
+                <EndOffset>4262</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Onların hayatını daha mutlu yapmak istiyorum</Text>
+                <BeginOffset>4264</BeginOffset>
+                <EndOffset>4308</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ürünlerimin</Text>
+                <BeginOffset>4310</BeginOffset>
+                <EndOffset>4321</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Onların hayatını daha mutlu yapmak istiyorum</Text>
+                <BeginOffset>4264</BeginOffset>
+                <EndOffset>4308</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ürünlerimin onlara mutluluk vermesini amaçlıyorum</Text>
+                <BeginOffset>4310</BeginOffset>
+                <EndOffset>4359</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Markanın</Text>
+                <BeginOffset>4758</BeginOffset>
+                <EndOffset>4766</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Biz global bir marka olmasını hedefliyoruz</Text>
+                <BeginOffset>4714</BeginOffset>
+                <EndOffset>4756</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Markanın felsefesi geçmişten izler taşıyan, seksi
+                    ve sade olacak</Text>
+                <BeginOffset>4758</BeginOffset>
+                <EndOffset>4822</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Hamam</Text>
+                <BeginOffset>4894</BeginOffset>
+                <EndOffset>4899</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Hamam&apos;ın logosunda bir takım mesajlar vermeye çalıştık</Text>
+                <BeginOffset>4838</BeginOffset>
+                <EndOffset>4892</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Hamam yazısının hemen altında eşcinselliği,
+                    heteroseksüelliği ifade eden dişi ve erkek
+                    formlardan oluşan akslar var</Text>
+                <BeginOffset>4894</BeginOffset>
+                <EndOffset>5009</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement: equivalence" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Her</Text>
+                <BeginOffset>5060</BeginOffset>
+                <EndOffset>5063</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ben bütün gay&apos;lerin müşterim olmasını istiyorum</Text>
+                <BeginOffset>5011</BeginOffset>
+                <EndOffset>5058</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Her gay&apos;in evinde Hamam markalı bir ürün
+                    bulunsun istiyorum</Text>
+                <BeginOffset>5060</BeginOffset>
+                <EndOffset>5119</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Comparison: Pragmatic Contrast" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Gerçekleşme</Text>
+                <BeginOffset>5837</BeginOffset>
+                <EndOffset>5848</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>AB&apos;den tarih için tarih verilmesi beklentisi,
+                    fiyatlara bir miktar yansımış durumda. Ancak,
+                    beklentinin gerçekleşmesi durumunda olumlu havanın
+                    sürmesi ve endeksin 1.10 sente doğru kademeli
+                    yükselmesi bekleniyor</Text>
+                <BeginOffset>5625</BeginOffset>
+                <EndOffset>5835</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Gerçekleşme olasılığı çok düşük olan, AB&apos;den
+                    tam üyelik için müzakere tarihi çıkması durumunda
+                    ise borsada hayallerin sonu olmayacak</Text>
+                <BeginOffset>5837</BeginOffset>
+                <EndOffset>5969</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Contingency: Pragmatic Cause" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Dolardaki</Text>
+                <BeginOffset>6708</BeginOffset>
+                <EndOffset>6717</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bir düzeltme yapması beklenen dolar çok gerilemiş durumda</Text>
+                <BeginOffset>6649</BeginOffset>
+                <EndOffset>6706</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Dolardaki düşüşte geçen cuma günü yurtdışı
+                    piyasalarda Türk eurobandlarına gelen talepte etkili oldu</Text>
+                <BeginOffset>6708</BeginOffset>
+                <EndOffset>6808</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Yurt</Text>
+                <BeginOffset>6930</BeginOffset>
+                <EndOffset>6934</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Eurobondlara gelen talebin etkisiyle içeride de
+                    bono faizlerinin gerilemesi dolara satış olarak yansıdı</Text>
+                <BeginOffset>6825</BeginOffset>
+                <EndOffset>6928</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yurt dışında özellikle yabancı müşterilerin, Türk
+                    tahvillerini satın alması ileriye yönelik
+                    beklentilerinin iyimser olduğunu gösteriyor</Text>
+                <BeginOffset>6930</BeginOffset>
+                <EndOffset>7065</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Contingency: Cause: reason" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Sadece</Text>
+                <BeginOffset>7151</BeginOffset>
+                <EndOffset>7157</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>IMF&apos;le başlayacak görüşmelerin seyri de
+                    endeksin kısa vadeli yönünde etkili olacak</Text>
+                <BeginOffset>7067</BeginOffset>
+                <EndOffset>7149</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sadece serbest bırakılacak kredi dilimi için
+                    değil, 2003 yılında yapılacak olan borç servisinin
+                    de sorunsuz gerçekleştirilebilmesi için IMF&apos;in
+                    desteğine ihtiyaç var</Text>
+                <BeginOffset>7151</BeginOffset>
+                <EndOffset>7315</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>6</Text>
+                <BeginOffset>7597</BeginOffset>
+                <EndOffset>7598</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text> Geçtiğimiz hafta en fazla izlenen ve oynaklığı
+                    ile baş döndüren hisselerden biri olan Yapı Kredi
+                    Bankası, 432.3 trilyon TL zarar açıkladı</Text>
+                <BeginOffset>7457</BeginOffset>
+                <EndOffset>7595</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>6 aylık bilançosunda 88 trilyon TL zarar açıklayan
+                    bankanın zararı katlandı</Text>
+                <BeginOffset>7597</BeginOffset>
+                <EndOffset>7672</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Contingency: Cause: reason" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Türkiye&apos;ye</Text>
+                <BeginOffset>8611</BeginOffset>
+                <EndOffset>8621</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Eurobondlara bu kadar talebin geldiği faiz ve
+                    doların bu kadar hızlı düştüğü bir ortamda, borsanın
+                    çok fazla bu seviyelerde kalacağını sanmıyorum</Text>
+                <BeginOffset>8464</BeginOffset>
+                <EndOffset>8609</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Türkiye&apos;ye şartlı bir tarih verilmesini bekliyoruz</Text>
+                <BeginOffset>8611</BeginOffset>
+                <EndOffset>8661</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Contingency: Condition" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>8663</BeginOffset>
+                <EndOffset>8665</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Türkiye&apos;ye şartlı bir tarih verilmesini bekliyoruz</Text>
+                <BeginOffset>8611</BeginOffset>
+                <EndOffset>8661</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu gelişmeyle birlikte Aralık ortasında
+                    16.000&apos;li seviyeleri görebiliriz</Text>
+                <BeginOffset>8663</BeginOffset>
+                <EndOffset>8735</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note=""
+        sense="Contingency: Pragmatic Cause: justification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Risk</Text>
+                <BeginOffset>8837</BeginOffset>
+                <EndOffset>8841</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Aralığın ikinci yarısından itibaren, Irak gündeme gelebilir</Text>
+                <BeginOffset>8776</BeginOffset>
+                <EndOffset>8835</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Risk almak istemeyen yatırımcılar aralık ayının
+                    ikinci yarısından itibaren pozisyonlarını küçültebilirler</Text>
+                <BeginOffset>8837</BeginOffset>
+                <EndOffset>8942</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Bilinçli</Text>
+                <BeginOffset>10268</BeginOffset>
+                <EndOffset>10276</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Fonların içeriği yatırımcının, yatırımlarını
+                    yönlendirirken beklenti ve risk düzeyine uygun fon
+                    seçimi yapabilmesi için önemli bir unsur</Text>
+                <BeginOffset>10130</BeginOffset>
+                <EndOffset>10266</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bilinçli bir yatırımcı açısından satın alınan
+                    yatırım fonunun türü aslında portföy içeriği
+                    hakkında bilgi veriyor</Text>
+                <BeginOffset>10268</BeginOffset>
+                <EndOffset>10381</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Fon</Text>
+                <BeginOffset>10383</BeginOffset>
+                <EndOffset>10386</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bilinçli bir yatırımcı açısından satın alınan
+                    yatırım fonunun türü aslında portföy içeriği
+                    hakkında bilgi veriyor</Text>
+                <BeginOffset>10268</BeginOffset>
+                <EndOffset>10381</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Fon türüne bakarak portföyde ne oranda hisse
+                    senedi, ne oranda tahvil bono bulunduğunu yaklaşık
+                    olarak tahmin edebilmek mümkün</Text>
+                <BeginOffset>10383</BeginOffset>
+                <EndOffset>10509</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: List" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>A</Text>
+                <BeginOffset>13502</BeginOffset>
+                <EndOffset>13503</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bir diğer önemli grup A tipi hisse senedi yatırım
+                    fonlarında minimum yüzde 51 hisse senedi taşıma
+                    koşulu gerekiyor</Text>
+                <BeginOffset>13386</BeginOffset>
+                <EndOffset>13500</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>A tipi hisse senedi ve A tipi sektör fonlarında
+                    borsanın payı yüzde 74&apos;e yükselmiş durumda</Text>
+                <BeginOffset>13502</BeginOffset>
+                <EndOffset>13592</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Atama</Text>
+                <BeginOffset>13877</BeginOffset>
+                <EndOffset>13882</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bankacılık Düzenleme ve Denetleme Kurumu&apos;nda
+                    (BDDK) boş bulunan ikinci başkanlık yardımcılığı
+                    için İbrahim Türkiş&apos;in adı geçiyor</Text>
+                <BeginOffset>13747</BeginOffset>
+                <EndOffset>13875</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Atama kararnamenisinin hazırlandığı öğrenilen
+                    Türkiş, Gelirler Kontrolörleri Derneği İstanbul Şube Başkanı</Text>
+                <BeginOffset>13877</BeginOffset>
+                <EndOffset>13983</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Instantiation" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Türkiş</Text>
+                <BeginOffset>14456</BeginOffset>
+                <EndOffset>14462</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>BDDK gibi özerk kurumların siyasete karışmış
+                    kişilerle yönetilmesinin doğru olmayacağını belirten
+                    uzmanlar, &quot;İbrahim Türkiş aday adayı olarak
+                    seçilmese bile aktif politikada yer almış bir
+                    kişidir. Bu nedenle BDDK&apos;da görev alması doğru
+                    olmaz&quot; şeklinde görüş açıkladıla</Text>
+                <BeginOffset>14186</BeginOffset>
+                <EndOffset>14453</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Türkiş, AKP&apos;den Antalya milletvekili aday
+                    adayı olmuştu</Text>
+                <BeginOffset>14456</BeginOffset>
+                <EndOffset>14511</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Contingency: Condition" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Cumhurbaşkanı</Text>
+                <BeginOffset>14806</BeginOffset>
+                <EndOffset>14819</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>BDDK&apos;nın ikinci başkanı için atama, ilgili
+                    devlet bakanının önerisiyle Bakanlar
+                    Kurulu&apos;ndan geçen bir kararname ile
+                    Cumhurbaşkanı&apos;nın onayına sunuluyor</Text>
+                <BeginOffset>14653</BeginOffset>
+                <EndOffset>14804</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Cumhurbaşkanı onaylarsa, onay Resmi Gazete&apos;de
+                    yayımlandıktan sonra ataması yapılan kişi yemin
+                    ederek göreve başlıyor</Text>
+                <BeginOffset>14806</BeginOffset>
+                <EndOffset>14922</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Moldova&apos;dan</Text>
+                <BeginOffset>16221</BeginOffset>
+                <EndOffset>16232</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ankara Ticaret Odası&apos;nın (ATO), &apos;Krizde
+                    Nasıl Davrandılar&apos; araştırmasının sonuçlarına
+                    göre, krizden etkilenenler, &apos;akıl almaz
+                    yollara&apos; başvurdular</Text>
+                <BeginOffset>16073</BeginOffset>
+                <EndOffset>16219</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Moldova&apos;dan eş getirtip yaşlı emekli
+                    yakınlarla evlendirerek maaş bölüşme, gelini ile
+                    anlaşmalı evlilik yaparak, emekli maaşının oğluna,
+                    gelinine kalmasını sağlama gibi birçok yola
+                    başvuranlar çıktı</Text>
+                <BeginOffset>16221</BeginOffset>
+                <EndOffset>16419</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>649</BeginOffset>
+                <EndOffset>651</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bankalarda hakim ortak statüsünde bulunan 68 kişi
+                    hakkında şahsi iflas davası açılırken, şu ana kadar
+                    sekiz iade tazmin davcası açıldı</Text>
+                <BeginOffset>513</BeginOffset>
+                <EndOffset>647</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu kişilere açılan davaların parasal tutarı ise
+                    6.1 milyar doları buluyor</Text>
+                <BeginOffset>649</BeginOffset>
+                <EndOffset>722</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Dünyada</Text>
+                <BeginOffset>2984</BeginOffset>
+                <EndOffset>2991</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Tasarım markası olarak İdil Tarzi&apos;nin lisans
+                    haklarını Eke Tekstil&apos;e kiraladık</Text>
+                <BeginOffset>2904</BeginOffset>
+                <EndOffset>2982</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Dünyada da bunun örnekleri var</Text>
+                <BeginOffset>2984</BeginOffset>
+                <EndOffset>3014</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Oryantal</Text>
+                <BeginOffset>4654</BeginOffset>
+                <EndOffset>4662</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Hamam isim itibariyle güçlü ve net bir ifadesi var</Text>
+                <BeginOffset>4602</BeginOffset>
+                <EndOffset>4652</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Oryantal bir isim ama ürünlerin çizgisi oryantal olmayacak</Text>
+                <BeginOffset>4654</BeginOffset>
+                <EndOffset>4712</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>AB&apos;den</Text>
+                <BeginOffset>5625</BeginOffset>
+                <EndOffset>5631</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Piyasa, 12 Aralık&apos;ta yapılacak Kopenhag
+                    Zirvesi&apos;nden tarih için tarih beklentisiyle
+                    yönünü belirlemeye çalışıyor</Text>
+                <BeginOffset>5511</BeginOffset>
+                <EndOffset>5623</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>AB&apos;den tarih için tarih verilmesi beklentisi,
+                    fiyatlara bir miktar yansımış durumda</Text>
+                <BeginOffset>5625</BeginOffset>
+                <EndOffset>5708</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Geriye</Text>
+                <BeginOffset>11663</BeginOffset>
+                <EndOffset>11669</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Fon piyasasının lokomotifi niteliğindeki B tipi
+                    likit yatırım fonları ortalamada yüzde 47 oranında
+                    tahvil bono taşıyor</Text>
+                <BeginOffset>11543</BeginOffset>
+                <EndOffset>11661</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Geriye kalan kısmın ise repo olduğu görülüyor</Text>
+                <BeginOffset>11663</BeginOffset>
+                <EndOffset>11708</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Ortalamada</Text>
+                <BeginOffset>12572</BeginOffset>
+                <EndOffset>12582</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>B tipi tahvil bono fonlarında ise minimum yüzde 51
+                    Hazine bonosu - devlet tahvili taşıma zorunluluğu bulunuyor</Text>
+                <BeginOffset>12460</BeginOffset>
+                <EndOffset>12570</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ortalamada bu tür yatırım fonlarının yüzde 71
+                    oranında Hazine bonosu taşıdığı görülüyor</Text>
+                <BeginOffset>12572</BeginOffset>
+                <EndOffset>12659</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>13144</BeginOffset>
+                <EndOffset>13146</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Hisse senedi ağırlıklı A tipi yatırım fonları
+                    pazarının lokomotifi A tipi değişken fonlar minimum
+                    yüzde 25 hisse senedi bulundurma koşulunu taşıyorlar</Text>
+                <BeginOffset>12992</BeginOffset>
+                <EndOffset>13142</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu fonların ortalamada yüzde 49 oranında hisse
+                    senedi taşıdığı görülüyor</Text>
+                <BeginOffset>13144</BeginOffset>
+                <EndOffset>13216</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Minimum</Text>
+                <BeginOffset>13594</BeginOffset>
+                <EndOffset>13601</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>A tipi hisse senedi ve A tipi sektör fonlarında
+                    borsanın payı yüzde 74&apos;e yükselmiş durumda</Text>
+                <BeginOffset>13502</BeginOffset>
+                <EndOffset>13592</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Minimum maksimum dengesi ise yüzde 55- yüzde 95 aralığında</Text>
+                <BeginOffset>13594</BeginOffset>
+                <EndOffset>13652</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Açıklamaya</Text>
+                <BeginOffset>15327</BeginOffset>
+                <EndOffset>15337</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>BDDK, geçen hafta Başbakan Yardımcısı Abdüllatif
+                    Şener ve Devlet Bakanı Ali Babacan&apos;a verdiği
+                    brifingde sunduğu 60 sayfadan oluşan raporu önceki
+                    gün kamuoyuna açıkladı</Text>
+                <BeginOffset>15158</BeginOffset>
+                <EndOffset>15325</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Açıklamaya ilişkin notta BDDK&apos;nın tüm
+                    baskılara rağmen Bankalar Kanunu&apos;nda yer alan
+                    sırları açıklamama yükümlülüğüne kendi saygınlığının
+                    zedelenmesi pahasına uyacağı, acnak bu sırları
+                    hükümetle paylaşacağı kaydedildi</Text>
+                <BeginOffset>15327</BeginOffset>
+                <EndOffset>15543</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

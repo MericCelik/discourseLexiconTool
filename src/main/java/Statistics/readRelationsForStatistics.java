@@ -35,7 +35,7 @@ public class readRelationsForStatistics {
     private static Charset charset = Charset.forName("UTF-8");
     public static String replaceString;
 
-    public static HashMap<Integer, Annotation> readDATTRelations(String dir) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
+    public static HashMap<Integer, Annotation> readDATTRelations(String dir, String inputType) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
 
         HashMap<Integer, Annotation> connectiveAnnotationMap = new HashMap<>();
         File dattAnnotationFolder = new File(dir);
@@ -56,9 +56,7 @@ public class readRelationsForStatistics {
                 .normalize();
 
         NodeList nList = doc.getElementsByTagName("Relation");
-        for (int temp = 0;
-                temp < nList.getLength();
-                temp++) {
+        for (int temp = 0; temp < nList.getLength(); temp++) {
 
             Node nNode = nList.item(temp);
             if (nNode.getNodeType() == Node.ELEMENT_NODE) {
@@ -85,7 +83,9 @@ public class readRelationsForStatistics {
                 String senses = currentElement.getAttribute("sense");
                 String type = currentElement.getAttribute("type");
                 String genre = currentElement.getAttribute("genre");
-
+                if (!type.equalsIgnoreCase(inputType)) {
+                    continue;
+                }
                 // check if those fields are empty
                 if (note.equals("")) {
                     note = "nothing";

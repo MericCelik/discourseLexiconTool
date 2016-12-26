@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Aksaray</Text>
+                <BeginOffset>1258</BeginOffset>
+                <EndOffset>1265</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Aşıklı Höyük bu yerleşimlerden biri</Text>
+                <BeginOffset>1221</BeginOffset>
+                <EndOffset>1256</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Aksaray ilinin Kızılkaya Köyü&apos;nün yakınında,
+                    Melendiz Nehri&apos;nin kıyısında yer alıyor</Text>
+                <BeginOffset>1258</BeginOffset>
+                <EndOffset>1342</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Çanak</Text>
+                <BeginOffset>1344</BeginOffset>
+                <EndOffset>1349</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Aksaray ilinin Kızılkaya Köyü&apos;nün yakınında,
+                    Melendiz Nehri&apos;nin kıyısında yer alıyor</Text>
+                <BeginOffset>1258</BeginOffset>
+                <EndOffset>1342</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çanak çömleksiz Neolitik bir yerleşme olan Aşıklı
+                    Höyük&apos;ün en eski tarihlemesi MÖ 7952&apos;ye
+                    kadar gidiyor</Text>
+                <BeginOffset>1344</BeginOffset>
+                <EndOffset>1447</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Aşıklı</Text>
+                <BeginOffset>1449</BeginOffset>
+                <EndOffset>1455</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çanak çömleksiz Neolitik bir yerleşme olan Aşıklı
+                    Höyük&apos;ün en eski tarihlemesi MÖ 7952&apos;ye
+                    kadar gidiyor</Text>
+                <BeginOffset>1344</BeginOffset>
+                <EndOffset>1447</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Aşıklı Höyük&apos;te, İÜ Prehistorya Anabilim
+                    Dalı&apos;nın başlattığı kurtarma kazıları,
+                    1989&apos;dan beri Prof. Dr. Ufuk Esin başkanlığında sürüyor</Text>
+                <BeginOffset>1449</BeginOffset>
+                <EndOffset>1584</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Prof</Text>
+                <BeginOffset>1586</BeginOffset>
+                <EndOffset>1590</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Aşıklı Höyük&apos;te, İÜ Prehistorya Anabilim
+                    Dalı&apos;nın başlattığı kurtarma kazıları,
+                    1989&apos;dan beri Prof. Dr. Ufuk Esin başkanlığında sürüyor</Text>
+                <BeginOffset>1449</BeginOffset>
+                <EndOffset>1584</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Prof. Dr. Ufuk Esin ile Aşıklı Höyük Kazısı ve
+                    buluntuları üzerine söyleştik</Text>
+                <BeginOffset>1586</BeginOffset>
+                <EndOffset>1662</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Spektral</Text>
+                <BeginOffset>2579</BeginOffset>
+                <EndOffset>2587</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İÜ Prehistorya Anabilim Dalı&apos;ndayken bir
+                    çeşit arkeometri çalışmalarının başlangıcını yaptım</Text>
+                <BeginOffset>2485</BeginOffset>
+                <EndOffset>2577</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Spektral analiz çalışmalarıyla Anadolu Maden
+                    Enstitüsü hakkında kapsamlı bir araştırma yaptım</Text>
+                <BeginOffset>2579</BeginOffset>
+                <EndOffset>2672</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Nerede</Text>
+                <BeginOffset>2761</BeginOffset>
+                <EndOffset>2767</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bundan sonra kurtarma kazıları yaptım</Text>
+                <BeginOffset>2722</BeginOffset>
+                <EndOffset>2759</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Nerede bir kurtarma kazısı varsa, oraya gittim</Text>
+                <BeginOffset>2761</BeginOffset>
+                <EndOffset>2807</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Keban</Text>
+                <BeginOffset>2875</BeginOffset>
+                <EndOffset>2880</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Keban&apos;la başladık, sonra yine aynı çerçevede
+                    Aşağı Fırat&apos;a indik</Text>
+                <BeginOffset>2809</BeginOffset>
+                <EndOffset>2873</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Keban Barajı bitince, Aşağı Fırat barajlarından
+                    Karakaya Barajı başladı</Text>
+                <BeginOffset>2875</BeginOffset>
+                <EndOffset>2946</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Su</Text>
+                <BeginOffset>3307</BeginOffset>
+                <EndOffset>3309</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Fakat Aşıklı&apos;da kazıya başlar başlamaz,
+                    buranın mutlaka kurtarılması gerektiğini anladık</Text>
+                <BeginOffset>3217</BeginOffset>
+                <EndOffset>3305</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Su altında kalmasının çok yazık olacağına inandık,
+                    çünkü gördüğünüz gibi böyle bir Neolitik yerleşim
+                    daha yok</Text>
+                <BeginOffset>3307</BeginOffset>
+                <EndOffset>3416</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="?" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Çok</Text>
+                <BeginOffset>3418</BeginOffset>
+                <EndOffset>3421</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Su altında kalmasının çok yazık olacağına inandık,
+                    çünkü gördüğünüz gibi böyle bir Neolitik yerleşim
+                    daha yok</Text>
+                <BeginOffset>3307</BeginOffset>
+                <EndOffset>3416</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çok ilginç mimarisi olan bir yer</Text>
+                <BeginOffset>3418</BeginOffset>
+                <EndOffset>3450</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Burada</Text>
+                <BeginOffset>3452</BeginOffset>
+                <EndOffset>3458</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çok ilginç mimarisi olan bir yer</Text>
+                <BeginOffset>3418</BeginOffset>
+                <EndOffset>3450</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Burada önce kerpiçle başlayan insanlar, sonradan
+                    taşı öğreniyor, kullanıyorlar</Text>
+                <BeginOffset>3452</BeginOffset>
+                <EndOffset>3530</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>TÜBİTAK</Text>
+                <BeginOffset>3897</BeginOffset>
+                <EndOffset>3904</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ODTÜ&apos;ten arkadaşlarımızla, Boğaziçi ve
+                    Çukurova Üniversiteleri&apos;nden bu işlere ilgi
+                    duyan, gerçekten arkeometrik çalışma yapmak isteyen
+                    kim varsa, onları topladık ve grup oluşturduk</Text>
+                <BeginOffset>3715</BeginOffset>
+                <EndOffset>3895</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>TÜBİTAK nezdinde, TÜBİTAK Arkeometri
+                    Ünitesi&apos;ni kurduk ve orada çalıştık</Text>
+                <BeginOffset>3897</BeginOffset>
+                <EndOffset>3969</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Prof</Text>
+                <BeginOffset>5687</BeginOffset>
+                <EndOffset>5691</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Şimdi klasik kazılarda da arkeometri
+                    araştırmalarına başlandı</Text>
+                <BeginOffset>5624</BeginOffset>
+                <EndOffset>5685</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Prof. Dr. Güven Bakır, Prof. Dr. Hayat Erkanal
+                    bunlara eğilmeye başladı</Text>
+                <BeginOffset>5687</BeginOffset>
+                <EndOffset>5758</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>5760</BeginOffset>
+                <EndOffset>5762</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Prof. Dr. Güven Bakır, Prof. Dr. Hayat Erkanal
+                    bunlara eğilmeye başladı</Text>
+                <BeginOffset>5687</BeginOffset>
+                <EndOffset>5758</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu beni çok mutlu ediyor</Text>
+                <BeginOffset>5760</BeginOffset>
+                <EndOffset>5784</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="exception: sadece (?)" sense="Expansion: Exception" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Neolitik</Text>
+                <BeginOffset>6003</BeginOffset>
+                <EndOffset>6011</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Anadolu&apos;daki Neolitik dönem hakkında çok
+                    fazla fikrimiz yoktu</Text>
+                <BeginOffset>5940</BeginOffset>
+                <EndOffset>6001</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Neolitik Dönem deyince, yalnızca akla
+                    Mersin&apos;deki, Hatay&apos;daki kazılar geliyordu</Text>
+                <BeginOffset>6003</BeginOffset>
+                <EndOffset>6082</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Burada</Text>
+                <BeginOffset>6191</BeginOffset>
+                <EndOffset>6197</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sonra ilk yerleşik köy dönemi olarak da, yüzey
+                    araştırmalarıyla saptanan höyükler arasında Çayönü seçildi</Text>
+                <BeginOffset>6084</BeginOffset>
+                <EndOffset>6189</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Burada çalışmalar başladı</Text>
+                <BeginOffset>6191</BeginOffset>
+                <EndOffset>6216</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="?" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Şimdiye</Text>
+                <BeginOffset>7078</BeginOffset>
+                <EndOffset>7085</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çatalhöyük&apos;te bulunan bir duvar resminde,
+                    Hasandağı görünüyor ve altta da bir yerleşim resmi var</Text>
+                <BeginOffset>6980</BeginOffset>
+                <EndOffset>7076</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Şimdiye kadar bu alttaki resmin,
+                    Çatalhöyük&apos;ün planı, üsttekinin de Hasandağı
+                    olduğu tezi öne sürüldü</Text>
+                <BeginOffset>7078</BeginOffset>
+                <EndOffset>7179</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Antropolog</Text>
+                <BeginOffset>7231</BeginOffset>
+                <EndOffset>7241</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Oysa şimdi çok ilginç yeni bir yorum getiriliyor</Text>
+                <BeginOffset>7181</BeginOffset>
+                <EndOffset>7229</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Antropolog Rudgley&apos;e göre, Hasandağı
+                    Çatalhöyük&apos;ten görünmüyor</Text>
+                <BeginOffset>7231</BeginOffset>
+                <EndOffset>7293</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Avcılar</Text>
+                <BeginOffset>7925</BeginOffset>
+                <EndOffset>7932</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Aşıklı&apos;da ise, başka başka işlerle uğraşan
+                    gruplar var</Text>
+                <BeginOffset>7869</BeginOffset>
+                <EndOffset>7923</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Avcılar var, yiyeceği getirenler, kaynaktan
+                    obsidiyen taşıyanlar, deri imalatçıları, kemik
+                    endüstrisini yapanlar, hayvanları parçalayanlar var</Text>
+                <BeginOffset>7925</BeginOffset>
+                <EndOffset>8067</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>8069</BeginOffset>
+                <EndOffset>8071</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Avcılar var, yiyeceği getirenler, kaynaktan
+                    obsidiyen taşıyanlar, deri imalatçıları, kemik
+                    endüstrisini yapanlar, hayvanları parçalayanlar var</Text>
+                <BeginOffset>7925</BeginOffset>
+                <EndOffset>8067</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu işleri organize eden bazı özel konumlu
+                    insanlar, özel yerlerde oturuyor</Text>
+                <BeginOffset>8069</BeginOffset>
+                <EndOffset>8143</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="opposition: fakat"
+        sense="Comparison: Contrast: opposition" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Çatalhöyük&apos;te</Text>
+                <BeginOffset>8145</BeginOffset>
+                <EndOffset>8158</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu işleri organize eden bazı özel konumlu
+                    insanlar, özel yerlerde oturuyor</Text>
+                <BeginOffset>8069</BeginOffset>
+                <EndOffset>8143</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çatalhöyük&apos;te öyle özel yerler yok</Text>
+                <BeginOffset>8145</BeginOffset>
+                <EndOffset>8179</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>bu</Text>
+                <BeginOffset>8449</BeginOffset>
+                <EndOffset>8451</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yeni zamanlar yeni başlıyor, iklim değişmeleri sürüyor</Text>
+                <BeginOffset>8393</BeginOffset>
+                <EndOffset>8447</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu iklim değişmeleri olurken, bu insanlar burada
+                    yerleşik yaşama geçiyor</Text>
+                <BeginOffset>8449</BeginOffset>
+                <EndOffset>8521</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="del?" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Onun</Text>
+                <BeginOffset>8699</BeginOffset>
+                <EndOffset>8703</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>2. tabaka, MÖ 8. bin yıl</Text>
+                <BeginOffset>8673</BeginOffset>
+                <EndOffset>8697</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Onun altı, 3. tabaka daha eski tabi</Text>
+                <BeginOffset>8699</BeginOffset>
+                <EndOffset>8734</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Her</Text>
+                <BeginOffset>8870</BeginOffset>
+                <EndOffset>8873</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Tamir gördüğü için de, biz bunların yapı
+                    evrelerini takip edebiliyoruz</Text>
+                <BeginOffset>8798</BeginOffset>
+                <EndOffset>8868</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Her yapı evresinde kaç tane mahalle, kaç tane ev var</Text>
+                <BeginOffset>8870</BeginOffset>
+                <EndOffset>8922</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>bunları</Text>
+                <BeginOffset>8924</BeginOffset>
+                <EndOffset>8931</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Her yapı evresinde kaç tane mahalle, kaç tane ev var</Text>
+                <BeginOffset>8870</BeginOffset>
+                <EndOffset>8922</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bunları bilebiliyoruz</Text>
+                <BeginOffset>8924</BeginOffset>
+                <EndOffset>8945</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Burada</Text>
+                <BeginOffset>9172</BeginOffset>
+                <EndOffset>9178</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bir yapı evresini kazıp, altına geçiyorsunuz</Text>
+                <BeginOffset>9126</BeginOffset>
+                <EndOffset>9170</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Burada bazı duvarlar, hep birbirini takip etmiş</Text>
+                <BeginOffset>9172</BeginOffset>
+                <EndOffset>9219</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bunlar</Text>
+                <BeginOffset>9412</BeginOffset>
+                <EndOffset>9418</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ayrıca bu çöplük alanlarını da işlik olarak,
+                    atölye gibi kullanıyor</Text>
+                <BeginOffset>9343</BeginOffset>
+                <EndOffset>9410</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bunlar, oturulan mahallelerin arasında büyük
+                    alanlar şeklinde yer alıyor</Text>
+                <BeginOffset>9412</BeginOffset>
+                <EndOffset>9484</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bir</Text>
+                <BeginOffset>9807</BeginOffset>
+                <EndOffset>9810</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ayrıca, yerleşmenin doğusunda bir çevre duvarı bulduk</Text>
+                <BeginOffset>9752</BeginOffset>
+                <EndOffset>9805</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bir tarafı Melendiz&apos;e bakıyor</Text>
+                <BeginOffset>9807</BeginOffset>
+                <EndOffset>9836</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Duvarın</Text>
+                <BeginOffset>10007</BeginOffset>
+                <EndOffset>10014</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yerleşim duvarını halen takip ediyoruz, çünkü yer
+                    yer daha derine gidiyor</Text>
+                <BeginOffset>9932</BeginOffset>
+                <EndOffset>10005</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Duvarın kuzeydoğu ucunu bulduk, şimdi güneye doğru
+                    takip ediyoruz</Text>
+                <BeginOffset>10007</BeginOffset>
+                <EndOffset>10072</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>10157</BeginOffset>
+                <EndOffset>10159</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ana girişlerden bir tanesi, olasılıkla çevre
+                    duvarının iki burcunun olduğu yerden</Text>
+                <BeginOffset>10074</BeginOffset>
+                <EndOffset>10155</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu çevre duvarını savunma amacıyla düşmana karşı
+                    mı, hayvanlara karşı mı yaptılar</Text>
+                <BeginOffset>10157</BeginOffset>
+                <EndOffset>10238</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="?" sense="" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>onu</Text>
+                <BeginOffset>10240</BeginOffset>
+                <EndOffset>10243</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu çevre duvarını savunma amacıyla düşmana karşı
+                    mı, hayvanlara karşı mı yaptılar</Text>
+                <BeginOffset>10157</BeginOffset>
+                <EndOffset>10238</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>onu bilmiyoruz</Text>
+                <BeginOffset>10240</BeginOffset>
+                <EndOffset>10254</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="??" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>10579</BeginOffset>
+                <EndOffset>10581</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bir de olasılıkla 3. tabakada eski yerleşim yeri var</Text>
+                <BeginOffset>10525</BeginOffset>
+                <EndOffset>10577</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu da Melendiz kıyısında, güney tarafta, tamamen
+                    höyüğün dışında</Text>
+                <BeginOffset>10579</BeginOffset>
+                <EndOffset>10643</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>İlk</Text>
+                <BeginOffset>10645</BeginOffset>
+                <EndOffset>10648</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu da Melendiz kıyısında, güney tarafta, tamamen
+                    höyüğün dışında</Text>
+                <BeginOffset>10579</BeginOffset>
+                <EndOffset>10643</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İlk defa orada yerleşmişler</Text>
+                <BeginOffset>10645</BeginOffset>
+                <EndOffset>10672</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>iki</Text>
+                <BeginOffset>11605</BeginOffset>
+                <EndOffset>11608</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu evler kerpiçten yapılıyor, içten ve dıştan sıvalı</Text>
+                <BeginOffset>11551</BeginOffset>
+                <EndOffset>11603</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>iki gözlü, üç gözlü, hatta beş gözlü olanları var</Text>
+                <BeginOffset>11605</BeginOffset>
+                <EndOffset>11654</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>12536</BeginOffset>
+                <EndOffset>12538</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Geniş çakıl döşeli bir caddenin bitişiğinde, çok
+                    büyük bir bina var ve onunla aynı alanı paylaşan
+                    büyük ana koridorlar, birtakım avlular, ayrıca bir
+                    başka bina daha var</Text>
+                <BeginOffset>12366</BeginOffset>
+                <EndOffset>12534</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu binanın bütün tabanı kırmızı, beton kadar sert
+                    bir malzemeyle döşeli</Text>
+                <BeginOffset>12536</BeginOffset>
+                <EndOffset>12607</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bunu</Text>
+                <BeginOffset>12609</BeginOffset>
+                <EndOffset>12613</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu binanın bütün tabanı kırmızı, beton kadar sert
+                    bir malzemeyle döşeli</Text>
+                <BeginOffset>12536</BeginOffset>
+                <EndOffset>12607</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bunu restore etmiş ve kısmen yarısını sarıya boyamışlar</Text>
+                <BeginOffset>12609</BeginOffset>
+                <EndOffset>12664</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>12666</BeginOffset>
+                <EndOffset>12668</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bunu restore etmiş ve kısmen yarısını sarıya boyamışlar</Text>
+                <BeginOffset>12609</BeginOffset>
+                <EndOffset>12664</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu yapı birimi, tapınak olarak adlandırdığımız bir yer</Text>
+                <BeginOffset>12666</BeginOffset>
+                <EndOffset>12720</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Yabani</Text>
+                <BeginOffset>13163</BeginOffset>
+                <EndOffset>13169</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>yani tarıma başlangıç var ve daha çok yabani tahıl kullanmışlar</Text>
+                <BeginOffset>13098</BeginOffset>
+                <EndOffset>13161</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yabani tahıl toplamış ve öğütmüşler.</Text>
+                <BeginOffset>13163</BeginOffset>
+                <EndOffset>13199</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="?" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>bazalt</Text>
+                <BeginOffset>13442</BeginOffset>
+                <EndOffset>13448</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Taş kaynaklarına baktığınızda, doğal olarak çok
+                    taş malzemesi var</Text>
+                <BeginOffset>13375</BeginOffset>
+                <EndOffset>13440</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bazalt, kireçtaşı, tüfler, volkanik taşlar çok
+                    fazla var</Text>
+                <BeginOffset>13442</BeginOffset>
+                <EndOffset>13498</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Yapılarını</Text>
+                <BeginOffset>13565</BeginOffset>
+                <EndOffset>13575</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Aşıklı&apos;ya yerleşenler ilk geldiklerinde
+                    kerpiç mimariyi biliyor</Text>
+                <BeginOffset>13500</BeginOffset>
+                <EndOffset>13563</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yapılarını kerpiçten yapıyorlar, ama sonra taşı
+                    kullanmayı öğreniyorlar</Text>
+                <BeginOffset>13565</BeginOffset>
+                <EndOffset>13636</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

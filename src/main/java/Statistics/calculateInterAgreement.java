@@ -9,6 +9,8 @@ import core.Annotation;
 import java.io.File;
 import java.io.IOException;
 import java.util.HashMap;
+import java.util.Map;
+import java.util.stream.Collectors;
 import javax.xml.parsers.ParserConfigurationException;
 import org.xml.sax.SAXException;
 
@@ -22,11 +24,21 @@ public class calculateInterAgreement {
     String annotator2Dir;
     HashMap<Integer, Annotation> anno1Map = new HashMap<>();
     HashMap<Integer, Annotation> anno2Map = new HashMap<>();
+    static HashMap<Integer, Annotation> uniqueMap = new HashMap<>();
+    HashMap<String, Integer> confusionMatrix = new HashMap<>();
+
     static int[] overallAgreed = {0, 0, 0};
     static int overallSize = 0;
-    public String filterString ="";
+    public String filterString = "";
 
-    public calculateInterAgreement(String dir1, String dir2) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException {
+    public void printConfusionMatrix() {
+        confusionMatrix.entrySet().stream()
+                .sorted(Map.Entry.<String, Integer>comparingByValue().reversed())
+                .limit(10)
+                .forEach(System.out::println);
+    }
+
+    public calculateInterAgreement(String dir1, String dir2, String type) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException {
         File folderAnno1 = new File(dir1);
         File folderAnno2 = new File(dir2);
 
@@ -37,36 +49,41 @@ public class calculateInterAgreement {
             System.out.println("I'm sorry, Dave. I'm afraid I can't do that".toUpperCase());
         }
         for (int i = 0; i < Anno1Files.length; i++) {
-            if(Anno1Files[i].getPath().contains(filterString)){
-            System.out.println("");
-            System.out.println(Anno1Files[i].getPath().toUpperCase());
-            anno1Map = readRelationsForStatistics.readDATTRelations(Anno1Files[i].getPath());
-            anno2Map = readRelationsForStatistics.readDATTRelations(Anno2Files[i].getPath());
-            calculateInterAgreement(anno1Map, anno2Map);
+            if (Anno1Files[i].getPath().contains(filterString)) {
+                System.out.println("");
+                System.out.println(Anno1Files[i].getPath().toUpperCase());
+                anno1Map = readRelationsForStatistics.readDATTRelations(Anno1Files[i].getPath(), type);
+                anno2Map = readRelationsForStatistics.readDATTRelations(Anno2Files[i].getPath(), type);
+                calculateInterAgreement(anno1Map, anno2Map, type);
             }
         }
     }
 
-    private void calculateInterAgreement(HashMap<Integer, Annotation> anno1Map, HashMap<Integer, Annotation> anno2Map) {
+    private void calculateInterAgreement(HashMap<Integer, Annotation> anno1Map, HashMap<Integer, Annotation> anno2Map, String type) {
 
         System.out.println("Annotations of anno1 : " + anno1Map.keySet().size());
         System.out.println("Annotations of anno2 : " + anno2Map.keySet().size());
 
+        uniqueMap.putAll(anno1Map);
+        uniqueMap.putAll(anno2Map);
+
         int smaller = (anno1Map.keySet().size() < anno2Map.keySet().size()) ? anno1Map.keySet().size() : anno2Map.keySet().size();
-        overallSize = overallSize + smaller;
         int[] agreed = {0, 0, 0};
         int commonAnno = 0;
         for (Integer key : anno1Map.keySet()) {
-            if (anno2Map.containsKey(key)) {
+            if (anno2Map.containsKey(key) && anno2Map.get(key).getType().contains(type) && anno1Map.get(key).getType().contains(type)) {
                 commonAnno++;
                 compareAnnotationSenseBased(anno1Map.get(key), anno2Map.get(key), agreed);
-                System.out.println("!COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
+                //          System.out.println("!COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
             } else {
-        //       System.out.println("NOT COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
+                //       System.out.println("NOT COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
 
             }
         }
+        overallSize = overallSize + commonAnno;
         System.out.println(commonAnno);
+        System.out.println(agreed[0] + " " + agreed[1] + " " + agreed[2]);
+
     }
 
     private void compareAnnotationSenseBased(Annotation a1, Annotation a2, int[] agreed) {
@@ -83,15 +100,30 @@ public class calculateInterAgreement {
             agreed[2] = agreed[2] + 1;
             overallAgreed[2] = overallAgreed[2] + 1;
         }
-
+        if (!a1.getFullSense().equals(a2.getFullSense())) {
+            String s = a1.getFullSense() + "_" + a2.getFullSense();
+            if (!confusionMatrix.containsKey(s)) {
+                confusionMatrix.put(s, 1);
+            } else {
+                int oValue = confusionMatrix.get(s);
+                confusionMatrix.put(s, oValue + 1);
+            }
+        }
     }
-    
+
     public static void main(String[] args) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException {
-        calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\savas", "Agreement\\agreed");
+        // calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\savas", "Agreement\\agreed");
+     //    calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\old\\savas", "Agreement\\old\\serkan", "IMPLICIT"); // 85,  123
+            calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\old\\tuğçe", "Agreement\\old\\murathan", "ENTREL");
+
         System.out.println(" - ");
         for (int i : overallAgreed) {
             System.out.println((double) i / overallSize);
         }
+        System.out.println("common: " + overallSize);
+        System.out.println("unique: " + uniqueMap.size());
+        System.out.println("common/unique: " + ((double) overallSize / uniqueMap.size()));
+        calculator.printConfusionMatrix();
 
     }
 

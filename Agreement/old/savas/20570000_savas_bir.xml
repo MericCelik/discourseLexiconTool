@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>K</Text>
+                <BeginOffset>442</BeginOffset>
+                <EndOffset>443</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kıbrıs&apos;ta barış planlarının yapıldığı şu
+                    günlerde, Ada&apos;nın iki yakasında ekonomik
+                    işbirliğinin örnekleri sergileniyor</Text>
+                <BeginOffset>323</BeginOffset>
+                <EndOffset>440</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kriz nedeniyle işşiz kalan 7 bine yakın Kıbrıslı
+                    Türk, çalışmak için her gün Rum Kesimi&apos;ne geçiyor</Text>
+                <BeginOffset>442</BeginOffset>
+                <EndOffset>540</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>658</BeginOffset>
+                <EndOffset>659</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Türkiye&apos;deki ekonomik kriz kısa sürede
+                    etkisini Kuzey Kıbrıs Türk Cumhuriyeti&apos;nde de
+                    (KKTC) gösterdi</Text>
+                <BeginOffset>556</BeginOffset>
+                <EndOffset>656</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Birçok işyeri kapanırken, işsiz kalan binlerce
+                    kişi yeni arayışlar içine girdi</Text>
+                <BeginOffset>658</BeginOffset>
+                <EndOffset>736</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result: sonuç olarak"
+        sense="Contingency: Cause: result" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>S</Text>
+                <BeginOffset>919</BeginOffset>
+                <EndOffset>920</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kalanlar ise 1990&apos;dan bu yana inşaatlarda
+                    çalışmak üzere Kıbrıs Rum Kesimi&apos;ne geçen
+                    gündelikçi işçilere katıldı</Text>
+                <BeginOffset>806</BeginOffset>
+                <EndOffset>917</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Son iki yıla kadar sayıları ancak bini bulan
+                    işçiler, krizin de etkisiyle 7 binlere ulaştı</Text>
+                <BeginOffset>919</BeginOffset>
+                <EndOffset>1009</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="reason: çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ş</Text>
+                <BeginOffset>2879</BeginOffset>
+                <EndOffset>2880</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İş bulamayınca kişiliğimi ve gururumu bastırıp
+                    inşaatlarda işçiliğe başladım</Text>
+                <BeginOffset>2801</BeginOffset>
+                <EndOffset>2877</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Şu an yapabileceğimin en iyisi bu&quot; diye konuşuyor</Text>
+                <BeginOffset>2879</BeginOffset>
+                <EndOffset>2928</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>T</Text>
+                <BeginOffset>12493</BeginOffset>
+                <EndOffset>12494</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Gazeteci - yazar Can Dündar, &quot;Evlilik bitiyor
+                    mu&quot; başlıklı yazısında kurumsal ihtiyaçlarla
+                    &quot;evli görünen&quot; ama gerçek anlamda bir
+                    birliktelik yaşamayan &quot;sanal çiftler&quot;in
+                    ortaya çıktığını yazdı</Text>
+                <BeginOffset>12300</BeginOffset>
+                <EndOffset>12491</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Tükenmiş evliliklerin can simidinin Hülya Avşar
+                    örneğindeki gibi çocukların olduğunu söyleyen
+                    Dündar, evlilik kurumunun içten çürümüş bir
+                    ikiyüzlülük abidesi gibi, miniklerin cılız dizleri
+                    üzerinde ayakta durmaya çalıştığını savundu</Text>
+                <BeginOffset>12493</BeginOffset>
+                <EndOffset>12725</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result: sonuç olarak"
+        sense="Contingency: Cause: result" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>E</Text>
+                <BeginOffset>13256</BeginOffset>
+                <EndOffset>13257</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Mutlu insanlar var</Text>
+                <BeginOffset>13236</BeginOffset>
+                <EndOffset>13254</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Evliliklerin bitmemesi gerekiyor</Text>
+                <BeginOffset>13256</BeginOffset>
+                <EndOffset>13288</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="instantiation: örneğin"
+        sense="Expansion: Instantiation" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>İ</Text>
+                <BeginOffset>14548</BeginOffset>
+                <EndOffset>14549</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Batıda boşanmalar artıyor ancak gözden kaçan,
+                    boşananların da bir süre sonra tekrar evlenmesi</Text>
+                <BeginOffset>14453</BeginOffset>
+                <EndOffset>14546</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İngiltere&apos;de boşanma oranı Türkiye&apos;ye
+                    göre yaklaşık iki kat daha fazla buna karşılık
+                    evlilik sayısı da bizim ülkemizden yüksek</Text>
+                <BeginOffset>14548</BeginOffset>
+                <EndOffset>14674</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="reason: çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ç</Text>
+                <BeginOffset>15189</BeginOffset>
+                <EndOffset>15190</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kötü giden bir evlilikte çocukların da bir tampon
+                    olduğunu düşünmüyorum</Text>
+                <BeginOffset>15116</BeginOffset>
+                <EndOffset>15187</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çocuk varsa sadece aynı evi paylaşan akrabalar
+                    gibi oluyorlar</Text>
+                <BeginOffset>15189</BeginOffset>
+                <EndOffset>15250</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>H</Text>
+                <BeginOffset>16910</BeginOffset>
+                <EndOffset>16911</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Komutanlar &quot;yeni anayasa&quot; konusunu
+                    gündeme getirdiler</Text>
+                <BeginOffset>16855</BeginOffset>
+                <EndOffset>16908</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Hükümet programından pasajlar okuyan komutanlar,
+                    &quot;Toplumsal meşruiyete dayalı yeni anayasa
+                    yapılacaktır&quot; cümlesinin, mevcut anayasanın
+                    meşru olmadığı anlamına mı geldiğini sordular</Text>
+                <BeginOffset>16910</BeginOffset>
+                <EndOffset>17090</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>K</Text>
+                <BeginOffset>17092</BeginOffset>
+                <EndOffset>17093</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Hükümet programından pasajlar okuyan komutanlar,
+                    &quot;Toplumsal meşruiyete dayalı yeni anayasa
+                    yapılacaktır&quot; cümlesinin, mevcut anayasanın
+                    meşru olmadığı anlamına mı geldiğini sordular</Text>
+                <BeginOffset>16910</BeginOffset>
+                <EndOffset>17090</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Komutanlar, &quot;toplumsal meşruiyet&quot;
+                    ifadesiyle Cumhuriyet&apos;in temel niteliklerine
+                    karşı bir arayış mı var yolunda kamuoyuna yansıyan
+                    kuşkuları yansıttılar</Text>
+                <BeginOffset>17092</BeginOffset>
+                <EndOffset>17243</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>A</Text>
+                <BeginOffset>1513</BeginOffset>
+                <EndOffset>1514</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Sabahın ilk ışıklarında kalkan ve araçlarıyla
+                    Beyarmudu köyüne gelen Kıbrıs Türkleri, güvenlik
+                    noktalarında kimliklerini bırakıyorlar</Text>
+                <BeginOffset>1378</BeginOffset>
+                <EndOffset>1511</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Araçlarını terk edip yürüyerek Pile&apos;ye geliyorlar</Text>
+                <BeginOffset>1513</BeginOffset>
+                <EndOffset>1562</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>A</Text>
+                <BeginOffset>1564</BeginOffset>
+                <EndOffset>1565</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Araçlarını terk edip yürüyerek Pile&apos;ye geliyorlar</Text>
+                <BeginOffset>1513</BeginOffset>
+                <EndOffset>1562</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ardından kolayca Rum tarafına geçiyorlar</Text>
+                <BeginOffset>1564</BeginOffset>
+                <EndOffset>1604</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>O</Text>
+                <BeginOffset>2094</BeginOffset>
+                <EndOffset>2095</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Üniversitede okuyan iki çocuğum var</Text>
+                <BeginOffset>2057</BeginOffset>
+                <EndOffset>2092</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Onlar için katlanıyorum tüm bu zorluklara&quot; diyor</Text>
+                <BeginOffset>2094</BeginOffset>
+                <EndOffset>2142</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>R</Text>
+                <BeginOffset>2158</BeginOffset>
+                <EndOffset>2159</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Onlar için katlanıyorum tüm bu zorluklara&quot; diyor</Text>
+                <BeginOffset>2094</BeginOffset>
+                <EndOffset>2142</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Rumların Pile&apos;ye rahatça girip çıktığını
+                    ancak kendilerinin Beyarmudu&apos;ndan kimlik
+                    kontrolünden sonra Pile&apos;ye geçtiklerini
+                    söyleyen Emirzade, şöyle devam ediyor</Text>
+                <BeginOffset>2158</BeginOffset>
+                <EndOffset>2317</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>K</Text>
+                <BeginOffset>2403</BeginOffset>
+                <EndOffset>2404</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Kendi hükümetimiz bize barikat kuruyor. İş imkânı
+                    yok, kimse Kuzey&apos;de çalışamıyor</Text>
+                <BeginOffset>2320</BeginOffset>
+                <EndOffset>2401</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kazandıkları üç beş kuruşla da karınları doymuyor</Text>
+                <BeginOffset>2403</BeginOffset>
+                <EndOffset>2452</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Z</Text>
+                <BeginOffset>3167</BeginOffset>
+                <EndOffset>3168</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Dışişleri Bakanı Yaşar Yakış başkanlığında
+                    Dışişleri Bakanlığı&apos;nda mini Kıbrıs zirvesi yapıldı</Text>
+                <BeginOffset>3071</BeginOffset>
+                <EndOffset>3165</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Zirveye KKTC Cumhurbaşkanı Denktaş&apos;ın
+                    müzakerelerdeki sağ kolu Cumhurbaşkanlığı Müsteşarı
+                    Ergun Olgun ile KKTC&apos;nin Ankara Büyükelçisi
+                    Zeki Bulunç katıldı</Text>
+                <BeginOffset>3167</BeginOffset>
+                <EndOffset>3320</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>A</Text>
+                <BeginOffset>3441</BeginOffset>
+                <EndOffset>3442</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Yetkililer Annan&apos;ın 30 Kasım olarak
+                    belirlediği yanıtın, planın ayrıntılı incelemesi
+                    nedeniyle yetişmediğini bildirdi</Text>
+                <BeginOffset>3322</BeginOffset>
+                <EndOffset>3439</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ankara&apos;da hazırlanacak yanıt, Annan&apos;a
+                    iletilmeden önce son kez New York&apos;ta bulunan
+                    Denktaş&apos;ın onayına sunulacak</Text>
+                <BeginOffset>3441</BeginOffset>
+                <EndOffset>3552</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>P</Text>
+                <BeginOffset>4828</BeginOffset>
+                <EndOffset>4829</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Gökkafes&apos;in 23&apos;üncü katında yer alan
+                    süper lüks daire, önce 1 trilyon 710 milyar liradan
+                    peşin olarak satışa çıkarıldı</Text>
+                <BeginOffset>4708</BeginOffset>
+                <EndOffset>4826</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Peşin alıcı çıkmayınca, aynı daire 24 ay vadeli
+                    olmak üzere 2 trilyon 120 milyar 400 milyon liradan
+                    satışa sunuldu</Text>
+                <BeginOffset>4828</BeginOffset>
+                <EndOffset>4942</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>İ</Text>
+                <BeginOffset>4958</BeginOffset>
+                <EndOffset>4959</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Peşin alıcı çıkmayınca, aynı daire 24 ay vadeli
+                    olmak üzere 2 trilyon 120 milyar 400 milyon liradan
+                    satışa sunuldu</Text>
+                <BeginOffset>4828</BeginOffset>
+                <EndOffset>4942</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İsmi açıklanmayan alıcı, daireyi bu fiyattan satın aldı</Text>
+                <BeginOffset>4958</BeginOffset>
+                <EndOffset>5013</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>D</Text>
+                <BeginOffset>5015</BeginOffset>
+                <EndOffset>5016</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>İsmi açıklanmayan alıcı, daireyi bu fiyattan satın aldı</Text>
+                <BeginOffset>4958</BeginOffset>
+                <EndOffset>5013</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Daire bedelinin 530 milyar 170 milyon lirası peşin
+                    verilirken kalan miktar 24 ayda, 66 milyar 262
+                    milyon liralık taksitlerle ödenecek</Text>
+                <BeginOffset>5015</BeginOffset>
+                <EndOffset>5148</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Y</Text>
+                <BeginOffset>7080</BeginOffset>
+                <EndOffset>7081</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Geçen yılki fuarın 10 günde 100 trilyon ciro
+                    yaptığını belirten Yıldırım, bu yıl hedefin 200
+                    trilyonun üzerinde olduğunu belirterek, &quot;Arife
+                    günü rekor satış olacağını tahmin ediyoruz&quot;
+                    diye konuştu</Text>
+                <BeginOffset>6882</BeginOffset>
+                <EndOffset>7078</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yıldırım, &quot;Önümüzdeki yıl Bulgaristan,
+                    Romanya, Suriye, Azerbaycan ve Yunanistan gibi
+                    ülkeleri de fuara çekmek istiyoruz&quot; şeklinde konuştu</Text>
+                <BeginOffset>7080</BeginOffset>
+                <EndOffset>7218</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>F</Text>
+                <BeginOffset>7640</BeginOffset>
+                <EndOffset>7641</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Kocaeli&apos;ndeki Kandıra F Tipi
+                    Cezaevi&apos;nden tahliye edildikten sonra İstanbul
+                    polisince gözaltına alınan Alaattin Çakıcı, ikinci
+                    geceyi de emniyette geçirdi</Text>
+                <BeginOffset>7484</BeginOffset>
+                <EndOffset>7638</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Fransa&apos;dan iade sözleşmesi gereği başka
+                    suçlardan yargılanamayan Çakıcı hakkında takdir
+                    yetkisini Adalet Bakanlığı&apos;nın savcılıklara
+                    bıraktığı öğrenildi</Text>
+                <BeginOffset>7640</BeginOffset>
+                <EndOffset>7791</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>S</Text>
+                <BeginOffset>7793</BeginOffset>
+                <EndOffset>7794</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Fransa&apos;dan iade sözleşmesi gereği başka
+                    suçlardan yargılanamayan Çakıcı hakkında takdir
+                    yetkisini Adalet Bakanlığı&apos;nın savcılıklara
+                    bıraktığı öğrenildi</Text>
+                <BeginOffset>7640</BeginOffset>
+                <EndOffset>7791</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Savcılıkların da Çakıcı&apos;nın durumunun
+                    değerlendirilmesi için bir gece daha tutulmasını
+                    istediği bildirildi</Text>
+                <BeginOffset>7793</BeginOffset>
+                <EndOffset>7899</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Ç</Text>
+                <BeginOffset>10155</BeginOffset>
+                <EndOffset>10156</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Adalet Bakanı Cemil Çiçek, &quot;çete&quot;den,
+                    &quot;cinayete azmettirme&quot;ye kadar pek çok
+                    suçtan 456 yıl hapsi istenmesine rağmen sadece 5 yıl
+                    1 ay hapis cezası alan, önceki gün de tahliye
+                    edilerek serbest bırakılan Alaattin Çakıcı hakkında
+                    yargının yapacağı bir şey olmadığını söyledi</Text>
+                <BeginOffset>9882</BeginOffset>
+                <EndOffset>10153</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çiçek, Suçluların İadesi Sözleşmesi (SİDAS)
+                    uyarınca Çakıcı konusunda yargının yapabileceği bir
+                    şey olmadığını belirterek, &quot;Bu tarihe kadar bir
+                    sonuç bildirmeyen Fransa&apos;nın, bu aşamadan sonra
+                    oturup da hemen bir karar verme eğilimi içine
+                    gireceğinden kuşkuluyum&quot; dedi</Text>
+                <BeginOffset>10155</BeginOffset>
+                <EndOffset>10422</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Y</Text>
+                <BeginOffset>11214</BeginOffset>
+                <EndOffset>11215</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Diyanet İşleri Başkanı Mehmet Nuri Yılmaz, 16 Ekim
+                    2002 tarihli genelgesinde, baz istasyonlarının
+                    elektromanyetik radyasyon yaydığını, bunun
+                    iyonlaştırıcı özelliği bulunan radyasyonla
+                    karıştırıldığını kaydetti</Text>
+                <BeginOffset>11003</BeginOffset>
+                <EndOffset>11212</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yılmaz, elektronik radyosyonun buzdolabı
+                    televizyon gibi ev aletlerinde de bulunduğunu öne sürdü</Text>
+                <BeginOffset>11214</BeginOffset>
+                <EndOffset>11310</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>A</Text>
+                <BeginOffset>11682</BeginOffset>
+                <EndOffset>11683</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Türk edebiyat dünyasının seçkin kalemlerinden
+                    Melih Cevdet Anday (87), dün son yolculuğuna uğurlandı</Text>
+                <BeginOffset>11580</BeginOffset>
+                <EndOffset>11680</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Anday için ilk tören Cumhuriyet Gazetesi&apos;nde düzenlendi</Text>
+                <BeginOffset>11682</BeginOffset>
+                <EndOffset>11737</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>E</Text>
+                <BeginOffset>11874</BeginOffset>
+                <EndOffset>11875</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Ardından Şişli Camii&apos;ne getirilen
+                    Anday&apos;ın cenazesinde, eşi Suna Anday, oğlu
+                    İdris Anday, gelini Cristina Anday taziyeleri kabul etti</Text>
+                <BeginOffset>11739</BeginOffset>
+                <EndOffset>11872</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Edebiyat, siyaset ve sanat dünyasından birçok ünlü
+                    ismin buluştuğu cenazede, Erdal İnönü ile CHP lideri
+                    Deniz Baykal bir araya gelmemeye özen gösterdi</Text>
+                <BeginOffset>11874</BeginOffset>
+                <EndOffset>12024</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>A</Text>
+                <BeginOffset>12139</BeginOffset>
+                <EndOffset>12140</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Öğle namazının ardından kılınan cenaze namazından
+                    sonra ailesi Anday&apos;ın naaşını bir motorla
+                    Büyükada&apos;ya götürdü</Text>
+                <BeginOffset>12026</BeginOffset>
+                <EndOffset>12137</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Anday, Büyükada Mezarlığı&apos;nda toprağa verildi</Text>
+                <BeginOffset>12139</BeginOffset>
+                <EndOffset>12184</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>R</Text>
+                <BeginOffset>14331</BeginOffset>
+                <EndOffset>14332</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Evlilik aslında dünyada en sağlam müessesesidir</Text>
+                <BeginOffset>14282</BeginOffset>
+                <EndOffset>14329</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Roma&apos;dan gelen bir formdur</Text>
+                <BeginOffset>14331</BeginOffset>
+                <EndOffset>14357</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>D</Text>
+                <BeginOffset>15707</BeginOffset>
+                <EndOffset>15708</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Cumhurbaşkanı Ahmet Necdet Sezer ve eşi Semra
+                    Sezer, dün akşamüstü Ankara&apos;nın gözde alışveriş
+                    merkezi Armada&apos;daydı</Text>
+                <BeginOffset>15591</BeginOffset>
+                <EndOffset>15705</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Deri spor bir mont giyen Sezer çifti, sivil
+                    plakalı aracı ve 4 korumasıyla alışveriş merkezinde
+                    vitrinlere baktı</Text>
+                <BeginOffset>15707</BeginOffset>
+                <EndOffset>15819</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>T</Text>
+                <BeginOffset>15821</BeginOffset>
+                <EndOffset>15822</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Deri spor bir mont giyen Sezer çifti, sivil
+                    plakalı aracı ve 4 korumasıyla alışveriş merkezinde
+                    vitrinlere baktı</Text>
+                <BeginOffset>15707</BeginOffset>
+                <EndOffset>15819</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Tanıdıklarına rastlayıp sohbet eden Sezer çifti,
+                    15.45&apos;te geldikleri Armada&apos;dan alışveriş
+                    yapıp ayrıldı</Text>
+                <BeginOffset>15821</BeginOffset>
+                <EndOffset>15924</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

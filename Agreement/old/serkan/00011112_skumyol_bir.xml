@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="opposition: ama" sense="Comparison: Contrast: opposition" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Son</Text>
+                <BeginOffset>863</BeginOffset>
+                <EndOffset>866</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yazımına 4.6 milyar yıl önce başlanan Dünya
+                    tarihinde ilk 4 milyar yıllık dönem, kendinden
+                    sonraki çeşitliliğin mayasını tutturabilmenin
+                    uğraşlarıyla geçmiş Belirsiz Canlılar Zamanı&apos;dır.</Text>
+                <BeginOffset>676</BeginOffset>
+                <EndOffset>862</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Son 600 milyon yıllık dönem, bitki ve hayvanların
+                    taşlaşmış kalıntıları olan ve canlı sistematiğine
+                    girebilecek özellikler gösteren fosil kanıtlarla
+                    yazılan jeoloji tarihinin Belirli Canlılar Zamanı&apos;dır</Text>
+                <BeginOffset>863</BeginOffset>
+                <EndOffset>1065</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Canlılar</Text>
+                <BeginOffset>2036</BeginOffset>
+                <EndOffset>2044</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yok olmanın nedeni, canlıların çevresel
+                    değişikliklere karşı gösterdikleri duyarlılıktır</Text>
+                <BeginOffset>1946</BeginOffset>
+                <EndOffset>2034</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Canlılar, uyum sağlayamayacakları ya da etkisiz
+                    hale getiremeyecekleri bir çevresel faktör
+                    değişikliğiyle karşılaştıklarında biyolojik strese
+                    girer ve ölürler</Text>
+                <BeginOffset>2036</BeginOffset>
+                <EndOffset>2194</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Bir</Text>
+                <BeginOffset>4776</BeginOffset>
+                <EndOffset>4779</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu kuramda ileri sürülen ozon tabakasının
+                    tükenmesi, günümüz koşullarında tekrar gerçek olmaya başlamıştır</Text>
+                <BeginOffset>4668</BeginOffset>
+                <EndOffset>4774</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bir grup İngiliz araştırmacı 1985 yılında, tam
+                    Antartika kıtasının üzerinde Ozon tabakasının yüzde
+                    15&apos;lik azalmaya karşılık gelen büyük bir
+                    delikle açıldığını saptamışlardır</Text>
+                <BeginOffset>4776</BeginOffset>
+                <EndOffset>4949</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Biyolojik</Text>
+                <BeginOffset>8269</BeginOffset>
+                <EndOffset>8278</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Keza, II. Zaman- III. Zaman sınırında fosil
+                    kayıtlarında yaygın bir Yok oluş mevcuttur</Text>
+                <BeginOffset>8181</BeginOffset>
+                <EndOffset>8267</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Biyolojik stres kaynaklarından, sıcaklığın
+                    yükselişi kısa süreli ve olayların oluşu anidir</Text>
+                <BeginOffset>8269</BeginOffset>
+                <EndOffset>8359</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>1210</BeginOffset>
+                <EndOffset>1212</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Fosil kanıtlar, Belirli Canlılar Zamanı&apos;nı
+                    kendi içinde Zaman, Devir ve Devrelere ayıran kayda
+                    değer 17 toplu yok olmayı işaret eder</Text>
+                <BeginOffset>1076</BeginOffset>
+                <EndOffset>1208</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu toplu yok olmalardan, Birinci-İkinci Zaman ve
+                    İkinci-Üçüncü Zaman sınırını belirleyen iki tanesi,
+                    I. Büyük Toplu Yok olma ve II. Büyük Toplu Yok olma
+                    olarak, 600 milyon yıllık jeoloji tarihinin en
+                    kapsamlı Yok olmalarını temsil etmektedir</Text>
+                <BeginOffset>1210</BeginOffset>
+                <EndOffset>1451</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Timsah&apos;lar</Text>
+                <BeginOffset>9212</BeginOffset>
+                <EndOffset>9222</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sınırda, Dinasaurus&apos;lar tamamen yok olurken,
+                    onlar gibi Reptilia sınıfına ait olup aynı devirde
+                    yaşamaya başlayan Timsah&apos;lara hiçbir şey olmamıştır</Text>
+                <BeginOffset>9063</BeginOffset>
+                <EndOffset>9210</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Timsah&apos;lar, 200 milyon yıldan beri, hiçbir
+                    morfolojik değişim göstermeksizin yaşamaktadırlar</Text>
+                <BeginOffset>9212</BeginOffset>
+                <EndOffset>9304</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Sınırda</Text>
+                <BeginOffset>9063</BeginOffset>
+                <EndOffset>9070</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Keza, Dinoflagellata ve Kalkerli Alg&apos;ler gibi
+                    bir grupda yokolma öncesi ve sonrasında cins bazında
+                    küçük düşüşler; Radiolaria ve Diatome gibi gruplarda
+                    aynen korunma; Foraminifer&apos;ler ve
+                    Kokholit&apos;ler gibi gruplarda büyük düşüşler;
+                    Dinosaurus, Amphibia, Belemnites ve
+                    Ammonites&apos;lerde tamamen yokolma söz konusu
+                    iken, Mammalia, Reptil ve Karasal Bitkiler&apos;de
+                    artış söz konusudur</Text>
+                <BeginOffset>8687</BeginOffset>
+                <EndOffset>9061</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sınırda, Dinasaurus&apos;lar tamamen yok olurken,
+                    onlar gibi Reptilia sınıfına ait olup aynı devirde
+                    yaşamaya başlayan Timsah&apos;lara hiçbir şey olmamıştır</Text>
+                <BeginOffset>9063</BeginOffset>
+                <EndOffset>9210</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Beslenme</Text>
+                <BeginOffset>2196</BeginOffset>
+                <EndOffset>2204</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Canlılar, uyum sağlayamayacakları ya da etkisiz
+                    hale getiremeyecekleri bir çevresel faktör
+                    değişikliğiyle karşılaştıklarında biyolojik strese
+                    girer ve ölürler</Text>
+                <BeginOffset>2036</BeginOffset>
+                <EndOffset>2194</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Beslenme zincirinin kırılması, iklim değişikliği,
+                    okyanus ve atmosferde O2/CO2 dengesinin bozulması,
+                    deniz çekilmesi ve ilerlemesi, volkanizma, iz
+                    element konsantrasyonunda yükselme, kuyruklu yıldız
+                    veya meteorit çarpması, güneş sistemindeki
+                    patlamalardan oluşan kozmik radyasyon, periyodik
+                    galaktik olaylar ve yeryuvarının manyetik alanının
+                    değişmesi biyolojik stres kaynaklarının en önemlileridir</Text>
+                <BeginOffset>2196</BeginOffset>
+                <EndOffset>2595</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Saniyedeki</Text>
+                <BeginOffset>7750</BeginOffset>
+                <EndOffset>7760</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kaldı ki, yer yüzünden 2000 km yükseklikte askeri
+                    roketler ve uydu parçalarından oluşan, sayı ve
+                    ağırlıkları durmadan artırılan bir çöp bulutu insan
+                    eliyle oluşturulan diğer tehlikelerdendir</Text>
+                <BeginOffset>7558</BeginOffset>
+                <EndOffset>7748</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Saniyedeki hızları 5-10 km olan, 5-10 cm çapında
+                    partiküllerden oluşan bu çöp bulutunun toplam
+                    ağırlığının şimdilik 3 milyon kg olduğu düşünülüyor</Text>
+                <BeginOffset>7750</BeginOffset>
+                <EndOffset>7896</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

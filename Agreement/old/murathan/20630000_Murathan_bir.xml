@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="? restatement" sense="Expansion: Restatement" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>880</BeginOffset>
+                <EndOffset>881</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ABD&apos;nin, &quot;Iraklıları da Saddam&apos;dan
+                    kurtaracağız&quot; tezi, pek rağbet görmüyor</Text>
+                <BeginOffset>804</BeginOffset>
+                <EndOffset>878</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bir öğrenci, bu durumu, &quot;Madem bizi kurtarmak
+                    istiyorlar, neden tepemize bomba yağdırmayı
+                    düşünüyorlar?&quot; sözleriyle özetliyor</Text>
+                <BeginOffset>880</BeginOffset>
+                <EndOffset>1005</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>G</Text>
+                <BeginOffset>375</BeginOffset>
+                <EndOffset>376</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bağdat, sisler altında sıradan bir güne
+                    hazırlanırken, Bağdatlılar, geçim derdiyle işlerinin
+                    yolunu tutuyor</Text>
+                <BeginOffset>266</BeginOffset>
+                <EndOffset>373</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Gelecekleri çok uzaklarda masaya yatırılmış bu
+                    insanlar, önce İran&apos;la, ardından da ABD ile
+                    çatışarak, savaşa, ambargoya ve yokluğa alışmış durumda</Text>
+                <BeginOffset>375</BeginOffset>
+                <EndOffset>521</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>O</Text>
+                <BeginOffset>1812</BeginOffset>
+                <EndOffset>1813</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ABD&apos;nin bombaladığı bir kenar mahalledeki
+                    halk sığınağı, 400 kişiye mezar olmuş</Text>
+                <BeginOffset>1731</BeginOffset>
+                <EndOffset>1810</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>O sığınak artık bir müze</Text>
+                <BeginOffset>1812</BeginOffset>
+                <EndOffset>1836</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>O</Text>
+                <BeginOffset>1838</BeginOffset>
+                <EndOffset>1839</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>O sığınak artık bir müze</Text>
+                <BeginOffset>1812</BeginOffset>
+                <EndOffset>1836</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Orada ölen çocukların resimlerindeki hüzün,
+                    El-Mansur hastanesindeki çocukların yüzündeki acıyı andırıyor</Text>
+                <BeginOffset>1838</BeginOffset>
+                <EndOffset>1943</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>2144</BeginOffset>
+                <EndOffset>2145</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Başını annesinin dizine yaslamış, çektiği acı yüz
+                    hatlarını germiş</Text>
+                <BeginOffset>2076</BeginOffset>
+                <EndOffset>2142</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Başına gelenlerden habersiz</Text>
+                <BeginOffset>2144</BeginOffset>
+                <EndOffset>2171</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>E</Text>
+                <BeginOffset>2375</BeginOffset>
+                <EndOffset>2376</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>AKP milletvekilleri Emin Şirin, Mehmet Sayım
+                    Tekelioğlu, Yüksel Çavuşoğlu ve Ziyaettin Yağcı
+                    hafta sonu ABD&apos;nin Akdeniz açıklarındaki 6.
+                    Filo&apos;nun amiral gemisi Harry S. Truman&apos;ı gezdi</Text>
+                <BeginOffset>2190</BeginOffset>
+                <EndOffset>2373</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Esenboğa Havalimanı&apos;ndan ABD&apos;lilerin C -
+                    2 tipi nakliye uçağıyla bilinmeyen bir yöne doğru 1
+                    saat 15 dakika uçan vekiller, uçak gemisindeki
+                    teknolojiye hayran kaldı</Text>
+                <BeginOffset>2375</BeginOffset>
+                <EndOffset>2539</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="??" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>A</Text>
+                <BeginOffset>2541</BeginOffset>
+                <EndOffset>2542</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Esenboğa Havalimanı&apos;ndan ABD&apos;lilerin C -
+                    2 tipi nakliye uçağıyla bilinmeyen bir yöne doğru 1
+                    saat 15 dakika uçan vekiller, uçak gemisindeki
+                    teknolojiye hayran kaldı</Text>
+                <BeginOffset>2375</BeginOffset>
+                <EndOffset>2539</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>AKP&apos;liler gemide kıbleyi pusulayla bularak
+                    öğle namazı kıldı</Text>
+                <BeginOffset>2541</BeginOffset>
+                <EndOffset>2601</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="??" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>2906</BeginOffset>
+                <EndOffset>2907</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ABD&apos;in Ankara Büyükelçiliği Askeri
+                    Ataşeliği&apos;nin organize ettiği geziye
+                    AKP&apos;lilerin yanı sıra Deniz
+                    Kuvvetleri&apos;nden bir amiral ve beş subayla
+                    savunma sanayiiyle iş yapan üç işadamı, Japon ve
+                    Hollanda askeri ataşeleri olmak üzere toplam 15 kişi katıldı</Text>
+                <BeginOffset>2653</BeginOffset>
+                <EndOffset>2904</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Büyükelçilik geziye milletvekillerini özel olarak
+                    davet ederken</Text>
+                <BeginOffset>2906</BeginOffset>
+                <EndOffset>2969</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result: bu yüzden"
+        sense="Contingency: Cause: result" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>A</Text>
+                <BeginOffset>3668</BeginOffset>
+                <EndOffset>3669</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>AKP&apos;lileri taşıyan uçak gemiye iniş sırasında
+                    da tekerlekle açılan bir parçanın çelik halatlara
+                    takılması nedeniyle sert bir iniş yaptı</Text>
+                <BeginOffset>3531</BeginOffset>
+                <EndOffset>3666</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>AKP&apos;liler piste çıkınca her birine kask,
+                    kulaklık ve gözlük takıldı</Text>
+                <BeginOffset>3668</BeginOffset>
+                <EndOffset>3735</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="? conjuction: ve" sense="Expansion: Conjunction" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>P</Text>
+                <BeginOffset>4032</BeginOffset>
+                <EndOffset>4033</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu arada Çavuşoğlu, gemide öğle namazını kılmak
+                    isteyince, ABD&apos;li komutanlar hemen bir oda açtı</Text>
+                <BeginOffset>3935</BeginOffset>
+                <EndOffset>4030</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Pusulalarla kıbleyi saptayıp namaz kılmak isteyen
+                    Çavuşoğlu, Tekelioğlu ve Yağcı için üç halı seccade serildi</Text>
+                <BeginOffset>4032</BeginOffset>
+                <EndOffset>4141</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="? imp. rel var mı?" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>P</Text>
+                <BeginOffset>4279</BeginOffset>
+                <EndOffset>4280</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ankara&apos;da gözaltında işkence gördüklerini öne
+                    süren üç genç hakkında &quot;polise iftira
+                    attıkları&quot; gerekçesiyle dava açıldı</Text>
+                <BeginOffset>4158</BeginOffset>
+                <EndOffset>4277</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Polis, gençlerin işkence iddialarına
+                    &quot;Alerjileri vardı. Kalorifere sürtünerek
+                    kendilerini kaşıdılar&quot; yazılı bir tutanakla
+                    yanıt verdi</Text>
+                <BeginOffset>4279</BeginOffset>
+                <EndOffset>4412</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Y</Text>
+                <BeginOffset>4561</BeginOffset>
+                <EndOffset>4562</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ankara&apos;da hurdacılık yapan iki kardeş ve
+                    amcaları, Telekom&apos;a ait kabloları çaldıkları
+                    gerekçesiyle 31 Ocak 2002&apos;de gözaltına alındı</Text>
+                <BeginOffset>4428</BeginOffset>
+                <EndOffset>4559</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yenimahalle İlçe Emniyet Müdürlüğü TEM Büro
+                    Amirliği&apos;ne götürülen E.Ü. (16), E.Ü. (18) ve
+                    B.Ü. (22), sorgulandıktan sonra muayene için Adli
+                    Tıp&apos;a gönderildi</Text>
+                <BeginOffset>4561</BeginOffset>
+                <EndOffset>4717</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>V</Text>
+                <BeginOffset>4719</BeginOffset>
+                <EndOffset>4720</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yenimahalle İlçe Emniyet Müdürlüğü TEM Büro
+                    Amirliği&apos;ne götürülen E.Ü. (16), E.Ü. (18) ve
+                    B.Ü. (22), sorgulandıktan sonra muayene için Adli
+                    Tıp&apos;a gönderildi</Text>
+                <BeginOffset>4561</BeginOffset>
+                <EndOffset>4717</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Vücutlarında kızarıklık tespit edilen gençler,
+                    savcılıkta verdikleri ifadede &quot;alerjileri
+                    oldukları için sırtlarını kalorifere dayayarak
+                    kaşıdıklarını, tahta masaya göğüslerini sertçe
+                    vurduklarını&quot; söyledi</Text>
+                <BeginOffset>4719</BeginOffset>
+                <EndOffset>4923</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="restatement: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>G</Text>
+                <BeginOffset>5062</BeginOffset>
+                <EndOffset>5063</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ancak Elmadağ Tutukevi&apos;ne gönderilen üç genç,
+                    kendilerine işkence yaptıklarını öne sürdükleri
+                    polisler hakkında suç duyurusunda bulundu</Text>
+                <BeginOffset>4925</BeginOffset>
+                <EndOffset>5060</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Gençler, polislerin bölgedeki tüm faili meçhul
+                    hırsızları üzerlerine yıkmak için kendilerine
+                    işkence yaptığını iddia etti</Text>
+                <BeginOffset>5062</BeginOffset>
+                <EndOffset>5183</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="? bunun üzerine; imp. rel" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>E</Text>
+                <BeginOffset>5423</BeginOffset>
+                <EndOffset>5424</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Emniyet Müdürlüğü TEM Büro Amirliği&apos;nde ise
+                    &quot;Çocukların alerjisi vardı. Bu nedenle
+                    kalorifere ve masaya sertçe sürtünerek kendilerini
+                    kaşıdılar&quot; şeklinde tutanak tutularak savcılığa gönderildi</Text>
+                <BeginOffset>5229</BeginOffset>
+                <EndOffset>5421</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Elmadağ Savcılığı, olayla ilgili takipsizlik
+                    kararı vererek soruşturmayı kapadı</Text>
+                <BeginOffset>5423</BeginOffset>
+                <EndOffset>5502</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>5571</BeginOffset>
+                <EndOffset>5572</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İşkence iddiası, bu sırada Ankara Barosu&apos;na yansıdı</Text>
+                <BeginOffset>5518</BeginOffset>
+                <EndOffset>5569</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Baro&apos;nun avukatları, gençlerin Adli
+                    Tıp&apos;ta muayene edilmesini istedi</Text>
+                <BeginOffset>5571</BeginOffset>
+                <EndOffset>5639</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="? da / daha connective mi? arg1 ne olacak?" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>5755</BeginOffset>
+                <EndOffset>5756</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Adli Tıp için verilen dilekçeyi suç duyurusu
+                    olarak kabul eden Ankara Başsavcılığı, bir
+                    soruşturma daha başlattı</Text>
+                <BeginOffset>5641</BeginOffset>
+                <EndOffset>5753</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu soruşturma da önceki takipsizlik kararı gerekçe
+                    gösterilerek 3 Mayıs 2002&apos;de kapatıldı</Text>
+                <BeginOffset>5755</BeginOffset>
+                <EndOffset>5844</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>6351</BeginOffset>
+                <EndOffset>6352</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Avukatlar bunun üzerine 15 Kasım 2002&apos;de
+                    Adalet Bakanlığı&apos;na kararın &quot;yazılı
+                    emir&quot; yoluyla bozulması için dilekçe verdi</Text>
+                <BeginOffset>6230</BeginOffset>
+                <EndOffset>6349</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bakanlıktan yanıt bekleyen avukatların Avrupa
+                    İnsan Hakları Mahkemesi&apos;ne başvuru hazırlığı
+                    yaptığı kaydedildi</Text>
+                <BeginOffset>6351</BeginOffset>
+                <EndOffset>6460</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="? restatement?" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Y</Text>
+                <BeginOffset>6829</BeginOffset>
+                <EndOffset>6830</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ulaştırma Bakanı Binali Yıldırım,
+                    Diyarbakır&apos;da 8 Ocak&apos;ta 75 kişiye mezar
+                    olan Türk Hava Yolları&apos;na (THY) ait uçağın
+                    düşmesine ilişkin ilk somut bulguları ve ön raporu
+                    açıklarken &quot;pilotaj hatası&quot; mesajı verdi</Text>
+                <BeginOffset>6619</BeginOffset>
+                <EndOffset>6827</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yıldırım, &quot;Deşifre edilen konuşmalara göre,
+                    uçak, minimum alçalma irtifasına gelmesine rağmen
+                    pistin görülmediği anlaşılmış ve buna rağmen radar
+                    yardımı istenmemiştir&quot; dedi</Text>
+                <BeginOffset>6829</BeginOffset>
+                <EndOffset>7001</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>U</Text>
+                <BeginOffset>7999</BeginOffset>
+                <EndOffset>8000</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yani uçak, kaza olduğunda Zago Vadisi&apos;nde
+                    pistten yaklaşık 100 feet aşağıda</Text>
+                <BeginOffset>7922</BeginOffset>
+                <EndOffset>7997</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Uçak, minimum açalma seviyesi altında seyretmektedir</Text>
+                <BeginOffset>7999</BeginOffset>
+                <EndOffset>8051</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>8095</BeginOffset>
+                <EndOffset>8096</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Görüş mesafesi 3.5 kilometre</Text>
+                <BeginOffset>8065</BeginOffset>
+                <EndOffset>8093</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu da uçak inişi için yeterli</Text>
+                <BeginOffset>8095</BeginOffset>
+                <EndOffset>8124</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>C</Text>
+                <BeginOffset>8836</BeginOffset>
+                <EndOffset>8837</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Cebeci, Diyarbakır ve Malatya&apos;da en gelişmiş
+                    askeri radar sistemi bulunduğunu belirterek, kaptan
+                    pilot askeri kökenli ve bu radar hakkında eğitimli
+                    olsa da bu radarı hukuken kullanmalarında sorun
+                    bulunduğunu söyledi</Text>
+                <BeginOffset>8619</BeginOffset>
+                <EndOffset>8834</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Cebeci, radar operatörünce yönlendirme yapmaya
+                    imkân tanıyan radarla iniş yapılması durumunda
+                    operatör açısından sorumluluk doğduğunu belirtti</Text>
+                <BeginOffset>8836</BeginOffset>
+                <EndOffset>8978</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result: bu yüzden"
+        sense="Contingency: Cause: result" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Y</Text>
+                <BeginOffset>9088</BeginOffset>
+                <EndOffset>9089</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İki pilot arasındaki konuşmaları anlamakta güçlük çekiyoruz</Text>
+                <BeginOffset>9027</BeginOffset>
+                <EndOffset>9086</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yeniden dinleyeceğiz</Text>
+                <BeginOffset>9088</BeginOffset>
+                <EndOffset>9108</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="?? Instantiation: özellikle"
+        sense="Expansion: Instantiation" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>G</Text>
+                <BeginOffset>10225</BeginOffset>
+                <EndOffset>10226</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Soruşturmayı yürüten DGM Savcısı Ömer Süha
+                    Aldan&apos;ın talimatıyla soruşturmanın ikinci ayağı
+                    dün başlatıldı ve Ankara Dışkapı ve
+                    Eskişehir&apos;deki SSK hastanelerinin kardiyoloji
+                    servisinde görev yapan 6 doktorla, Trabzon,
+                    İstanbul, Eskişehir ve Ankara&apos;da çalışan 6
+                    teknisyen gözaltına alındı</Text>
+                <BeginOffset>9937</BeginOffset>
+                <EndOffset>10223</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Gözaltına alınan 6 doktordan, 4&apos;ünün
+                    Ankara&apos;da, 2&apos;sinin Eskişehir&apos;de görev
+                    yaptıkları, Ankara&apos;da gözaltına alınan
+                    doktorların arasında Prof. Dr. Kenan Ömürlü&apos;nün
+                    de bulunduğu bildirildi</Text>
+                <BeginOffset>10225</BeginOffset>
+                <EndOffset>10410</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>İ</Text>
+                <BeginOffset>13295</BeginOffset>
+                <EndOffset>13296</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sabancı Üniversitesi - Batı Koleji ve Microsoft
+                    tarafından bu yıl üçüncüsü düzenlenecek olan Lise ve
+                    İlköğretim Öğrencileri Bilişim Teknolojileri
+                    Olimpiyatı, Bitek - o&apos;da başvuru süresi 2 gün uzatıldı</Text>
+                <BeginOffset>13093</BeginOffset>
+                <EndOffset>13293</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İnternet üzerinden yapılan başvuruların bulunduğu
+                    servis sağlayıcıda oluşan bir sorun nedeniyle web
+                    sitesine ulaşılamayınca yönetim kurulu başvuru
+                    süresini iki gün uzatma kararı aldı</Text>
+                <BeginOffset>13295</BeginOffset>
+                <EndOffset>13477</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Y</Text>
+                <BeginOffset>13793</BeginOffset>
+                <EndOffset>13794</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Lise ve ilköğretim öğrencilerinin katılabildiği
+                    yarışmada projelerin yüklenmesi süresi de özellikle
+                    &quot;yatılı&quot; okuyan öğrencilerin istekleri
+                    doğrultusunda sömestr tatilini de içine alacak
+                    şekilde 7 Şubat&apos;a uzatıldı</Text>
+                <BeginOffset>13579</BeginOffset>
+                <EndOffset>13791</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yarışmaya şimdiye kadar 73 ilden, 1370 proje
+                    başvurusu yapıldı</Text>
+                <BeginOffset>13793</BeginOffset>
+                <EndOffset>13855</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>1</Text>
+                <BeginOffset>14159</BeginOffset>
+                <EndOffset>14160</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>17 - B&apos;de oturuyordum</Text>
+                <BeginOffset>14136</BeginOffset>
+                <EndOffset>14157</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>17 - A&apos;da oturan kişiye aşağı bakmak
+                    istediğimi söyledim</Text>
+                <BeginOffset>14159</BeginOffset>
+                <EndOffset>14215</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="synchronous: o sırada" sense="Temporal: Synchronous" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>K</Text>
+                <BeginOffset>14248</BeginOffset>
+                <EndOffset>14249</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yaklaşık 300 metre havadaydık</Text>
+                <BeginOffset>14217</BeginOffset>
+                <EndOffset>14246</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kesinlikle sis yoktu</Text>
+                <BeginOffset>14248</BeginOffset>
+                <EndOffset>14268</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result:  bu yüzden"
+        sense="Contingency: Cause: result" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>S</Text>
+                <BeginOffset>14426</BeginOffset>
+                <EndOffset>14427</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Birden kendimi alevlerin içinde buldum</Text>
+                <BeginOffset>14386</BeginOffset>
+                <EndOffset>14424</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Savaş çıktığını sandım</Text>
+                <BeginOffset>14426</BeginOffset>
+                <EndOffset>14448</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>16043</BeginOffset>
+                <EndOffset>16044</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kumarhaneler ABD ve Avrupa&apos;da sınırlıdır ama vardır</Text>
+                <BeginOffset>15990</BeginOffset>
+                <EndOffset>16041</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bunları iyi kontrol etmek gerekir</Text>
+                <BeginOffset>16043</BeginOffset>
+                <EndOffset>16076</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="reason: çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>T</Text>
+                <BeginOffset>16690</BeginOffset>
+                <EndOffset>16691</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kumarhanelerin açılması sadece kaynak bakımından
+                    değil, turizm açısından da çok önemli</Text>
+                <BeginOffset>16602</BeginOffset>
+                <EndOffset>16688</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Türkiye&apos;nin tanıtımına büyük destek sağlayacaktır</Text>
+                <BeginOffset>16690</BeginOffset>
+                <EndOffset>16739</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="? da var!" sense="Expansion: Conjunction" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>T</Text>
+                <BeginOffset>16741</BeginOffset>
+                <EndOffset>16742</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Türkiye&apos;nin tanıtımına büyük destek sağlayacaktır</Text>
+                <BeginOffset>16690</BeginOffset>
+                <EndOffset>16739</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Türkiye&apos;nin imaj ve marka yaratmasında da
+                    avantaj sağlayacaktır</Text>
+                <BeginOffset>16741</BeginOffset>
+                <EndOffset>16804</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>16931</BeginOffset>
+                <EndOffset>16932</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Esasen yeni düzende kumarhanelerin belli yörelerde
+                    toplanması öngörülüyor</Text>
+                <BeginOffset>16856</BeginOffset>
+                <EndOffset>16929</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu yerlerin işletme sahiplerine satışı söz konusu olabilir</Text>
+                <BeginOffset>16931</BeginOffset>
+                <EndOffset>16989</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

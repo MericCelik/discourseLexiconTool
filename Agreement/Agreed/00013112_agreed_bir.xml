@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT" genre="interview">
+        <Conn>
+            <Span>
+                <Text>Avcı</Text>
+                <BeginOffset>272</BeginOffset>
+                <EndOffset>276</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Aşıklı Höyük Kazısı pek çok ilke ev sahipliği yapıyor</Text>
+                <BeginOffset>217</BeginOffset>
+                <EndOffset>270</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Avcı bir toplum, tarım henüz başlamış</Text>
+                <BeginOffset>272</BeginOffset>
+                <EndOffset>309</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT" genre="interview">
+        <Conn>
+            <Span>
+                <Text>ODTÜ&apos;ten</Text>
+                <BeginOffset>3715</BeginOffset>
+                <EndOffset>3723</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu arada Keban ve Değirmentepe Kazıları&apos;nı
+                    yönetirken, yavaş yavaş Arkeometri Ünitesini kurdum</Text>
+                <BeginOffset>3619</BeginOffset>
+                <EndOffset>3713</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ODTÜ&apos;ten arkadaşlarımızla, Boğaziçi ve
+                    Çukurova Üniversiteleri&apos;nden bu işlere ilgi
+                    duyan, gerçekten arkeometrik çalışma yapmak isteyen
+                    kim varsa, onları topladık ve grup oluşturduk</Text>
+                <BeginOffset>3715</BeginOffset>
+                <EndOffset>3895</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT" genre="interview">
+        <Conn>
+            <Span>
+                <Text>Her</Text>
+                <BeginOffset>8870</BeginOffset>
+                <EndOffset>8873</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Tamir gördüğü için de, biz bunların yapı
+                    evrelerini takip edebiliyoruz</Text>
+                <BeginOffset>8798</BeginOffset>
+                <EndOffset>8868</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Her yapı evresinde kaç tane mahalle, kaç tane ev var</Text>
+                <BeginOffset>8870</BeginOffset>
+                <EndOffset>8922</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="reason: çünkü" sense="Contingency: Cause: reason" type="IMPLICIT" genre="interview">
+        <Conn>
+            <Span>
+                <Text>O</Text>
+                <BeginOffset>9915</BeginOffset>
+                <EndOffset>9916</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Melendiz&apos;e bakan tarafta duvar şimdi yok; ama
+                    o zaman var mıydı, bilmiyoruz</Text>
+                <BeginOffset>9838</BeginOffset>
+                <EndOffset>9913</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>O kısım aşınmış</Text>
+                <BeginOffset>9915</BeginOffset>
+                <EndOffset>9930</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT" genre="interview">
+        <Conn>
+            <Span>
+                <Text>Antropolog</Text>
+                <BeginOffset>7231</BeginOffset>
+                <EndOffset>7241</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Oysa şimdi çok ilginç yeni bir yorum getiriliyor</Text>
+                <BeginOffset>7181</BeginOffset>
+                <EndOffset>7229</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Antropolog Rudgley&apos;e göre, Hasandağı
+                    Çatalhöyük&apos;ten görünmüyor</Text>
+                <BeginOffset>7231</BeginOffset>
+                <EndOffset>7293</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="exception: sadece" sense="Expansion: Exception" type="IMPLICIT" genre="interview">
+        <Conn>
+            <Span>
+                <Text>Neolitik</Text>
+                <BeginOffset>6003</BeginOffset>
+                <EndOffset>6011</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Anadolu&apos;daki Neolitik dönem hakkında çok
+                    fazla fikrimiz yoktu</Text>
+                <BeginOffset>5940</BeginOffset>
+                <EndOffset>6001</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Neolitik Dönem deyince, yalnızca akla
+                    Mersin&apos;deki, Hatay&apos;daki kazılar geliyordu</Text>
+                <BeginOffset>6003</BeginOffset>
+                <EndOffset>6082</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT" genre="interview">
+        <Conn>
+            <Span>
+                <Text>Avcılar</Text>
+                <BeginOffset>7925</BeginOffset>
+                <EndOffset>7932</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Aşıklı&apos;da ise, başka başka işlerle uğraşan
+                    gruplar var</Text>
+                <BeginOffset>7869</BeginOffset>
+                <EndOffset>7923</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Avcılar var, yiyeceği getirenler, kaynaktan
+                    obsidiyen taşıyanlar, deri imalatçıları, kemik
+                    endüstrisini yapanlar, hayvanları parçalayanlar var</Text>
+                <BeginOffset>7925</BeginOffset>
+                <EndOffset>8067</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="opposition: ama"
+        sense="Comparison: Contrast: opposition" type="IMPLICIT" genre="interview">
+        <Conn>
+            <Span>
+                <Text>Çatalhöyük&apos;te</Text>
+                <BeginOffset>8145</BeginOffset>
+                <EndOffset>8158</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu işleri organize eden bazı özel konumlu
+                    insanlar, özel yerlerde oturuyor</Text>
+                <BeginOffset>8069</BeginOffset>
+                <EndOffset>8143</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çatalhöyük&apos;te öyle özel yerler yok</Text>
+                <BeginOffset>8145</BeginOffset>
+                <EndOffset>8179</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT" genre="interview">
+        <Conn>
+            <Span>
+                <Text>İşbölümü</Text>
+                <BeginOffset>365</BeginOffset>
+                <EndOffset>373</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ama son derece gelişmiş bir toplumsal örgütlenme var</Text>
+                <BeginOffset>311</BeginOffset>
+                <EndOffset>363</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ayrıntılanmış ve yönetici sınıf oluşmuş</Text>
+                <BeginOffset>374</BeginOffset>
+                <EndOffset>413</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Avcı bir toplum</Text>
+                <BeginOffset>272</BeginOffset>
+                <EndOffset>287</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki (yeni)"
+        sense="Expansion: Restatement: specification" type="IMPLICIT" genre="interview">
+        <Conn>
+            <Span>
+                <Text>Burada</Text>
+                <BeginOffset>3452</BeginOffset>
+                <EndOffset>3458</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çok ilginç mimarisi olan bir yer</Text>
+                <BeginOffset>3418</BeginOffset>
+                <EndOffset>3450</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>önce kerpiçle başlayan insanlar, sonradan taşı
+                    öğreniyor, kullanıyorlar</Text>
+                <BeginOffset>3459</BeginOffset>
+                <EndOffset>3530</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: yani"
+        sense="Expansion: Restatement: specification" type="IMPLICIT" genre="interview">
+        <Conn>
+            <Span>
+                <Text>Aşıklı&apos;daki</Text>
+                <BeginOffset>7373</BeginOffset>
+                <EndOffset>7384</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Hasandağı&apos;nın resimdeki gibi görünüşü
+                    Aşıklı&apos;dan ve bu plan da Aşıklı&apos;ya ait</Text>
+                <BeginOffset>7295</BeginOffset>
+                <EndOffset>7371</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>insanlar Çatalhöyük&apos;e gittiler ve geldikleri
+                    yer, anayurtları Aşıklı olduğu için, onun resmini yaptılar</Text>
+                <BeginOffset>7385</BeginOffset>
+                <EndOffset>7488</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: yani"
+        sense="Expansion: Restatement: specification" type="IMPLICIT" genre="interview">
+        <Conn>
+            <Span>
+                <Text>Nehir</Text>
+                <BeginOffset>10865</BeginOffset>
+                <EndOffset>10870</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Melendiz&apos;in bugün aktığı yerde, o zaman
+                    Melendiz Nehri akmıyor</Text>
+                <BeginOffset>10801</BeginOffset>
+                <EndOffset>10863</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>hep yatağını değiştiren yaramaz bir nehir</Text>
+                <BeginOffset>10872</BeginOffset>
+                <EndOffset>10913</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction: ve" sense="Expansion: Conjunction" type="IMPLICIT" genre="interview">
+        <Conn>
+            <Span>
+                <Text>çevre</Text>
+                <BeginOffset>13814</BeginOffset>
+                <EndOffset>13819</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>tapınağın temelinde taş var</Text>
+                <BeginOffset>13785</BeginOffset>
+                <EndOffset>13812</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>duvarı hemen hemen tamamen taştan</Text>
+                <BeginOffset>13820</BeginOffset>
+                <EndOffset>13853</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

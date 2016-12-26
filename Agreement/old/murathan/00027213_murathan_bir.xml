@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>313</BeginOffset>
+                <EndOffset>315</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Recaizade Mahmut Ekrem&apos;in Araba
+                    Sevdası&apos;nın(1896) konusu hiçliktir</Text>
+                <BeginOffset>245</BeginOffset>
+                <EndOffset>311</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu roman, Tanzimat döneminde rastladığımız diğer
+                    roman denemelerinden apayrı bir romandır</Text>
+                <BeginOffset>313</BeginOffset>
+                <EndOffset>402</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Yazarı</Text>
+                <BeginOffset>404</BeginOffset>
+                <EndOffset>410</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu roman, Tanzimat döneminde rastladığımız diğer
+                    roman denemelerinden apayrı bir romandır</Text>
+                <BeginOffset>313</BeginOffset>
+                <EndOffset>402</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yazarı, çağının kültürel karmaşasının tam bilincindedir</Text>
+                <BeginOffset>404</BeginOffset>
+                <EndOffset>459</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>karşıt</Text>
+                <BeginOffset>461</BeginOffset>
+                <EndOffset>467</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yazarı, çağının kültürel karmaşasının tam bilincindedir</Text>
+                <BeginOffset>404</BeginOffset>
+                <EndOffset>459</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>karşıt epistemolojilerin buluşma noktasındaki
+                    boşluğu görür ve bu boşlukta hiçbir gerçekliğin
+                    tanımlanamayacağından ürker</Text>
+                <BeginOffset>461</BeginOffset>
+                <EndOffset>582</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Yanılsama</Text>
+                <BeginOffset>584</BeginOffset>
+                <EndOffset>593</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>karşıt epistemolojilerin buluşma noktasındaki
+                    boşluğu görür ve bu boşlukta hiçbir gerçekliğin
+                    tanımlanamayacağından ürker</Text>
+                <BeginOffset>461</BeginOffset>
+                <EndOffset>582</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yanılsama ile gerçeklik arasındaki mesafenin
+                    aşılması için gerekli yazın yöntemi ya da
+                    yöntemlerinin Tanzimat döneminde yapılmış ilk roman
+                    denemelerinden çıkamayacağı inancındadır</Text>
+                <BeginOffset>584</BeginOffset>
+                <EndOffset>763</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>bu</Text>
+                <BeginOffset>765</BeginOffset>
+                <EndOffset>767</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yanılsama ile gerçeklik arasındaki mesafenin
+                    aşılması için gerekli yazın yöntemi ya da
+                    yöntemlerinin Tanzimat döneminde yapılmış ilk roman
+                    denemelerinden çıkamayacağı inancındadır</Text>
+                <BeginOffset>584</BeginOffset>
+                <EndOffset>763</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu karamsarlığını Araba Sevdası&apos;nı baştan
+                    sona bir yazma ve okuma eylemi parodisi biçiminde
+                    kurgulayarak dile getirir</Text>
+                <BeginOffset>765</BeginOffset>
+                <EndOffset>882</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Recaizade</Text>
+                <BeginOffset>1107</BeginOffset>
+                <EndOffset>1116</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Recaizade Ekrem&apos;i çağdaşları arasında
+                    benzersiz kılan, tüm eylemleri eylemsizliğe, tüm
+                    öykünmeleri başarısızlığa, duyguyu abes duygusallığa
+                    ve düşü (ki yaratıcılığı da içerir) yokluğa
+                    dönüştüren bir roman yazmış olmasıdır</Text>
+                <BeginOffset>884</BeginOffset>
+                <EndOffset>1105</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Recaizade Ekrem haşarı bir oğuldur</Text>
+                <BeginOffset>1107</BeginOffset>
+                <EndOffset>1141</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>1628</BeginOffset>
+                <EndOffset>1630</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çağının bilinç kargaşasına bu bilincin dışından,
+                    alternatif bir bilinçle bakabilen, çağını
+                    seyredebilen, ve bu irdeleyici bakışı kendine de
+                    yöneltebilen, yani iki yönlü sorgulayabilen
+                    (karşısındakini ve kendini) tüm yapıtlara hangi
+                    yüzyılda yazılmış olursa olsun modern diyebiliriz</Text>
+                <BeginOffset>1345</BeginOffset>
+                <EndOffset>1626</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu yaklaşım genelde hazır biçim ve izlekleri kırıp
+                    değişmeye zorlayarak, ya eski biçimlerin parodisi ya
+                    da yeni biçim denemeleriyle eskiye başkaldırıyı da içerir</Text>
+                <BeginOffset>1628</BeginOffset>
+                <EndOffset>1789</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>bu</Text>
+                <BeginOffset>1935</BeginOffset>
+                <EndOffset>1937</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Recaizade Ekrem, Araba Sevdası&apos;nda kendi
+                    yazdığını sürekli hiçlerken çağının ve edebî
+                    geleneğin diğer metinlerine de sürekli göndermeler yapar</Text>
+                <BeginOffset>1791</BeginOffset>
+                <EndOffset>1933</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu metinlerarası göndermelerden klasik Divan
+                    Edebiyatı, çağdaşı Tanzimat Edebiyatı ve Fransız
+                    romantikleri paylarını alırlar</Text>
+                <BeginOffset>1935</BeginOffset>
+                <EndOffset>2059</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Türk</Text>
+                <BeginOffset>2196</BeginOffset>
+                <EndOffset>2200</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bir bakıma kendine de gönderme yaparak, yazılış
+                    mantığını sorgular</Text>
+                <BeginOffset>2128</BeginOffset>
+                <EndOffset>2194</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Türk romanının henüz ne denli kaygan bir zeminde
+                    yazıldığını belirtmek için, her an karşıt iki
+                    epistemoloji arasındaki o ince çizgiden boşluğa
+                    yuvarlanabileceği duygusunu ayakta tutar</Text>
+                <BeginOffset>2196</BeginOffset>
+                <EndOffset>2379</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>2381</BeginOffset>
+                <EndOffset>2383</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Türk romanının henüz ne denli kaygan bir zeminde
+                    yazıldığını belirtmek için, her an karşıt iki
+                    epistemoloji arasındaki o ince çizgiden boşluğa
+                    yuvarlanabileceği duygusunu ayakta tutar</Text>
+                <BeginOffset>2196</BeginOffset>
+                <EndOffset>2379</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu &quot;her an yuvarlanıp yitme&quot; duygusunu
+                    Recaizade Ekrem, romanını oluşturan izlekleri,
+                    kişileri, nesneleri, ilişkileri ve hatta üslûbu
+                    durmaksızın hiçleyerek uyandırır</Text>
+                <BeginOffset>2381</BeginOffset>
+                <EndOffset>2547</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Araba</Text>
+                <BeginOffset>2549</BeginOffset>
+                <EndOffset>2554</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu &quot;her an yuvarlanıp yitme&quot; duygusunu
+                    Recaizade Ekrem, romanını oluşturan izlekleri,
+                    kişileri, nesneleri, ilişkileri ve hatta üslûbu
+                    durmaksızın hiçleyerek uyandırır</Text>
+                <BeginOffset>2381</BeginOffset>
+                <EndOffset>2547</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Araba Sevdası&apos;nda arabalar yokolur, sevdalar
+                    yiter, sevgili kayıplara karışır, metinler
+                    buruşturulmuş kağıtlar üzerinde boşluğa atılır,
+                    ilişkiler (özellikle de Bihruz&apos;un annesiyle ve
+                    hocasıyla ilişkisi) çıkar ilişkilerine dönüşür,
+                    eylemler, Çamlıca&apos;daki arabaların döne döne
+                    gidişini yineleyen &quot;muttasıl ve müselsel
+                    devreden zencir-i müteharrik&quot; gibi1 hiçbir yere
+                    ulaşamayan, bir kısır döngüyü, sanki aynı abes
+                    merkeze zincirlenmişcesine tekrarlayan eylemlerdir</Text>
+                <BeginOffset>2549</BeginOffset>
+                <EndOffset>3010</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>ikincisindeki</Text>
+                <BeginOffset>3437</BeginOffset>
+                <EndOffset>3450</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İntibah ve Araba Sevdası&apos;nın başındaki
+                    Çamlıca tasvirleri çok kişinin dikkatini çekmiş</Text>
+                <BeginOffset>3349</BeginOffset>
+                <EndOffset>3435</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kincisindeki ayrıntı bolluğu Recaizade
+                    Ekrem&apos;in gerçekçiliğine atfedilmiştir</Text>
+                <BeginOffset>3438</BeginOffset>
+                <EndOffset>3514</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="correction: bilakis"
+        sense="Comparison: Contrast: Correction" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Yapılmış</Text>
+                <BeginOffset>3747</BeginOffset>
+                <EndOffset>3755</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Namık Kemal&apos;inki gibi her yıl uyanmaz, her
+                    bahar yeşermez, doğal bile değildir</Text>
+                <BeginOffset>3667</BeginOffset>
+                <EndOffset>3745</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yapılmış, kullanılmış, atılmıştır</Text>
+                <BeginOffset>3747</BeginOffset>
+                <EndOffset>3780</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>1870</Text>
+                <BeginOffset>4693</BeginOffset>
+                <EndOffset>4697</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ama Çamlıca bir &quot;moda&quot;dan başka bir şey olamamıştır</Text>
+                <BeginOffset>4639</BeginOffset>
+                <EndOffset>4690</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>870 senesi  mevsim-i  baharında&quot;
+                    İstanbul&apos;un  &quot;Bilâd-ı Selâse tabir
+                    olunan&quot; üst sınıf halkını kendisine çeker</Text>
+                <BeginOffset>4694</BeginOffset>
+                <EndOffset>4804</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction: ve" sense="Expansion: Conjunction" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>o</Text>
+                <BeginOffset>4806</BeginOffset>
+                <EndOffset>4807</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>1870 senesi  mevsim-i  baharında&quot;
+                    İstanbul&apos;un  &quot;Bilâd-ı Selâse tabir
+                    olunan&quot; üst sınıf halkını kendisine çeker</Text>
+                <BeginOffset>4693</BeginOffset>
+                <EndOffset>4804</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>o yıllarda zengin aileler Çamlıca, Bulgurlu,
+                    Kısıklı, Bağlarbaşı&apos;nda yazlık köşkler alıp
+                    taşınırlar ve şık arabalarıyla yaptıkları
+                    gezintilerle Çamlıca bahçesini şenlendirirlermiş</Text>
+                <BeginOffset>4806</BeginOffset>
+                <EndOffset>4985</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Ulu</Text>
+                <BeginOffset>4987</BeginOffset>
+                <EndOffset>4990</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>o yıllarda zengin aileler Çamlıca, Bulgurlu,
+                    Kısıklı, Bağlarbaşı&apos;nda yazlık köşkler alıp
+                    taşınırlar ve şık arabalarıyla yaptıkları
+                    gezintilerle Çamlıca bahçesini şenlendirirlermiş</Text>
+                <BeginOffset>4806</BeginOffset>
+                <EndOffset>4985</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ulu ağaçlarıyla şimdi terkedilmiş Çamlıca bahçesi
+                    Muhteşem/Bîçare Bihruz Bey&apos;in öyküsünün geçtiği
+                    yıllarda genç fidanlarla dolu, gençlik heveslerinin
+                    yeşerdiği bir bahçeymiş</Text>
+                <BeginOffset>4987</BeginOffset>
+                <EndOffset>5160</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Periveş</Text>
+                <BeginOffset>6221</BeginOffset>
+                <EndOffset>6228</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Tekrar ve son kez ortaya çıktığında gördüğümüz,
+                    kendisinden çok taşıdığı kocaman kırmızı şemsiyedir</Text>
+                <BeginOffset>6120</BeginOffset>
+                <EndOffset>6219</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Periveş Hanım bu kırmızı şemsiyenin altında
+                    kaybolmuş gibi durur</Text>
+                <BeginOffset>6221</BeginOffset>
+                <EndOffset>6285</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="?? birincisi altlex mi? list yapalım mı?" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bunlardan</Text>
+                <BeginOffset>6788</BeginOffset>
+                <EndOffset>6797</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text> Sevdası&apos;nda metnin kendini yadsıması,
+                    kasıtlı anlam boşlukları içinde yitmesi, ilişkilerin
+                    topyekün hiçlenmesi, biri çok eski, diğeri çok
+                    çağdaş iki izleksel eksenin üstüste gelmesiyle gerçekleşir</Text>
+                <BeginOffset>6589</BeginOffset>
+                <EndOffset>6786</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bunlardan birincisi -ki edebiyatın en eski, en
+                    klasik izleklerindendir- gerçeklik-yanılsama karşıtlığıdır</Text>
+                <BeginOffset>6788</BeginOffset>
+                <EndOffset>6893</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result: bu yüzden"
+        sense="Contingency: Cause: result" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>kimse</Text>
+                <BeginOffset>7157</BeginOffset>
+                <EndOffset>7162</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Dahası, romanda kullanılan diller kimseye ait değildir</Text>
+                <BeginOffset>7101</BeginOffset>
+                <EndOffset>7155</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kimse ne kendi kullandığı dili, ne de başkalarının
+                    kullandığı dili anlar</Text>
+                <BeginOffset>7157</BeginOffset>
+                <EndOffset>7229</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="? bir sonraki list?altlex?" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>7878</BeginOffset>
+                <EndOffset>7880</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Roman boyunca Bihruz Bey muazzam bir semantik
+                    kargaşa içinde çırpınır durur</Text>
+                <BeginOffset>7801</BeginOffset>
+                <EndOffset>7876</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu semantik kargaşanın nedeni de epistemolojiktir,
+                    çünkü Bihruz Bey yaşadıklarını, yani yaşantısını
+                    anlatacak bir dilden yoksundur</Text>
+                <BeginOffset>7878</BeginOffset>
+                <EndOffset>8008</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Neredeyse</Text>
+                <BeginOffset>8817</BeginOffset>
+                <EndOffset>8826</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Romanın başında okura şımarık bir paşa çocuğu
+                    olarak tanıtılan Bihruz Bey hakkında yazarın içten
+                    yargısı budur</Text>
+                <BeginOffset>8705</BeginOffset>
+                <EndOffset>8815</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Neredeyse bir kameraman ustalığıyla Çamlıca
+                    üzerinde gezindirdiği objektifini5 Bihruz Bey
+                    üzerinde odaklaştırır</Text>
+                <BeginOffset>8817</BeginOffset>
+                <EndOffset>8928</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>10743</BeginOffset>
+                <EndOffset>10745</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Arkasına Tanzimat romanı geleneğini almış olarak
+                    Recaizade Ekrem kısa bir özetle son aşamaya, yani
+                    hanenin yıkılışına gelir</Text>
+                <BeginOffset>10618</BeginOffset>
+                <EndOffset>10741</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu aşamada biz kurgunun hızlanmasını, hanenin
+                    yıkılışını ve roman kahramanının trajik sonunu
+                    getirecek olaylar örgüsünün örülmesini beklerken,
+                    şaşırtıcı bir üslûp değişimiyle karşılaşırız</Text>
+                <BeginOffset>10743</BeginOffset>
+                <EndOffset>10930</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="??" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Gerçekle</Text>
+                <BeginOffset>12886</BeginOffset>
+                <EndOffset>12894</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yakaladığı bu fırsatı Recaizade Ekrem sonuna dek
+                    kullanacak ve Bihruz Bey&apos;in kafa karışıklığını,
+                    diline yansıdığı haliyle bir türlü oluşamayan
+                    bilincini ve kişiliğini, yanılgıların hiçlediği
+                    yaşamının gerçekte kendi oluşamayan kişiliğinin bir
+                    sonucu olduğunu okura &quot;dil&quot; yoluyla iletecektir</Text>
+                <BeginOffset>12594</BeginOffset>
+                <EndOffset>12884</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Gerçekle yanılsama arasındaki mesafeyi, başkişinin
+                    bir yanılsama dünyasında yitişini, okur hep bu
+                    yabancılaştırıcı üslûp parodisi sayesinde farkedecektir</Text>
+                <BeginOffset>12886</BeginOffset>
+                <EndOffset>13039</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Instantiation: örneğin"
+        sense="Expansion: Instantiation" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Bihruz</Text>
+                <BeginOffset>13318</BeginOffset>
+                <EndOffset>13324</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Recaizade Ekrem bu noktadan sonra romanı değişik
+                    parodi yöntemleri deneyerek geliştirir</Text>
+                <BeginOffset>13229</BeginOffset>
+                <EndOffset>13316</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bihruz Bey&apos;in saçmalıklarını sergilemek
+                    amacıyla yazdığı kısımlarda, bu saçmalıkları araya
+                    girip kendi sesiyle yargılayacağına, Bihruz Bey
+                    üslubunu benimseyerek anlatır</Text>
+                <BeginOffset>13318</BeginOffset>
+                <EndOffset>13486</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="?" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>sevindikçe</Text>
+                <BeginOffset>15083</BeginOffset>
+                <EndOffset>15093</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çamlıca bahçesinde Periveş Hanımı ilk gördüğünde
+                    dinlemekte olduğu Belle Heléne opereti roman boyunca
+                    Bihruz Beyin zihnindedir</Text>
+                <BeginOffset>14955</BeginOffset>
+                <EndOffset>15081</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>sevindikçe bu melodiyi mırıldandığını duyarız (lel
+                    lel lel), üzüldükçe kâbuslarının müziği olur</Text>
+                <BeginOffset>15083</BeginOffset>
+                <EndOffset>15178</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification: şöyle ki (tanım)"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>15421</BeginOffset>
+                <EndOffset>15423</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Recaizade Ekram&apos;in sık sık başvurduğu başka
+                    bir dil parodisi de, edebî gelenekte daha önce ciddi
+                    ve soylu konuların anlatımında benimsenen bir
+                    üslûbu, Bihruz Bey&apos;in sıradan, komik, anlamsız
+                    davranışlarını betimlerken kullanmasıdır</Text>
+                <BeginOffset>15189</BeginOffset>
+                <EndOffset>15419</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu tür parodi, olay ya da, kişinin bu yüksek dili
+                    haketmediğini karşıtlık yoluyla göstererek, olayın
+                    ya da kişinin komikliğini vurgular</Text>
+                <BeginOffset>15421</BeginOffset>
+                <EndOffset>15556</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>
