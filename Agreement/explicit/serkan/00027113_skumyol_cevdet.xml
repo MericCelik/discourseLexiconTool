@@ -75,7 +75,7 @@
         </Shared>
         <Supp_Shared/>
     </Relation>
-    <Relation note="türkçe ? " sense="" type="EXPLICIT">
+    <Relation note="reason" sense="Contingency: Cause: reason" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>çünkü</Text>

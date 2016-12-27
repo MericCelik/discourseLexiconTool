@@ -26,6 +26,7 @@ public class Annotation {
     private String type;
 
     private String note;
+
     private String genre;
 
     public Annotation() {
@@ -43,7 +44,8 @@ public class Annotation {
         supp2 = supp2Spans;
 
         argMapforPrettyPrint = new TreeMap<>();
-        generateTreeMapPP();
+        if(conSpans != null)
+          generateTreeMapPP();
 
         StringTokenizer token = new StringTokenizer(sense, ":");
         this.sense1 = token.hasMoreTokens() ? token.nextToken() : "noo";
@@ -182,5 +184,9 @@ public class Annotation {
 
     public String getGenre() {
         return genre;
+    }
+
+    public String getNote() {
+        return note;
     }
 }

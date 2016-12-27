@@ -8,6 +8,7 @@ package Statistics;
 import core.Annotation;
 import java.io.File;
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -75,9 +76,15 @@ public class calculateInterAgreement {
         int commonAnno = 0;
         for (Integer key : anno1Map.keySet()) {
             if (anno2Map.containsKey(key) && anno2Map.get(key).getType().contains(type) && anno1Map.get(key).getType().contains(type)) {
-//                if(anno1Map.get(key).getFullSense().contains("Multiple") ||anno2Map.get(key).getFullSense().contains("Multiple")  )
-//                    continue;
+                if (anno1Map.get(key).getFullSense().contains("Multiple") || anno2Map.get(key).getFullSense().contains("Multiple")) {
+                    handleMultiple(anno1Map.get(key), anno2Map.get(key), agreed);
+                    commonAnno++;
+                    commonAnno++;
+
+                    continue;
+                }
                 commonAnno++;
+
                 compareAnnotationSenseBased(anno1Map.get(key), anno2Map.get(key), agreed);
                 if (agreed[2] > agreed[1]) {
                     System.out.println("");
@@ -85,7 +92,6 @@ public class calculateInterAgreement {
                 //          System.out.println("!COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
             } else {
                 //       System.out.println("NOT COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
-
             }
         }
         overallSize = overallSize + commonAnno;
@@ -131,13 +137,45 @@ public class calculateInterAgreement {
 
         System.out.println(" - ");
         for (int i : overallAgreed) {
-             System.out.print(i + " -->");
+            System.out.print(i + " -->");
             System.out.println((double) i / overallSize);
         }
         System.out.println("common: " + overallSize);
         System.out.println("unique: " + uniqueMap.size());
         System.out.println("common/unique: " + ((double) overallSize / uniqueMap.size()));
         //  calculator.printConfusionMatrix();
+
+    }
+
+    private void handleMultiple(Annotation a1, Annotation a2, int[] agreed) {
+
+        if (a1.getFullSense().contains("Multiple") && !a2.getFullSense().contains("Multiple")) {
+            String[] multSense1 = a1.getNote().split("#");
+            Annotation tmp = new Annotation(null, null, null, null, null, null, multSense1[0], "", a1.getType(), "");
+            Annotation tmp2 = new Annotation(null, null, null, null, null, null, multSense1[1], "", a1.getType(), "");
+            compareAnnotationSenseBased(tmp, a2, agreed);
+            compareAnnotationSenseBased(tmp2, a2, agreed);
+        } else if (!a1.getFullSense().contains("Multiple") && a2.getFullSense().contains("Multiple")) {
+            String[] multSense2 = a2.getNote().split("#");
+            Annotation tmp = new Annotation(null, null, null, null, null, null, multSense2[0], "", a2.getType(), "");
+            Annotation tmp2 = new Annotation(null, null, null, null, null, null, multSense2[1], "", a2.getType(), "");
+            compareAnnotationSenseBased(tmp, a1, agreed);
+            compareAnnotationSenseBased(tmp2, a1, agreed);
+        } else if (a1.getFullSense().contains("Multiple") && a2.getFullSense().contains("Multiple")) {
+            String[] multSense1 = a1.getNote().split("#");
+            String[] multSense2 = a2.getNote().split("#");
+            Arrays.sort(multSense1);
+            Arrays.sort(multSense2);
+
+            Annotation tmp1_1 = new Annotation(null, null, null, null, null, null, multSense1[0], "", a1.getType(), "");
+            Annotation tmp1_2 = new Annotation(null, null, null, null, null, null, multSense1[1], "", a1.getType(), "");
+
+            Annotation tmp2_1 = new Annotation(null, null, null, null, null, null, multSense2[0], "", a2.getType(), "");
+            Annotation tmp2_2 = new Annotation(null, null, null, null, null, null, multSense2[1], "", a2.getType(), "");
+
+            compareAnnotationSenseBased(tmp1_1, tmp2_1, agreed);
+            compareAnnotationSenseBased(tmp1_2, tmp2_2, agreed);
+        }
 
     }
 
