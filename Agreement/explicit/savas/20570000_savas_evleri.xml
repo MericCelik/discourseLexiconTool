@@ -998,7 +998,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="conjunction precedence" sense="Multiple-Sense" type="EXPLICIT">
+    <Relation note="Expansion: Conjunction#Temporal: Synchronous: precedence" sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>

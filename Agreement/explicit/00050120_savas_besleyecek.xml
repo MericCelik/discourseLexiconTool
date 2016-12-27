@@ -406,7 +406,9 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="Contingency: Cause: result#Contingency: Pragmatic Cause: justification" sense="Multiple-Sense" type="EXPLICIT">
+    <Relation note="result
+justification epistemic"
+        sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>Böylece</Text>
@@ -1152,7 +1154,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="Expansion: Conjunction#Contingency: Cause: result"sense="Multiple-Sense" type="EXPLICIT">
+    <Relation note="conjunction result" sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>Ve</Text>
@@ -1319,7 +1321,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="Expansion: Conjunction#Temporal: Synchronous: precedence" sense="Multiple-Sense" type="EXPLICIT">
+    <Relation note="conjunction precedence" sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>
@@ -1382,7 +1384,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="Expansion: Conjunction#Contingency: Cause: result" sense="Multiple-Sense" type="EXPLICIT">
+    <Relation note="conjunction result" sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>

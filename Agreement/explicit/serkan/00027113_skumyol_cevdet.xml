@@ -781,7 +781,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="conjunction and result" sense="Multiple-Sense" type="EXPLICIT">
+    <Relation note="Expansion: Conjunction#Contingency: Cause: result" sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>

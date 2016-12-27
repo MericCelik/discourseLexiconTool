@@ -716,7 +716,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="synchronous conjunction" sense="Multiple-Sense" type="EXPLICIT">
+    <Relation note="Temporal: Synchronous#Expansion: Conjunction" sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>

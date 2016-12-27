@@ -465,7 +465,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="precedence result" sense="Multiple-Sense" type="EXPLICIT">
+    <Relation note="Temporal: Synchronous: precedence#Contingency: Cause: result" sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>O zaman</Text>

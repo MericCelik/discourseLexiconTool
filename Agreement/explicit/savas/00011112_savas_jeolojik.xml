@@ -418,7 +418,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="conjunction result" sense="Multiple-Sense" type="EXPLICIT">
+    <Relation note="Expansion: Conjunction#Contingency: Cause: result" sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>
@@ -510,8 +510,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="conjunction result precedence"
-        sense="Multiple-Sense" type="EXPLICIT">
+    <Relation note="Expansion: Conjunction#Contingency: Cause: result" sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>
@@ -574,7 +573,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="conjunction precedence" sense="Multiple-Sense" type="EXPLICIT">
+    <Relation note="Expansion: Conjunction#Temporal: Synchronous: precedence" sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>
@@ -705,7 +704,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="conjunction result" sense="Multiple-Sense" type="EXPLICIT">
+    <Relation note="Expansion: Conjunction#Contingency: Cause: result" sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>

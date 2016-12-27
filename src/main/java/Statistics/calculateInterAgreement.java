@@ -50,11 +50,14 @@ public class calculateInterAgreement {
         }
         for (int i = 0; i < Anno1Files.length; i++) {
             if (Anno1Files[i].getPath().contains(filterString)) {
-                System.out.println("");
-                System.out.println(Anno1Files[i].getPath().toUpperCase());
-                anno1Map = readRelationsForStatistics.readDATTRelations(Anno1Files[i].getPath(), type);
-                anno2Map = readRelationsForStatistics.readDATTRelations(Anno2Files[i].getPath(), type);
-                calculateInterAgreement(anno1Map, anno2Map, type);
+                if (Anno1Files[i].getName().substring(0, 8).equals(Anno2Files[i].getName().substring(0, 8))) {
+
+                    System.out.println("");
+                    System.out.println(Anno1Files[i].getPath().toUpperCase());
+                    anno1Map = readRelationsForStatistics.readDATTRelations(Anno1Files[i].getPath(), type);
+                    anno2Map = readRelationsForStatistics.readDATTRelations(Anno2Files[i].getPath(), type);
+                    calculateInterAgreement(anno1Map, anno2Map, type);
+                }
             }
         }
     }
@@ -72,8 +75,13 @@ public class calculateInterAgreement {
         int commonAnno = 0;
         for (Integer key : anno1Map.keySet()) {
             if (anno2Map.containsKey(key) && anno2Map.get(key).getType().contains(type) && anno1Map.get(key).getType().contains(type)) {
+//                if(anno1Map.get(key).getFullSense().contains("Multiple") ||anno2Map.get(key).getFullSense().contains("Multiple")  )
+//                    continue;
                 commonAnno++;
                 compareAnnotationSenseBased(anno1Map.get(key), anno2Map.get(key), agreed);
+                if (agreed[2] > agreed[1]) {
+                    System.out.println("");
+                }
                 //          System.out.println("!COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
             } else {
                 //       System.out.println("NOT COMMON: " + anno1Map.get(key).toString() + " -> " + anno1Map.get(key).getFullSense());
@@ -88,15 +96,19 @@ public class calculateInterAgreement {
 
     private void compareAnnotationSenseBased(Annotation a1, Annotation a2, int[] agreed) {
 
-        if (a1.getSense1().equals(a2.getSense1())) {
+        boolean sense1 = a1.getSense1().equals(a2.getSense1());
+        boolean sense2 = a1.getSense2().equals(a2.getSense2());
+        boolean sense3 = a1.getSense3().equals(a2.getSense3());
+
+        if (sense1) {
             agreed[0] = agreed[0] + 1;
             overallAgreed[0] = overallAgreed[0] + 1;
         }
-        if (a1.getSense2().equals(a2.getSense2())) {
+        if (sense1 && sense2) {
             agreed[1] = agreed[1] + 1;
             overallAgreed[1] = overallAgreed[1] + 1;
         }
-        if (a1.getSense3().equals(a2.getSense3())) {
+        if (sense1 && sense2 && sense3) {
             agreed[2] = agreed[2] + 1;
             overallAgreed[2] = overallAgreed[2] + 1;
         }
@@ -113,12 +125,13 @@ public class calculateInterAgreement {
 
     public static void main(String[] args) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException {
         // calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\savas", "Agreement\\agreed");
-        calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\old\\savas", "Agreement\\old\\serkan", "IMPLICIT"); // 85,  123
-             calculateInterAgreement calculator2 = new calculateInterAgreement("Agreement\\old\\tuğçe", "Agreement\\old\\murathan", "IMPLICIT");
-        //      calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\explicit\\savas", "Agreement\\explicit\\serkan", "EXPLICIT");
+        //   calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\old\\savas", "Agreement\\old\\serkan", "IMPLICIT"); // 85,  123
+        calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\explicit\\tuğçe", "Agreement\\explicit\\murathan", "EXPLICIT");
+        calculateInterAgreement calculator2 = new calculateInterAgreement("Agreement\\explicit\\savas", "Agreement\\explicit\\serkan", "EXPLICIT");
 
         System.out.println(" - ");
         for (int i : overallAgreed) {
+             System.out.print(i + " -->");
             System.out.println((double) i / overallSize);
         }
         System.out.println("common: " + overallSize);

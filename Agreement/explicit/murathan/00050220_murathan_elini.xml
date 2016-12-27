@@ -1053,8 +1053,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="conjunction result ( ve bu yüzden)"
-        sense="Multiple-Sense" type="EXPLICIT">
+    <Relation note="Expansion: Conjunction#Contingency: Cause: result" sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>
@@ -1082,7 +1081,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="conjunction result?" sense="Multiple-Sense" type="EXPLICIT">
+    <Relation note="Expansion: Conjunction#Contingency: Cause: result" sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>
@@ -1110,8 +1109,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="conjunction precedence (ve ardından)"
-        sense="Multiple-Sense" type="EXPLICIT">
+    <Relation note="Expansion: Conjunction#Temporal: Synchronous: precedence" sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>Ve</Text>
@@ -1239,7 +1237,7 @@
         </Shared>
         <Supp_Shared/>
     </Relation>
-    <Relation note="conjunction precedence" sense="Multiple-Sense" type="EXPLICIT">
+    <Relation note="Expansion: Conjunction#Temporal: Synchronous: precedence" sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>
