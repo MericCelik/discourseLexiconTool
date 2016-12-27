@@ -130,10 +130,10 @@ public class calculateInterAgreement {
     }
 
     public static void main(String[] args) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException {
-        // calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\savas", "Agreement\\agreed");
-        //   calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\old\\savas", "Agreement\\old\\serkan", "IMPLICIT"); // 85,  123
-        calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\explicit\\tuğçe", "Agreement\\explicit\\murathan", "EXPLICIT");
-        calculateInterAgreement calculator2 = new calculateInterAgreement("Agreement\\explicit\\savas", "Agreement\\explicit\\serkan", "EXPLICIT");
+        calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\old\\tuğçe", "Agreement\\old\\murathan", "IMPLICIT"); // 85,  123
+        calculateInterAgreement calculator2 = new calculateInterAgreement("Agreement\\old\\savas", "Agreement\\old\\serkan", "IMPLICIT"); // 85,  123
+        //      calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\explicit\\tuğçe", "Agreement\\explicit\\murathan", "EXPLICIT");
+        //    calculateInterAgreement calculator2 = new calculateInterAgreement("Agreement\\explicit\\savas", "Agreement\\explicit\\serkan", "EXPLICIT");
 
         System.out.println(" - ");
         for (int i : overallAgreed) {
