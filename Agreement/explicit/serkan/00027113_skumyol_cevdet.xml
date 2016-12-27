@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>amacıyla</Text>
+                <BeginOffset>5167</BeginOffset>
+                <EndOffset>5175</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Beşir Fuat&apos;ın sonunun</Text>
+                <BeginOffset>5126</BeginOffset>
+                <EndOffset>5147</EndOffset>
+            </Span>
+            <Span>
+                <Text>edebî bir projeksiyonudur</Text>
+                <BeginOffset>5177</BeginOffset>
+                <EndOffset>5202</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>gene ibret olması</Text>
+                <BeginOffset>5149</BeginOffset>
+                <EndOffset>5166</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Ceylan&apos;ın sonu</Text>
+                <BeginOffset>5110</BeginOffset>
+                <EndOffset>5124</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="contra-expectation"
+        sense="Comparison: Concession: contra-expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ancak</Text>
+                <BeginOffset>6807</BeginOffset>
+                <EndOffset>6812</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>öncelikle İslâmî ilim ve sanatların geldiğini</Text>
+                <BeginOffset>6760</BeginOffset>
+                <EndOffset>6805</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bunlardan sonra kimya, fizik, anatomi gibi müsbet
+                    ilimlere de yer verilebileceğini</Text>
+                <BeginOffset>6813</BeginOffset>
+                <EndOffset>6895</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Rakım Efendi&apos;nin eğitiminde</Text>
+                <BeginOffset>6732</BeginOffset>
+                <EndOffset>6759</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="türkçe ? " sense="" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>çünkü</Text>
+                <BeginOffset>234</BeginOffset>
+                <EndOffset>239</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Cevdet Paşa&apos;ya göre Mecelle diğer bütün
+                    kanunlardan üstündür</Text>
+                <BeginOffset>173</BeginOffset>
+                <EndOffset>233</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>beş altı fakih zatın marifetiyle vaz&apos;ı ilahi
+                    olan şeriatı garradan ahz ve iltikat edilmiştir</Text>
+                <BeginOffset>244</BeginOffset>
+                <EndOffset>336</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="reason" sense="Contingency: Cause: reason" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Çünkü</Text>
+                <BeginOffset>7928</BeginOffset>
+                <EndOffset>7933</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Burada dikkat edilecek şey, &quot;garbiye&quot;
+                    için tutulan &quot;madama&quot;nın olası, belki de
+                    kaçınılmaz kötü etkilerinden çocukları korumak olmalıdır</Text>
+                <BeginOffset>7791</BeginOffset>
+                <EndOffset>7926</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ahmet Mithat Efendi&apos;nin yabancı
+                    mürebbiyelerle terbiye sistemine ilişkin ciddi
+                    kuşkuları vardır</Text>
+                <BeginOffset>7934</BeginOffset>
+                <EndOffset>8029</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="reason" sense="Contingency: Cause: reason" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>çünkü</Text>
+                <BeginOffset>11489</BeginOffset>
+                <EndOffset>11494</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>&quot;Siyehçerde&quot; komedisi bu şaşkınlıktan kaynaklanıyor</Text>
+                <BeginOffset>11437</BeginOffset>
+                <EndOffset>11488</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bihruz Bey anadilinde sözlük kullanmasını bile bilmiyor</Text>
+                <BeginOffset>11495</BeginOffset>
+                <EndOffset>11550</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>İşte Bihruz Bey&apos;in bocalamalarında
+                    Tanzimat&apos;ta eğitim adına yarım yamalak atılan
+                    yenilikçi adımların yarattığı derin korku, kuşku, ve
+                    güvensizliğin yansımasını buluyoruz</Text>
+                <BeginOffset>11266</BeginOffset>
+                <EndOffset>11435</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="reason" sense="Contingency: Cause: reason" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Çünkü</Text>
+                <BeginOffset>13019</BeginOffset>
+                <EndOffset>13024</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Onları düşününce yavaş yavaş kanındaki hiddet
+                    soğumaya başladı</Text>
+                <BeginOffset>12955</BeginOffset>
+                <EndOffset>13017</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>böyle ahvalde kadınlara karşı endiferans
+                    göstermekten başka müessir ve müfit bir tedbir
+                    olamayacağı kâide-i tecrübiyesini o romanların
+                    kendisine bahşettiği fevâit cümlesinden olmak üzere
+                    tahattur ederek olduğu gibi orada kalmaya ve (lando)
+                    tekrar gelip geçtiği vakit kendisi de vazifesizce
+                    başka bir tarafa bakmaya karar verdi</Text>
+                <BeginOffset>13025</BeginOffset>
+                <EndOffset>13351</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Fransızca hocasıyla beraber okuduğu bazı
+                    romanlarda kendisinin dûçar olduğu mevkı-i müşkile
+                    benzer vukuat geçmiş idi</Text>
+                <BeginOffset>12804</BeginOffset>
+                <EndOffset>12920</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Dahası</Text>
+                <BeginOffset>11552</BeginOffset>
+                <EndOffset>11558</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bihruz Bey&apos;in bocalamalarında
+                    Tanzimat&apos;ta eğitim adına yarım yamalak atılan
+                    yenilikçi adımların yarattığı derin korku, kuşku, ve
+                    güvensizliğin yansımasını buluyoruz.
+                    &quot;Siyehçerde&quot; komedisi bu şaşkınlıktan
+                    kaynaklanıyor çünkü Bihruz Bey anadilinde sözlük
+                    kullanmasını bile bilmiyor</Text>
+                <BeginOffset>11271</BeginOffset>
+                <EndOffset>11550</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ceylan gibi o da &quot;yanlış şeyler
+                    okuyarak&quot; yolunu, hatta Ceylan&apos;dan biraz
+                    farklı olarak, aklını da yitirmiş bir gençtir</Text>
+                <BeginOffset>11559</BeginOffset>
+                <EndOffset>11677</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Dolayısıyla</Text>
+                <BeginOffset>341</BeginOffset>
+                <EndOffset>352</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Cevdet Paşa&apos;ya göre Mecelle diğer bütün
+                    kanunlardan üstündür çünkü &quot;...beş altı fakih
+                    zatın marifetiyle vaz&apos;ı ilahi olan şeriatı
+                    garradan ahz ve iltikat edilmiştir.&quot;</Text>
+                <BeginOffset>173</BeginOffset>
+                <EndOffset>338</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Hıfzı Veldet&apos;e göre Mecelle fıkha, yani İslâm
+                    kanununa dayanır ve &quot;dine müstenit hukukun
+                    muğlaklığını taşır.&quot;</Text>
+                <BeginOffset>354</BeginOffset>
+                <EndOffset>463</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="manner" sense="Expansion: manner" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>gibi</Text>
+                <BeginOffset>9465</BeginOffset>
+                <EndOffset>9469</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İslâm kültürünün Batı kültürüne üstünlüğünü bir an
+                    bile gözardı etmemek</Text>
+                <BeginOffset>9470</BeginOffset>
+                <EndOffset>9541</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Jön Türk&apos;ün Ahdiyesi&apos;nin yaptığı</Text>
+                <BeginOffset>9432</BeginOffset>
+                <EndOffset>9464</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="manner" sense="Expansion: manner" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>gibi</Text>
+                <BeginOffset>13235</BeginOffset>
+                <EndOffset>13239</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>orada kalmaya</Text>
+                <BeginOffset>13240</BeginOffset>
+                <EndOffset>13253</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>olduğu</Text>
+                <BeginOffset>13228</BeginOffset>
+                <EndOffset>13234</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="contrast" sense="Comparison: Contrast" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>halbuki</Text>
+                <BeginOffset>689</BeginOffset>
+                <EndOffset>696</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Halk tarafından iyi görülmedi</Text>
+                <BeginOffset>658</BeginOffset>
+                <EndOffset>687</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>fıkıh hükümleri tanzim edilerek tatbik
+                    olunsalardı, halk bunları hiç itirazsız kabul eder</Text>
+                <BeginOffset>709</BeginOffset>
+                <EndOffset>798</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Namık Kemal de 24 sayılı İbret&apos;te çıkan bir
+                    makalesinde Tanzimat&apos;ın getirdiği yeni hukuksal
+                    düzenlemeleri eleştirirken şöyle der: &quot;Bu
+                    hareket pek çok karışıklıklara ve gürültülere sebeb oldu</Text>
+                <BeginOffset>466</BeginOffset>
+                <EndOffset>656</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="opposition" sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>halbuki</Text>
+                <BeginOffset>7539</BeginOffset>
+                <EndOffset>7546</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bir oğlu bir kızını hüsn-i terbiye emeline düşüp</Text>
+                <BeginOffset>7490</BeginOffset>
+                <EndOffset>7538</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İstanbul&apos;da muhtaç olduğu mektebi
+                    bulamayacağını daha vaktiyle derpiş eyleyince</Text>
+                <BeginOffset>7547</BeginOffset>
+                <EndOffset>7626</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Abdülcebbar Bey</Text>
+                <BeginOffset>7474</BeginOffset>
+                <EndOffset>7489</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="condition" sense="Contingency: Condition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>halde</Text>
+                <BeginOffset>1918</BeginOffset>
+                <EndOffset>1923</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>kavânin-i medeniyemiz bana ana baba dereceside
+                    hâmi olmak lâzım gelmeyecek mi</Text>
+                <BeginOffset>1924</BeginOffset>
+                <EndOffset>2001</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Anam, babam, hısmım, akrabam, kimsem olmadığı</Text>
+                <BeginOffset>1872</BeginOffset>
+                <EndOffset>1917</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>5609</BeginOffset>
+                <EndOffset>5613</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>çeşm-i basiretimizi bağlamış</Text>
+                <BeginOffset>5614</BeginOffset>
+                <EndOffset>5642</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bizim belâmızı o mel&apos;un alafranga yüzünden vermek</Text>
+                <BeginOffset>5559</BeginOffset>
+                <EndOffset>5608</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Allah</Text>
+                <BeginOffset>5553</BeginOffset>
+                <EndOffset>5558</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="reason" sense="Contingency: Cause: reason" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>15735</BeginOffset>
+                <EndOffset>15739</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>iyidir</Text>
+                <BeginOffset>15740</BeginOffset>
+                <EndOffset>15746</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kadına kötü bir evliliğe mahkum olmama şansı verdiği</Text>
+                <BeginOffset>15682</BeginOffset>
+                <EndOffset>15734</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>bu da</Text>
+                <BeginOffset>15676</BeginOffset>
+                <EndOffset>15681</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared>
+            <Span>
+                <Text>Bir kez Katoliklik&apos;te boşanma yoktur fakat
+                    Müslümanlıkta vardır</Text>
+                <BeginOffset>15611</BeginOffset>
+                <EndOffset>15674</EndOffset>
+            </Span>
+        </Supp_Shared>
+    </Relation>
+    <Relation note="precedence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>kadar</Text>
+                <BeginOffset>12336</BeginOffset>
+                <EndOffset>12341</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Zavallı Bihruz Bey</Text>
+                <BeginOffset>12300</BeginOffset>
+                <EndOffset>12318</EndOffset>
+            </Span>
+            <Span>
+                <Text>öyle bir yürek çarpıntısına uğramamış idi</Text>
+                <BeginOffset>12342</BeginOffset>
+                <EndOffset>12383</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>o güne gelinceye</Text>
+                <BeginOffset>12319</BeginOffset>
+                <EndOffset>12335</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="expansion" sense="Expansion" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>kadar</Text>
+                <BeginOffset>14303</BeginOffset>
+                <EndOffset>14308</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>müslümandır</Text>
+                <BeginOffset>14309</BeginOffset>
+                <EndOffset>14320</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>18&apos;inci asır feylesoflarının fikrî
+                    hareketinin getirdiği şeyleri, İslâm dininde,
+                    şeriatte ve fıkıhta arayacak</Text>
+                <BeginOffset>14193</BeginOffset>
+                <EndOffset>14302</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="instantiation" sense="Expansion: Instantiation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Örneğin</Text>
+                <BeginOffset>8572</BeginOffset>
+                <EndOffset>8579</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ahmet Mithat&apos;a göre ideal eğitim, babanın
+                    vesayetinde, İslâmî ilkelere göre yürütülen ve Batı
+                    kültürünün denetlenerek dahil edildiği bir eğitimdir</Text>
+                <BeginOffset>8424</BeginOffset>
+                <EndOffset>8570</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Felsefe-i Zenan&apos;da Fazıla Hanım&apos;ın
+                    eğitimi böyle bir eğitimdir</Text>
+                <BeginOffset>8580</BeginOffset>
+                <EndOffset>8642</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="expectation"
+        sense="Comparison: Concession: expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>rağmen</Text>
+                <BeginOffset>14116</BeginOffset>
+                <EndOffset>14122</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bu felsefe ile temasına sistemi dahi mânidir</Text>
+                <BeginOffset>14130</BeginOffset>
+                <EndOffset>14174</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bir yazısında kendisini Sokrata benzetmesine</Text>
+                <BeginOffset>14071</BeginOffset>
+                <EndOffset>14115</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Garp felsefesi ile hemen hiç alâkası yoktu denebilir</Text>
+                <BeginOffset>14017</BeginOffset>
+                <EndOffset>14069</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>8899</BeginOffset>
+                <EndOffset>8904</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ilm-i hadis ve ilm-i tefsir ve sâireyi dahi
+                    mücerred ihtimâm-ı tâmm-ı zatisiyle tahsil edip</Text>
+                <BeginOffset>8905</BeginOffset>
+                <EndOffset>8996</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>pederi Bedrettin Efendi&apos;nin müddet-i
+                    hayatında kendisinden ulûm-ı âliyeyi (sarf, nahiv)
+                    tekmil eyledikten</Text>
+                <BeginOffset>8793</BeginOffset>
+                <EndOffset>8898</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="opposition" sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>tersine</Text>
+                <BeginOffset>14817</BeginOffset>
+                <EndOffset>14824</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ikilem değil</Text>
+                <BeginOffset>14803</BeginOffset>
+                <EndOffset>14815</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İslâm düşünce, felsefe, dünya görüşü ve bilgi
+                    kuramının tartışılmaz belirleyiciliğidir</Text>
+                <BeginOffset>14825</BeginOffset>
+                <EndOffset>14911</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>417</BeginOffset>
+                <EndOffset>419</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>fıkha, yani İslâm kanununa dayanır</Text>
+                <BeginOffset>382</BeginOffset>
+                <EndOffset>416</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>dine müstenit hukukun muğlaklığını taşır</Text>
+                <BeginOffset>421</BeginOffset>
+                <EndOffset>461</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Mecelle</Text>
+                <BeginOffset>374</BeginOffset>
+                <EndOffset>381</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>799</BeginOffset>
+                <EndOffset>801</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>halk bunları hiç itirazsız kabul eder</Text>
+                <BeginOffset>761</BeginOffset>
+                <EndOffset>798</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Avrupa dahi İslâm hukukunun sade ekalliyetleri
+                    korumak değil, bütün insanlığı idare edecek bir
+                    mükemmeliyette olduğunu anlardı</Text>
+                <BeginOffset>802</BeginOffset>
+                <EndOffset>928</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>fıkıh hükümleri tanzim edilerek tatbik olunsalardı</Text>
+                <BeginOffset>709</BeginOffset>
+                <EndOffset>759</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction and result" sense="Multiple-Sense" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>4137</BeginOffset>
+                <EndOffset>4139</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>babasızlığa bulunmuş oldukça pratik, sağduyulu bir çözümdür</Text>
+                <BeginOffset>4077</BeginOffset>
+                <EndOffset>4136</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ahmet Mithat&apos;ı babasızlık tehdidini trajik
+                    gören diğer Tanzimat yazarlarından ayırır</Text>
+                <BeginOffset>4140</BeginOffset>
+                <EndOffset>4224</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Böyle bir yapı</Text>
+                <BeginOffset>4061</BeginOffset>
+                <EndOffset>4075</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared>
+            <Span>
+                <Text>Ahmet Mithat&apos;ın romanlarında sağlam bir
+                    İslâmî terbiye çoklukla babasızlığı telâfi eder</Text>
+                <BeginOffset>3890</BeginOffset>
+                <EndOffset>3977</EndOffset>
+            </Span>
+        </Supp_Shared>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>4520</BeginOffset>
+                <EndOffset>4522</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>babayı inkâra eşittir</Text>
+                <BeginOffset>4498</BeginOffset>
+                <EndOffset>4519</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kişiyi felâkete sürükler</Text>
+                <BeginOffset>4523</BeginOffset>
+                <EndOffset>4547</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Kültürü inkâr</Text>
+                <BeginOffset>4483</BeginOffset>
+                <EndOffset>4496</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>4930</BeginOffset>
+                <EndOffset>4932</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Felatun Bey ile Rakım Efendi ve Jön Türk romanları
+                    arasında otuz yıl geçtiğini</Text>
+                <BeginOffset>4851</BeginOffset>
+                <EndOffset>4929</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Jön Türk&apos;ün Beşir Fuad&apos;ın intiharından
+                    sonra yazıldığını</Text>
+                <BeginOffset>4933</BeginOffset>
+                <EndOffset>4989</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>8510</BeginOffset>
+                <EndOffset>8512</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>babanın vesayetinde, İslâmî ilkelere göre yürütülen</Text>
+                <BeginOffset>8458</BeginOffset>
+                <EndOffset>8509</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Batı kültürünün denetlenerek dahil edildiği</Text>
+                <BeginOffset>8513</BeginOffset>
+                <EndOffset>8556</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>10593</BeginOffset>
+                <EndOffset>10595</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>metinsel rehberini kaybetmiş</Text>
+                <BeginOffset>10564</BeginOffset>
+                <EndOffset>10592</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yanlış metinler arasında kaybolmuş</Text>
+                <BeginOffset>10596</BeginOffset>
+                <EndOffset>10630</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>11110</BeginOffset>
+                <EndOffset>11112</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>adetleri bir miktar çoğalmış olan sıbyan
+                    mekteplerini de medresenin nüfuzundan kurtaramamışlar</Text>
+                <BeginOffset>11015</BeginOffset>
+                <EndOffset>11109</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu mektepleri, dünyevî gayelere hizmet eden ve
+                    çocuklara laakal kendi anadillerini okuyup yazmayı
+                    öğreten basit bir ilkmektep haline koyamamışlardır</Text>
+                <BeginOffset>11113</BeginOffset>
+                <EndOffset>11261</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Tanzimatçılar</Text>
+                <BeginOffset>11000</BeginOffset>
+                <EndOffset>11013</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>11157</BeginOffset>
+                <EndOffset>11159</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>dünyevî gayelere hizmet eden</Text>
+                <BeginOffset>11128</BeginOffset>
+                <EndOffset>11156</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>çocuklara laakal kendi anadillerini okuyup yazmayı öğreten</Text>
+                <BeginOffset>11160</BeginOffset>
+                <EndOffset>11218</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>14190</BeginOffset>
+                <EndOffset>14192</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>müslümandır</Text>
+                <BeginOffset>14178</BeginOffset>
+                <EndOffset>14189</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>18&apos;inci asır feylesoflarının fikrî
+                    hareketinin getirdiği şeyleri, İslâm dininde,
+                    şeriatte ve fıkıhta arayacak kadar müslümandır</Text>
+                <BeginOffset>14193</BeginOffset>
+                <EndOffset>14320</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>O</Text>
+                <BeginOffset>14176</BeginOffset>
+                <EndOffset>14177</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared>
+            <Span>
+                <Text>Namık Kemal</Text>
+                <BeginOffset>13899</BeginOffset>
+                <EndOffset>13910</EndOffset>
+            </Span>
+        </Supp_Shared>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>15433</BeginOffset>
+                <EndOffset>15435</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Aile bağı gibi bazı bağların Batı&apos;daki gibi
+                    zayıflamamış olması da İslâmî kültürün camiacı
+                    niteliğinden ileri gelir</Text>
+                <BeginOffset>15317</BeginOffset>
+                <EndOffset>15432</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu camiacılık korunması gerekli bir niteliktir</Text>
+                <BeginOffset>15436</BeginOffset>
+                <EndOffset>15482</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>13254</BeginOffset>
+                <EndOffset>13256</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>orada kalmaya</Text>
+                <BeginOffset>13240</BeginOffset>
+                <EndOffset>13253</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>(lando) tekrar gelip geçtiği vakit kendisi de
+                    vazifesizce başka bir tarafa bakmaya</Text>
+                <BeginOffset>13257</BeginOffset>
+                <EndOffset>13339</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>bir yandan</Text>
+                <BeginOffset>5315</BeginOffset>
+                <EndOffset>5325</EndOffset>
+            </Span>
+            <Span>
+                <Text>bir yandan</Text>
+                <BeginOffset>5337</BeginOffset>
+                <EndOffset>5347</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>da</Text>
+                <BeginOffset>5348</BeginOffset>
+                <EndOffset>5350</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>ders alıp</Text>
+                <BeginOffset>5326</BeginOffset>
+                <EndOffset>5335</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>arınmamız gerekir</Text>
+                <BeginOffset>5351</BeginOffset>
+                <EndOffset>5368</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="disjunctive"
+        sense="Expansion: Alternative: disjunctive" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ya da</Text>
+                <BeginOffset>10921</BeginOffset>
+                <EndOffset>10926</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>koruyacak</Text>
+                <BeginOffset>10911</BeginOffset>
+                <EndOffset>10920</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yönlendirecek</Text>
+                <BeginOffset>10927</BeginOffset>
+                <EndOffset>10940</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>kendisini</Text>
+                <BeginOffset>10901</BeginOffset>
+                <EndOffset>10910</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>bu yüzden</Text>
+                <BeginOffset>1395</BeginOffset>
+                <EndOffset>1404</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>Belki de</Text>
+                <BeginOffset>1386</BeginOffset>
+                <EndOffset>1394</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Babanın yokluğunda tek tutamak kuvvetli bir ahlâk
+                    anlayışı gibi görünüyordu</Text>
+                <BeginOffset>1309</BeginOffset>
+                <EndOffset>1384</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ondokuzuncu yüzyılda çok sayıda &quot;oğula
+                    nasihat&quot; ya da &quot;çocuk terbiyesi&quot;
+                    kitaplarına rastlarız</Text>
+                <BeginOffset>1405</BeginOffset>
+                <EndOffset>1498</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

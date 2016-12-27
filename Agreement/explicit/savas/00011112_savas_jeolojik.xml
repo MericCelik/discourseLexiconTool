@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Bu amaçla</Text>
+                <BeginOffset>4069</BeginOffset>
+                <EndOffset>4078</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Arz paleocoğrafyasının hemen hemen günümüzdekine
+                    yakın şekillendiği devirde, Yok olmanın nedeni gibi,
+                    süresi ve seçmeli oluşu da çözüm bekleyen sorulardandır</Text>
+                <BeginOffset>3910</BeginOffset>
+                <EndOffset>4067</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>pek çok kuram ileri sürülmüştür</Text>
+                <BeginOffset>4079</BeginOffset>
+                <EndOffset>4110</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precedence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ardından</Text>
+                <BeginOffset>3560</BeginOffset>
+                <EndOffset>3568</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>175 milyon yıl süren İkinci Zaman&apos;ın ilk
+                    sayfalarında, Conodont&apos;larla, varlıkları ve Yok
+                    oluşları kısa sürede olan Kalpionel&apos;ler tamamen
+                    yok olurlar</Text>
+                <BeginOffset>3410</BeginOffset>
+                <EndOffset>3558</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kretase devri sonunda, yani günümüzden 65 milyon
+                    yıl önce, yaşayan tüm canlıların yüzde
+                    49.9&apos;unun yok olduğu II. Büyük Toplu Yok olma,
+                    İkinci Zaman&apos;ın bitişini belirler</Text>
+                <BeginOffset>3570</BeginOffset>
+                <EndOffset>3738</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Böylece</Text>
+                <BeginOffset>5558</BeginOffset>
+                <EndOffset>5565</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Troposferdeki ozon değişimi; iklim
+                    değişikliklerinin nedeni oldu, deniz ve göl
+                    ortamlarının üst kesimlerinde yaşayan planktonların
+                    yüzde 15-20 oranında azalmasını sağlayarak, besin
+                    zincirinin bu ilk halkasında önemli bir kırılmayı da gerçekleştirdi</Text>
+                <BeginOffset>5308</BeginOffset>
+                <EndOffset>5556</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>insanın eliyle yaratılan sanayileşme, toplu
+                    yokolma koşullarından en önemli 3 tanesini -ozon
+                    tükenmesi, iklim değişikliği ve besin zincirinin
+                    kırılması- güncel koşullar arasına yerleştirdi</Text>
+                <BeginOffset>5567</BeginOffset>
+                <EndOffset>5755</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>böylece</Text>
+                <BeginOffset>6582</BeginOffset>
+                <EndOffset>6589</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>önce bitkilerin, sonra bitki yiyen otçulların ve
+                    daha sonra otçulları yiyen etçillerin yokoluşu</Text>
+                <BeginOffset>6485</BeginOffset>
+                <EndOffset>6580</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>besin zincirinin kırılması</Text>
+                <BeginOffset>6590</BeginOffset>
+                <EndOffset>6616</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result epistemic" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Dolayısıyla</Text>
+                <BeginOffset>6123</BeginOffset>
+                <EndOffset>6134</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bu sınır çökellerindeki yüksek platinium grubu
+                    elementlerine ancak göktaşlarında rastlanır</Text>
+                <BeginOffset>6031</BeginOffset>
+                <EndOffset>6121</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu kuramla; 6-14 km çapında bir meteorit&apos;in
+                    yeryuvarına çarpması, bu çarpma sonucunda bölgedeki
+                    kayaç parçalarının stratosfere enjekte olmasıyla
+                    oluşan toz tabakasının kalın bir bulut gibi
+                    yeryüzünü sarması, bu kalın toz bulutunun, güneş
+                    ışınlarının yeryüzüne ulaşmasını engellemesi,
+                    sıcaklığın sera etkisi oluşturarak yükselmesi, buna
+                    bağlı olarak önce bitkilerin, sonra bitki yiyen
+                    otçulların ve daha sonra otçulları yiyen etçillerin
+                    yokoluşu, böylece besin zincirinin kırılması toplu
+                    Yok olmaların nedeni olarak gösterildi</Text>
+                <BeginOffset>6136</BeginOffset>
+                <EndOffset>6661</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Kretase sonu II. Büyük Toplu Yok Olma&apos;yı
+                    açıklayan diğer bir kuram, &quot;Çarpma
+                    Kuramı&quot;; Kretase sonu sınır çökellerinde,
+                    yüksek platinium grubu elementleri konsantrasyonunun
+                    yüksekliğine dayandırılarak ileri sürüldü ve
+                    haklılığına da kanıt olarak gösterildi</Text>
+                <BeginOffset>5766</BeginOffset>
+                <EndOffset>6020</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>463</BeginOffset>
+                <EndOffset>467</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>baskın olarak diğerlerinin yaşama hakkını gasp
+                    eden formu yok eder</Text>
+                <BeginOffset>469</BeginOffset>
+                <EndOffset>535</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>herkese yaşama hakkını veren dengeli düzenini kurabilmek</Text>
+                <BeginOffset>406</BeginOffset>
+                <EndOffset>462</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>doğa tekrar</Text>
+                <BeginOffset>393</BeginOffset>
+                <EndOffset>404</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>9827</BeginOffset>
+                <EndOffset>9831</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>baskın olarak diğerlerinin yaşama hakkını gasp
+                    eden formu yok eder</Text>
+                <BeginOffset>9833</BeginOffset>
+                <EndOffset>9899</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>herkese yaşama hakkını veren dengeli düzenini kurabilmek</Text>
+                <BeginOffset>9770</BeginOffset>
+                <EndOffset>9826</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>doğa tekrar</Text>
+                <BeginOffset>9757</BeginOffset>
+                <EndOffset>9768</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="opposition" sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>iken</Text>
+                <BeginOffset>8996</BeginOffset>
+                <EndOffset>9000</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Mammalia, Reptil ve Karasal Bitkiler&apos;de artış
+                    söz konusudur</Text>
+                <BeginOffset>9002</BeginOffset>
+                <EndOffset>9061</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Dinoflagellata ve Kalkerli Alg&apos;ler gibi bir
+                    grupda yokolma öncesi ve sonrasında cins bazında
+                    küçük düşüşler; Radiolaria ve Diatome gibi gruplarda
+                    aynen korunma; Foraminifer&apos;ler ve
+                    Kokholit&apos;ler gibi gruplarda büyük düşüşler;
+                    Dinosaurus, Amphibia, Belemnites ve
+                    Ammonites&apos;lerde tamamen yokolma söz konusu</Text>
+                <BeginOffset>8693</BeginOffset>
+                <EndOffset>8995</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="expansion" sense="Expansion" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>kadar</Text>
+                <BeginOffset>310</BeginOffset>
+                <EndOffset>315</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>baskın hale gelir</Text>
+                <BeginOffset>316</BeginOffset>
+                <EndOffset>333</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>doğanın biyolojik yelpazesindeki çeşitliliği bozacak</Text>
+                <BeginOffset>257</BeginOffset>
+                <EndOffset>309</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="expansion" sense="Expansion" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>kadar</Text>
+                <BeginOffset>9674</BeginOffset>
+                <EndOffset>9679</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>baskın hale gelir</Text>
+                <BeginOffset>9680</BeginOffset>
+                <EndOffset>9697</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>doğanın biyolojik yelpazesindeki çeşitliliği bozacak</Text>
+                <BeginOffset>9621</BeginOffset>
+                <EndOffset>9673</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="juxtaposition"
+        sense="Comparison: Contrast: juxtaposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Oysa</Text>
+                <BeginOffset>8481</BeginOffset>
+                <EndOffset>8485</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu sınırda, Ammonit&apos;ler, Bryozoa&apos;lar,
+                    Pelecypoda&apos;lardaki yok olma 1-10 milyon yılda
+                    dereceli olarak azalma şeklindedir</Text>
+                <BeginOffset>8361</BeginOffset>
+                <EndOffset>8479</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Dinosaurus ve Foraminifera&apos;larda olduğu gibi
+                    eş zamanlarda oluşan ani kesilmeler daha geçerlidir</Text>
+                <BeginOffset>8487</BeginOffset>
+                <EndOffset>8583</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>II. Zaman- III. Zaman sınırında fosil kayıtlarında
+                    yaygın bir Yok oluş mevcuttur</Text>
+                <BeginOffset>8187</BeginOffset>
+                <EndOffset>8267</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precedence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>7379</BeginOffset>
+                <EndOffset>7384</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>Daha</Text>
+                <BeginOffset>7374</BeginOffset>
+                <EndOffset>7378</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>16-20 Temmuz 1994&apos;de Jüpiter gezegeninin
+                    Kuyruklu Yıldız Yağmuru&apos;na uğrayışını
+                    televizyonlardan, naklen tıpkı bir &quot;Uzay
+                    fiovu&quot; gibi izlemiştik</Text>
+                <BeginOffset>7230</BeginOffset>
+                <EndOffset>7372</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu yağmurun 50 milyon atom bombasına eşdeğer etki
+                    yaptığı hesaplandı</Text>
+                <BeginOffset>7386</BeginOffset>
+                <EndOffset>7454</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction result" sense="Multiple-Sense" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>334</BeginOffset>
+                <EndOffset>336</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>doğanın biyolojik yelpazesindeki çeşitliliği
+                    bozacak kadar baskın hale gelir</Text>
+                <BeginOffset>257</BeginOffset>
+                <EndOffset>333</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>diğerlerinin yaşama hakkını sınırlar ve hatta yok eder</Text>
+                <BeginOffset>337</BeginOffset>
+                <EndOffset>391</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Kim ki</Text>
+                <BeginOffset>249</BeginOffset>
+                <EndOffset>255</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction ve mi ve hatta mı?"
+        sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>374</BeginOffset>
+                <EndOffset>376</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>sınırlar</Text>
+                <BeginOffset>365</BeginOffset>
+                <EndOffset>373</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>hatta yok eder</Text>
+                <BeginOffset>377</BeginOffset>
+                <EndOffset>391</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>940</BeginOffset>
+                <EndOffset>942</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bitki ve hayvanların taşlaşmış kalıntıları olan</Text>
+                <BeginOffset>892</BeginOffset>
+                <EndOffset>939</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>canlı sistematiğine girebilecek özellikler gösteren</Text>
+                <BeginOffset>943</BeginOffset>
+                <EndOffset>994</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction result precedence"
+        sense="Multiple-Sense" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>2184</BeginOffset>
+                <EndOffset>2186</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>biyolojik strese girer</Text>
+                <BeginOffset>2161</BeginOffset>
+                <EndOffset>2183</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ölürler</Text>
+                <BeginOffset>2187</BeginOffset>
+                <EndOffset>2194</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>4537</BeginOffset>
+                <EndOffset>4539</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İkinci Zaman sonunda volkanik faaliyetlerin
+                    artması, buna bağlı olarak gerçekleşen asit
+                    yağmurları, okyanusların yüzeylerinde Ph miktarının
+                    artması ve alkanitedeki değişmelere bağlı olarak
+                    ozon tabakasının tükenmesini, toplu Yok olmanın
+                    nedeni olarak göstermiş</Text>
+                <BeginOffset>4276</BeginOffset>
+                <EndOffset>4536</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu etkilerle fauna-flora değişiminin 100.000 yıl
+                    ya da daha uzun bir zaman aralığında gerçekleştiğini
+                    ileri sürmüştür</Text>
+                <BeginOffset>4540</BeginOffset>
+                <EndOffset>4657</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction precedence" sense="Multiple-Sense" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>5979</BeginOffset>
+                <EndOffset>5981</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kretase sonu sınır çökellerinde, yüksek platinium
+                    grubu elementleri konsantrasyonunun yüksekliğine
+                    dayandırılarak ileri sürüldü</Text>
+                <BeginOffset>5851</BeginOffset>
+                <EndOffset>5978</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>haklılığına da kanıt olarak gösterildi</Text>
+                <BeginOffset>5982</BeginOffset>
+                <EndOffset>6020</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ve</Text>
+                <BeginOffset>6663</BeginOffset>
+                <EndOffset>6665</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bu kuramla; 6-14 km çapında bir meteorit&apos;in
+                    yeryuvarına çarpması, bu çarpma sonucunda bölgedeki
+                    kayaç parçalarının stratosfere enjekte olmasıyla
+                    oluşan toz tabakasının kalın bir bulut gibi
+                    yeryüzünü sarması, bu kalın toz bulutunun, güneş
+                    ışınlarının yeryüzüne ulaşmasını engellemesi,
+                    sıcaklığın sera etkisi oluşturarak yükselmesi, buna
+                    bağlı olarak önce bitkilerin, sonra bitki yiyen
+                    otçulların ve daha sonra otçulları yiyen etçillerin
+                    yokoluşu, böylece besin zincirinin kırılması toplu
+                    Yok olmaların nedeni olarak gösterildi</Text>
+                <BeginOffset>6136</BeginOffset>
+                <EndOffset>6661</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>fauna-flora değişiminin ani olduğu ileri sürüldü</Text>
+                <BeginOffset>6667</BeginOffset>
+                <EndOffset>6715</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>6808</BeginOffset>
+                <EndOffset>6810</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>yok olma kanıtlarıyla, çarpma kanıtlarını birlikte değerlendirdi</Text>
+                <BeginOffset>6743</BeginOffset>
+                <EndOffset>6807</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>günümüzde jeolojinin hemen her disiplininden,
+                    çarpmaya dair yaklaşık 150 adet yapıyla da desteklendi</Text>
+                <BeginOffset>6811</BeginOffset>
+                <EndOffset>6911</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Çarpma kuramı</Text>
+                <BeginOffset>6727</BeginOffset>
+                <EndOffset>6740</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>8334</BeginOffset>
+                <EndOffset>8336</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>sıcaklığın yükselişi kısa süreli</Text>
+                <BeginOffset>8301</BeginOffset>
+                <EndOffset>8333</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>olayların oluşu anidir</Text>
+                <BeginOffset>8337</BeginOffset>
+                <EndOffset>8359</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction result" sense="Multiple-Sense" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>9698</BeginOffset>
+                <EndOffset>9700</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>doğanın biyolojik yelpazesindeki çeşitliliği
+                    bozacak kadar baskın hale gelir</Text>
+                <BeginOffset>9621</BeginOffset>
+                <EndOffset>9697</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>diğerlerinin yaşama hakkını sınırlar ve hatta yok eder</Text>
+                <BeginOffset>9701</BeginOffset>
+                <EndOffset>9755</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Kim ki</Text>
+                <BeginOffset>9613</BeginOffset>
+                <EndOffset>9619</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>9738</BeginOffset>
+                <EndOffset>9740</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>sınırlar</Text>
+                <BeginOffset>9729</BeginOffset>
+                <EndOffset>9737</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>hatta yok eder</Text>
+                <BeginOffset>9741</BeginOffset>
+                <EndOffset>9755</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>1856</BeginOffset>
+                <EndOffset>1858</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>yok olma zonunun üstünde gözlenen çoğu canlı
+                    türünün, yok olma zonu altında gözlenen canlı
+                    türleriyle yakından ilişkili olmaması</Text>
+                <BeginOffset>1727</BeginOffset>
+                <EndOffset>1855</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu durumun yatay-düşey fasiyes değişimlerinden
+                    bağımsız olarak izlenmesiyle</Text>
+                <BeginOffset>1859</BeginOffset>
+                <EndOffset>1934</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction (precedence and result?)"
+        sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>2313</BeginOffset>
+                <EndOffset>2315</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>çekilmesi</Text>
+                <BeginOffset>2303</BeginOffset>
+                <EndOffset>2312</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ilerlemesi</Text>
+                <BeginOffset>2316</BeginOffset>
+                <EndOffset>2326</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>deniz</Text>
+                <BeginOffset>2297</BeginOffset>
+                <EndOffset>2302</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>10179</BeginOffset>
+                <EndOffset>10181</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>doğada, adaptasyon yeteneği en yüksek canlı
+                    olarak, kutuplardan çöllere, steplerden, ovalara,
+                    savanlara kadar her yerde yaşayan</Text>
+                <BeginOffset>10051</BeginOffset>
+                <EndOffset>10178</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>sayılarını durmaksızın artırarak baskın hale gelen</Text>
+                <BeginOffset>10182</BeginOffset>
+                <EndOffset>10232</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="disjunctive"
+        sense="Expansion: Alternative: disjunctive" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ya da</Text>
+                <BeginOffset>2070</BeginOffset>
+                <EndOffset>2075</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>uyum sağlayamayacakları</Text>
+                <BeginOffset>2046</BeginOffset>
+                <EndOffset>2069</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>etkisiz hale getiremeyecekleri</Text>
+                <BeginOffset>2076</BeginOffset>
+                <EndOffset>2106</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="disjunctive"
+        sense="Expansion: Alternative: disjunctive" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ya</Text>
+                <BeginOffset>3319</BeginOffset>
+                <EndOffset>3321</EndOffset>
+            </Span>
+            <Span>
+                <Text>ya da</Text>
+                <BeginOffset>3344</BeginOffset>
+                <EndOffset>3349</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>tamamen Yok olmuşlar</Text>
+                <BeginOffset>3322</BeginOffset>
+                <EndOffset>3342</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>cins ve tür düzeyinde önemli ölçüde azalmışlardır</Text>
+                <BeginOffset>3350</BeginOffset>
+                <EndOffset>3399</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>yeni dünyaya ayak uyduramayan canlılar</Text>
+                <BeginOffset>3280</BeginOffset>
+                <EndOffset>3318</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+</Document>

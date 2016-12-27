@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="specification"
+        sense="Expansion: Restatement: specification" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Aslında</Text>
+                <BeginOffset>1578</BeginOffset>
+                <EndOffset>1585</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bilimsel Sosyalizm, 1840&apos;lı yılların
+                    Avrupası&apos;nda doğdu</Text>
+                <BeginOffset>1521</BeginOffset>
+                <EndOffset>1576</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>sosyalizm düşüncesinin köklerini Marx öncesine,
+                    19. yüzyılın ilk yıllarında ortaya çıkan Robert
+                    Owen, Saint Simon, Fourier gibi ütopik
+                    sosyalistlere, hatta Büyük Fransız Devrimi&apos;nin
+                    radikal düşünürlerine dek götürebiliriz</Text>
+                <BeginOffset>1586</BeginOffset>
+                <EndOffset>1807</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ayrıca</Text>
+                <BeginOffset>10614</BeginOffset>
+                <EndOffset>10620</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>gerçekten de 19. yüzyılın en köklü devrimci
+                    atılımları Fransa, İngiltere ve Almanya gibi en
+                    ileri kapitalist ülkelerde yaşanmıştır</Text>
+                <BeginOffset>10482</BeginOffset>
+                <EndOffset>10612</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Komün&apos;ün yenilgisinin bir nedeni de
+                    yaygınlaşamaması, diğer ülkelere, örneğin
+                    Almanya&apos;ya sıçrayamaması</Text>
+                <BeginOffset>10621</BeginOffset>
+                <EndOffset>10723</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ayrıca</Text>
+                <BeginOffset>12807</BeginOffset>
+                <EndOffset>12813</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>19. yüzyıl Bilimsel Sosyalizmi, ister istemez
+                    Avrupa merkezciliğin izlerini taşır</Text>
+                <BeginOffset>12724</BeginOffset>
+                <EndOffset>12805</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yeni bir ileri atılımın, ancak en ileri olan yerde
+                    gündeme gelebileceği (19. yüzyıl devrim modeli)
+                    düşüncesi, &quot;geri&quot; halklara devrimi
+                    yasaklayan gerici &quot;üretici güçler
+                    teorisi&quot;ne kapıyı açık bırakır</Text>
+                <BeginOffset>12814</BeginOffset>
+                <EndOffset>13012</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="? result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Böylece</Text>
+                <BeginOffset>7094</BeginOffset>
+                <EndOffset>7101</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Marx, onların çalışmalarını sürdürerek, ünlü
+                    artı-değer kuramına ulaşmıştır</Text>
+                <BeginOffset>7017</BeginOffset>
+                <EndOffset>7092</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kapitalist sömürünün mekanizması (emeğin meta
+                    haline gelmesi ve işçinin emeğinin bir bölümüne
+                    kapitalist tarafından el konulması) açıklanmış,
+                    kapitalist zenginliğin (sermaye&apos;nin) ve
+                    kâr&apos;ın temel kaynağı da bulunmuştur</Text>
+                <BeginOffset>7102</BeginOffset>
+                <EndOffset>7319</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Klasik ekonomi politik, en önemli isimleri Adam
+                    Smith ve David Ricardo olmak üzere,
+                    İngiltere&apos;de doğmuştur</Text>
+                <BeginOffset>6909</BeginOffset>
+                <EndOffset>7015</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>dolayısıyla</Text>
+                <BeginOffset>2742</BeginOffset>
+                <EndOffset>2753</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>19. yüzyılın ilk yarısında yaşanan sanayi
+                    devrimleriyle kapitalizmin gelişmesi, makineleşmenin
+                    yoğunlaşması, büyük çapta örgütlü üretimin yapıldığı
+                    dev fabrikaların ortaya çıkması</Text>
+                <BeginOffset>2561</BeginOffset>
+                <EndOffset>2740</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>sistemin çelişkilerinin netleşmesi ve sanayi
+                    proletaryasının dönüştürücü bir güç ve geleceği
+                    temsil eden bağımsız bir sınıf olarak siyaset
+                    sahnesine ağırlığını koymaya başlamasıyla</Text>
+                <BeginOffset>2754</BeginOffset>
+                <EndOffset>2934</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>dolayısıyla</Text>
+                <BeginOffset>10286</BeginOffset>
+                <EndOffset>10297</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>kapitalizmin en fazla geliştiği</Text>
+                <BeginOffset>10253</BeginOffset>
+                <EndOffset>10284</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>toplumsal çelişkilerin en keskin olduğu</Text>
+                <BeginOffset>10298</BeginOffset>
+                <EndOffset>10337</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>dolayısıyla</Text>
+                <BeginOffset>11830</BeginOffset>
+                <EndOffset>11841</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>aslında çok eşitlikçi gibi gözükmesine karşın
+                    eşitsizliği engelleyemeyeceğini, hatta yeni bazı
+                    eşitsizlikler yaratabileceğini</Text>
+                <BeginOffset>11703</BeginOffset>
+                <EndOffset>11828</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>hâlâ bir burjuva ilke olduğunu</Text>
+                <BeginOffset>11842</BeginOffset>
+                <EndOffset>11872</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>dolayısıyla</Text>
+                <BeginOffset>12273</BeginOffset>
+                <EndOffset>12284</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>sosyalizm aşamasının uzun olduğu, bu aşamada sınıf
+                    mücadelesinin devam ettiği, sosyalizmin kendinden
+                    kaynaklanan bazı eşitsizlikleri barındırdığı</Text>
+                <BeginOffset>12126</BeginOffset>
+                <EndOffset>12271</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>devrimi sürdürmenin zorunlu olduğu</Text>
+                <BeginOffset>12285</BeginOffset>
+                <EndOffset>12319</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="? opposition"
+        sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Fakat</Text>
+                <BeginOffset>11327</BeginOffset>
+                <EndOffset>11332</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Marx ve Engels, 2.5 aylık işçi iktidarı Paris
+                    Komünü deneyini kılı kırk yararcasına analiz ederek
+                    bazı sonuçlara varmışlardır</Text>
+                <BeginOffset>10857</BeginOffset>
+                <EndOffset>10982</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Marx&apos;ın, son çalışmalarından biri olan Gotha
+                    ve Erfurt Programlarının Eleştirisi adlı eserinde,
+                    çok önemli ve geleceğe ışık tutan bir analiz vardır.
+                    Marx, Alman sosyal demokratlarını (o zaman
+                    komünistlere, sosyal demokrat deniyordu) eleştirdiği
+                    bu eserinde; &quot;herkes yaratılan toplumsal
+                    değerden verdiği emek oranında pay alacak&quot;
+                    biçimindeki sosyalist iktisat ilkesinin, aslında çok
+                    eşitlikçi gibi gözükmesine karşın eşitsizliği
+                    engelleyemeyeceğini, hatta yeni bazı eşitsizlikler yaratabileceğini</Text>
+                <BeginOffset>11333</BeginOffset>
+                <EndOffset>11828</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Sosyalizm, kapitalizm ile sınıfsız toplum
+                    (komünizm) arasında kısa bir geçiş aşamasıdır</Text>
+                <BeginOffset>10984</BeginOffset>
+                <EndOffset>11071</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="opposition" sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Fakat</Text>
+                <BeginOffset>14073</BeginOffset>
+                <EndOffset>14078</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kapitalizm, Avrupa&apos;daki ölümcül krizine,
+                    genişleyerek (emperyalizm) çare bulabildi</Text>
+                <BeginOffset>13989</BeginOffset>
+                <EndOffset>14071</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu &quot;çare&quot;, krizin tüm dünyaya
+                    yayılmasından ve etkisini esas olarak metropollerde
+                    değil, çevre ülkelerde göstermesinden başka bir
+                    sonuç vermedi</Text>
+                <BeginOffset>14079</BeginOffset>
+                <EndOffset>14222</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="expansion" sense="Expansion" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>kadar</Text>
+                <BeginOffset>11902</BeginOffset>
+                <EndOffset>11907</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>verecek</Text>
+                <BeginOffset>11908</BeginOffset>
+                <EndOffset>11915</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>verebildiği</Text>
+                <BeginOffset>11890</BeginOffset>
+                <EndOffset>11901</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>herkes</Text>
+                <BeginOffset>11883</BeginOffset>
+                <EndOffset>11889</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="expectation"
+        sense="Comparison: Concession: expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>karşın</Text>
+                <BeginOffset>10093</BeginOffset>
+                <EndOffset>10099</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>hâlâ önümüzde duran</Text>
+                <BeginOffset>10100</BeginOffset>
+                <EndOffset>10119</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>20. yüzyıldaki büyük deneylerle oldukça zenginleşmesine</Text>
+                <BeginOffset>10037</BeginOffset>
+                <EndOffset>10092</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="expectation"
+        sense="Comparison: Concession: expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>karşın</Text>
+                <BeginOffset>11742</BeginOffset>
+                <EndOffset>11748</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>sosyalist iktisat ilkesinin</Text>
+                <BeginOffset>11674</BeginOffset>
+                <EndOffset>11701</EndOffset>
+            </Span>
+            <Span>
+                <Text>eşitsizliği engelleyemeyeceğini</Text>
+                <BeginOffset>11749</BeginOffset>
+                <EndOffset>11780</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>çok eşitlikçi gibi gözükmesine</Text>
+                <BeginOffset>11711</BeginOffset>
+                <EndOffset>11741</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>12713</BeginOffset>
+                <EndOffset>12723</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Marx, dünyanın Avrupa ve yakın çevresinden ibaret
+                    olduğu bir dönemde, hem de yaşlı kıtanın merkezinde
+                    yaşadı. 19. yüzyılda Asya&apos;nın, Latin
+                    Amerika&apos;nın, Afrika&apos;nın halkları henüz
+                    insanlığın ortak gelişme yatağının dışında bulunuyorlardı</Text>
+                <BeginOffset>12476</BeginOffset>
+                <EndOffset>12711</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>19. yüzyıl Bilimsel Sosyalizmi, ister istemez
+                    Avrupa merkezciliğin izlerini taşır</Text>
+                <BeginOffset>12724</BeginOffset>
+                <EndOffset>12805</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="contra-expectation"
+        sense="Comparison: Concession: contra-expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Buna rağmen</Text>
+                <BeginOffset>13081</BeginOffset>
+                <EndOffset>13092</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>yeni bir ileri atılımın, ancak en ileri olan yerde
+                    gündeme gelebileceği (19. yüzyıl devrim modeli)
+                    düşüncesi, &quot;geri&quot; halklara devrimi
+                    yasaklayan gerici &quot;üretici güçler
+                    teorisi&quot;ne kapıyı açık bırakır. Bu onun,
+                    tarihsel koşullardan kaynaklanan sınırlılığıdır</Text>
+                <BeginOffset>12814</BeginOffset>
+                <EndOffset>13070</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bilimsel Sosyalizm, 20. yüzyılda geri denilen
+                    bölgelerde yüz milyonlarca emekçinin esin kaynağı olabildi</Text>
+                <BeginOffset>13093</BeginOffset>
+                <EndOffset>13197</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>11109</BeginOffset>
+                <EndOffset>11114</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>geri dönüş tehlikesi yıkılmış ama yok edilmemiş
+                    burjuva sınıflardan gelir</Text>
+                <BeginOffset>11116</BeginOffset>
+                <EndOffset>11189</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Proletarya iktidarı ele geçirdikten</Text>
+                <BeginOffset>11073</BeginOffset>
+                <EndOffset>11108</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2>
+            <Span>
+                <Text>Sosyalizm, kapitalizm ile sınıfsız toplum
+                    (komünizm) arasında kısa bir geçiş aşamasıdır</Text>
+                <BeginOffset>10984</BeginOffset>
+                <EndOffset>11071</EndOffset>
+            </Span>
+        </Supp2>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>16017</BeginOffset>
+                <EndOffset>16022</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>da</Text>
+                <BeginOffset>16023</BeginOffset>
+                <EndOffset>16025</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>sınıfların ve sınıf mücadelesinin</Text>
+                <BeginOffset>15929</BeginOffset>
+                <EndOffset>15962</EndOffset>
+            </Span>
+            <Span>
+                <Text>devam edeceğini</Text>
+                <BeginOffset>16026</BeginOffset>
+                <EndOffset>16041</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>üretim araçlarının toplumsal mülkiyeti tamamlandıktan</Text>
+                <BeginOffset>15963</BeginOffset>
+                <EndOffset>16016</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>659</BeginOffset>
+                <EndOffset>661</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sonuna geldiğimiz bin yılın son 150 yılını,
+                    Bilimsel Sosyalizm kadar derinden etkilemiş,
+                    damgasını vurmuş</Text>
+                <BeginOffset>553</BeginOffset>
+                <EndOffset>658</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yüz milyonlarca insanın pratiğine bayrak olabilmiş</Text>
+                <BeginOffset>662</BeginOffset>
+                <EndOffset>712</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>1173</BeginOffset>
+                <EndOffset>1175</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>geçtiğimiz bin yılın özellikle ikinci yarısına
+                    damgasını vurmuş Batı Uygarlığına (daha doğrusu
+                    kapitalist uygarlığa) en köklü eleştiriyi getirmesi,
+                    bu uygarlık modelini pratikte aşmanın yolunu göstermesi</Text>
+                <BeginOffset>969</BeginOffset>
+                <EndOffset>1172</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yeni bir modelin ipuçlarını vermesidir</Text>
+                <BeginOffset>1176</BeginOffset>
+                <EndOffset>1214</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Bu öğretinin asıl önemi</Text>
+                <BeginOffset>944</BeginOffset>
+                <EndOffset>967</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction specification ( de?)"
+        sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>2132</BeginOffset>
+                <EndOffset>2134</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>onun en büyük keşfidir</Text>
+                <BeginOffset>2109</BeginOffset>
+                <EndOffset>2131</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>işin de özüdür</Text>
+                <BeginOffset>2135</BeginOffset>
+                <EndOffset>2149</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>2105</BeginOffset>
+                <EndOffset>2107</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared>
+            <Span>
+                <Text>Marx, öncüllerinden farklı olarak, bu sistemi
+                    dönüştürmenin ve aşmanın maddi gücünü (kaldıracını)
+                    keşfetmiştir: proletarya</Text>
+                <BeginOffset>1981</BeginOffset>
+                <EndOffset>2103</EndOffset>
+            </Span>
+        </Supp_Shared>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>2418</BeginOffset>
+                <EndOffset>2420</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>dayattığı</Text>
+                <BeginOffset>2408</BeginOffset>
+                <EndOffset>2417</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>gündeme getirdiği</Text>
+                <BeginOffset>2421</BeginOffset>
+                <EndOffset>2438</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>toplumsal pratiğin</Text>
+                <BeginOffset>2389</BeginOffset>
+                <EndOffset>2407</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>3740</BeginOffset>
+                <EndOffset>3742</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>insanlığın 19. yüzyılda yarattığı bu en iyi
+                    ürünleri eleştirel bir yaklaşımla ele almışlar</Text>
+                <BeginOffset>3649</BeginOffset>
+                <EndOffset>3739</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bir sentezini oluşturarak aşmışlardır</Text>
+                <BeginOffset>3743</BeginOffset>
+                <EndOffset>3780</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Bilimsel sosyalist düşüncenin üç kaynağı olduğu
+                    söylenir: Alman felsefesi, İngiliz ekonomi politiği
+                    ve Fransız sosyolojisi (ya da sosyalizmi)</Text>
+                <BeginOffset>3318</BeginOffset>
+                <EndOffset>3459</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Marx ve Engels</Text>
+                <BeginOffset>3633</BeginOffset>
+                <EndOffset>3647</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>5697</BeginOffset>
+                <EndOffset>5699</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>dönemin büyük bilimsel devrimleriyle de beslenmiş</Text>
+                <BeginOffset>5647</BeginOffset>
+                <EndOffset>5696</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kanıtlanmıştır</Text>
+                <BeginOffset>5700</BeginOffset>
+                <EndOffset>5714</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Diyalektik Materyalizm</Text>
+                <BeginOffset>5623</BeginOffset>
+                <EndOffset>5645</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>10120</BeginOffset>
+                <EndOffset>10122</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>hâlâ önümüzde duran</Text>
+                <BeginOffset>10100</BeginOffset>
+                <EndOffset>10119</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>21. yüzyıla devredilen</Text>
+                <BeginOffset>10123</BeginOffset>
+                <EndOffset>10145</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>10359</BeginOffset>
+                <EndOffset>10361</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Proletarya devrimi, kapitalizmin en fazla
+                    geliştiği (dolayısıyla toplumsal çelişkilerin en
+                    keskin olduğu) yerde gündeme gelir</Text>
+                <BeginOffset>10233</BeginOffset>
+                <EndOffset>10358</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>devrim tek ülkede değil Avrupa çapında olanaklıdır</Text>
+                <BeginOffset>10362</BeginOffset>
+                <EndOffset>10412</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>10449</BeginOffset>
+                <EndOffset>10451</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>19. yüzyıl koşullarında doğru olan</Text>
+                <BeginOffset>10414</BeginOffset>
+                <EndOffset>10448</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>pratikten çıkarılan</Text>
+                <BeginOffset>10452</BeginOffset>
+                <EndOffset>10471</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="?" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>11916</BeginOffset>
+                <EndOffset>11918</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>verebildiği kadar verecek</Text>
+                <BeginOffset>11890</BeginOffset>
+                <EndOffset>11915</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ihtiyacı kadar alacak</Text>
+                <BeginOffset>11919</BeginOffset>
+                <EndOffset>11940</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>herkes</Text>
+                <BeginOffset>11883</BeginOffset>
+                <EndOffset>11889</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>13711</BeginOffset>
+                <EndOffset>13713</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>halinden hoşnut olmayan</Text>
+                <BeginOffset>13687</BeginOffset>
+                <EndOffset>13710</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>dünyanın varolan düzenini değiştirmek isteyen</Text>
+                <BeginOffset>13714</BeginOffset>
+                <EndOffset>13759</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>14318</BeginOffset>
+                <EndOffset>14320</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ezen</Text>
+                <BeginOffset>14313</BeginOffset>
+                <EndOffset>14317</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ezilen</Text>
+                <BeginOffset>14321</BeginOffset>
+                <EndOffset>14327</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>15617</BeginOffset>
+                <EndOffset>15619</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>&quot;devrimin odağının Ezilen Dünya&apos;ya
+                    kaydığı, dünya çapında bir emperyalist zincirin
+                    oluştuğu, devrimin bu zincirin en zayıf halkasından
+                    kopmak biçiminde gündeme gelebileceği, tek ülkede
+                    (fakat Rusya ve Çin gibi büyük ölçekli) devrimin ve
+                    sosyalizmin olanaklı olduğu, köylülüğün
+                    proletaryanın müttefiki olarak devrimci pratiğe
+                    katıldığı, geri ülkelerde devrim yapıldığı için bir
+                    çırpıda sosyalizme ulaşmanın değil, aşamalı bir
+                    devrimin olanaklı olduğu&quot; biçiminde
+                    özetlenebilecek bir 20. yüzyıl devrim modeli geliştirilmiş</Text>
+                <BeginOffset>15097</BeginOffset>
+                <EndOffset>15616</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu, bir yüzyıl boyunca kanıtlanmıştır</Text>
+                <BeginOffset>15620</BeginOffset>
+                <EndOffset>15657</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>15805</BeginOffset>
+                <EndOffset>15807</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sovyet deneyinin (kendisini yıkıma götüren)
+                    zaaflarını analiz eden</Text>
+                <BeginOffset>15738</BeginOffset>
+                <EndOffset>15804</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çin deneyine önderlik yapan</Text>
+                <BeginOffset>15808</BeginOffset>
+                <EndOffset>15835</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>2041</BeginOffset>
+                <EndOffset>2043</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>dönüştürmenin</Text>
+                <BeginOffset>2027</BeginOffset>
+                <EndOffset>2040</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>aşmanın</Text>
+                <BeginOffset>2044</BeginOffset>
+                <EndOffset>2051</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>bu sistemi</Text>
+                <BeginOffset>2016</BeginOffset>
+                <EndOffset>2026</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>2789</BeginOffset>
+                <EndOffset>2791</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>19. yüzyılın ilk yarısında yaşanan sanayi
+                    devrimleriyle kapitalizmin gelişmesi, makineleşmenin
+                    yoğunlaşması, büyük çapta örgütlü üretimin yapıldığı
+                    dev fabrikaların ortaya çıkması, dolayısıyla
+                    sistemin çelişkilerinin netleşmesi</Text>
+                <BeginOffset>2561</BeginOffset>
+                <EndOffset>2788</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>sanayi proletaryasının dönüştürücü bir güç ve
+                    geleceği temsil eden bağımsız bir sınıf olarak
+                    siyaset sahnesine ağırlığını koymaya başlamasıyla</Text>
+                <BeginOffset>2792</BeginOffset>
+                <EndOffset>2934</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>7163</BeginOffset>
+                <EndOffset>7165</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>emeğin meta haline gelmesi</Text>
+                <BeginOffset>7136</BeginOffset>
+                <EndOffset>7162</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>işçinin emeğinin bir bölümüne kapitalist
+                    tarafından el konulması</Text>
+                <BeginOffset>7166</BeginOffset>
+                <EndOffset>7230</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="disjunctive"
+        sense="Expansion: Alternative: disjunctive" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>veya</Text>
+                <BeginOffset>9343</BeginOffset>
+                <EndOffset>9347</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>doğrular</Text>
+                <BeginOffset>9334</BeginOffset>
+                <EndOffset>9342</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yanlışlar</Text>
+                <BeginOffset>9348</BeginOffset>
+                <EndOffset>9357</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Her büyük devrim bazı öngörüleri</Text>
+                <BeginOffset>9301</BeginOffset>
+                <EndOffset>9333</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="? pragmatic contrast"
+        sense="Comparison: Pragmatic Contrast" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Öte yandan</Text>
+                <BeginOffset>3086</BeginOffset>
+                <EndOffset>3096</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>&quot;Deha&quot;yı yaratan işte bu toplumsal
+                    gelişmedir; &quot;kapitalizmin mezar kazıcısı&quot;
+                    proletarya ortaya çıkmıştır, Marx da onu keşfetmiştir</Text>
+                <BeginOffset>2954</BeginOffset>
+                <EndOffset>3084</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bütün bu gelişmeler, 19. yüzyıl Avrupası&apos;nın
+                    İngiltere, Fransa, Almanya gibi en gelişmiş
+                    merkezlerinde oluşmuştu; dünyanın başka bir
+                    yöresinde değil</Text>
+                <BeginOffset>3097</BeginOffset>
+                <EndOffset>3245</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>İnsanlık ancak toplumsal pratiğin dayattığı ve
+                    gündeme getirdiği sorunları çözmeye çalışarak kendi
+                    bilgisini geliştirebiliyor</Text>
+                <BeginOffset>2374</BeginOffset>
+                <EndOffset>2499</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2>
+            <Span>
+                <Text>Sosyalist düşüncenin ütopyacılıktan bilimselliğe
+                    evrilmesi; 19. yüzyılın ilk yarısında yaşanan sanayi
+                    devrimleriyle kapitalizmin gelişmesi, makineleşmenin
+                    yoğunlaşması, büyük çapta örgütlü üretimin yapıldığı
+                    dev fabrikaların ortaya çıkması, dolayısıyla
+                    sistemin çelişkilerinin netleşmesi ve sanayi
+                    proletaryasının dönüştürücü bir güç ve geleceği
+                    temsil eden bağımsız bir sınıf olarak siyaset
+                    sahnesine ağırlığını koymaya başlamasıyla olanaklı olmuştur</Text>
+                <BeginOffset>2501</BeginOffset>
+                <EndOffset>2952</EndOffset>
+            </Span>
+        </Supp2>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="opposition" sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Öte yandan</Text>
+                <BeginOffset>7727</BeginOffset>
+                <EndOffset>7737</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>18. yüzyılın sonuna doğru tarihin en köklü
+                    devrimlerinden birinin gerçekleştiği Fransa&apos;da
+                    toplumbilimi bu teze ulaşmıştı</Text>
+                <BeginOffset>7605</BeginOffset>
+                <EndOffset>7725</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>özellikle Fransız ütopik sosyalistleri, Saint
+                    Simon, Fourier vb., kapitalizmi eleştirerek
+                    sömürüsüz-sınıfsız bir toplum düşüncesine ulaşmışlardı</Text>
+                <BeginOffset>7738</BeginOffset>
+                <EndOffset>7882</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Tarihin itici gücünün sınıf savaşımı olduğu
+                    tezinin oluşturulmasının onuru Marx&apos;a ait değildir</Text>
+                <BeginOffset>7509</BeginOffset>
+                <EndOffset>7603</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>öte yandan</Text>
+                <BeginOffset>9359</BeginOffset>
+                <EndOffset>9369</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bazı öngörüleri doğrular veya yanlışlar</Text>
+                <BeginOffset>9318</BeginOffset>
+                <EndOffset>9357</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>insanlığın önüne yeni sorular getirir</Text>
+                <BeginOffset>9370</BeginOffset>
+                <EndOffset>9407</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Her büyük devrim</Text>
+                <BeginOffset>9301</BeginOffset>
+                <EndOffset>9317</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="condition" sense="Contingency: Condition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>zaman</Text>
+                <BeginOffset>8983</BeginOffset>
+                <EndOffset>8988</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>büyük toplumsal pratikleri ve insan ihtiyaçlarını görürüz</Text>
+                <BeginOffset>8989</BeginOffset>
+                <EndOffset>9046</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Büyük bilimsel ve düşünsel devrimlerin kökenine indiğimiz</Text>
+                <BeginOffset>8925</BeginOffset>
+                <EndOffset>8982</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

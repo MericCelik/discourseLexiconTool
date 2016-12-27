@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="contrast" sense="Comparison: Contrast" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ancak</Text>
+                <BeginOffset>287</BeginOffset>
+                <EndOffset>292</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bizim her söylemimiz ve davranışımızdan bazı
+                    sonuçlar çıkarıldığının ve kuşku duyulduğunun farkındayız</Text>
+                <BeginOffset>183</BeginOffset>
+                <EndOffset>285</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu kuşkular yersizdir</Text>
+                <BeginOffset>293</BeginOffset>
+                <EndOffset>314</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Exception" sense="Expansion: Exception" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ancak</Text>
+                <BeginOffset>1744</BeginOffset>
+                <EndOffset>1749</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>siyasete karışmadığını</Text>
+                <BeginOffset>1720</BeginOffset>
+                <EndOffset>1742</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>terörün tırmandığı dönemlerde devreye girdiğini</Text>
+                <BeginOffset>1750</BeginOffset>
+                <EndOffset>1797</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Türkiye&apos;de ordunun</Text>
+                <BeginOffset>1701</BeginOffset>
+                <EndOffset>1719</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="contra-expectation"
+        sense="Comparison: Concession: contra-expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ancak</Text>
+                <BeginOffset>4812</BeginOffset>
+                <EndOffset>4817</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>TBMM Başkanı Bülent Arınç, önceki akşam CNN
+                    Türk&apos;te Taha Akyol&apos;un sunduğu &quot;Eğrisi
+                    Doğrusu&quot; programında Milliyet&apos;te 26 Kasım
+                    2002 tarihinde &quot;Yanlışlara Ortak Olmam&quot;
+                    başlığıyla yayımlanan röportajındaki ifadesinin
+                    farklı yansıtıldığını iddia etti</Text>
+                <BeginOffset>4566</BeginOffset>
+                <EndOffset>4810</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Arınç&apos;ın teyp kaydında da yer alan sözleri
+                    gazeteye aynen yansıdı</Text>
+                <BeginOffset>4818</BeginOffset>
+                <EndOffset>4883</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="opposition" sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ancak</Text>
+                <BeginOffset>5774</BeginOffset>
+                <EndOffset>5779</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Arınç&apos;ın farklı yazıldığını iddia ettiği
+                    sözlerine ilişkin bölüm teyp kaydından aynen şöyle</Text>
+                <BeginOffset>5091</BeginOffset>
+                <EndOffset>5182</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Arınç, Akyol&apos;un programında şunları söyledi</Text>
+                <BeginOffset>5780</BeginOffset>
+                <EndOffset>5823</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Ben siyasette belli yerleri amaçlayarak çalışmış
+                    bir insan değilim. Kadere inanıyorum. Ben bir hizmet
+                    insanıyım, söylerim, söylediğimin arkasından giderim
+                    ve bana neye mal olursa olsun ben bununla iftihar
+                    ederim. Ben Erbakan&apos;ın yanında onun
+                    yanlışlarına ortak olsaydım 40 defa bakan olurdum,
+                    50 defa genel başkan olurdum. Tayyip Erdoğan&apos;ın
+                    yanında, onun yanlışlarına ortak olsaydım kesinlikle
+                    bu noktalarda bulunmazdım. Benim arkamda bir iz
+                    kalırsa, ben siyasette ilkeli, kararlı, cesur işler
+                    yaparsam benim için en doğrusu odur</Text>
+                <BeginOffset>5199</BeginOffset>
+                <EndOffset>5727</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2>
+            <Span>
+                <Text>Ben doğruların söylenmesinden yana olduğumu ifade
+                    ettim. Ertesi gün böyle bir başlık çıktı. Önce
+                    Serpil Çevikcan&apos;ı, sonra Fikret Bila Bey&apos;i
+                    aradım. Fikret Bila tekrar bana bu başlığın, çok da
+                    anlamsız bir şey çıkıyor burada... Virgülden sonra
+                    Tayyip Bey&apos;in de ismi gelince ikisi de aynı
+                    kefeye konmuş oluyor. Halbuki bizim konuşmamız bu
+                    anlamda değildi. Sayın Bila bana, bu konuşmayla
+                    ilgili izlenimlerini köşesinde yazacağını ifade
+                    etti, dediği gibi de yaptı. Birinci günkü başlıkta
+                    farklı olarak şeyler yazıldı orada. Sayın
+                    Erbakan&apos;la ilgili söylediklerim, zaten
+                    geçmişten bu yana söylediklerimdir... Ama biz Tayyip
+                    Erdoğan&apos;la yıllardan beri aynı çizgiyi
+                    paylaşmış insanlarız</Text>
+                <BeginOffset>5840</BeginOffset>
+                <EndOffset>6517</EndOffset>
+            </Span>
+        </Supp2>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="condition" sense="Contingency: Condition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ancak</Text>
+                <BeginOffset>7249</BeginOffset>
+                <EndOffset>7254</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sizinle ilgili izlenimlerimi yazacağım,
+                    isterseniz, bu söylediklerinizi de yazayım</Text>
+                <BeginOffset>7165</BeginOffset>
+                <EndOffset>7247</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>teypteki ifadenizi de yazmak zorundayım</Text>
+                <BeginOffset>7255</BeginOffset>
+                <EndOffset>7294</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="contra-expectation"
+        sense="Comparison: Concession: contra-expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ancak</Text>
+                <BeginOffset>14513</BeginOffset>
+                <EndOffset>14518</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>önceki hükümetin memur maaşlarına hedef enflasyona
+                    göre zam yapma sözü verdiğini</Text>
+                <BeginOffset>14431</BeginOffset>
+                <EndOffset>14511</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kendilerinin 2003 zammını geçmiş enflasyonlara
+                    göre vermeyi planladıklarını</Text>
+                <BeginOffset>14519</BeginOffset>
+                <EndOffset>14594</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="opposition" sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ancak</Text>
+                <BeginOffset>15323</BeginOffset>
+                <EndOffset>15328</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>şimdiye kadar sınavı kazananların haklarının saklı tutulacağını</Text>
+                <BeginOffset>15258</BeginOffset>
+                <EndOffset>15321</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bundan böyle her yıl ihtiyaç kadar alım için yeni
+                    sınavlar yapılacağını</Text>
+                <BeginOffset>15329</BeginOffset>
+                <EndOffset>15400</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjuctive"
+        sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ayrıca</Text>
+                <BeginOffset>1450</BeginOffset>
+                <EndOffset>1456</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Komutanlar Kıbrıs&apos;ta, Türkiye ve KKTC
+                    Türklerinin kazanımlarını geriletmeyecek bir çözüm
+                    gerektiğini belirttiler. Kuzey Kıbrıs&apos;ın,
+                    askeri açıdan Türkiye&apos;nin güneyden kuşatılması
+                    sonucunu doğuracak bir konuma getirilmesinin kabul
+                    edilemeyeceğini söyleyen komutanlar, özellikle
+                    enerji yolları açıldıktan sonra konunun stratejik
+                    öneminin arttığını belirttiler</Text>
+                <BeginOffset>947</BeginOffset>
+                <EndOffset>1303</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Askeri kanadın</Text>
+                <BeginOffset>1435</BeginOffset>
+                <EndOffset>1449</EndOffset>
+            </Span>
+            <Span>
+                <Text>Avrupa&apos;nın son söylemlerine karşı
+                    &quot;Başbakan ve hükümet düzeyinde yanıt verilmesi
+                    gerekiyor&quot; mesajını verdiği belirtildi</Text>
+                <BeginOffset>1457</BeginOffset>
+                <EndOffset>1576</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="expansion: manner ?" sense="Expansion: manner" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>gibi</Text>
+                <BeginOffset>6286</BeginOffset>
+                <EndOffset>6290</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>de</Text>
+                <BeginOffset>6291</BeginOffset>
+                <EndOffset>6293</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>yaptı</Text>
+                <BeginOffset>6294</BeginOffset>
+                <EndOffset>6299</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>dediği</Text>
+                <BeginOffset>6279</BeginOffset>
+                <EndOffset>6285</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2>
+            <Span>
+                <Text>Sayın Bila bana, bu konuşmayla ilgili
+                    izlenimlerini köşesinde yazacağını ifade etti</Text>
+                <BeginOffset>6194</BeginOffset>
+                <EndOffset>6277</EndOffset>
+            </Span>
+        </Supp2>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="correction&lt;&gt;falsification"
+        sense="Comparison: Contrast: Correction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Halbuki</Text>
+                <BeginOffset>6149</BeginOffset>
+                <EndOffset>6156</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Virgülden sonra Tayyip Bey&apos;in de ismi gelince
+                    ikisi de aynı kefeye konmuş oluyor</Text>
+                <BeginOffset>6067</BeginOffset>
+                <EndOffset>6147</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bizim konuşmamız bu anlamda değildi</Text>
+                <BeginOffset>6157</BeginOffset>
+                <EndOffset>6192</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Ben siyasette belli yerleri amaçlayarak çalışmış
+                    bir insan değilim. Kadere inanıyorum. Ben bir hizmet
+                    insanıyım, söylerim, söylediğimin arkasından giderim
+                    ve bana neye mal olursa olsun ben bununla iftihar
+                    ederim. Ben Erbakan&apos;ın yanında onun
+                    yanlışlarına ortak olsaydım 40 defa bakan olurdum,
+                    50 defa genel başkan olurdum. Tayyip Erdoğan&apos;ın
+                    yanında, onun yanlışlarına ortak olsaydım kesinlikle
+                    bu noktalarda bulunmazdım. Benim arkamda bir iz
+                    kalırsa, ben siyasette ilkeli, kararlı, cesur işler
+                    yaparsam benim için en doğrusu odur</Text>
+                <BeginOffset>5199</BeginOffset>
+                <EndOffset>5727</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="condition" sense="Contingency: Condition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>2688</BeginOffset>
+                <EndOffset>2692</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ordunun konumu ve işlevinin değiştirilmesi gerektiği</Text>
+                <BeginOffset>2693</BeginOffset>
+                <EndOffset>2745</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Türkiye&apos;nin üye olabilmesi</Text>
+                <BeginOffset>2661</BeginOffset>
+                <EndOffset>2687</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose " sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>3618</BeginOffset>
+                <EndOffset>3622</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>diğer maddelerde değişiklik yapacaklarını</Text>
+                <BeginOffset>3623</BeginOffset>
+                <EndOffset>3664</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Anayasa&apos;nın 109. maddesinde değişiklik
+                    yapılmasına karşı çıkan Cumhurbaşkanı Ahmet Necdet
+                    Sezer ile sürtüşmemek</Text>
+                <BeginOffset>3506</BeginOffset>
+                <EndOffset>3617</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>15112</BeginOffset>
+                <EndOffset>15116</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>emekliliği gelenleri emekli etmeyi</Text>
+                <BeginOffset>15117</BeginOffset>
+                <EndOffset>15151</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kamuda rahatlama</Text>
+                <BeginOffset>15095</BeginOffset>
+                <EndOffset>15111</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>16408</BeginOffset>
+                <EndOffset>16412</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>elindeki 3 bin gayrimenkulü</Text>
+                <BeginOffset>16361</BeginOffset>
+                <EndOffset>16388</EndOffset>
+            </Span>
+            <Span>
+                <Text>her ay iki yada üç ihale ile satmaya çalışıyor</Text>
+                <BeginOffset>16413</BeginOffset>
+                <EndOffset>16459</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>piyasayı bozmamak</Text>
+                <BeginOffset>16390</BeginOffset>
+                <EndOffset>16407</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>BDDK</Text>
+                <BeginOffset>16355</BeginOffset>
+                <EndOffset>16359</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>4091</BeginOffset>
+                <EndOffset>4095</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>anlayış birliği var</Text>
+                <BeginOffset>4096</BeginOffset>
+                <EndOffset>4115</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Erdoğan&apos;a başbakanlık yolunun açılması</Text>
+                <BeginOffset>4052</BeginOffset>
+                <EndOffset>4090</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precedence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>önce</Text>
+                <BeginOffset>8883</BeginOffset>
+                <EndOffset>8887</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>destek turu için İstanbul İl Merkezi&apos;ni
+                    ziyaret etti</Text>
+                <BeginOffset>8888</BeginOffset>
+                <EndOffset>8940</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>genel başkanlığa adaylığını koymadan</Text>
+                <BeginOffset>8846</BeginOffset>
+                <EndOffset>8882</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Mehmet Ağar</Text>
+                <BeginOffset>8833</BeginOffset>
+                <EndOffset>8844</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precedence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>önce</Text>
+                <BeginOffset>12222</BeginOffset>
+                <EndOffset>12226</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>daha</Text>
+                <BeginOffset>12217</BeginOffset>
+                <EndOffset>12221</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>paketin 32&apos;ye düşürüldüğünü</Text>
+                <BeginOffset>12253</BeginOffset>
+                <EndOffset>12280</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>36 madde olarak açıklanan</Text>
+                <BeginOffset>12227</BeginOffset>
+                <EndOffset>12252</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>1249</BeginOffset>
+                <EndOffset>1254</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>özellikle</Text>
+                <BeginOffset>1213</BeginOffset>
+                <EndOffset>1222</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>konunun stratejik öneminin arttığını</Text>
+                <BeginOffset>1255</BeginOffset>
+                <EndOffset>1291</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>enerji yolları açıldıktan</Text>
+                <BeginOffset>1223</BeginOffset>
+                <EndOffset>1248</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Komutanlar Kıbrıs&apos;ta, Türkiye ve KKTC
+                    Türklerinin kazanımlarını geriletmeyecek bir çözüm
+                    gerektiğini belirttiler</Text>
+                <BeginOffset>947</BeginOffset>
+                <EndOffset>1059</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>7536</BeginOffset>
+                <EndOffset>7541</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>kısa bir süre</Text>
+                <BeginOffset>7522</BeginOffset>
+                <EndOffset>7535</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Tansu Çiller için gözyaşı döken</Text>
+                <BeginOffset>7466</BeginOffset>
+                <EndOffset>7497</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>DYP&apos;li Biriçim Küçük&apos;ün</Text>
+                <BeginOffset>7498</BeginOffset>
+                <EndOffset>7521</EndOffset>
+            </Span>
+            <Span>
+                <Text>başkan adayı Ağar&apos;a da kanı kaynadı</Text>
+                <BeginOffset>7542</BeginOffset>
+                <EndOffset>7577</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>7974</BeginOffset>
+                <EndOffset>7979</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>kısa süre</Text>
+                <BeginOffset>7964</BeginOffset>
+                <EndOffset>7973</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Tansu Çiller için gözyaşı döken</Text>
+                <BeginOffset>7912</BeginOffset>
+                <EndOffset>7943</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>DYP&apos;li bir kadının</Text>
+                <BeginOffset>7944</BeginOffset>
+                <EndOffset>7962</EndOffset>
+            </Span>
+            <Span>
+                <Text>DYP genel başkan adayı Mehmet Ağar&apos;a kanının
+                    kısa sürede kaynaması</Text>
+                <BeginOffset>7980</BeginOffset>
+                <EndOffset>8046</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>252</BeginOffset>
+                <EndOffset>254</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bazı sonuçlar çıkarıldığının</Text>
+                <BeginOffset>223</BeginOffset>
+                <EndOffset>251</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kuşku duyulduğunun</Text>
+                <BeginOffset>255</BeginOffset>
+                <EndOffset>273</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Bizim her söylemimiz ve davranışımızdan</Text>
+                <BeginOffset>183</BeginOffset>
+                <EndOffset>222</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>2928</BeginOffset>
+                <EndOffset>2930</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>AB&apos;nin Türkiye&apos;den taleplerinin sonunun gelmediğini</Text>
+                <BeginOffset>2876</BeginOffset>
+                <EndOffset>2927</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>işin yokuşa sürüldüğünü</Text>
+                <BeginOffset>2931</BeginOffset>
+                <EndOffset>2954</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>5354</BeginOffset>
+                <EndOffset>5356</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>söylediğimin arkasından giderim</Text>
+                <BeginOffset>5322</BeginOffset>
+                <EndOffset>5353</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bana neye mal olursa olsun ben bununla iftihar ederim</Text>
+                <BeginOffset>5357</BeginOffset>
+                <EndOffset>5410</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precedence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>8986</BeginOffset>
+                <EndOffset>8988</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bu kez gülen yüzüyle Ağar&apos;a yaklaştı</Text>
+                <BeginOffset>8949</BeginOffset>
+                <EndOffset>8985</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>&quot;Sonuna kadar yanınızdayız&quot; mesajını iletti</Text>
+                <BeginOffset>8989</BeginOffset>
+                <EndOffset>9032</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Küçük</Text>
+                <BeginOffset>8942</BeginOffset>
+                <EndOffset>8947</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>11357</BeginOffset>
+                <EndOffset>11359</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>AKP&apos;nin tek başına iktidara gelmesi</Text>
+                <BeginOffset>11321</BeginOffset>
+                <EndOffset>11356</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Türkiye&apos;nin yoksulluğunun önüne geçilmesi</Text>
+                <BeginOffset>11360</BeginOffset>
+                <EndOffset>11401</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>12450</BeginOffset>
+                <EndOffset>12452</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>YÖK&apos;ün itiraz ettiği</Text>
+                <BeginOffset>12429</BeginOffset>
+                <EndOffset>12449</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>türbanlı öğrencilerin üniversiteye dönüşünü sağlayacak</Text>
+                <BeginOffset>12453</BeginOffset>
+                <EndOffset>12507</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>16722</BeginOffset>
+                <EndOffset>16724</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Dün ayrıntıları Milliyet&apos;te yayınlanan</Text>
+                <BeginOffset>16683</BeginOffset>
+                <EndOffset>16721</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>BDDK tarafından da internet sitesine konulan</Text>
+                <BeginOffset>16725</BeginOffset>
+                <EndOffset>16769</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>16959</BeginOffset>
+                <EndOffset>16961</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>fon bünyesine geçen 3 bin 367 adet gayrimenkulden
+                    359 tanesinin satıldığını</Text>
+                <BeginOffset>16883</BeginOffset>
+                <EndOffset>16958</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>93 milyon dolar gelir elde edildiğini</Text>
+                <BeginOffset>16962</BeginOffset>
+                <EndOffset>16999</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

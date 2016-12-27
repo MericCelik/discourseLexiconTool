@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>amacıyla</Text>
+                <BeginOffset>13358</BeginOffset>
+                <EndOffset>13366</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>yazdığı</Text>
+                <BeginOffset>13367</BeginOffset>
+                <EndOffset>13374</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bihruz Bey&apos;in saçmalıklarını sergilemek</Text>
+                <BeginOffset>13318</BeginOffset>
+                <EndOffset>13357</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>beraber</Text>
+                <BeginOffset>8652</BeginOffset>
+                <EndOffset>8659</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>görmek</Text>
+                <BeginOffset>8660</BeginOffset>
+                <EndOffset>8666</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>görünmekle</Text>
+                <BeginOffset>8641</BeginOffset>
+                <EndOffset>8651</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Dahası</Text>
+                <BeginOffset>7101</BeginOffset>
+                <EndOffset>7107</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Araba Sevdası&apos;nda hiçbir gerçekliğe gönderme
+                    yapmayan, parodist bir dil kullanılır</Text>
+                <BeginOffset>7017</BeginOffset>
+                <EndOffset>7099</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>romanda kullanılan diller kimseye ait değildir;
+                    kimse ne kendi kullandığı dili, ne de başkalarının
+                    kullandığı dili anlar</Text>
+                <BeginOffset>7109</BeginOffset>
+                <EndOffset>7229</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="manner" sense="Expansion: Manner" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>gibi</Text>
+                <BeginOffset>10153</BeginOffset>
+                <EndOffset>10157</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bihruz Bey de servetini yemekle bitmez tükenmez zannederdi</Text>
+                <BeginOffset>10158</BeginOffset>
+                <EndOffset>10216</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Alelûlum mirasyedilerin düşündüğü</Text>
+                <BeginOffset>10119</BeginOffset>
+                <EndOffset>10152</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>halde</Text>
+                <BeginOffset>14138</BeginOffset>
+                <EndOffset>14143</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>arkasına dönüp görüyor ki, (Madam Piyer) olması
+                    lazımgelen bir ihtiyar madam hayvanın kuyruğuna
+                    yapışmış geri geri çekip duruyor</Text>
+                <BeginOffset>14144</BeginOffset>
+                <EndOffset>14272</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu halden fevkalade müteezzi olduğu</Text>
+                <BeginOffset>14102</BeginOffset>
+                <EndOffset>14137</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>atı kırbaçlıyor, sürüyor, koşturuyor, tamam
+                    landoya yetişeceği vakit hayvan geri geri gitmeye başlıyor</Text>
+                <BeginOffset>13987</BeginOffset>
+                <EndOffset>14089</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Bihruz Bey</Text>
+                <BeginOffset>14091</BeginOffset>
+                <EndOffset>14101</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>halde</Text>
+                <BeginOffset>14458</BeginOffset>
+                <EndOffset>14463</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>birdenbire meydana çıkıyor</Text>
+                <BeginOffset>14464</BeginOffset>
+                <EndOffset>14490</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>etekleri yerlere sürünür derecede uzun bir rop dö
+                    şambr giymiş, başında rengâmiz tüylerle müzeyyen bir
+                    kadın şapkası, iki koltuğunda da birer bordo şişesi olduğu</Text>
+                <BeginOffset>14296</BeginOffset>
+                <EndOffset>14457</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2>
+            <Span>
+                <Text>&quot;Kes köse kö lamur? Se tön tambur! se tön
+                    tambur... me mon şer kavaliye! javü anfen kö lö bo
+                    seks vo miyö kün lapen!&quot; diye haykırıp
+                    sıçradıkça lândoyu deviriyorlar</Text>
+                <BeginOffset>14492</BeginOffset>
+                <EndOffset>14655</EndOffset>
+            </Span>
+        </Supp2>
+        <Shared>
+            <Span>
+                <Text>Mösyö Piyer</Text>
+                <BeginOffset>14284</BeginOffset>
+                <EndOffset>14295</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>içindir</Text>
+                <BeginOffset>7533</BeginOffset>
+                <EndOffset>7540</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bihruz Bey&apos;in kendi kullandığı dili anlamak
+                    için Fransızca ve İngilizce sözcüklere başvurması;
+                    gene kendi kullanacağı bir sözcüğün, Osmanlıca
+                    yazılışını bilmediği için, sözlükten anlamını bulamaması</Text>
+                <BeginOffset>7295</BeginOffset>
+                <EndOffset>7493</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>elbette Bihruzvari cehaleti hicvetmek</Text>
+                <BeginOffset>7495</BeginOffset>
+                <EndOffset>7532</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precedence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>önce</Text>
+                <BeginOffset>6514</BeginOffset>
+                <EndOffset>6518</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bu kırmızı şemsiyeye &quot;pardon&quot; diyerek</Text>
+                <BeginOffset>6519</BeginOffset>
+                <EndOffset>6556</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kenara çekilmeden</Text>
+                <BeginOffset>6496</BeginOffset>
+                <EndOffset>6513</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="opposition" sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Oysa</Text>
+                <BeginOffset>3214</BeginOffset>
+                <EndOffset>3218</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Arabanın satılmasına &quot;yazık&quot; diye
+                    hayıflanan Periveş Hanım&apos;a, bu ulaşılmaz
+                    sevgiliye, Bihruz Bey&apos;in &quot;pardon&quot;dan
+                    başka diyecek sözü kalmamıştır</Text>
+                <BeginOffset>3070</BeginOffset>
+                <EndOffset>3212</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bihruz, roman boyunca söyleyecek ne sözler aramış,
+                    bulmuş ve yazmıştı</Text>
+                <BeginOffset>3219</BeginOffset>
+                <EndOffset>3288</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="opposition" sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Oysa</Text>
+                <BeginOffset>3516</BeginOffset>
+                <EndOffset>3520</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İntibah ve Araba Sevdası&apos;nın başındaki
+                    Çamlıca tasvirleri çok kişinin dikkatini çekmiş</Text>
+                <BeginOffset>3349</BeginOffset>
+                <EndOffset>3435</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>asıl dikkat çekmesi gereken faklılık şudur</Text>
+                <BeginOffset>3521</BeginOffset>
+                <EndOffset>3563</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2>
+            <Span>
+                <Text>Araba Sevdası&apos;nın Çamlıca&apos;sı yitik bir Çamlıca&apos;dır</Text>
+                <BeginOffset>3565</BeginOffset>
+                <EndOffset>3615</EndOffset>
+            </Span>
+        </Supp2>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>9574</BeginOffset>
+                <EndOffset>9579</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>zaten beğenmediği Arapça ve Farsça hocalarını
+                    gönderir, alacağı parayı düşünerek bir dediğini iki
+                    etmeyen Fransızca hocası M. Piyer&apos;i tutar</Text>
+                <BeginOffset>9580</BeginOffset>
+                <EndOffset>9719</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Babası öldükten</Text>
+                <BeginOffset>9558</BeginOffset>
+                <EndOffset>9573</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>9848</BeginOffset>
+                <EndOffset>9853</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>sanki bu kurgunun geleneksel trajik sonuyla
+                    yetinmeyerek romanını başka sonuçları incelemek
+                    üzere geliştirir</Text>
+                <BeginOffset>9855</BeginOffset>
+                <EndOffset>9963</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kendisinden önceki Tanzimat romanlarında, romanın
+                    bütününü oluşturmuş bir kurguyu bir paragrafta özetledikten</Text>
+                <BeginOffset>9738</BeginOffset>
+                <EndOffset>9847</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Recaizade Ekrem</Text>
+                <BeginOffset>9721</BeginOffset>
+                <EndOffset>9736</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precedence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Bundan sonra</Text>
+                <BeginOffset>13041</BeginOffset>
+                <EndOffset>13053</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yakaladığı bu fırsatı Recaizade Ekrem sonuna dek
+                    kullanacak ve Bihruz Bey&apos;in kafa karışıklığını,
+                    diline yansıdığı haliyle bir türlü oluşamayan
+                    bilincini ve kişiliğini, yanılgıların hiçlediği
+                    yaşamının gerçekte kendi oluşamayan kişiliğinin bir
+                    sonucu olduğunu okura &quot;dil&quot; yoluyla iletecektir</Text>
+                <BeginOffset>12594</BeginOffset>
+                <EndOffset>12884</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>romanda kullanılan dil, romanın ana izleği olan
+                    hiçliğe koşut gidecek ve her aşamada hiçlenen Bihruz
+                    Bey gene durmaksızırı kendini hiçleyen bir dille anlatılacaktır</Text>
+                <BeginOffset>13054</BeginOffset>
+                <EndOffset>13218</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Daha ilk aşamada anlatı dilini Bihruz Bey&apos;in
+                    diliyle özdeşleştirince de bulunmaz bir fırsat
+                    yakalar: Yalnızca bir alafranga züppe tipi yaratma
+                    değil, oluşamayan bir dil, giderek oluşamayan bir
+                    bilinç sergileme fırsatını</Text>
+                <BeginOffset>12373</BeginOffset>
+                <EndOffset>12592</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>521</BeginOffset>
+                <EndOffset>523</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>karşıt epistemolojilerin buluşma noktasındaki
+                    boşluğu görür</Text>
+                <BeginOffset>461</BeginOffset>
+                <EndOffset>520</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu boşlukta hiçbir gerçekliğin
+                    tanımlanamayacağından ürker</Text>
+                <BeginOffset>524</BeginOffset>
+                <EndOffset>582</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>1450</BeginOffset>
+                <EndOffset>1452</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çağının bilinç kargaşasına bu bilincin dışından,
+                    alternatif bir bilinçle bakabilen, çağını seyredebilen</Text>
+                <BeginOffset>1345</BeginOffset>
+                <EndOffset>1448</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu irdeleyici bakışı kendine de yöneltebilen</Text>
+                <BeginOffset>1453</BeginOffset>
+                <EndOffset>1497</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>3277</BeginOffset>
+                <EndOffset>3279</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>aramış, bulmuş</Text>
+                <BeginOffset>3262</BeginOffset>
+                <EndOffset>3276</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yazmıştı</Text>
+                <BeginOffset>3280</BeginOffset>
+                <EndOffset>3288</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Bihruz, roman boyunca söyleyecek ne sözler</Text>
+                <BeginOffset>3219</BeginOffset>
+                <EndOffset>3261</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>4906</BeginOffset>
+                <EndOffset>4908</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çamlıca, Bulgurlu, Kısıklı, Bağlarbaşı&apos;nda
+                    yazlık köşkler alıp taşınırlar</Text>
+                <BeginOffset>4832</BeginOffset>
+                <EndOffset>4905</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>şık arabalarıyla yaptıkları gezintilerle Çamlıca
+                    bahçesini şenlendirirlermiş</Text>
+                <BeginOffset>4909</BeginOffset>
+                <EndOffset>4985</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>5552</BeginOffset>
+                <EndOffset>5554</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ihtizaza gelirler</Text>
+                <BeginOffset>5534</BeginOffset>
+                <EndOffset>5551</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>şevk ve ümide dair güft-ü şinide başlarlar idi</Text>
+                <BeginOffset>5555</BeginOffset>
+                <EndOffset>5601</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>11122</BeginOffset>
+                <EndOffset>11124</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Mart gelir gelmez validesini zorlaya zorlaya
+                    sayfiyeye nakle ırza etmiş</Text>
+                <BeginOffset>11050</BeginOffset>
+                <EndOffset>11121</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text> köşke nakillerinin ertesi günü hemen jarden
+                    püblik&apos;e şitap ile dahil ve haricini muayene
+                    ederek buranın pek alamod ve hususiyle kendi arzusu
+                    veçhile arz-ı ziynete pek favurabl bir promenad
+                    mahalli olacağını anlayınca ekipaj&apos;ına biraz
+                    daha süs vermek için Beyoğlu&apos;nda tedarik ettiği
+                    bazı vesaitle (Bender) fabrikası mamulâtından olmak
+                    üzere gayet hafif ve zarif bir araba ile
+                    mevcutlarına nisbeten ikişer parmak daha boylu bir
+                    çift muallem macar araba hayvanı ısmarlamış idi</Text>
+                <BeginOffset>11124</BeginOffset>
+                <EndOffset>11598</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Çamlıca bahçe-i umumîsinin açılacağını civariyet
+                    münasebetiyle bittabi herkesten evvel haber alan
+                    Bihruz Bey</Text>
+                <BeginOffset>10941</BeginOffset>
+                <EndOffset>11049</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>12654</BeginOffset>
+                <EndOffset>12656</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yakaladığı bu fırsatı</Text>
+                <BeginOffset>12594</BeginOffset>
+                <EndOffset>12615</EndOffset>
+            </Span>
+            <Span>
+                <Text>sonuna dek kullanacak</Text>
+                <BeginOffset>12632</BeginOffset>
+                <EndOffset>12653</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bihruz Bey&apos;in kafa karışıklığını, diline
+                    yansıdığı haliyle bir türlü oluşamayan bilincini ve
+                    kişiliğini, yanılgıların hiçlediği yaşamının
+                    gerçekte kendi oluşamayan kişiliğinin bir sonucu
+                    olduğunu okura &quot;dil&quot; yoluyla iletecektir</Text>
+                <BeginOffset>12657</BeginOffset>
+                <EndOffset>12884</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Daha ilk aşamada anlatı dilini Bihruz Bey&apos;in
+                    diliyle özdeşleştirince de bulunmaz bir fırsat
+                    yakalar: Yalnızca bir alafranga züppe tipi yaratma
+                    değil, oluşamayan bir dil, giderek oluşamayan bir
+                    bilinç sergileme fırsatını</Text>
+                <BeginOffset>12373</BeginOffset>
+                <EndOffset>12592</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Recaizade Ekrem</Text>
+                <BeginOffset>12616</BeginOffset>
+                <EndOffset>12631</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>13124</BeginOffset>
+                <EndOffset>13126</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>romanda kullanılan dil, romanın ana izleği olan
+                    hiçliğe koşut gidecek</Text>
+                <BeginOffset>13054</BeginOffset>
+                <EndOffset>13123</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>her aşamada hiçlenen Bihruz Bey gene durmaksızırı
+                    kendini hiçleyen bir dille anlatılacaktır</Text>
+                <BeginOffset>13127</BeginOffset>
+                <EndOffset>13218</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>14785</BeginOffset>
+                <EndOffset>14787</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>beyin altından sıyrılıp</Text>
+                <BeginOffset>14761</BeginOffset>
+                <EndOffset>14784</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>büyük bir atmaca gibi havalanıp</Text>
+                <BeginOffset>14788</BeginOffset>
+                <EndOffset>14819</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Bihruz Beyin yağız atı</Text>
+                <BeginOffset>14738</BeginOffset>
+                <EndOffset>14760</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>7588</BeginOffset>
+                <EndOffset>7590</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bu cehaletin hep &quot;anlam&quot;da ortaya çıkması</Text>
+                <BeginOffset>7546</BeginOffset>
+                <EndOffset>7587</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bihruz Bey&apos;in yaptığı, söylediği, giderek
+                    yaşadığı her şeyi bir anlamsızlıklar yumağına çevirmesi</Text>
+                <BeginOffset>7591</BeginOffset>
+                <EndOffset>7688</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Bihruz Bey&apos;in kendi kullandığı dili anlamak
+                    için Fransızca ve İngilizce sözcüklere başvurması;
+                    gene kendi kullanacağı bir sözcüğün, Osmanlıca
+                    yazılışını bilmediği için, sözlükten anlamını
+                    bulamaması, elbette Bihruzvari cehaleti hicvetmek içindir</Text>
+                <BeginOffset>7295</BeginOffset>
+                <EndOffset>7540</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>10025</BeginOffset>
+                <EndOffset>10027</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>yetim kalışı, tahsilini yarım bırakışı</Text>
+                <BeginOffset>9985</BeginOffset>
+                <EndOffset>10023</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>sefahata dalarak servetini tüketişi</Text>
+                <BeginOffset>10028</BeginOffset>
+                <EndOffset>10063</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Bihruz Bey&apos;in</Text>
+                <BeginOffset>9971</BeginOffset>
+                <EndOffset>9984</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="contra-expectation"
+        sense="Comparison: Concession: contra-expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Yalnız</Text>
+                <BeginOffset>2061</BeginOffset>
+                <EndOffset>2067</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Recaizade Ekrem, Araba Sevdası&apos;nda kendi
+                    yazdığını sürekli hiçlerken çağının ve edebî
+                    geleneğin diğer metinlerine de sürekli göndermeler yapar</Text>
+                <BeginOffset>1791</BeginOffset>
+                <EndOffset>1933</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bütün bu göndermeler içinde, roman kendi kendini
+                    de hiçler</Text>
+                <BeginOffset>2068</BeginOffset>
+                <EndOffset>2126</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

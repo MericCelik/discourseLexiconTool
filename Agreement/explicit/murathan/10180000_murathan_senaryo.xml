@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="opposition" sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ancak</Text>
+                <BeginOffset>682</BeginOffset>
+                <EndOffset>687</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İstanbul Büyükşehir
+                    Belediyesi&apos;nin kentin birçok noktasında sürdürdüğü</Text>
+                <BeginOffset>595</BeginOffset>
+                <EndOffset>681</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bir türlü                 tamamlanamayan</Text>
+                <BeginOffset>688</BeginOffset>
+                <EndOffset>728</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="opposition ??"
+        sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ancak</Text>
+                <BeginOffset>989</BeginOffset>
+                <EndOffset>994</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İSKİ ve itfaiye ekipleri, özellikle tıkalı
+                    mazgalları açmak için seferber                 oldu</Text>
+                <BeginOffset>893</BeginOffset>
+                <EndOffset>987</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yollarda göletler oluştu</Text>
+                <BeginOffset>1004</BeginOffset>
+                <EndOffset>1028</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="opposition" sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ancak</Text>
+                <BeginOffset>7745</BeginOffset>
+                <EndOffset>7750</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Avrupa Birliği ülkelerinde sorumluluk
+                    sigortasının uygulandığını</Text>
+                <BeginOffset>7663</BeginOffset>
+                <EndOffset>7743</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ülkelere göre farklılık gösterdiğini</Text>
+                <BeginOffset>7751</BeginOffset>
+                <EndOffset>7787</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ayrıca</Text>
+                <BeginOffset>13052</BeginOffset>
+                <EndOffset>13058</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Prof. Dr. Cevat Celep, bu araştırmayı, hiç
+                    değilse, yeni okulundaki                 öğrenciler
+                    üzerinde de gerçekleştirdikten sonra, sonuçları
+                    basına verme                 inceliğinde bulunsaydı,
+                    toplanan veriler, ulaşılan yargılar (yorumlar)
+                    açısından, söz konusu araştırmanın geçerlilik ve
+                    güvenirliliği, kuşkusuz                 daha bir
+                    yüksek olurdu</Text>
+                <BeginOffset>12680</BeginOffset>
+                <EndOffset>13050</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kamuoyu da TÜEF konusunda yanılgıya                 düşürülmezdi</Text>
+                <BeginOffset>13059</BeginOffset>
+                <EndOffset>13123</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ayrıca</Text>
+                <BeginOffset>11447</BeginOffset>
+                <EndOffset>11453</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Belli bir konuya ya da nesneye yönelik tutum,
+                    alışkanlık, eğilim, yaklaşım                 ya da
+                    dünya görüşü gibi özellikleri kapsayan, eğitimbilim
+                    açısından,                 &apos;&apos;duyuşsal
+                    davranışlar&apos;&apos; denen insan niteliklerinin
+                    çok uzun bir zaman                 diliminde
+                    oluşturulabileceğini ya da değiştirilebileceğini
+                    bilimsel                 kaynaklar açıklıkla ortaya koymaktadır</Text>
+                <BeginOffset>11056</BeginOffset>
+                <EndOffset>11441</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>duyuşsal davranışların                 oluşumunda,
+                    bireyleri okuldan çok okul-dışı çevrenin etkilediği
+                    de göz                 ardı edilmemesi gereken bir gerçektir</Text>
+                <BeginOffset>11455</BeginOffset>
+                <EndOffset>11618</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ayrıca</Text>
+                <BeginOffset>4802</BeginOffset>
+                <EndOffset>4808</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>köprünün açılıp-kapatılmamasından dolayı
+                    üyelerinin iş kaybına uğradığı</Text>
+                <BeginOffset>4675</BeginOffset>
+                <EndOffset>4746</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>köprünün &apos;&apos;sağlam                 olduğu
+                    halde müşavir firma tarafından geciktirildiği</Text>
+                <BeginOffset>4817</BeginOffset>
+                <EndOffset>4903</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Temporal" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>bu yana</Text>
+                <BeginOffset>14903</BeginOffset>
+                <EndOffset>14910</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>çağdaş                 Türkiye
+                    Cumhuriyeti&apos;nin üçüncü sacayağı olduğumuzu</Text>
+                <BeginOffset>14912</BeginOffset>
+                <EndOffset>14985</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kuruluşundan</Text>
+                <BeginOffset>14890</BeginOffset>
+                <EndOffset>14902</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>dolayı</Text>
+                <BeginOffset>2623</BeginOffset>
+                <EndOffset>2629</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>üyelerinin iş kaybına                 uğradığını</Text>
+                <BeginOffset>2630</BeginOffset>
+                <EndOffset>2678</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yeni Galata Köprüsü&apos;nün açılamamasından</Text>
+                <BeginOffset>2583</BeginOffset>
+                <EndOffset>2622</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>dolayı</Text>
+                <BeginOffset>4709</BeginOffset>
+                <EndOffset>4715</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>üyelerinin iş kaybına uğradığı</Text>
+                <BeginOffset>4716</BeginOffset>
+                <EndOffset>4746</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>köprünün açılıp-kapatılmamasından</Text>
+                <BeginOffset>4675</BeginOffset>
+                <EndOffset>4708</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="contra-expectation"
+        sense="Comparison: Concession: contra-expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>halde</Text>
+                <BeginOffset>4858</BeginOffset>
+                <EndOffset>4863</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>müşavir firma tarafından geciktirildiği</Text>
+                <BeginOffset>4864</BeginOffset>
+                <EndOffset>4903</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>sağlam                 olduğu</Text>
+                <BeginOffset>4828</BeginOffset>
+                <EndOffset>4857</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>köprünün</Text>
+                <BeginOffset>4817</BeginOffset>
+                <EndOffset>4825</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Temporal" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>iken</Text>
+                <BeginOffset>6074</BeginOffset>
+                <EndOffset>6078</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>normal trafik akışı sırasında
+                    köprüde tehlikeli bir durumun olmadığı</Text>
+                <BeginOffset>6080</BeginOffset>
+                <EndOffset>6164</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kanatları kapalı durumda</Text>
+                <BeginOffset>6049</BeginOffset>
+                <EndOffset>6073</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="expectation"
+        sense="Comparison: Concession: expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>karşın</Text>
+                <BeginOffset>8433</BeginOffset>
+                <EndOffset>8439</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bir dizi istenmeyen duruma da yol açabileceğine</Text>
+                <BeginOffset>8441</BeginOffset>
+                <EndOffset>8488</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yasayla                 zorunlu kılınmak istenen
+                    sorumluluk sigortasının olumlu yanları olmasına</Text>
+                <BeginOffset>8320</BeginOffset>
+                <EndOffset>8416</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>2098</BeginOffset>
+                <EndOffset>2108</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sağanak, Narlıdere Şehitlik Kavşağı, Konak
+                    Mithatpaşa                 Caddesi, Güzelyalı,
+                    Karabağlar ve Çınarlı&apos;da yollarda su
+                    birikintisine yol                 açtı</Text>
+                <BeginOffset>1931</BeginOffset>
+                <EndOffset>2096</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>trafikte sorun yaşanırken bazı araçlar yolda kaldı</Text>
+                <BeginOffset>2109</BeginOffset>
+                <EndOffset>2159</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>bu nedenle</Text>
+                <BeginOffset>10160</BeginOffset>
+                <EndOffset>10170</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>de</Text>
+                <BeginOffset>10171</BeginOffset>
+                <EndOffset>10173</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Laik,                 demokratik, bağımsız
+                    cumhuriyetten yana savaşım veren, ilkeli, dürüst
+                    yayıncılığını bugüne dek sürdüren, bilimsel,
+                    kültürel, eğitsel, sanatsal                 içerikli
+                    yazılara ağırlık tanıyan</Text>
+                <BeginOffset>9928</BeginOffset>
+                <EndOffset>10158</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bilgi ve kültür kaynağı                 olan</Text>
+                <BeginOffset>10174</BeginOffset>
+                <EndOffset>10218</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precedence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>önce</Text>
+                <BeginOffset>4450</BeginOffset>
+                <EndOffset>4454</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>yeni Galata Köprüsü&apos;nü yapan
+                    konsorsiyumda yer alan</Text>
+                <BeginOffset>4455</BeginOffset>
+                <EndOffset>4522</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yaklaşık bir yıl önce satılmadan</Text>
+                <BeginOffset>4417</BeginOffset>
+                <EndOffset>4449</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="?" sense="" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>önce</Text>
+                <BeginOffset>17690</BeginOffset>
+                <EndOffset>17694</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>daha</Text>
+                <BeginOffset>17685</BeginOffset>
+                <EndOffset>17689</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Cumhurbaşkanı Sezer</Text>
+                <BeginOffset>17664</BeginOffset>
+                <EndOffset>17683</EndOffset>
+            </Span>
+            <Span>
+                <Text>düzenlemeyi 31                 Aralık&apos;ta onayladı</Text>
+                <BeginOffset>17707</BeginOffset>
+                <EndOffset>17756</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>veto ettiği</Text>
+                <BeginOffset>17695</BeginOffset>
+                <EndOffset>17706</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="??"
+        sense="Comparison: Concession: contra-expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Oysa</Text>
+                <BeginOffset>5306</BeginOffset>
+                <EndOffset>5310</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Özel bir şirketin gerçekleştirdiği tespitin sonucu
+                    henüz                 açıklanmadı</Text>
+                <BeginOffset>5204</BeginOffset>
+                <EndOffset>5288</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İTÜ Ar-Ge İşletmesi&apos;nden profesör doktorlar
+                    Haluk Karadoğan, Tuncer                 Toprak,
+                    Faruk Karadoğan, Erdoğan Uzgider , Yard. Doç. Dr.
+                    Ercan Yüksel ,                 Dr. Müh. Hatice Tokan
+                    , araştırma görevlileri Dr. Ergün Bozdağ , Dr. Özden
+                    Çağlayan ve Emin Sünbüloğlu &apos;ndan oluşan uzman
+                    heyetin Eylül 2001 tarihli                 raporuna
+                    &apos;&apos;ek cilt&apos;&apos; olarak
+                    hazırladıkları, Mayıs 2002 tarihli raporda da
+                    köprüdeki titreşimin giderilememesinin hâlâ ciddi
+                    risk oluşturduğu                 vurgulamıştı</Text>
+                <BeginOffset>5312</BeginOffset>
+                <EndOffset>5851</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="??" sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Oysa</Text>
+                <BeginOffset>13410</BeginOffset>
+                <EndOffset>13414</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Anket TÜEF&apos;in yalnızca sınıf öğretmenliği
+                    bölümü öğrencilerine                 uygulanmıştır</Text>
+                <BeginOffset>13316</BeginOffset>
+                <EndOffset>13408</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>okulumuzda 4 bölüm daha vardır</Text>
+                <BeginOffset>13416</BeginOffset>
+                <EndOffset>13446</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>12806</BeginOffset>
+                <EndOffset>12811</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>sonuçları basına verme                 inceliğinde bulunsaydı</Text>
+                <BeginOffset>12813</BeginOffset>
+                <EndOffset>12874</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu araştırmayı, hiç değilse, yeni okulundaki
+                    öğrenciler üzerinde de gerçekleştirdikten</Text>
+                <BeginOffset>12703</BeginOffset>
+                <EndOffset>12805</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2>
+            <Span>
+                <Text>Ülkemizde yaklaşık 60 eğitim fakültesi vardır;
+                    yalnızca birinde yapılan bir araştırmanın
+                    sonuçlarının tüm öğretmen                 adaylarına
+                    genellenmesi ne derece sağlıklı bir yaklaşımdır</Text>
+                <BeginOffset>12347</BeginOffset>
+                <EndOffset>12552</EndOffset>
+            </Span>
+        </Supp2>
+        <Shared>
+            <Span>
+                <Text>Kısa bir süre                 önce TÜEF&apos;den
+                    ayrılıp şu anda bir başka eğitim fakültesinde görev
+                    yapmakta                 olan Prof. Dr. Cevat Celep</Text>
+                <BeginOffset>12554</BeginOffset>
+                <EndOffset>12701</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction result" sense="Multiple-Sense" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>1889</BeginOffset>
+                <EndOffset>1891</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İzmir&apos;in çeşitli semtlerinde logarlar tıkandı</Text>
+                <BeginOffset>1843</BeginOffset>
+                <EndOffset>1888</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>su                 baskınları yaşandı</Text>
+                <BeginOffset>1892</BeginOffset>
+                <EndOffset>1929</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>3406</BeginOffset>
+                <EndOffset>3408</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Raporda yer alan</Text>
+                <BeginOffset>3389</BeginOffset>
+                <EndOffset>3405</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>çeşitli platformlarda dile getirilen</Text>
+                <BeginOffset>3409</BeginOffset>
+                <EndOffset>3445</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction result" sense="Multiple-Sense" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>3509</BeginOffset>
+                <EndOffset>3511</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>açma-kapama sırasında risk taşıdığı</Text>
+                <BeginOffset>3473</BeginOffset>
+                <EndOffset>3508</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>tehlikeli olduğu</Text>
+                <BeginOffset>3512</BeginOffset>
+                <EndOffset>3528</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>7206</BeginOffset>
+                <EndOffset>7208</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>özel sağlık kuruluşlarının yabancı hastaları kabul
+                    edebilmek üzere                 başlattığı</Text>
+                <BeginOffset>7112</BeginOffset>
+                <EndOffset>7205</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yasalaştığında zorunlu hale gelecek</Text>
+                <BeginOffset>7209</BeginOffset>
+                <EndOffset>7244</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>8559</BeginOffset>
+                <EndOffset>8561</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>primlerin çalışanlardan kesilmesi</Text>
+                <BeginOffset>8525</BeginOffset>
+                <EndOffset>8558</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kamu kurumlarında, yalnız                 sağlık
+                    personelinin sorumlu tutularak kurumların sorumluluk
+                    dışı                 bırakılmasını</Text>
+                <BeginOffset>8562</BeginOffset>
+                <EndOffset>8698</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>17234</BeginOffset>
+                <EndOffset>17236</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>şubat ayında 59. hükümet kurulacak</Text>
+                <BeginOffset>17199</BeginOffset>
+                <EndOffset>17233</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Erdoğan başbakan olacak</Text>
+                <BeginOffset>17253</BeginOffset>
+                <EndOffset>17276</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>5048</BeginOffset>
+                <EndOffset>5050</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>aylarca süren</Text>
+                <BeginOffset>5034</BeginOffset>
+                <EndOffset>5047</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İTÜ Ar-Ge                 İşletmesi&apos;nin</Text>
+                <BeginOffset>4994</BeginOffset>
+                <EndOffset>5033</EndOffset>
+            </Span>
+            <Span>
+                <Text>uluslararası standartlara uygun tahkik ve
+                    deneylerle saptadığı</Text>
+                <BeginOffset>5051</BeginOffset>
+                <EndOffset>5129</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="disjunctive"
+        sense="Expansion: Alternative: disjunctive" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ya da</Text>
+                <BeginOffset>6791</BeginOffset>
+                <EndOffset>6796</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>sigorta yaptıran</Text>
+                <BeginOffset>6774</BeginOffset>
+                <EndOffset>6790</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>çalıştığı kurum tarafından sigorta
+                    yaptırması istenen</Text>
+                <BeginOffset>6797</BeginOffset>
+                <EndOffset>6866</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="disjunctive"
+        sense="Expansion: Alternative: disjunctive" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ya da</Text>
+                <BeginOffset>11350</BeginOffset>
+                <EndOffset>11355</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>oluşturulabileceğini</Text>
+                <BeginOffset>11329</BeginOffset>
+                <EndOffset>11349</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>değiştirilebileceğini</Text>
+                <BeginOffset>11356</BeginOffset>
+                <EndOffset>11377</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>&apos;&apos;duyuşsal davranışlar&apos;&apos; denen
+                    insan niteliklerinin çok uzun bir zaman                 diliminde</Text>
+                <BeginOffset>11232</BeginOffset>
+                <EndOffset>11328</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+</Document>

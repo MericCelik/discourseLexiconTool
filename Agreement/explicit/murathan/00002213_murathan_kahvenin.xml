@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<Relation note="expansion" sense="Expansion" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>gibi</Text>
+                <BeginOffset>9445</BeginOffset>
+                <EndOffset>9449</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>anlattın</Text>
+                <BeginOffset>9450</BeginOffset>
+                <EndOffset>9458</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kimsenin anlatamayacağı</Text>
+                <BeginOffset>9421</BeginOffset>
+                <EndOffset>9444</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Tutkuyu</Text>
+                <BeginOffset>9413</BeginOffset>
+                <EndOffset>9420</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Expansion" sense="Expansion" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>gibi</Text>
+                <BeginOffset>3613</BeginOffset>
+                <EndOffset>3617</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu heyecana</Text>
+                <BeginOffset>3562</BeginOffset>
+                <EndOffset>3573</EndOffset>
+            </Span>
+            <Span>
+                <Text>alışır</Text>
+                <BeginOffset>3618</BeginOffset>
+                <EndOffset>3624</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>afyona</Text>
+                <BeginOffset>3575</BeginOffset>
+                <EndOffset>3581</EndOffset>
+            </Span>
+            <Span>
+                <Text>eroine alışır</Text>
+                <BeginOffset>3599</BeginOffset>
+                <EndOffset>3612</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>O, her an gelecek gibidir; her an. Bırakamazsınız
+                    o parkı</Text>
+                <BeginOffset>3503</BeginOffset>
+                <EndOffset>3560</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>insan</Text>
+                <BeginOffset>3625</BeginOffset>
+                <EndOffset>3630</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification" sense="Expansion: Restatement: specification" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>hem</Text>
+                <BeginOffset>13358</BeginOffset>
+                <EndOffset>13361</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>de</Text>
+                <BeginOffset>13362</BeginOffset>
+                <EndOffset>13364</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Söyledi bana bunları</Text>
+                <BeginOffset>13284</BeginOffset>
+                <EndOffset>13304</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bir gece zamanı, yataktayken söyledi</Text>
+                <BeginOffset>13321</BeginOffset>
+                <EndOffset>13357</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>O kadar iyisin ki özgürlüğüm kısıtlanıyor,
+                    istediğim gibi davranamıyorum. Seni üzmekten
+                    korkuyorum. Bu ilişkiyi bitirelim, böyle yürütemeyeceğim</Text>
+                <BeginOffset>13369</BeginOffset>
+                <EndOffset>13513</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunctive" sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ne</Text>
+                <BeginOffset>9630</BeginOffset>
+                <EndOffset>9632</EndOffset>
+            </Span>
+            <Span>
+                <Text>ne</Text>
+                <BeginOffset>9654</BeginOffset>
+                <EndOffset>9656</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ondan bahsedebildim</Text>
+                <BeginOffset>9633</BeginOffset>
+                <EndOffset>9652</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yaşadıklarımdan</Text>
+                <BeginOffset>9657</BeginOffset>
+                <EndOffset>9672</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="opposition" sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Oysa</Text>
+                <BeginOffset>8869</BeginOffset>
+                <EndOffset>8873</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Hiçbir şey anlatamadım</Text>
+                <BeginOffset>8824</BeginOffset>
+                <EndOffset>8846</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>sizlere ne kadar çok anlatacağım vardı</Text>
+                <BeginOffset>8874</BeginOffset>
+                <EndOffset>8912</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>3436</BeginOffset>
+                <EndOffset>3441</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>Bir süre</Text>
+                <BeginOffset>3427</BeginOffset>
+                <EndOffset>3435</EndOffset>
+            </Span>
+            <Span>
+                <Text>da</Text>
+                <BeginOffset>3442</BeginOffset>
+                <EndOffset>3444</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Çıkmak istemez</Text>
+                <BeginOffset>3411</BeginOffset>
+                <EndOffset>3425</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>o dayanılmaz bekleyişe, o baş etmesi zor gerilime alışır</Text>
+                <BeginOffset>3445</BeginOffset>
+                <EndOffset>3501</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precedence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Sonra</Text>
+                <BeginOffset>13934</BeginOffset>
+                <EndOffset>13939</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bazı geceler kulağımı kapısına dayar, dayak yerken
+                    attığı çığlıkları dinlerdim</Text>
+                <BeginOffset>13854</BeginOffset>
+                <EndOffset>13932</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>barışırlardı</Text>
+                <BeginOffset>13940</BeginOffset>
+                <EndOffset>13952</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precedence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Sonra</Text>
+                <BeginOffset>13977</BeginOffset>
+                <EndOffset>13982</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>da</Text>
+                <BeginOffset>13983</BeginOffset>
+                <EndOffset>13985</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Bir süre kapısında bir köpek gibi süründüm. Benden
+                    sonra âşık olduğu adamı gece gündüz izledim</Text>
+                <BeginOffset>13660</BeginOffset>
+                <EndOffset>13754</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu parka düştüm işte</Text>
+                <BeginOffset>13986</BeginOffset>
+                <EndOffset>14006</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precedence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>5044</BeginOffset>
+                <EndOffset>5049</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Durun, oturun biraz. Anlatın</Text>
+                <BeginOffset>5002</BeginOffset>
+                <EndOffset>5030</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Gidersiniz</Text>
+                <BeginOffset>5032</BeginOffset>
+                <EndOffset>5042</EndOffset>
+            </Span>
+            <Span>
+                <Text>geri gidersiniz Erkekler Parkı&apos;na</Text>
+                <BeginOffset>5050</BeginOffset>
+                <EndOffset>5083</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Synchronous" sense="Temporal: Synchronous" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>12615</BeginOffset>
+                <EndOffset>12617</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Orada, aynı yerde durur</Text>
+                <BeginOffset>12591</BeginOffset>
+                <EndOffset>12614</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>onu bekler</Text>
+                <BeginOffset>12618</BeginOffset>
+                <EndOffset>12628</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>o zaman</Text>
+                <BeginOffset>2552</BeginOffset>
+                <EndOffset>2559</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>yalnızca iki kez gittim</Text>
+                <BeginOffset>2414</BeginOffset>
+                <EndOffset>2437</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Onu tanıyorsunuz</Text>
+                <BeginOffset>2535</BeginOffset>
+                <EndOffset>2551</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

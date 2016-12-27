@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="nst" sense="" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>aslında</Text>
+                <BeginOffset>4439</BeginOffset>
+                <EndOffset>4446</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Susie Wang&apos;unkine değil</Text>
+                <BeginOffset>4381</BeginOffset>
+                <EndOffset>4404</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yıkılan kendi dünyama ağlıyordum</Text>
+                <BeginOffset>4406</BeginOffset>
+                <EndOffset>4438</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="expectation"
+        sense="Comparison: Concession: expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>birlikte</Text>
+                <BeginOffset>14724</BeginOffset>
+                <EndOffset>14732</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bozuntuya vermeden, Raif Beyin masasının,
+                    sümeninin, klasörlerle dolu dolabının tozunu aldım</Text>
+                <BeginOffset>14733</BeginOffset>
+                <EndOffset>14825</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çok garibime gitmekle</Text>
+                <BeginOffset>14702</BeginOffset>
+                <EndOffset>14723</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="pragmatic cause epistemic"
+        sense="Contingency: Pragmatic Cause" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>böylece</Text>
+                <BeginOffset>7363</BeginOffset>
+                <EndOffset>7370</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bir gün ders sırasında, tuşları örten kapağı usta
+                    bir hareketle parmaklarına düşürünce ağlayarak kaçmış</Text>
+                <BeginOffset>7240</BeginOffset>
+                <EndOffset>7343</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>piyano maceram da</Text>
+                <BeginOffset>7345</BeginOffset>
+                <EndOffset>7362</EndOffset>
+            </Span>
+            <Span>
+                <Text>sona ermişti</Text>
+                <BeginOffset>7371</BeginOffset>
+                <EndOffset>7383</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="reason" sense="Contingency: Cause: reason" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Çünkü</Text>
+                <BeginOffset>5352</BeginOffset>
+                <EndOffset>5357</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çok merak etmeme karşın, balık pazarındaki
+                    Lefter&apos;in Meyhanesinde bu iki erkek arasında o
+                    gece neler geçtiğini hiçbir zaman öğrenemedim ne
+                    yazık ki</Text>
+                <BeginOffset>5203</BeginOffset>
+                <EndOffset>5350</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>randevu saati geldiğinde, ben, Ankara&apos;ya
+                    hareket eden gece treniyle bir daha geri dönmemek
+                    üzere İstanbul&apos;u terk ediyordum</Text>
+                <BeginOffset>5358</BeginOffset>
+                <EndOffset>5480</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="manner" sense="Expansion: manner" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>gibi</Text>
+                <BeginOffset>3868</BeginOffset>
+                <EndOffset>3872</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>aralarında</Text>
+                <BeginOffset>3840</BeginOffset>
+                <EndOffset>3850</EndOffset>
+            </Span>
+            <Span>
+                <Text>ciddî bir şey de yokmuş</Text>
+                <BeginOffset>3873</BeginOffset>
+                <EndOffset>3896</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>benim düşündüğüm</Text>
+                <BeginOffset>3851</BeginOffset>
+                <EndOffset>3867</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="manner" sense="Expansion: manner" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>gibi</Text>
+                <BeginOffset>1645</BeginOffset>
+                <EndOffset>1649</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Galatasaray Lisesinin son sınıfına</Text>
+                <BeginOffset>1583</BeginOffset>
+                <EndOffset>1617</EndOffset>
+            </Span>
+            <Span>
+                <Text>takılıp kalmış</Text>
+                <BeginOffset>1650</BeginOffset>
+                <EndOffset>1664</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bir balığın ağa takılması</Text>
+                <BeginOffset>1619</BeginOffset>
+                <EndOffset>1644</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>2618</BeginOffset>
+                <EndOffset>2622</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>anneannesinin armağan ettiği Rus montürlü pırlanta
+                    yüzüğü Beyoğlu&apos;nda bir emanetçiye verebilecek</Text>
+                <BeginOffset>2623</BeginOffset>
+                <EndOffset>2719</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İçki alabilmek</Text>
+                <BeginOffset>2603</BeginOffset>
+                <EndOffset>2617</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>4579</BeginOffset>
+                <EndOffset>4583</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>sesini duyunca telefonu hemen kapattım</Text>
+                <BeginOffset>4584</BeginOffset>
+                <EndOffset>4622</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yeni yalan tuzaklarına düşmemek</Text>
+                <BeginOffset>4547</BeginOffset>
+                <EndOffset>4578</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>4729</BeginOffset>
+                <EndOffset>4733</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>kabloya nasıl asıldıysam</Text>
+                <BeginOffset>4734</BeginOffset>
+                <EndOffset>4758</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>telefonun fişini çekmek</Text>
+                <BeginOffset>4705</BeginOffset>
+                <EndOffset>4728</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>7059</BeginOffset>
+                <EndOffset>7063</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ailemin</Text>
+                <BeginOffset>7025</BeginOffset>
+                <EndOffset>7032</EndOffset>
+            </Span>
+            <Span>
+                <Text>tuttuğu</Text>
+                <BeginOffset>7064</BeginOffset>
+                <EndOffset>7071</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>sanat yönümü geliştirmek</Text>
+                <BeginOffset>7034</BeginOffset>
+                <EndOffset>7058</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>7582</BeginOffset>
+                <EndOffset>7586</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>duvara dayalı duran piyanonun arkasını açtıklarında</Text>
+                <BeginOffset>7587</BeginOffset>
+                <EndOffset>7638</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>böyle bir şeyin saçmalığını bana kanıtlayabilmek</Text>
+                <BeginOffset>7533</BeginOffset>
+                <EndOffset>7581</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Büyükler</Text>
+                <BeginOffset>7523</BeginOffset>
+                <EndOffset>7531</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>8981</BeginOffset>
+                <EndOffset>8985</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ertesi gün anneannemi okula çağırdı</Text>
+                <BeginOffset>8986</BeginOffset>
+                <EndOffset>9021</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>görüşmek</Text>
+                <BeginOffset>8972</BeginOffset>
+                <EndOffset>8980</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>10663</BeginOffset>
+                <EndOffset>10667</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>duvarına taşlar yapıştırırdık</Text>
+                <BeginOffset>10668</BeginOffset>
+                <EndOffset>10697</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>dileklerimizin olması</Text>
+                <BeginOffset>10641</BeginOffset>
+                <EndOffset>10662</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>13343</BeginOffset>
+                <EndOffset>13347</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Turizm ve Tanıtma Bakanlığının</Text>
+                <BeginOffset>13300</BeginOffset>
+                <EndOffset>13330</EndOffset>
+            </Span>
+            <Span>
+                <Text>bir sınav açtığını</Text>
+                <BeginOffset>13348</BeginOffset>
+                <EndOffset>13366</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>memur almak</Text>
+                <BeginOffset>13331</BeginOffset>
+                <EndOffset>13342</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="quantity" sense="Expansion" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>kadar</Text>
+                <BeginOffset>2720</BeginOffset>
+                <EndOffset>2725</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>çok sevdiği</Text>
+                <BeginOffset>2726</BeginOffset>
+                <EndOffset>2737</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İçki alabilmek için anneannesinin armağan ettiği
+                    Rus montürlü pırlanta yüzüğü Beyoğlu&apos;nda bir
+                    emanetçiye verebilecek</Text>
+                <BeginOffset>2603</BeginOffset>
+                <EndOffset>2719</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="expectation"
+        sense="Comparison: Concession: expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>karşın</Text>
+                <BeginOffset>5220</BeginOffset>
+                <EndOffset>5226</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>balık pazarındaki Lefter&apos;in Meyhanesinde bu
+                    iki erkek arasında o gece neler geçtiğini hiçbir
+                    zaman öğrenemedim ne yazık ki</Text>
+                <BeginOffset>5228</BeginOffset>
+                <EndOffset>5350</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çok merak etmeme</Text>
+                <BeginOffset>5203</BeginOffset>
+                <EndOffset>5219</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precedence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Önce</Text>
+                <BeginOffset>6312</BeginOffset>
+                <EndOffset>6316</EndOffset>
+            </Span>
+            <Span>
+                <Text>Ardından</Text>
+                <BeginOffset>6434</BeginOffset>
+                <EndOffset>6442</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>elindeki reçelli bir dilim ekmeği, kapağını
+                    güçlükle kaldırdığı piyanonun içine atan küçük bir
+                    kız belirdi ekranda</Text>
+                <BeginOffset>6318</BeginOffset>
+                <EndOffset>6432</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>görüntü kısa bir süre için kayboldu</Text>
+                <BeginOffset>6444</BeginOffset>
+                <EndOffset>6479</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="önce sonra?" sense="" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>önce</Text>
+                <BeginOffset>15334</BeginOffset>
+                <EndOffset>15338</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Halimi görünce</Text>
+                <BeginOffset>15319</BeginOffset>
+                <EndOffset>15333</EndOffset>
+            </Span>
+            <Span>
+                <Text>korkan</Text>
+                <BeginOffset>15339</BeginOffset>
+                <EndOffset>15345</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>anlattıklarımı dinledikten sonra ise üzülen</Text>
+                <BeginOffset>15347</BeginOffset>
+                <EndOffset>15390</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precedence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Sonra</Text>
+                <BeginOffset>963</BeginOffset>
+                <EndOffset>968</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İlk, orta ve lise eğitimini de yine orada tamamlamıştı</Text>
+                <BeginOffset>907</BeginOffset>
+                <EndOffset>961</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ani bir kararla, üstelik Hukuk Fakültesini de
+                    yarım bırakarak, anneannesinin yanına gelip
+                    Ankara&apos;ya yerleşmesinin</Text>
+                <BeginOffset>969</BeginOffset>
+                <EndOffset>1082</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Annesi, babası, kardeşi, bütün ailesi İstanbul da yaşıyordu</Text>
+                <BeginOffset>846</BeginOffset>
+                <EndOffset>905</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>9298</BeginOffset>
+                <EndOffset>9303</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bir arkadaşının babama &quot;Lütfullah, bu çocuğun
+                    sınırsız bir düş gücü var. Sen bunu okuldan mahrum
+                    etme,&quot; demesi üzerine Şişhane Yokuşundaki
+                    Evliya Çelebi İlkokuluna yazdırıldım bu kez</Text>
+                <BeginOffset>9304</BeginOffset>
+                <EndOffset>9486</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Üçüncü sınıfı İstanbul&apos;da, özel hocalarla
+                    yine evde okuduktan</Text>
+                <BeginOffset>9236</BeginOffset>
+                <EndOffset>9297</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>10635</BeginOffset>
+                <EndOffset>10640</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>dileklerimizin olması için duvarına taşlar yapıştırırdık</Text>
+                <BeginOffset>10641</BeginOffset>
+                <EndOffset>10697</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>sandukayı görüp şöyle bir titredikten</Text>
+                <BeginOffset>10597</BeginOffset>
+                <EndOffset>10634</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>11920</BeginOffset>
+                <EndOffset>11925</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>&quot;Tanıyamadın değil mi?&quot; dedi</Text>
+                <BeginOffset>11936</BeginOffset>
+                <EndOffset>11964</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bir süre bakıştıktan</Text>
+                <BeginOffset>11899</BeginOffset>
+                <EndOffset>11919</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>12656</BeginOffset>
+                <EndOffset>12661</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>çekmecedeki fotoğrafa döndüm yeniden</Text>
+                <BeginOffset>12662</BeginOffset>
+                <EndOffset>12698</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kuru kafayı gülümseyerek selamladıktan</Text>
+                <BeginOffset>12617</BeginOffset>
+                <EndOffset>12655</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>13250</BeginOffset>
+                <EndOffset>13255</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>bir süre</Text>
+                <BeginOffset>13241</BeginOffset>
+                <EndOffset>13249</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>artık kendi paramı kazanmaya karar verdim</Text>
+                <BeginOffset>13257</BeginOffset>
+                <EndOffset>13298</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Anneannemin yanına yerleşip Ankara&apos;da onunla
+                    beraber yaşamaya başladıktan</Text>
+                <BeginOffset>13167</BeginOffset>
+                <EndOffset>13240</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>15374</BeginOffset>
+                <EndOffset>15379</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>ise</Text>
+                <BeginOffset>15380</BeginOffset>
+                <EndOffset>15383</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>üzülen</Text>
+                <BeginOffset>15384</BeginOffset>
+                <EndOffset>15390</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>anlattıklarımı dinledikten</Text>
+                <BeginOffset>15347</BeginOffset>
+                <EndOffset>15373</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>7409</BeginOffset>
+                <EndOffset>7414</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>bir süre</Text>
+                <BeginOffset>7400</BeginOffset>
+                <EndOffset>7408</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>piyanonun içinden garip tıkırtılar gelmeye başladı</Text>
+                <BeginOffset>7415</BeginOffset>
+                <EndOffset>7465</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Hoca kaçtıktan</Text>
+                <BeginOffset>7385</BeginOffset>
+                <EndOffset>7399</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>4242</BeginOffset>
+                <EndOffset>4244</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bir bilet alıp sinemaya girdim</Text>
+                <BeginOffset>4211</BeginOffset>
+                <EndOffset>4241</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Hong Kong&apos;ta geçen film boyunca karanlıkta
+                    hıçkıra hıçkıra ağladım</Text>
+                <BeginOffset>4245</BeginOffset>
+                <EndOffset>4311</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>7129</BeginOffset>
+                <EndOffset>7131</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Huysuz, asabî bir kadındı</Text>
+                <BeginOffset>7103</BeginOffset>
+                <EndOffset>7128</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yeteneksiz olduğumu her fırsatta yinelemekten zevk alırdı</Text>
+                <BeginOffset>7132</BeginOffset>
+                <EndOffset>7189</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction result" sense="Multiple-Sense" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>8969</BeginOffset>
+                <EndOffset>8971</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Okuduğu zaman çok etkilendi</Text>
+                <BeginOffset>8924</BeginOffset>
+                <EndOffset>8951</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>görüşmek için ertesi gün anneannemi okula çağırdı</Text>
+                <BeginOffset>8972</BeginOffset>
+                <EndOffset>9021</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Neriman öğretmen</Text>
+                <BeginOffset>8952</BeginOffset>
+                <EndOffset>8968</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>10336</BeginOffset>
+                <EndOffset>10338</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>gözlüklü, kısa boylu bir varsıl çocuğuydu</Text>
+                <BeginOffset>10294</BeginOffset>
+                <EndOffset>10335</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>benim ilk beğendiğim erkekti</Text>
+                <BeginOffset>10339</BeginOffset>
+                <EndOffset>10367</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Osman Alanyalı ise</Text>
+                <BeginOffset>10274</BeginOffset>
+                <EndOffset>10292</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>11873</BeginOffset>
+                <EndOffset>11875</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Giyimi son derece sadeydi</Text>
+                <BeginOffset>11847</BeginOffset>
+                <EndOffset>11872</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>hiç makyaj yapmamıştı</Text>
+                <BeginOffset>11876</BeginOffset>
+                <EndOffset>11897</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>13397</BeginOffset>
+                <EndOffset>13399</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Başvurdum</Text>
+                <BeginOffset>13387</BeginOffset>
+                <EndOffset>13396</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yüzlerce adayla birlikte sınava girdim</Text>
+                <BeginOffset>13400</BeginOffset>
+                <EndOffset>13438</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>13483</BeginOffset>
+                <EndOffset>13485</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bunlardan biri de bendim</Text>
+                <BeginOffset>13458</BeginOffset>
+                <EndOffset>13482</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>mütercim radyo dinleyicisi kadrosuyla işe alındım</Text>
+                <BeginOffset>13486</BeginOffset>
+                <EndOffset>13535</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>İki kişi kazandı</Text>
+                <BeginOffset>13440</BeginOffset>
+                <EndOffset>13456</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>13852</BeginOffset>
+                <EndOffset>13854</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>sevincimi görünce şaşırmış</Text>
+                <BeginOffset>13825</BeginOffset>
+                <EndOffset>13851</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bana &quot;Evladım, sen deli misin, devlet
+                    memurluğundan daha kötü bir şey olabilir mi, sen
+                    buna niye seviniyorsun?&quot; demişti</Text>
+                <BeginOffset>13855</BeginOffset>
+                <EndOffset>13974</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Sınavı kazandığımı öğrendiğim günün akşamı eve
+                    konuk olarak gelen yakın akrabamız Düsseldorf
+                    Başkonsolosu Refik İleri</Text>
+                <BeginOffset>13707</BeginOffset>
+                <EndOffset>13824</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>14531</BeginOffset>
+                <EndOffset>14533</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>sabah tanıştığım</Text>
+                <BeginOffset>14514</BeginOffset>
+                <EndOffset>14530</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kül tablasını ele geçirmemde bana yardımcı olan</Text>
+                <BeginOffset>14534</BeginOffset>
+                <EndOffset>14581</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Bu yüzden</Text>
+                <BeginOffset>9942</BeginOffset>
+                <EndOffset>9951</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>&quot;Bakın, bakın domuz eti yiyor,&quot; diye
+                    bağırırdı Recep</Text>
+                <BeginOffset>9888</BeginOffset>
+                <EndOffset>9940</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>sandviçimi bir köşede gizlice dişlerdim</Text>
+                <BeginOffset>9953</BeginOffset>
+                <EndOffset>9992</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="synchronous" sense="Temporal: Asynchronous" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>zaman</Text>
+                <BeginOffset>8932</BeginOffset>
+                <EndOffset>8937</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Okuduğu</Text>
+                <BeginOffset>8924</BeginOffset>
+                <EndOffset>8931</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>çok etkilendi</Text>
+                <BeginOffset>8938</BeginOffset>
+                <EndOffset>8951</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Neriman öğretmen</Text>
+                <BeginOffset>8952</BeginOffset>
+                <EndOffset>8968</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+</Document>

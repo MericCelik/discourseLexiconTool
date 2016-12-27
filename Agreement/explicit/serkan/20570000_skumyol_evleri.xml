@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>amacıyla</Text>
+                <BeginOffset>8412</BeginOffset>
+                <EndOffset>8420</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Avukatları Şeyda Yıldırım ve Atilla Cebesoy</Text>
+                <BeginOffset>8336</BeginOffset>
+                <EndOffset>8379</EndOffset>
+            </Span>
+            <Span>
+                <Text>gerekli evrakı tamamlamak için dün gün boyunca koşturdu</Text>
+                <BeginOffset>8421</BeginOffset>
+                <EndOffset>8476</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çakıcı&apos;nın serbest bırakılması</Text>
+                <BeginOffset>8381</BeginOffset>
+                <EndOffset>8411</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="contra-expectation"
+        sense="Comparison: Concession: contra-expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ancak</Text>
+                <BeginOffset>2199</BeginOffset>
+                <EndOffset>2204</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Rumların Pile&apos;ye rahatça girip çıktığını</Text>
+                <BeginOffset>2158</BeginOffset>
+                <EndOffset>2198</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kendilerinin Beyarmudu&apos;ndan kimlik
+                    kontrolünden sonra Pile&apos;ye geçtiklerini</Text>
+                <BeginOffset>2205</BeginOffset>
+                <EndOffset>2279</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="opposition" sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ancak</Text>
+                <BeginOffset>13979</BeginOffset>
+                <EndOffset>13984</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>erkekler sadakatsizliklerinde evliliklerini ne
+                    olursa olsun sürdürüyor, boşanmıyorlar</Text>
+                <BeginOffset>13892</BeginOffset>
+                <EndOffset>13977</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kadın araya ikinci bir erkek girdiği anda boşanıyor</Text>
+                <BeginOffset>13985</BeginOffset>
+                <EndOffset>14036</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="opposition" sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ancak</Text>
+                <BeginOffset>14479</BeginOffset>
+                <EndOffset>14484</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Batıda boşanmalar artıyor</Text>
+                <BeginOffset>14453</BeginOffset>
+                <EndOffset>14478</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>gözden kaçan, boşananların da bir süre sonra
+                    tekrar evlenmesi</Text>
+                <BeginOffset>14485</BeginOffset>
+                <EndOffset>14546</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precedence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ardından</Text>
+                <BeginOffset>1564</BeginOffset>
+                <EndOffset>1572</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Araçlarını terk edip yürüyerek Pile&apos;ye geliyorlar</Text>
+                <BeginOffset>1513</BeginOffset>
+                <EndOffset>1562</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kolayca Rum tarafına geçiyorlar</Text>
+                <BeginOffset>1573</BeginOffset>
+                <EndOffset>1604</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ardından</Text>
+                <BeginOffset>8956</BeginOffset>
+                <EndOffset>8964</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>yurtdışına çıkabilmek için pasaport işlemlerine başlayacağı</Text>
+                <BeginOffset>8965</BeginOffset>
+                <EndOffset>9024</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>işlemlerin tamamlanıp serbest bırakılmasının</Text>
+                <BeginOffset>8911</BeginOffset>
+                <EndOffset>8955</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Hakkındaki &quot;Kırmızı Bülten&quot; ile aranma
+                    kaydı da düşürülen Çakıcı&apos;nın</Text>
+                <BeginOffset>8841</BeginOffset>
+                <EndOffset>8909</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precendence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Ardından</Text>
+                <BeginOffset>11739</BeginOffset>
+                <EndOffset>11747</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Anday için ilk tören Cumhuriyet Gazetesi&apos;nde düzenlendi</Text>
+                <BeginOffset>11682</BeginOffset>
+                <EndOffset>11737</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Şişli Camii&apos;ne getirilen Anday&apos;ın
+                    cenazesinde, eşi Suna Anday, oğlu İdris Anday,
+                    gelini Cristina Anday taziyeleri kabul etti</Text>
+                <BeginOffset>11748</BeginOffset>
+                <EndOffset>11872</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Böylece</Text>
+                <BeginOffset>8629</BeginOffset>
+                <EndOffset>8636</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çakıcı&apos;nın aramaları nedeniyle Interpol Daire
+                    Başkanlığı, İnfaz Büro Amirliği&apos;nden gelen
+                    yazıyı, Adalet Bakanlığı&apos;na gönderdi</Text>
+                <BeginOffset>8502</BeginOffset>
+                <EndOffset>8627</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>hafta sonu mesaisine bakanlık da katıldı</Text>
+                <BeginOffset>8637</BeginOffset>
+                <EndOffset>8677</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>216</BeginOffset>
+                <EndOffset>220</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>her gün Rum Kesimi&apos;ne geçiyor</Text>
+                <BeginOffset>221</BeginOffset>
+                <EndOffset>250</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>çalışmak</Text>
+                <BeginOffset>207</BeginOffset>
+                <EndOffset>215</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Ekonomik krizde işsiz kalan 7 bine yakın Kıbrıslı Türk</Text>
+                <BeginOffset>151</BeginOffset>
+                <EndOffset>205</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>506</BeginOffset>
+                <EndOffset>510</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>her gün Rum Kesimi&apos;ne geçiyor</Text>
+                <BeginOffset>511</BeginOffset>
+                <EndOffset>540</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>çalışmak</Text>
+                <BeginOffset>497</BeginOffset>
+                <EndOffset>505</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Kriz nedeniyle işşiz kalan 7 bine yakın Kıbrıslı Türk</Text>
+                <BeginOffset>442</BeginOffset>
+                <EndOffset>495</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>3776</BeginOffset>
+                <EndOffset>3780</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>açık artırmaya çıkarılan</Text>
+                <BeginOffset>3781</BeginOffset>
+                <EndOffset>3805</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Vakıfbank&apos;ın gayrimenkullerinin satışı</Text>
+                <BeginOffset>3737</BeginOffset>
+                <EndOffset>3775</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>4205</BeginOffset>
+                <EndOffset>4209</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Eskidji Müzayede Evi&apos;nin düzenlediği</Text>
+                <BeginOffset>4210</BeginOffset>
+                <EndOffset>4246</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Vakıfbank&apos;ın 621 gayrimenkulünün satışı</Text>
+                <BeginOffset>4165</BeginOffset>
+                <EndOffset>4204</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>5228</BeginOffset>
+                <EndOffset>5232</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>yapılan</Text>
+                <BeginOffset>5233</BeginOffset>
+                <EndOffset>5240</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Vakıfbank&apos;ın 621 gayrimenkulünün satışı</Text>
+                <BeginOffset>5188</BeginOffset>
+                <EndOffset>5227</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>7849</BeginOffset>
+                <EndOffset>7853</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Savcılıkların da</Text>
+                <BeginOffset>7793</BeginOffset>
+                <EndOffset>7809</EndOffset>
+            </Span>
+            <Span>
+                <Text>bir gece daha tutulmasını istediği</Text>
+                <BeginOffset>7854</BeginOffset>
+                <EndOffset>7888</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çakıcı&apos;nın durumunun değerlendirilmesi</Text>
+                <BeginOffset>7810</BeginOffset>
+                <EndOffset>7848</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>8447</BeginOffset>
+                <EndOffset>8451</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>dün gün boyunca koşturdu</Text>
+                <BeginOffset>8452</BeginOffset>
+                <EndOffset>8476</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çakıcı&apos;nın serbest bırakılması amacıyla
+                    gerekli evrakı tamamlamak</Text>
+                <BeginOffset>8381</BeginOffset>
+                <EndOffset>8446</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Avukatları Şeyda Yıldırım ve Atilla Cebesoy</Text>
+                <BeginOffset>8336</BeginOffset>
+                <EndOffset>8379</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>8987</BeginOffset>
+                <EndOffset>8991</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>pasaport işlemlerine başlayacağı</Text>
+                <BeginOffset>8992</BeginOffset>
+                <EndOffset>9024</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yurtdışına çıkabilmek</Text>
+                <BeginOffset>8965</BeginOffset>
+                <EndOffset>8986</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>9758</BeginOffset>
+                <EndOffset>9762</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Türkiye&apos;de idamı kaldıran yasa
+                    değişikliğinden sonra</Text>
+                <BeginOffset>9642</BeginOffset>
+                <EndOffset>9694</EndOffset>
+            </Span>
+            <Span>
+                <Text>bir engel kalmadığını</Text>
+                <BeginOffset>9763</BeginOffset>
+                <EndOffset>9784</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çakıcı&apos;nın bugüne kadar yargılanamadığı 3
+                    davadan yargılanması</Text>
+                <BeginOffset>9695</BeginOffset>
+                <EndOffset>9757</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="purpose" sense="Contingency: Purpose" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>10751</BeginOffset>
+                <EndOffset>10755</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Haziran 2002&apos;de &quot;Tokyo Camii Vakfı
+                    Camilerin Bakım, Onarım ve Restorasyonu İle Yeniden
+                    Cami İnşa İşletmesi&quot; adıyla bir şirket kuran</Text>
+                <BeginOffset>10756</BeginOffset>
+                <EndOffset>10887</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Camilere kurulan baz istasyonundan kazanç elde etmek</Text>
+                <BeginOffset>10698</BeginOffset>
+                <EndOffset>10750</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="condition" sense="Contingency: Condition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>14806</BeginOffset>
+                <EndOffset>14810</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>de</Text>
+                <BeginOffset>14811</BeginOffset>
+                <EndOffset>14813</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>evlilik Türkiye&apos;de önemini koruyacaktır</Text>
+                <BeginOffset>14814</BeginOffset>
+                <EndOffset>14853</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bizim yapımız Avrupa&apos;nın güneyiyle daha yakın
+                    bir yapı olduğu</Text>
+                <BeginOffset>14744</BeginOffset>
+                <EndOffset>14805</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="reason" sense="Contingency: Cause: reason" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>için</Text>
+                <BeginOffset>15463</BeginOffset>
+                <EndOffset>15467</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>örf ve adetlerin de etkisiyle durum daha farklı</Text>
+                <BeginOffset>15468</BeginOffset>
+                <EndOffset>15515</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kadın ne kadar çalışırsa çalışsın, söz sahibi olamadığı</Text>
+                <BeginOffset>15407</BeginOffset>
+                <EndOffset>15462</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Anadolu&apos;da ise</Text>
+                <BeginOffset>15392</BeginOffset>
+                <EndOffset>15406</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="contra-expectation"
+        sense="Comparison: Concession: contra-expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Buna karşılık</Text>
+                <BeginOffset>13878</BeginOffset>
+                <EndOffset>13891</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ciddi bir şekilde çiftler birbirini aldatıyor</Text>
+                <BeginOffset>13831</BeginOffset>
+                <EndOffset>13876</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>erkekler sadakatsizliklerinde evliliklerini ne
+                    olursa olsun sürdürüyor, boşanmıyorlar. Ancak kadın
+                    araya ikinci bir erkek girdiği anda boşanıyor</Text>
+                <BeginOffset>13892</BeginOffset>
+                <EndOffset>14036</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="contra-expectation"
+        sense="Comparison: Concession: contra-expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>buna karşılık</Text>
+                <BeginOffset>14619</BeginOffset>
+                <EndOffset>14632</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>boşanma oranı Türkiye&apos;ye göre yaklaşık iki
+                    kat daha fazla</Text>
+                <BeginOffset>14561</BeginOffset>
+                <EndOffset>14618</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>evlilik sayısı da bizim ülkemizden yüksek</Text>
+                <BeginOffset>14633</BeginOffset>
+                <EndOffset>14674</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>İngiltere&apos;de</Text>
+                <BeginOffset>14548</BeginOffset>
+                <EndOffset>14560</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precendence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>önce</Text>
+                <BeginOffset>3491</BeginOffset>
+                <EndOffset>3495</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>son kez New York&apos;ta bulunan Denktaş&apos;ın
+                    onayına sunulacak</Text>
+                <BeginOffset>3496</BeginOffset>
+                <EndOffset>3552</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Annan&apos;a iletilmeden</Text>
+                <BeginOffset>3471</BeginOffset>
+                <EndOffset>3490</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Ankara&apos;da hazırlanacak yanıt</Text>
+                <BeginOffset>3441</BeginOffset>
+                <EndOffset>3469</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>önce</Text>
+                <BeginOffset>4763</BeginOffset>
+                <EndOffset>4767</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Peşin alıcı çıkmayınca, aynı daire 24 ay vadeli
+                    olmak üzere 2 trilyon 120 milyar 400 milyon liradan
+                    satışa sunuldu</Text>
+                <BeginOffset>4828</BeginOffset>
+                <EndOffset>4942</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Gökkafes&apos;in 23&apos;üncü katında yer alan
+                    süper lüks daire</Text>
+                <BeginOffset>4708</BeginOffset>
+                <EndOffset>4761</EndOffset>
+            </Span>
+            <Span>
+                <Text>1 trilyon 710 milyar liradan peşin olarak satışa çıkarıldı</Text>
+                <BeginOffset>4768</BeginOffset>
+                <EndOffset>4826</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>önce</Text>
+                <BeginOffset>4456</BeginOffset>
+                <EndOffset>4460</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>daha</Text>
+                <BeginOffset>4451</BeginOffset>
+                <EndOffset>4455</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>gayrimenkullere talip olan olup olmadığını</Text>
+                <BeginOffset>4478</BeginOffset>
+                <EndOffset>4520</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>diğer bölgelerde</Text>
+                <BeginOffset>4434</BeginOffset>
+                <EndOffset>4450</EndOffset>
+            </Span>
+            <Span>
+                <Text>satışa çıkarılan</Text>
+                <BeginOffset>4461</BeginOffset>
+                <EndOffset>4477</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="expectation"
+        sense="Comparison: Concession: expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>rağmen</Text>
+                <BeginOffset>9991</BeginOffset>
+                <EndOffset>9997</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>sadece 5 yıl 1 ay hapis cezası alan</Text>
+                <BeginOffset>9998</BeginOffset>
+                <EndOffset>10033</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>&quot;çete&quot;den, &quot;cinayete
+                    azmettirme&quot;ye kadar pek çok suçtan 456 yıl
+                    hapsi istenmesine</Text>
+                <BeginOffset>9909</BeginOffset>
+                <EndOffset>9990</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>7545</BeginOffset>
+                <EndOffset>7550</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İstanbul polisince gözaltına alınan</Text>
+                <BeginOffset>7551</BeginOffset>
+                <EndOffset>7586</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kocaeli&apos;ndeki Kandıra F Tipi
+                    Cezaevi&apos;nden tahliye edildikten</Text>
+                <BeginOffset>7484</BeginOffset>
+                <EndOffset>7544</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>7949</BeginOffset>
+                <EndOffset>7954</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İnfaz Büro Amirliği&apos;nin ziyaretçi görüşme
+                    odasında bekletilen</Text>
+                <BeginOffset>7956</BeginOffset>
+                <EndOffset>8017</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>cezaevinden çıktıktan</Text>
+                <BeginOffset>7927</BeginOffset>
+                <EndOffset>7948</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Önceki gece</Text>
+                <BeginOffset>7915</BeginOffset>
+                <EndOffset>7926</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>8797</BeginOffset>
+                <EndOffset>8802</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çakıcı&apos;nın da yurtdışına çıkması gereken 45
+                    günlük sürenin</Text>
+                <BeginOffset>8705</BeginOffset>
+                <EndOffset>8763</EndOffset>
+            </Span>
+            <Span>
+                <Text>başlayacağı</Text>
+                <BeginOffset>8803</BeginOffset>
+                <EndOffset>8814</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>emniyetten serbest bırakıldıktan</Text>
+                <BeginOffset>8764</BeginOffset>
+                <EndOffset>8796</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>sonra</Text>
+                <BeginOffset>9169</BeginOffset>
+                <EndOffset>9174</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Alaattin Çakıcı&apos;yı yeniden yargılamak</Text>
+                <BeginOffset>9175</BeginOffset>
+                <EndOffset>9212</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>idam cezasını kaldırdıktan</Text>
+                <BeginOffset>9142</BeginOffset>
+                <EndOffset>9168</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunctive"
+        sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>1095</BeginOffset>
+                <EndOffset>1097</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İngiliz üsleri arasında yer alan</Text>
+                <BeginOffset>1062</BeginOffset>
+                <EndOffset>1094</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ada&apos;da Türklerle Rumların bir arada yaşadığı
+                    tek yer olan</Text>
+                <BeginOffset>1098</BeginOffset>
+                <EndOffset>1155</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precedence"
+        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>1409</BeginOffset>
+                <EndOffset>1411</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sabahın ilk ışıklarında kalkan</Text>
+                <BeginOffset>1378</BeginOffset>
+                <EndOffset>1408</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>araçlarıyla Beyarmudu köyüne gelen</Text>
+                <BeginOffset>1412</BeginOffset>
+                <EndOffset>1446</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunctive"
+        sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>1983</BeginOffset>
+                <EndOffset>1985</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>marangozluk yapan</Text>
+                <BeginOffset>1965</BeginOffset>
+                <EndOffset>1982</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>6 kişiyi çalıştırdığını</Text>
+                <BeginOffset>1986</BeginOffset>
+                <EndOffset>2009</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Krizden önce</Text>
+                <BeginOffset>1952</BeginOffset>
+                <EndOffset>1964</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>5955</BeginOffset>
+                <EndOffset>5957</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Tüketiciye ucuz alışveriş imkânı sağlamak</Text>
+                <BeginOffset>5913</BeginOffset>
+                <EndOffset>5954</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>firmaların elindeki stokları eritmek</Text>
+                <BeginOffset>5958</BeginOffset>
+                <EndOffset>5994</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>8254</BeginOffset>
+                <EndOffset>8256</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>işadamı Emin Cankurtaran&apos;ın vurulması, eski
+                    eşi Uğur Kılıç ile Nurullah Tevfik Ağansoy&apos;un
+                    öldürülmesi, 1994&apos;te gözaltına alınan bir
+                    gruptan Sinan Zenbil&apos;in ifadesinde kendilerini
+                    azmettiren kişinin Çakıcı olduğunu söylemesi</Text>
+                <BeginOffset>8030</BeginOffset>
+                <EndOffset>8253</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Şişli Adliyesi&apos;ndeki adi bir olaydan aranması olduğu</Text>
+                <BeginOffset>8257</BeginOffset>
+                <EndOffset>8309</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunctive"
+        sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>12993</BeginOffset>
+                <EndOffset>12995</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Dünyada böyle bir müessese var</Text>
+                <BeginOffset>12962</BeginOffset>
+                <EndOffset>12992</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>sapasağlam ayakta</Text>
+                <BeginOffset>12996</BeginOffset>
+                <EndOffset>13013</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>13160</BeginOffset>
+                <EndOffset>13162</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>çok sayıda evlilik yaptım</Text>
+                <BeginOffset>13134</BeginOffset>
+                <EndOffset>13159</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>hüsrana uğradım</Text>
+                <BeginOffset>13163</BeginOffset>
+                <EndOffset>13178</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Ben</Text>
+                <BeginOffset>13130</BeginOffset>
+                <EndOffset>13133</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>16564</BeginOffset>
+                <EndOffset>16566</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>türban konusunda konuştuğu</Text>
+                <BeginOffset>16537</BeginOffset>
+                <EndOffset>16563</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>hükümet programından pasajlar okuduğu</Text>
+                <BeginOffset>16567</BeginOffset>
+                <EndOffset>16604</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Beş komutanın da</Text>
+                <BeginOffset>16520</BeginOffset>
+                <EndOffset>16536</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunctive"
+        sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Öte yandan</Text>
+                <BeginOffset>8694</BeginOffset>
+                <EndOffset>8704</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Avukatları Şeyda Yıldırım ve Atilla Cebesoy,
+                    Çakıcı&apos;nın serbest bırakılması amacıyla gerekli
+                    evrakı tamamlamak için dün gün boyunca koşturdu</Text>
+                <BeginOffset>8336</BeginOffset>
+                <EndOffset>8476</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çakıcı&apos;nın da yurtdışına çıkması gereken 45
+                    günlük sürenin emniyetten serbest bırakıldıktan
+                    sonra başlayacağı öğrenildi</Text>
+                <BeginOffset>8705</BeginOffset>
+                <EndOffset>8824</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

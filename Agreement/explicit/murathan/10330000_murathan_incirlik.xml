@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="Expansion" sense="Expansion" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ayrıca</Text>
+                <BeginOffset>9625</BeginOffset>
+                <EndOffset>9631</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Toplanan hasılattan KDV olarak 163.5 trilyon,
+                    Savunma Sanayii                 Destekleme
+                    Fonu&apos;na 90.8, Olimpiyat Fonu&apos;na 9.1,
+                    Yüksek Öğrenim Kredi ve                 Yurtlar
+                    Kurumu&apos;na 31.1, Türk Tanıtma Fonu&apos;na 28.1
+                    trilyon kesildi.                 Belediyeler eğlence
+                    vergisi olarak 37.2 trilyon tahsil etti, Türkiye
+                    Jokey                 Kulübü&apos;ne de 149 trilyon
+                    liralık hisse ayrıldı. Toplanan hasılatın 562.8
+                    trilyon liralık bölümü ise oynayanlara dağıtıldı</Text>
+                <BeginOffset>9051</BeginOffset>
+                <EndOffset>9528</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Geçen yıl</Text>
+                <BeginOffset>9615</BeginOffset>
+                <EndOffset>9624</EndOffset>
+            </Span>
+            <Span>
+                <Text>eğitime                 katkı payı olarak 11.3
+                    trilyon, özel işlem vergisi olarak da 33.8 trilyon
+                    tahsil edildi</Text>
+                <BeginOffset>9633</BeginOffset>
+                <EndOffset>9760</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Dolayısıyla</Text>
+                <BeginOffset>16761</BeginOffset>
+                <EndOffset>16772</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Anayasa Mahkemesi bu kararıyla Erdoğan&apos;ın
+                    kurucu üye                 olamayacağına karar verdi</Text>
+                <BeginOffset>16665</BeginOffset>
+                <EndOffset>16759</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Anayasa Mahkemesi, Erdoğan&apos;ın genel
+                    başkan olmasının da mümkün olamayacağına işaret etti</Text>
+                <BeginOffset>16773</BeginOffset>
+                <EndOffset>16877</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>YSK Başkanvekili Ünlü, Anayasa Mahkemesi&apos;nin
+                    ihtar kararının ardından                 genel
+                    başkanlığı sürdüren AKP liderini eleştirdi</Text>
+                <BeginOffset>16302</BeginOffset>
+                <EndOffset>16436</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunctive"
+        sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>gibi</Text>
+                <BeginOffset>12072</BeginOffset>
+                <EndOffset>12076</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>iki ülke hep birbirinin hasmı gibi
+                    hareket ederek birbirlerine zarar verdiler</Text>
+                <BeginOffset>12078</BeginOffset>
+                <EndOffset>12171</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Onların ölümünden sonra bu köprü
+                    yeterince güçlendirilemediği</Text>
+                <BeginOffset>11994</BeginOffset>
+                <EndOffset>12071</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2>
+            <Span>
+                <Text>Kurtuluş Savaşı&apos;nın hemen ardından Atatürk
+                    ve Venizelos , uzak görüşlü iki lider olarak
+                    Yunanistan&apos;la Türkiye                 arasında
+                    bir dostluk köprüsü kurmuşlardı</Text>
+                <BeginOffset>11810</BeginOffset>
+                <EndOffset>11992</EndOffset>
+            </Span>
+        </Supp2>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="manner" sense="Expansion" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>gibi</Text>
+                <BeginOffset>12227</BeginOffset>
+                <EndOffset>12231</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>önlemler aldı</Text>
+                <BeginOffset>12232</BeginOffset>
+                <EndOffset>12245</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>birbirine                 saldıracakmış</Text>
+                <BeginOffset>12187</BeginOffset>
+                <EndOffset>12226</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>İki taraf hep</Text>
+                <BeginOffset>12173</BeginOffset>
+                <EndOffset>12186</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="opposition" sense="Comparison: Contrast: opposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Halbuki</Text>
+                <BeginOffset>12487</BeginOffset>
+                <EndOffset>12494</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Türkiye yıllık                 gelirinin yüzde
+                    5&apos;ini savunmaya ayırırken bu rakam
+                    Yunanistan&apos;da yüzde                 4.8&apos;di</Text>
+                <BeginOffset>12361</BeginOffset>
+                <EndOffset>12485</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>diğer Avrupa ülkelerinin hiçbirinde bu oran yüzde
+                    2.5&apos;i                 geçmiyor</Text>
+                <BeginOffset>12495</BeginOffset>
+                <EndOffset>12575</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Condition" sense="Contingency: Condition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>halde</Text>
+                <BeginOffset>2431</BeginOffset>
+                <EndOffset>2436</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>niçin üsler ve ulusal dış
+                    politikamız hakkında bir bilgi verilmez, kamuoyu aydınlatılmaz</Text>
+                <BeginOffset>2437</BeginOffset>
+                <EndOffset>2541</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Türkiye&apos;nin de bu savaşın
+                    dışında kalamayacağı kabul edildiği</Text>
+                <BeginOffset>2353</BeginOffset>
+                <EndOffset>2430</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>ABD-Irak arasında bir savaş olasılğının İkiz
+                    Kuleler&apos;e saldırıdan bu yana
+                    olduğu ve böyle bir savaş çıkması</Text>
+                <BeginOffset>2221</BeginOffset>
+                <EndOffset>2344</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="?" sense="" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>kadar</Text>
+                <BeginOffset>3937</BeginOffset>
+                <EndOffset>3942</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>&apos;&apos;İncirlik&apos;ten bizim iznimiz
+                    olmadan uçak kalkmaz&apos;&apos; desin</Text>
+                <BeginOffset>3943</BeginOffset>
+                <EndOffset>4016</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>istediği</Text>
+                <BeginOffset>3928</BeginOffset>
+                <EndOffset>3936</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Başbakan Demirel</Text>
+                <BeginOffset>3911</BeginOffset>
+                <EndOffset>3927</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="juxtaposition"
+        sense="Comparison: Contrast: juxtaposition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Buna karşılık</Text>
+                <BeginOffset>7789</BeginOffset>
+                <EndOffset>7802</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>1998-2002 arasında oynanan müşterek bahis
+                    oyunlarında yapılan                 yasal
+                    kesintilerin tutarı 1.5 milyar doları geçti</Text>
+                <BeginOffset>7660</BeginOffset>
+                <EndOffset>7787</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>at                 yarışı oynayanlara, bahis için
+                    verdikleri paranın yalnızca yarısı ikramiye
+                    olarak döndü</Text>
+                <BeginOffset>7804</BeginOffset>
+                <EndOffset>7926</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="reason" sense="Contingency: Cause: reason" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>nedeniyle</Text>
+                <BeginOffset>3423</BeginOffset>
+                <EndOffset>3432</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Cumhuriyet&apos;te çıkan</Text>
+                <BeginOffset>3449</BeginOffset>
+                <EndOffset>3468</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İncirlik&apos;ten kalkan                 ABD
+                    uçaklarının Kuzey Irak&apos;ta iki Irak uçağını düşürmesi</Text>
+                <BeginOffset>3330</BeginOffset>
+                <EndOffset>3422</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="reason" sense="Contingency: Cause: reason" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>nedeniyle</Text>
+                <BeginOffset>17138</BeginOffset>
+                <EndOffset>17147</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Başsavcılığın</Text>
+                <BeginOffset>17020</BeginOffset>
+                <EndOffset>17033</EndOffset>
+            </Span>
+            <Span>
+                <Text>mevcut fiili ve hukuki                 duruma göre
+                    parti genel başkanlarının adlarını YSK&apos;ye bildirdiğini</Text>
+                <BeginOffset>17148</BeginOffset>
+                <EndOffset>17253</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>parti genel başkanlarının adlarının sorulduğu
+                    tarihte 6 aylık ihtar süresinin dolmaması</Text>
+                <BeginOffset>17034</BeginOffset>
+                <EndOffset>17137</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="reason" sense="Contingency: Cause: reason" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>nedeniyle</Text>
+                <BeginOffset>17931</BeginOffset>
+                <EndOffset>17940</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>itiraz                 başvurusunda bulunulduğunu</Text>
+                <BeginOffset>17941</BeginOffset>
+                <EndOffset>17990</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>3 Kasım seçimleri sürecinde Erdoğan&apos;ın
+                    adının genel başkan sıfatıyla oy pusulalarında yer alması</Text>
+                <BeginOffset>17818</BeginOffset>
+                <EndOffset>17930</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="expectation"
+        sense="Comparison: Concession: expectation" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>rağmen</Text>
+                <BeginOffset>7101</BeginOffset>
+                <EndOffset>7107</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ölümlerin daha çok milyonlarca kişinin evsiz
+                    olmasından kaynaklandığı</Text>
+                <BeginOffset>7125</BeginOffset>
+                <EndOffset>7194</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Güney Asya&apos;da kış mevsiminin kısa sürmesine</Text>
+                <BeginOffset>7057</BeginOffset>
+                <EndOffset>7100</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>2318</BeginOffset>
+                <EndOffset>2320</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ABD-Irak arasında bir savaş olasılğının İkiz
+                    Kuleler&apos;e saldırıdan bu yana                 olduğu</Text>
+                <BeginOffset>2221</BeginOffset>
+                <EndOffset>2317</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>böyle bir savaş çıkması halinde Türkiye&apos;nin
+                    de bu savaşın                 dışında kalamayacağı</Text>
+                <BeginOffset>2321</BeginOffset>
+                <EndOffset>2415</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>5216</BeginOffset>
+                <EndOffset>5218</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>onun önünde                 diz çöker</Text>
+                <BeginOffset>5178</BeginOffset>
+                <EndOffset>5215</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İncirlik&apos;i yitirmemeyi isterdi</Text>
+                <BeginOffset>5219</BeginOffset>
+                <EndOffset>5249</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Yarın Türkiye&apos;de başa bir Türk
+                    Ayetullah&apos;ı geçse bile</Text>
+                <BeginOffset>5119</BeginOffset>
+                <EndOffset>5172</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>ABD</Text>
+                <BeginOffset>5173</BeginOffset>
+                <EndOffset>5176</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Conjunction" sense="Expansion: Conjunction" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>ve</Text>
+                <BeginOffset>6629</BeginOffset>
+                <EndOffset>6631</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>soğuk havanın bugün ve yarın da etkili olacağını</Text>
+                <BeginOffset>6580</BeginOffset>
+                <EndOffset>6628</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ısının                 biraz daha düşeceğini</Text>
+                <BeginOffset>6632</BeginOffset>
+                <EndOffset>6676</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="disjunctive"
+        sense="Expansion: Alternative: disjunctive" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>yoksa</Text>
+                <BeginOffset>2588</BeginOffset>
+                <EndOffset>2593</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bir ABD üssü müdür</Text>
+                <BeginOffset>2568</BeginOffset>
+                <EndOffset>2586</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Türk-Amerikan ortak üssü müdür</Text>
+                <BeginOffset>2594</BeginOffset>
+                <EndOffset>2624</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>İncirlik</Text>
+                <BeginOffset>2559</BeginOffset>
+                <EndOffset>2567</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>Bu yüzden</Text>
+                <BeginOffset>12247</BeginOffset>
+                <EndOffset>12256</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İki taraf hep birbirine
+                    saldıracakmış gibi önlemler aldı</Text>
+                <BeginOffset>12173</BeginOffset>
+                <EndOffset>12245</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Avrupa&apos;nın silaha ve orduya en
+                    çok para harcayan iki ülkesi oldu Türkiye ve Yunanistan</Text>
+                <BeginOffset>12257</BeginOffset>
+                <EndOffset>12359</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Condition" sense="Contingency: Condition" type="EXPLICIT">
+        <Conn>
+            <Span>
+                <Text>zaman</Text>
+                <BeginOffset>10823</BeginOffset>
+                <EndOffset>10828</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>savaşlarla ve kanla dolu                 bir tarih görürüz</Text>
+                <BeginOffset>10829</BeginOffset>
+                <EndOffset>10887</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Fransa ve Almanya&apos;nın tarihine baktığımız</Text>
+                <BeginOffset>10781</BeginOffset>
+                <EndOffset>10822</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

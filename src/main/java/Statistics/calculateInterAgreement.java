@@ -113,8 +113,9 @@ public class calculateInterAgreement {
 
     public static void main(String[] args) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException {
         // calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\savas", "Agreement\\agreed");
-     //    calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\old\\savas", "Agreement\\old\\serkan", "IMPLICIT"); // 85,  123
-            calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\old\\tuğçe", "Agreement\\old\\murathan", "ENTREL");
+        //    calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\old\\savas", "Agreement\\old\\serkan", "IMPLICIT"); // 85,  123
+       //     calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\explicit\\tuğçe", "Agreement\\explicit\\murathan", "EXPLICIT");
+        calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\explicit\\savas", "Agreement\\explicit\\serkan", "EXPLICIT");
 
         System.out.println(" - ");
         for (int i : overallAgreed) {
@@ -123,7 +124,7 @@ public class calculateInterAgreement {
         System.out.println("common: " + overallSize);
         System.out.println("unique: " + uniqueMap.size());
         System.out.println("common/unique: " + ((double) overallSize / uniqueMap.size()));
-        calculator.printConfusionMatrix();
+        //  calculator.printConfusionMatrix();
 
     }
 
