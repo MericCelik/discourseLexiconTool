@@ -122,7 +122,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="precedence"
-        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        sense="Temporal: Asynchronous: precedence" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>Ardından</Text>
@@ -151,7 +151,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="succession"
-        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ardından</Text>
@@ -187,7 +187,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="precendence"
-        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        sense="Temporal: Asynchronous: precedence" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>Ardından</Text>
@@ -697,7 +697,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="precendence"
-        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        sense="Temporal: Asynchronous: precedence" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>önce</Text>
@@ -733,7 +733,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="succession"
-        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>önce</Text>
@@ -769,7 +769,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="" type="EXPLICIT">
+    <Relation note="" sense="?" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>önce</Text>
@@ -840,7 +840,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="succession"
-        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>sonra</Text>
@@ -870,7 +870,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="succession"
-        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        sense="Temporal: Asynchronous: precedence" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>sonra</Text>
@@ -906,7 +906,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="succession"
-        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>sonra</Text>
@@ -941,7 +941,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="succession"
-        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>sonra</Text>
@@ -970,7 +970,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="conjunctive"
-        sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+        sense="Expansion: Conjunction" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>
@@ -1000,7 +1000,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="precedence"
-        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        sense="Temporal: Asynchronous: precedence" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>
@@ -1029,7 +1029,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="conjunctive"
-        sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+        sense="Expansion: Conjunction" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>
@@ -1124,7 +1124,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="conjunctive"
-        sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+        sense="Expansion: Conjunction" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>
@@ -1221,7 +1221,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="conjunctive"
-        sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+        sense="Expansion: Conjunction" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>Öte yandan</Text>

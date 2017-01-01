@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Şiddetli                 sağanak nedeniyle</Text>
+                <BeginOffset>1800</BeginOffset>
+                <EndOffset>1842</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Atatürk Havalimanı Meteoroloji
+                    Müdürlüğü yetkilileri, yağışların iki gün süreceğini belirttiler</Text>
+                <BeginOffset>1687</BeginOffset>
+                <EndOffset>1798</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İzmir&apos;in çeşitli semtlerinde logarlar tıkandı
+                    ve su                 baskınları yaşandı</Text>
+                <BeginOffset>1843</BeginOffset>
+                <EndOffset>1929</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Contingency: Cause: reason" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>2098</BeginOffset>
+                <EndOffset>2108</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Sağanak, Narlıdere Şehitlik Kavşağı, Konak
+                    Mithatpaşa                 Caddesi, Güzelyalı,
+                    Karabağlar ve Çınarlı&apos;da yollarda su
+                    birikintisine yol                 açtı</Text>
+                <BeginOffset>1931</BeginOffset>
+                <EndOffset>2096</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>trafikte sorun yaşanırken bazı araçlar yolda kaldı</Text>
+                <BeginOffset>2109</BeginOffset>
+                <EndOffset>2159</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="sense?" sense="Expansion: Instantiation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Öncelikle</Text>
+                <BeginOffset>9868</BeginOffset>
+                <EndOffset>9877</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text> Atatürkçü ilkelere bağlılıklarını dile getirdiler</Text>
+                <BeginOffset>9800</BeginOffset>
+                <EndOffset>9850</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bir durumu okurların bilgisine sunmak istiyorum</Text>
+                <BeginOffset>9879</BeginOffset>
+                <EndOffset>9926</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Laik,                 demokratik, bağımsız
+                    cumhuriyetten yana savaşım veren, ilkeli, dürüst
+                    yayıncılığını bugüne dek sürdüren, bilimsel,
+                    kültürel, eğitsel, sanatsal                 içerikli
+                    yazılara ağırlık tanıyan, bu nedenle de bilgi ve
+                    kültür kaynağı                 olan Cumhuriyet
+                    gazetesi, öğrencilerimiz istediği için, okulumuzun
+                    kitaplığına her gün gelmektedir</Text>
+                <BeginOffset>9928</BeginOffset>
+                <EndOffset>10328</EndOffset>
+            </Span>
+        </Supp1>
+    </Relation>
+    <Relation note="" sense="Temporal: Synchronous: precedence" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Kısa bir süre                 önce</Text>
+                <BeginOffset>12554</BeginOffset>
+                <EndOffset>12588</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Ülkemizde yaklaşık 60 eğitim fakültesi vardır;
+                    yalnızca birinde yapılan bir araştırmanın
+                    sonuçlarının tüm öğretmen                 adaylarına
+                    genellenmesi ne derece sağlıklı bir yaklaşımdır</Text>
+                <BeginOffset>12347</BeginOffset>
+                <EndOffset>12552</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>TÜEF&apos;den ayrılıp şu anda bir başka eğitim
+                    fakültesinde görev yapmakta                 olan
+                    Prof. Dr. Cevat Celep, bu araştırmayı, hiç değilse,
+                    yeni okulundaki                 öğrenciler üzerinde
+                    de gerçekleştirdikten sonra, sonuçları basına verme
+                    inceliğinde bulunsaydı, toplanan veriler, ulaşılan
+                    yargılar (yorumlar)                 açısından, söz
+                    konusu araştırmanın geçerlilik ve güvenirliliği,
+                    kuşkusuz                 daha bir yüksek olurdu</Text>
+                <BeginOffset>12589</BeginOffset>
+                <EndOffset>13050</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Contingency: Pragmatic Cause" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu durumda</Text>
+                <BeginOffset>17187</BeginOffset>
+                <EndOffset>17197</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Erdoğan&apos;ın Siirt&apos;ten milletvekili
+                    seçilmesi durumunda,                 Gül istifa edecek</Text>
+                <BeginOffset>17097</BeginOffset>
+                <EndOffset>17185</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>şubat ayında 59. hükümet kurulacak ve
+                    Erdoğan başbakan olacak</Text>
+                <BeginOffset>17199</BeginOffset>
+                <EndOffset>17276</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

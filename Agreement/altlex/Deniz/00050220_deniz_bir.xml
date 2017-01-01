@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="succession"
+        sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Daha ilk andan itibaren</Text>
+                <BeginOffset>5382</BeginOffset>
+                <EndOffset>5405</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Hürriyeti, bağımsızlığı başıboş ve bilinçsiz
+                    yaşamak zannedenlerle dolmuştu ülkemiz</Text>
+                <BeginOffset>5454</BeginOffset>
+                <EndOffset>5537</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ağır ağır düş kırıklığına uğramaya başlamıştım</Text>
+                <BeginOffset>5406</BeginOffset>
+                <EndOffset>5452</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O ayın sonuna doğru</Text>
+                <BeginOffset>5712</BeginOffset>
+                <EndOffset>5731</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>da</Text>
+                <BeginOffset>5732</BeginOffset>
+                <EndOffset>5734</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Eylül 1945&apos;te Fuat Köprülü ve Adnan Menderes
+                    partiden çıkarılmışlardı</Text>
+                <BeginOffset>5641</BeginOffset>
+                <EndOffset>5710</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Celâl Bayar meclisten çekildi</Text>
+                <BeginOffset>5735</BeginOffset>
+                <EndOffset>5764</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+	<Relation note="" sense="Contingency: Cause: reason" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>5935</BeginOffset>
+                <EndOffset>5945</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Bu olaylar ve gelişmeleri hakkında yüzlerce eser yazıldı</Text>
+                <BeginOffset>5877</BeginOffset>
+                <EndOffset>5933</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>onlar hakkında ayrıntılı bilgiye gerek yok</Text>
+                <BeginOffset>5946</BeginOffset>
+                <EndOffset>5988</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O gün öğleden sonra</Text>
+                <BeginOffset>8867</BeginOffset>
+                <EndOffset>8886</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>İki yüz kadar karttı, ceplerime yerleştirdikten
+                    sonra yemeğe çıktım</Text>
+                <BeginOffset>8798</BeginOffset>
+                <EndOffset>8865</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>okula dönmedim</Text>
+                <BeginOffset>8887</BeginOffset>
+                <EndOffset>8901</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+	<Relation note="" sense="Contingency: Pragmatic Cause" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bunun üzerine</Text>
+                <BeginOffset>11217</BeginOffset>
+                <EndOffset>11230</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Okuldan kart usulü kalktı artık,&quot; dedim</Text>
+                <BeginOffset>11176</BeginOffset>
+                <EndOffset>11215</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>annem , evlâdını koruyan bir anne olarak kendince
+                    öğütler verdi</Text>
+                <BeginOffset>11231</BeginOffset>
+                <EndOffset>11294</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

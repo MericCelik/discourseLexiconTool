@@ -322,7 +322,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="list: ve" sense="Expansion: List" type="IMPLICIT">
+    <Relation note="list: ve" sense="Expansion: Conjunction" type="IMPLICIT">
         <Conn>
             <Span>
                 <Text>B</Text>
@@ -445,7 +445,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="conjunctive: ve"
-        sense="Expansion: Alternative: conjunctive" type="IMPLICIT">
+        sense="Expansion: Conjunction" type="IMPLICIT">
         <Conn>
             <Span>
                 <Text>A</Text>

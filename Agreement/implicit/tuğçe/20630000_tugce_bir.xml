@@ -1067,4 +1067,150 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
+	<Relation note="? restatement" sense="Expansion: Restatement" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>880</BeginOffset>
+                <EndOffset>881</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ABD&apos;nin, &quot;Iraklıları da Saddam&apos;dan
+                    kurtaracağız&quot; tezi, pek rağbet görmüyor</Text>
+                <BeginOffset>804</BeginOffset>
+                <EndOffset>878</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bir öğrenci, bu durumu, &quot;Madem bizi kurtarmak
+                    istiyorlar, neden tepemize bomba yağdırmayı
+                    düşünüyorlar?&quot; sözleriyle özetliyor</Text>
+                <BeginOffset>880</BeginOffset>
+                <EndOffset>1005</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	 <Relation note="reason: çünkü" sense="Contingency: Cause: reason" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>T</Text>
+                <BeginOffset>16690</BeginOffset>
+                <EndOffset>16691</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kumarhanelerin açılması sadece kaynak bakımından
+                    değil, turizm açısından da çok önemli</Text>
+                <BeginOffset>16602</BeginOffset>
+                <EndOffset>16688</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Türkiye&apos;nin tanıtımına büyük destek sağlayacaktır</Text>
+                <BeginOffset>16690</BeginOffset>
+                <EndOffset>16739</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="? da var!" sense="Expansion: Conjunction" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>T</Text>
+                <BeginOffset>16741</BeginOffset>
+                <EndOffset>16742</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Türkiye&apos;nin tanıtımına büyük destek sağlayacaktır</Text>
+                <BeginOffset>16690</BeginOffset>
+                <EndOffset>16739</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Türkiye&apos;nin imaj ve marka yaratmasında da
+                    avantaj sağlayacaktır</Text>
+                <BeginOffset>16741</BeginOffset>
+                <EndOffset>16804</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="synchronous: o sırada" sense="Temporal: Synchronous" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>K</Text>
+                <BeginOffset>14248</BeginOffset>
+                <EndOffset>14249</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yaklaşık 300 metre havadaydık</Text>
+                <BeginOffset>14217</BeginOffset>
+                <EndOffset>14246</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kesinlikle sis yoktu</Text>
+                <BeginOffset>14248</BeginOffset>
+                <EndOffset>14268</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result:  bu yüzden"
+        sense="Contingency: Cause: result" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>S</Text>
+                <BeginOffset>14426</BeginOffset>
+                <EndOffset>14427</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Birden kendimi alevlerin içinde buldum</Text>
+                <BeginOffset>14386</BeginOffset>
+                <EndOffset>14424</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Savaş çıktığını sandım</Text>
+                <BeginOffset>14426</BeginOffset>
+                <EndOffset>14448</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
 </Document>

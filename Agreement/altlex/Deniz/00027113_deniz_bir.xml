@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="Pragmatic cause"
+        sense="Contingency: Cause: reason" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>bu yüzden</Text>
+                <BeginOffset>1395</BeginOffset>
+                <EndOffset>1404</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>Belki de</Text>
+                <BeginOffset>1386</BeginOffset>
+                <EndOffset>1394</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Babanın yokluğunda tek tutamak kuvvetli bir ahlâk
+                    anlayışı gibi görünüyordu</Text>
+                <BeginOffset>1309</BeginOffset>
+                <EndOffset>1384</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ondokuzuncu yüzyılda çok sayıda &quot;oğula
+                    nasihat&quot; ya da &quot;çocuk terbiyesi&quot;
+                    kitaplarına rastlarız. Ahmet Mithat Efendi&apos;de
+                    bu sorun bir tutku niteliğindeydi</Text>
+                <BeginOffset>1405</BeginOffset>
+                <EndOffset>1556</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

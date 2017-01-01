@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="Comparison: Pragmatic Contrast" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Buna karşılık</Text>
+                <BeginOffset>7789</BeginOffset>
+                <EndOffset>7802</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>1998-2002 arasında oynanan müşterek bahis
+                    oyunlarında yapılan                 yasal
+                    kesintilerin tutarı 1.5 milyar doları geçti</Text>
+                <BeginOffset>7660</BeginOffset>
+                <EndOffset>7787</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>at                 yarışı oynayanlara, bahis için
+                    verdikleri paranın yalnızca yarısı ikramiye
+                    olarak döndü</Text>
+                <BeginOffset>7804</BeginOffset>
+                <EndOffset>7926</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement: generalization" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bir başka ifadeyle</Text>
+                <BeginOffset>9530</BeginOffset>
+                <EndOffset>9548</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Toplanan hasılatın 562.8                 trilyon
+                    liralık bölümü ise oynayanlara dağıtıldı</Text>
+                <BeginOffset>9439</BeginOffset>
+                <EndOffset>9528</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>müşterek bahis oynayanlar iki koyup bir kazandı</Text>
+                <BeginOffset>9566</BeginOffset>
+                <EndOffset>9613</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Contingency: Cause: reason" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu yüzden</Text>
+                <BeginOffset>12247</BeginOffset>
+                <EndOffset>12256</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>İki taraf hep birbirine
+                    saldıracakmış gibi önlemler aldı</Text>
+                <BeginOffset>12173</BeginOffset>
+                <EndOffset>12245</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Avrupa&apos;nın silaha ve orduya en
+                    çok para harcayan iki ülkesi oldu Türkiye ve Yunanistan</Text>
+                <BeginOffset>12257</BeginOffset>
+                <EndOffset>12359</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

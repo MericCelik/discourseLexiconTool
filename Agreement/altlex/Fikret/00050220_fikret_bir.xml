@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Daha ilk andan itibaren</Text>
+                <BeginOffset>5382</BeginOffset>
+                <EndOffset>5405</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Artık Hürriyet Var,&quot; diye sevinç çığlıkları
+                    atıyordu koridorlarda çocuklar</Text>
+                <BeginOffset>5306</BeginOffset>
+                <EndOffset>5380</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ağır ağır düş kırıklığına uğramaya başlamıştım</Text>
+                <BeginOffset>5406</BeginOffset>
+                <EndOffset>5452</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O ayın sonuna doğru da</Text>
+                <BeginOffset>5712</BeginOffset>
+                <EndOffset>5734</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Eylül 1945&apos;te Fuat Köprülü ve Adnan Menderes
+                    partiden çıkarılmışlardı</Text>
+                <BeginOffset>5641</BeginOffset>
+                <EndOffset>5710</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Celâl Bayar meclisten çekildi</Text>
+                <BeginOffset>5735</BeginOffset>
+                <EndOffset>5764</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Contingency: Cause: reason" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>5935</BeginOffset>
+                <EndOffset>5945</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Bu olaylar ve gelişmeleri hakkında yüzlerce eser yazıldı</Text>
+                <BeginOffset>5877</BeginOffset>
+                <EndOffset>5933</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>onlar hakkında ayrıntılı bilgiye gerek yok</Text>
+                <BeginOffset>5946</BeginOffset>
+                <EndOffset>5988</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O gün öğleden sonra</Text>
+                <BeginOffset>8867</BeginOffset>
+                <EndOffset>8886</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>İki yüz kadar karttı, ceplerime yerleştirdikten
+                    sonra yemeğe çıktım</Text>
+                <BeginOffset>8798</BeginOffset>
+                <EndOffset>8865</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>okula dönmedim</Text>
+                <BeginOffset>8887</BeginOffset>
+                <EndOffset>8901</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O yıllarda</Text>
+                <BeginOffset>9444</BeginOffset>
+                <EndOffset>9454</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Doğru Muzaffer Beyin odasına gittim; yerinde yoktu</Text>
+                <BeginOffset>9392</BeginOffset>
+                <EndOffset>9442</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>lig maçlarında hakemlik de yapıyordu</Text>
+                <BeginOffset>9455</BeginOffset>
+                <EndOffset>9491</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Contingency: Pragmatic Cause" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bunun üzerine</Text>
+                <BeginOffset>11217</BeginOffset>
+                <EndOffset>11230</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Okuldan kart usulü kalktı artık,&quot; dedim</Text>
+                <BeginOffset>11176</BeginOffset>
+                <EndOffset>11215</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>annem , evlâdını koruyan bir anne olarak kendince
+                    öğütler verdi</Text>
+                <BeginOffset>11231</BeginOffset>
+                <EndOffset>11294</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O gün öğleden sonra</Text>
+                <BeginOffset>11893</BeginOffset>
+                <EndOffset>11912</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Bu eser, Jean Jacques Rousseau&apos;nun
+                    &quot;İlimler ve Sanatlar Hakkında Nutuk&quot;
+                    isimli kitabıydı</Text>
+                <BeginOffset>11803</BeginOffset>
+                <EndOffset>11891</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Orhan, Kemal&apos;i de getirmesini söyleyerek
+                    evlerine çağırmıştı onları</Text>
+                <BeginOffset>11913</BeginOffset>
+                <EndOffset>11980</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

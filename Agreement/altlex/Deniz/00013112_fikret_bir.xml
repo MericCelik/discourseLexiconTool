@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bundan sonra</Text>
+                <BeginOffset>2722</BeginOffset>
+                <EndOffset>2734</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Bu aşağı yukarı ilk çalışmalarımdan bir tanesi</Text>
+                <BeginOffset>2674</BeginOffset>
+                <EndOffset>2720</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kurtarma kazıları yaptım</Text>
+                <BeginOffset>2735</BeginOffset>
+                <EndOffset>2759</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Spektral analiz çalışmalarıyla Anadolu Maden
+                    Enstitüsü hakkında kapsamlı bir araştırma yaptım</Text>
+                <BeginOffset>2579</BeginOffset>
+                <EndOffset>2672</EndOffset>
+            </Span>
+        </Supp1>
+    </Relation>
+    <Relation note="" sense="Contingency: Pragmatic Cause" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bunun üzerine</Text>
+                <BeginOffset>3073</BeginOffset>
+                <EndOffset>3086</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Bunlar bitince, bu defa Aşıklı&apos;nın su altında
+                    kalacağı söylendi</Text>
+                <BeginOffset>3008</BeginOffset>
+                <EndOffset>3071</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Aşıklı&apos;da kurtarma kazılarına başladık</Text>
+                <BeginOffset>3087</BeginOffset>
+                <EndOffset>3125</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Expansion: Conjunction" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu benzerliklerin yanında</Text>
+                <BeginOffset>7655</BeginOffset>
+                <EndOffset>7680</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Çatalhöyük ile Aşıklı arasında kültür olarak da
+                    birtakım benzerlikler var</Text>
+                <BeginOffset>7580</BeginOffset>
+                <EndOffset>7653</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>farklılıklar da var</Text>
+                <BeginOffset>7681</BeginOffset>
+                <EndOffset>7700</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Temporal: Asynchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu tamir esnasında</Text>
+                <BeginOffset>9243</BeginOffset>
+                <EndOffset>9261</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Burada bazı duvarlar, hep birbirini takip etmiş;
+                    ama bazıları etmemiş</Text>
+                <BeginOffset>9172</BeginOffset>
+                <EndOffset>9241</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bütün çöpleri alıp yan tarafa atıyorlar ve burada
+                    bir çöp birikintisi oluşuyor</Text>
+                <BeginOffset>9263</BeginOffset>
+                <EndOffset>9341</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Comparison: Contrast" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Değilse</Text>
+                <BeginOffset>15050</BeginOffset>
+                <EndOffset>15057</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Analizler aynı sonuçları verirse, bakırın oradan
+                    alındığını öğreneceğiz</Text>
+                <BeginOffset>14977</BeginOffset>
+                <EndOffset>15048</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>başka yerlerde arayacağız</Text>
+                <BeginOffset>15059</BeginOffset>
+                <EndOffset>15084</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

@@ -152,7 +152,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="list ?" sense="Expansion: List" type="IMPLICIT">
+    <Relation note="list ?" sense="Expansion: Conjunction" type="IMPLICIT">
         <Conn>
             <Span>
                 <Text>A</Text>
@@ -388,7 +388,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="list: ve de" sense="Expansion: List" type="IMPLICIT">
+    <Relation note="list: ve de" sense="Expansion: Conjunction" type="IMPLICIT">
         <Conn>
             <Span>
                 <Text>K</Text>
@@ -417,7 +417,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="list: ve" sense="Expansion: List" type="IMPLICIT">
+    <Relation note="list: ve" sense="Expansion: Conjunction" type="IMPLICIT">
         <Conn>
             <Span>
                 <Text>S</Text>
@@ -566,7 +566,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="bisiklet list" sense="Expansion: List" type="IMPLICIT">
+    <Relation note="bisiklet list" sense="Expansion: Conjunction" type="IMPLICIT">
         <Conn>
             <Span>
                 <Text>G</Text>
@@ -595,7 +595,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="list: ve" sense="Expansion: List" type="IMPLICIT">
+    <Relation note="list: ve" sense="Expansion: Conjunction" type="IMPLICIT">
         <Conn>
             <Span>
                 <Text>K</Text>

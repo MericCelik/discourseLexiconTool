@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<Document>  
+    <Relation note="condition " sense="Contingency: Condition" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>o zaman</Text>
+                <BeginOffset>14493</BeginOffset>
+                <EndOffset>14500</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Beni istemediğini söylemen &quot;düşsel sen&quot;i
+                    alırdı elimden</Text>
+                <BeginOffset>14431</BeginOffset>
+                <EndOffset>14486</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İnan</Text>
+                <BeginOffset>14488</BeginOffset>
+                <EndOffset>14492</EndOffset>
+            </Span>
+            <Span>
+                <Text>anlam taşımazdı yaşamım</Text>
+                <BeginOffset>14501</BeginOffset>
+                <EndOffset>14524</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="Murathan: ALTLEX karşılığı &quot;mesela&quot; olabilir. Instantiation Agreed DZ. "
+        sense="Expansion: Instantiation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>En basiti</Text>
+                <BeginOffset>3441</BeginOffset>
+                <EndOffset>3450</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Dudaklarına aç bir yaban hayvanı gibi uzanan
+                    dudaklarımı istemiyordun</Text>
+                <BeginOffset>3359</BeginOffset>
+                <EndOffset>3428</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>birlikte dolaşmak bile ıstıraptı senin için</Text>
+                <BeginOffset>3452</BeginOffset>
+                <EndOffset>3495</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="yeni AltLex - &quot;derken&quot; DZ. "
+        sense="Temporal: Synchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Derken</Text>
+                <BeginOffset>15646</BeginOffset>
+                <EndOffset>15652</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ağır ağır pencereye yürüdü. Bu güzel yaratığı
+                    ürkütmeden nasıl yakalayabilirdi? Nasıl açabilirdi pencereyi?</Text>
+                <BeginOffset>15538</BeginOffset>
+                <EndOffset>15645</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Derken kelebek havalandı ve sokağın öbür ucuna
+                    doğru uçmaya başladı.</Text>
+                <BeginOffset>15646</BeginOffset>
+                <EndOffset>15714</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="yeni DZ.  Temporal:synchronous:precedence"
+        sense="Temporal: Synchronous: precedence" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Sonuçsuz bir çarpışma sonrası</Text>
+                <BeginOffset>4077</BeginOffset>
+                <EndOffset>4106</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ermeni Ante, Mihriban Hanım&apos;a duyduğu aşkı
+                    yol boyu taşıdı. Çarpışma sürerken bile onun yüzünü görüyordu</Text>
+                <BeginOffset>3971</BeginOffset>
+                <EndOffset>4075</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sonuçsuz bir çarpışma sonrası iki donanma da geri
+                    çekilerek toparlanmaya başladı</Text>
+                <BeginOffset>4077</BeginOffset>
+                <EndOffset>4157</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="&quot;o arada&quot; yeni DZ.  Temporal:synchronous"
+        sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O arada</Text>
+                <BeginOffset>4229</BeginOffset>
+                <EndOffset>4236</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yeni bir çarpışma olacaktı. Ama bunun hazırlığı
+                    haftalar sürebilirdi</Text>
+                <BeginOffset>4159</BeginOffset>
+                <EndOffset>4227</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ante&apos;nin hastalığı şiddetlenmişti, giderek ağırlaşıyordu</Text>
+                <BeginOffset>4237</BeginOffset>
+                <EndOffset>4293</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="&quot;bu sefer sonuncunda&quot; yeni. DZ Temporal:synchronous:succession"
+        sense="Temporal: Synchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>bu sefer sonunda</Text>
+                <BeginOffset>5076</BeginOffset>
+                <EndOffset>5092</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>Yine aylarca süren</Text>
+                <BeginOffset>5057</BeginOffset>
+                <EndOffset>5075</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Evlilik için hazırlıklar sürerken Ante, yeni bir
+                    görev emriyle yollara düştü</Text>
+                <BeginOffset>4979</BeginOffset>
+                <EndOffset>5055</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>küçük de olsa bir başarı elde edilmişti</Text>
+                <BeginOffset>5093</BeginOffset>
+                <EndOffset>5132</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="&quot;bunun üzerine&quot; yeni. DZ.  Contingency:Cause:result"
+        sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bunun üzerine</Text>
+                <BeginOffset>5343</BeginOffset>
+                <EndOffset>5356</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Padişah bu isteği kabul etmedi, ama kendisine uzun
+                    süreli izin verdiğini söyledi</Text>
+                <BeginOffset>5261</BeginOffset>
+                <EndOffset>5341</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ante, mutlaka yalnız görüşmeleri gerektiğini
+                    anlatmaya çalıştı</Text>
+                <BeginOffset>5357</BeginOffset>
+                <EndOffset>5419</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="&quot;tam üzerindeki giysileri çıkaracağı sırada&quot; yeni DZ. temporal:synchronous (2-6 no&apos;lu relation&apos;lar ALTLEX değil bir yanlışlık olmuş)"
+        sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Tam üzerindeki giysileri çıkartacağı sırada</Text>
+                <BeginOffset>8586</BeginOffset>
+                <EndOffset>8629</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Önce onu papatya tarlasında öpüyordu</Text>
+                <BeginOffset>8548</BeginOffset>
+                <EndOffset>8584</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>şiddetli bir rüzgâr başlıyordu</Text>
+                <BeginOffset>8630</BeginOffset>
+                <EndOffset>8660</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Temporal DZ"
+        sense="Temporal: Asynchronous: precedence" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O zamana değin</Text>
+                <BeginOffset>2980</BeginOffset>
+                <EndOffset>2994</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Büyülenmiştim</Text>
+                <BeginOffset>2880</BeginOffset>
+                <EndOffset>2893</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>gördüğüm en güzel şovlardan biriydi bu</Text>
+                <BeginOffset>2995</BeginOffset>
+                <EndOffset>3033</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="expansion:conjunction DZ (agreed)"
+        sense="Expansion: Conjunction" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Üstelik</Text>
+                <BeginOffset>11966</BeginOffset>
+                <EndOffset>11973</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ben Mithat Bey&apos;in eski karısını hiç tanımadım ki</Text>
+                <BeginOffset>11916</BeginOffset>
+                <EndOffset>11964</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ben Mithat Bey&apos;i de tanımıyorum</Text>
+                <BeginOffset>11974</BeginOffset>
+                <EndOffset>12005</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precedence result" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O zaman</Text>
+                <BeginOffset>4121</BeginOffset>
+                <EndOffset>4128</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bazen elini kadının beyaz külotunun içine de sokuyordu</Text>
+                <BeginOffset>4065</BeginOffset>
+                <EndOffset>4119</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kukla kadın elektrik verilmiş gibi titriyordu</Text>
+                <BeginOffset>4129</BeginOffset>
+                <EndOffset>4174</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="precedence result" sense="Temporal: Synchronous: precedence" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O zaman</Text>
+                <BeginOffset>4121</BeginOffset>
+                <EndOffset>4128</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bazen elini kadının beyaz külotunun içine de sokuyordu</Text>
+                <BeginOffset>4065</BeginOffset>
+                <EndOffset>4119</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kukla kadın elektrik verilmiş gibi titriyordu</Text>
+                <BeginOffset>4129</BeginOffset>
+                <EndOffset>4174</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="justification epistemic"
+        sense="Contingency: Pragmatic Cause: justification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O zaman</Text>
+                <BeginOffset>12339</BeginOffset>
+                <EndOffset>12346</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>benim bu garip yaşamöyküsü ile, bu insanlarla
+                    hiçbir ilgim yok. O olayları yaşayan ben değilim.
+                    Benim yaşamım bambaşka</Text>
+                <BeginOffset>12151</BeginOffset>
+                <EndOffset>12269</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>sizden nefret eden, size kin duyan bir kadın da yok</Text>
+                <BeginOffset>12347</BeginOffset>
+                <EndOffset>12398</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Mithat Bey&apos;in eski karısı. Başka kim
+                    olabilir? Kocasını elinden aldığınız kadın</Text>
+                <BeginOffset>11650</BeginOffset>
+                <EndOffset>11729</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="pragmatic cause"
+        sense="Contingency: Pragmatic Cause" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>o zaman</Text>
+                <BeginOffset>2552</BeginOffset>
+                <EndOffset>2559</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>yalnızca iki kez gittim</Text>
+                <BeginOffset>2414</BeginOffset>
+                <EndOffset>2437</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Onu tanıyorsunuz</Text>
+                <BeginOffset>2535</BeginOffset>
+                <EndOffset>2551</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ: &quot;da&quot; yı MOD yaptım. Bu arada daha önce seçilmiş olan anlamı kaybettim. Asynchronous muydu? "
+        sense="Temporal: Asynchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bir süre sonra</Text>
+                <BeginOffset>3427</BeginOffset>
+                <EndOffset>3441</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>da</Text>
+                <BeginOffset>3442</BeginOffset>
+                <EndOffset>3444</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Çıkmak istemez</Text>
+                <BeginOffset>3411</BeginOffset>
+                <EndOffset>3425</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>o dayanılmaz bekleyişe, o baş etmesi zor gerilime alışır</Text>
+                <BeginOffset>3445</BeginOffset>
+                <EndOffset>3501</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="synchronous  " sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Belki de o anda</Text>
+                <BeginOffset>4263</BeginOffset>
+                <EndOffset>4278</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bir namaz tahtasına sarılmış olarak kıyıya
+                    vurduğunda kollarını zor açmışlar, yarı yarıya donmuş</Text>
+                <BeginOffset>4165</BeginOffset>
+                <EndOffset>4261</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Tanrı&apos;ya yakarıp yardım istiyordu</Text>
+                <BeginOffset>4279</BeginOffset>
+                <EndOffset>4312</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result " sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>bu yüzden</Text>
+                <BeginOffset>2773</BeginOffset>
+                <EndOffset>2782</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu kokuyla sıcak tenini, eşsiz çıplaklığını
+                    yeniden avuçlarımda duyuyordum</Text>
+                <BeginOffset>2695</BeginOffset>
+                <EndOffset>2769</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yokluğu öyle somut bir acıyla içimi burkuyordu</Text>
+                <BeginOffset>2783</BeginOffset>
+                <EndOffset>2829</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Yastığımda hâlâ kokusu vardı</Text>
+                <BeginOffset>2665</BeginOffset>
+                <EndOffset>2693</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result " sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>bu yüzden</Text>
+                <BeginOffset>13190</BeginOffset>
+                <EndOffset>13199</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>romantizm öldü artık, ayağa düştü</Text>
+                <BeginOffset>13108</BeginOffset>
+                <EndOffset>13141</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Zaten şiiri</Text>
+                <BeginOffset>13178</BeginOffset>
+                <EndOffset>13189</EndOffset>
+            </Span>
+            <Span>
+                <Text>bıraktı Kerim</Text>
+                <BeginOffset>13200</BeginOffset>
+                <EndOffset>13213</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="&quot;öyleyse&quot; yeni DZ. contingency: cause:result"
+        sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Öyleyse</Text>
+                <BeginOffset>6396</BeginOffset>
+                <EndOffset>6403</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kocası öleli iki yıl olmadı mı, kuyumcuyla evlenip
+                    İzmirlere gitmedi mi</Text>
+                <BeginOffset>6323</BeginOffset>
+                <EndOffset>6394</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>şimdi ne arıyor buralarda</Text>
+                <BeginOffset>6404</BeginOffset>
+                <EndOffset>6429</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="Synchronous Murathan: Deniz &quot;Synchronous&quot;, Fikret &quot;restatement&quot; demiş bu altlex için. Bana da &quot;Synchronous&quot; gibi geldi. Synchronous DZ."
+        sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu dönemde</Text>
+                <BeginOffset>3268</BeginOffset>
+                <EndOffset>3278</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>I. Büyük Toplu Yokolma, Tetis denizinin
+                    açılmasıyla Dünya morfolojisinin, Pengea=Tek kıta -
+                    Pantalassa=Tek okyanus düzeninden, Aurasia=Kuzey
+                    kıtaları ve Gondwana=Güney kıtaları olarak yeni
+                    düzene geçmesi dönemine karşılık gelir</Text>
+                <BeginOffset>3039</BeginOffset>
+                <EndOffset>3266</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yeni dünyaya ayak uyduramayan canlılar ya tamamen
+                    Yok olmuşlar, ya da cins ve tür düzeyinde önemli
+                    ölçüde azalmışlardır</Text>
+                <BeginOffset>3280</BeginOffset>
+                <EndOffset>3399</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation
+        note="Instantiation Murathan: Fikret, bunun için specification demiş ancak bence de &quot;Instantiation&quot; Instantitation DZ"
+        sense="Expansion: Instantiation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Öyle ki</Text>
+                <BeginOffset>6022</BeginOffset>
+                <EndOffset>6029</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kretase sonu sınır çökellerinde, yüksek platinium
+                    grubu elementleri konsantrasyonunun yüksekliğine
+                    dayandırılarak ileri sürüldü ve haklılığına da kanıt
+                    olarak gösterildi</Text>
+                <BeginOffset>5851</BeginOffset>
+                <EndOffset>6020</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu sınır çökellerindeki yüksek platinium grubu
+                    elementlerine ancak göktaşlarında rastlanır</Text>
+                <BeginOffset>6031</BeginOffset>
+                <EndOffset>6121</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Kaldı ki</Text>
+                <BeginOffset>7558</BeginOffset>
+                <EndOffset>7566</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Jüpiter için gerçek olan uzay koşullarının, bir
+                    gün Dünya için de gerçek olabileceği unutulmamalıdır</Text>
+                <BeginOffset>7456</BeginOffset>
+                <EndOffset>7556</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yer yüzünden 2000 km yükseklikte askeri roketler
+                    ve uydu parçalarından oluşan, sayı ve ağırlıkları
+                    durmadan artırılan bir çöp bulutu insan eliyle
+                    oluşturulan diğer tehlikelerdendir</Text>
+                <BeginOffset>7568</BeginOffset>
+                <EndOffset>7748</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="specification Murathan: Fikret bunun için &quot;pragmatic reason&quot; demiş, ben emin olamadım. &quot;pragmatic cause&quot; demek istemiş herhalde, katılıyorum.  DZ"
+        sense="Contingency: Pragmatic Cause" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text> Bu durumda</Text>
+                <BeginOffset>8584</BeginOffset>
+                <EndOffset>8595</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Dinosaurus ve Foraminifera&apos;larda olduğu gibi
+                    eş zamanlarda oluşan ani kesilmeler daha geçerlidir</Text>
+                <BeginOffset>8487</BeginOffset>
+                <EndOffset>8583</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>fosil kanıtlarda yok olmanın seçmeli oluşu,
+                    çözülmeyi bekleyen sorulardan en önemlisidir</Text>
+                <BeginOffset>8597</BeginOffset>
+                <EndOffset>8685</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="sense? specification olabilir emin değilsek en üst kategori expansion yapabiiriz DZ"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu Yok olmada</Text>
+                <BeginOffset>3740</BeginOffset>
+                <EndOffset>3753</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kretase devri sonunda, yani günümüzden 65 milyon
+                    yıl önce, yaşayan tüm canlıların yüzde
+                    49.9&apos;unun yok olduğu II. Büyük Toplu Yok olma,
+                    İkinci Zaman&apos;ın bitişini belirler</Text>
+                <BeginOffset>3570</BeginOffset>
+                <EndOffset>3738</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Dinosaurus&apos;lar, Belemnit&apos;ler,
+                    Amonit&apos;ler ve mikrocanlılardan
+                    Nannoconus&apos;lar tamamen; Kokholit ve
+                    Foraminifera&apos;lar yüzde 85&apos;lik büyük
+                    kısmıyla kaybolurlar</Text>
+                <BeginOffset>3755</BeginOffset>
+                <EndOffset>3908</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="Purpose Murathan: Deniz bunun için &quot;result&quot; demiş ama bence de &quot;purpose&quot;. Evet katılıyorum; &quot;purpose&quot; PDTB 3&apos;de var. IPRA için sadece PDTB 2&apos;yi kullanalım demiştik eğer başka purpose işaretlemelerimiz de varsa ok. DZ"
+        sense="Contingency: Purpose" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu amaçla</Text>
+                <BeginOffset>4069</BeginOffset>
+                <EndOffset>4078</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Arz paleocoğrafyasının hemen hemen günümüzdekine
+                    yakın şekillendiği devirde, Yok olmanın nedeni gibi,
+                    süresi ve seçmeli oluşu da çözüm bekleyen sorulardandır</Text>
+                <BeginOffset>3910</BeginOffset>
+                <EndOffset>4067</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>pek çok kuram ileri sürülmüştür</Text>
+                <BeginOffset>4079</BeginOffset>
+                <EndOffset>4110</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Instantiation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Keza</Text>
+                <BeginOffset>7225</BeginOffset>
+                <EndOffset>7229</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Meteor çapının, sadece 1 km&apos;den büyük olması
+                    dahi, yıkıcı doğal felaketlere yol açabilir</Text>
+                <BeginOffset>7135</BeginOffset>
+                <EndOffset>7223</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>16-20 Temmuz 1994&apos;de Jüpiter gezegeninin
+                    Kuyruklu Yıldız Yağmuru&apos;na uğrayışını
+                    televizyonlardan, naklen tıpkı bir &quot;Uzay
+                    fiovu&quot; gibi izlemiştik</Text>
+                <BeginOffset>7230</BeginOffset>
+                <EndOffset>7372</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="Instantiaion Murathan: Deniz bunun için specification demiş. Bence de instantiation (Instantiation, birden fazla şeyden biri hakkında bilgi verirken kullanılır demişiz.) DZ. "
+        sense="Expansion: Instantiation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Keza</Text>
+                <BeginOffset>8181</BeginOffset>
+                <EndOffset>8185</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>II. Zaman sonundaki II. Büyük Toplu Yok
+                    Olma&apos;yı oluşturan başlıca faktörler; karada
+                    yaygın volkanizmayla eş zamanlı olarak, meteorit
+                    çarpması, dünya çapında deniz seviyesindeki
+                    regresyon ve okyanus yüzey sularındaki kalsit
+                    çözünmesindeki keskin boşluk olarak ileri sürülür</Text>
+                <BeginOffset>7907</BeginOffset>
+                <EndOffset>8179</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>II. Zaman- III. Zaman sınırında fosil kayıtlarında
+                    yaygın bir Yok oluş mevcuttur</Text>
+                <BeginOffset>8187</BeginOffset>
+                <EndOffset>8267</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Instantiation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Keza</Text>
+                <BeginOffset>8687</BeginOffset>
+                <EndOffset>8691</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu durumda, fosil kanıtlarda yok olmanın seçmeli
+                    oluşu, çözülmeyi bekleyen sorulardan en önemlisidir</Text>
+                <BeginOffset>8585</BeginOffset>
+                <EndOffset>8685</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Dinoflagellata ve Kalkerli Alg&apos;ler gibi bir
+                    grupda yokolma öncesi ve sonrasında cins bazında
+                    küçük düşüşler; Radiolaria ve Diatome gibi gruplarda
+                    aynen korunma; Foraminifer&apos;ler ve
+                    Kokholit&apos;ler gibi gruplarda büyük düşüşler;
+                    Dinosaurus, Amphibia, Belemnites ve
+                    Ammonites&apos;lerde tamamen yokolma söz konusu
+                    iken, Mammalia, Reptil ve Karasal Bitkiler&apos;de
+                    artış söz konusudur</Text>
+                <BeginOffset>8693</BeginOffset>
+                <EndOffset>9061</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="Instantiation Murathan: Deniz bunun için &quot;specification&quot; demiş. DZ: bir durumu diğerine benzetiyor. Instantiation doğru sanırım. "
+        sense="Expansion: Instantiation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Keza</Text>
+                <BeginOffset>9902</BeginOffset>
+                <EndOffset>9906</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kim ki, doğanın biyolojik yelpazesindeki
+                    çeşitliliği bozacak kadar baskın hale gelir ve
+                    diğerlerinin yaşama hakkını sınırlar ve hatta yok
+                    eder, doğa tekrar, herkese yaşama hakkını veren
+                    dengeli düzenini kurabilmek için, baskın olarak
+                    diğerlerinin yaşama hakkını gasp eden formu yok eder</Text>
+                <BeginOffset>9613</BeginOffset>
+                <EndOffset>9899</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>jeolojik tarihindeki toplu Yok olmalarda en çok
+                    kayıp verenlerle, tamamen yok olanlar, dönemlerinin
+                    en baskın formlarıdır</Text>
+                <BeginOffset>9908</BeginOffset>
+                <EndOffset>10029</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="&quot;biyolojik stres kaynaklarının en önemlileridir&quot; yeni. PDTB bu tür şeyleri altlex olarak işaretlemiş. ALTLEX olarak işaretlememişiz baktım. DZ"
+        sense="Expansion: Instantiation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>biyolojik stres kaynaklarının en önemlileridir</Text>
+                <BeginOffset>2549</BeginOffset>
+                <EndOffset>2595</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Canlılar, uyum sağlayamayacakları ya da etkisiz
+                    hale getiremeyecekleri bir çevresel faktör
+                    değişikliğiyle karşılaştıklarında biyolojik strese
+                    girer ve ölürler</Text>
+                <BeginOffset>2036</BeginOffset>
+                <EndOffset>2194</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Beslenme zincirinin kırılması, iklim değişikliği,
+                    okyanus ve atmosferde O2/CO2 dengesinin bozulması,
+                    deniz çekilmesi ve ilerlemesi, volkanizma, iz
+                    element konsantrasyonunda yükselme, kuyruklu yıldız
+                    veya meteorit çarpması, güneş sistemindeki
+                    patlamalardan oluşan kozmik radyasyon, periyodik
+                    galaktik olaylar ve yeryuvarının manyetik alanının değişmesi</Text>
+                <BeginOffset>2196</BeginOffset>
+                <EndOffset>2548</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="&quot;beraberinde getirdi&quot; PDTB tarzı bir Altlex, yeni Contingency:cause:result DZ"
+        sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>beraberinde getirdi</Text>
+                <BeginOffset>5287</BeginOffset>
+                <EndOffset>5306</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Birçok endüstride kullanılan kloroflorokarbon
+                    gazlarıyla, Halon türü gazların, çok yüksekten uçan
+                    jetlerden çıkan azot oksitlerin ve nükleer
+                    denemelerin ozonu tüketen unsurlar olduğu belirlendi</Text>
+                <BeginOffset>4951</BeginOffset>
+                <EndOffset>5144</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu olaylarda, özellikle klorun ozonu
+                    parçalamasının önüne geçilmeyişi, ozon incelmesinin
+                    geri dönüşümsüz, tamiri imkansız ve devamlı seyrini</Text>
+                <BeginOffset>5146</BeginOffset>
+                <EndOffset>5286</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Geleceğe uzanım yaparak ifade edersek</Text>
+                <BeginOffset>369</BeginOffset>
+                <EndOffset>406</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bilimsel Sosyalizmin kurucusu Marx, biten bin yıla
+                    damgasını vurmuş kapitalist uygarlığın, onun sonunu
+                    müjdeleyen, son büyük filozofudur</Text>
+                <BeginOffset>231</BeginOffset>
+                <EndOffset>367</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Marx&apos;ı, yepyeni bir toplumsal modelin
+                    müjdecisi ve ilk büyük filozofu olarak nitelemek
+                    daha doğru olacaktır</Text>
+                <BeginOffset>408</BeginOffset>
+                <EndOffset>515</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Geleceğe uzanım yaparak ifade edersek</Text>
+                <BeginOffset>1303</BeginOffset>
+                <EndOffset>1340</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Marx, 500 yıllık kapitalist uygarlığın, onun
+                    sonunu müjdeleyen, son büyük filozofudur</Text>
+                <BeginOffset>1216</BeginOffset>
+                <EndOffset>1301</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Marx&apos;ı, yepyeni bir toplumsal modelin
+                    müjdecisi ve ilk büyük filozofu olarak nitelemek
+                    daha doğru olacaktır</Text>
+                <BeginOffset>1342</BeginOffset>
+                <EndOffset>1449</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Contingency: Cause: reason" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Marx&apos;ın öğretisinin kapsayıcılığının bir
+                    nedeni de</Text>
+                <BeginOffset>3528</BeginOffset>
+                <EndOffset>3578</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bunlar dönemin burjuva toplumbiliminin üç doruğunu
+                    temsil ederler</Text>
+                <BeginOffset>3461</BeginOffset>
+                <EndOffset>3526</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu gür kaynaklardan beslenmesi, mirasçısı olmasıdır</Text>
+                <BeginOffset>3580</BeginOffset>
+                <EndOffset>3631</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Restatement" sense="Expansion: Restatement" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Gerçekten de</Text>
+                <BeginOffset>14559</BeginOffset>
+                <EndOffset>14571</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text> Bilimsel Sosyalizmin 20. yüzyıldaki en güçlü
+                    isimlerinden Sovyet Devrimi&apos;nin lideri Lenin,
+                    bu gelişmeye &quot;ileri Asya, geri Avrupa&quot;
+                    saptamasıyla vurgu yapmıştır</Text>
+                <BeginOffset>14398</BeginOffset>
+                <EndOffset>14557</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>20. yüzyılda kapitalizmi aşma yönündeki ilk
+                    atılım, Avrupa&apos;nın en ileri kapitalist
+                    ülkelerinden değil, çevreden, Rusya&apos;dan geldi</Text>
+                <BeginOffset>14572</BeginOffset>
+                <EndOffset>14700</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Gerçekten de</Text>
+                <BeginOffset>16455</BeginOffset>
+                <EndOffset>16467</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Mao, sosyalizmin uzun sürecek bir geçiş aşaması
+                    olduğunu, sınıfların ve sınıf mücadelesinin üretim
+                    araçlarının toplumsal mülkiyeti tamamlandıktan sonra
+                    da devam edeceğini, bu dönemde geri dönüş
+                    tehlikesinin tamamen bertaraf edilmediğini,
+                    tehlikenin tasfiye edilen burjuvaziden değil, bizzat
+                    sosyalist parti ve devlet aygıtı içinde yer alan
+                    mevki sahibi kapitalist yolculardan kaynaklandığını,
+                    sosyalizmi kurmanın esas itici gücünün emekçi
+                    kitlelerin devrimci inisiyatifi olduğunu, partinin
+                    de bu inisiyatifin önderi olabildiği sürece
+                    sosyalizm yolunda ilerlenebileceğini söylemiştir</Text>
+                <BeginOffset>15871</BeginOffset>
+                <EndOffset>16453</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sovyet deneyinin trajik sonu, Mao Zedung&apos;u doğrulamıştır</Text>
+                <BeginOffset>16468</BeginOffset>
+                <EndOffset>16524</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Expansion" sense="Expansion" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Öte yandan</Text>
+                <BeginOffset>3086</BeginOffset>
+                <EndOffset>3096</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>&quot;Deha&quot;yı yaratan işte bu toplumsal
+                    gelişmedir; &quot;kapitalizmin mezar kazıcısı&quot;
+                    proletarya ortaya çıkmıştır, Marx da onu keşfetmiştir</Text>
+                <BeginOffset>2954</BeginOffset>
+                <EndOffset>3084</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bütün bu gelişmeler, 19. yüzyıl Avrupası&apos;nın
+                    İngiltere, Fransa, Almanya gibi en gelişmiş
+                    merkezlerinde oluşmuştu; dünyanın başka bir
+                    yöresinde değil</Text>
+                <BeginOffset>3097</BeginOffset>
+                <EndOffset>3245</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>İnsanlık ancak toplumsal pratiğin dayattığı ve
+                    gündeme getirdiği sorunları çözmeye çalışarak kendi
+                    bilgisini geliştirebiliyor</Text>
+                <BeginOffset>2374</BeginOffset>
+                <EndOffset>2499</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2>
+            <Span>
+                <Text>Sosyalist düşüncenin ütopyacılıktan bilimselliğe
+                    evrilmesi; 19. yüzyılın ilk yarısında yaşanan sanayi
+                    devrimleriyle kapitalizmin gelişmesi, makineleşmenin
+                    yoğunlaşması, büyük çapta örgütlü üretimin yapıldığı
+                    dev fabrikaların ortaya çıkması, dolayısıyla
+                    sistemin çelişkilerinin netleşmesi ve sanayi
+                    proletaryasının dönüştürücü bir güç ve geleceği
+                    temsil eden bağımsız bir sınıf olarak siyaset
+                    sahnesine ağırlığını koymaya başlamasıyla olanaklı olmuştur</Text>
+                <BeginOffset>2501</BeginOffset>
+                <EndOffset>2952</EndOffset>
+            </Span>
+        </Supp2>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Expansion" sense="Expansion" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Öte yandan</Text>
+                <BeginOffset>7727</BeginOffset>
+                <EndOffset>7737</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>18. yüzyılın sonuna doğru tarihin en köklü
+                    devrimlerinden birinin gerçekleştiği Fransa&apos;da
+                    toplumbilimi bu teze ulaşmıştı</Text>
+                <BeginOffset>7605</BeginOffset>
+                <EndOffset>7725</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>özellikle Fransız ütopik sosyalistleri, Saint
+                    Simon, Fourier vb., kapitalizmi eleştirerek
+                    sömürüsüz-sınıfsız bir toplum düşüncesine ulaşmışlardı</Text>
+                <BeginOffset>7738</BeginOffset>
+                <EndOffset>7882</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Tarihin itici gücünün sınıf savaşımı olduğu
+                    tezinin oluşturulmasının onuru Marx&apos;a ait değildir</Text>
+                <BeginOffset>7509</BeginOffset>
+                <EndOffset>7603</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>öte yandan</Text>
+                <BeginOffset>9359</BeginOffset>
+                <EndOffset>9369</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bazı öngörüleri doğrular veya yanlışlar</Text>
+                <BeginOffset>9318</BeginOffset>
+                <EndOffset>9357</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>insanlığın önüne yeni sorular getirir</Text>
+                <BeginOffset>9370</BeginOffset>
+                <EndOffset>9407</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared>
+            <Span>
+                <Text>Her büyük devrim</Text>
+                <BeginOffset>9301</BeginOffset>
+                <EndOffset>9317</EndOffset>
+            </Span>
+        </Shared>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result " sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>12713</BeginOffset>
+                <EndOffset>12723</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Marx, dünyanın Avrupa ve yakın çevresinden ibaret
+                    olduğu bir dönemde, hem de yaşlı kıtanın merkezinde
+                    yaşadı. 19. yüzyılda Asya&apos;nın, Latin
+                    Amerika&apos;nın, Afrika&apos;nın halkları henüz
+                    insanlığın ortak gelişme yatağının dışında bulunuyorlardı</Text>
+                <BeginOffset>12476</BeginOffset>
+                <EndOffset>12711</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>19. yüzyıl Bilimsel Sosyalizmi, ister istemez
+                    Avrupa merkezciliğin izlerini taşır</Text>
+                <BeginOffset>12724</BeginOffset>
+                <EndOffset>12805</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="contra-expectation "
+        sense="Comparison: Concession: contra-expectation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Buna rağmen</Text>
+                <BeginOffset>13081</BeginOffset>
+                <EndOffset>13092</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>yeni bir ileri atılımın, ancak en ileri olan yerde
+                    gündeme gelebileceği (19. yüzyıl devrim modeli)
+                    düşüncesi, &quot;geri&quot; halklara devrimi
+                    yasaklayan gerici &quot;üretici güçler
+                    teorisi&quot;ne kapıyı açık bırakır. Bu onun,
+                    tarihsel koşullardan kaynaklanan sınırlılığıdır</Text>
+                <BeginOffset>12814</BeginOffset>
+                <EndOffset>13070</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bilimsel Sosyalizm, 20. yüzyılda geri denilen
+                    bölgelerde yüz milyonlarca emekçinin esin kaynağı olabildi</Text>
+                <BeginOffset>13093</BeginOffset>
+                <EndOffset>13197</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Conjunction" sense="Expansion: Conjunction" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Daha birçok çalışmanın yanı sıra</Text>
+                <BeginOffset>7321</BeginOffset>
+                <EndOffset>7353</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Böylece kapitalist sömürünün mekanizması (emeğin
+                    meta haline gelmesi ve işçinin emeğinin bir bölümüne
+                    kapitalist tarafından el konulması) açıklanmış,
+                    kapitalist zenginliğin (sermaye&apos;nin) ve
+                    kâr&apos;ın temel kaynağı da bulunmuştur</Text>
+                <BeginOffset>7094</BeginOffset>
+                <EndOffset>7319</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Marx&apos;ın anıtsal eseri Kapital&apos;de bu konu
+                    son derece ayrıntılı biçimde incelenmiştir</Text>
+                <BeginOffset>7355</BeginOffset>
+                <EndOffset>7438</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result " sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>12713</BeginOffset>
+                <EndOffset>12723</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>19. yüzyılda Asya&apos;nın, Latin
+                    Amerika&apos;nın, Afrika&apos;nın halkları henüz
+                    insanlığın ortak gelişme yatağının dışında bulunuyorlardı</Text>
+                <BeginOffset>12586</BeginOffset>
+                <EndOffset>12711</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>19. yüzyıl Bilimsel Sosyalizmi, ister istemez
+                    Avrupa merkezciliğin izlerini taşır</Text>
+                <BeginOffset>12724</BeginOffset>
+                <EndOffset>12805</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="generalization"
+        sense="Expansion: Restatement: generalization" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Demek ki</Text>
+                <BeginOffset>13430</BeginOffset>
+                <EndOffset>13438</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>20. yüzyıl pratikleri, Bilimsel Sosyalizmi dünyalılaştırmıştır</Text>
+                <BeginOffset>13366</BeginOffset>
+                <EndOffset>13428</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Marx&apos;ın kuramı bu potansiyeli içinde barındırmaktaydı</Text>
+                <BeginOffset>13440</BeginOffset>
+                <EndOffset>13493</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="generalization"
+        sense="Expansion: Restatement: generalization" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Gerçekten de</Text>
+                <BeginOffset>16455</BeginOffset>
+                <EndOffset>16467</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>sosyalizmi kurmanın esas itici gücünün emekçi
+                    kitlelerin devrimci inisiyatifi olduğunu, partinin
+                    de bu inisiyatifin önderi olabildiği sürece
+                    sosyalizm yolunda ilerlenebileceğini söylemiştir</Text>
+                <BeginOffset>16264</BeginOffset>
+                <EndOffset>16453</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sovyet deneyinin trajik sonu, Mao Zedung&apos;u doğrulamıştır</Text>
+                <BeginOffset>16468</BeginOffset>
+                <EndOffset>16524</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ - &quot;bu öğretinin asıl önemi&quot; yeni  specification"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu öğretinin asıl önemi</Text>
+                <BeginOffset>944</BeginOffset>
+                <EndOffset>967</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bilimsel Sosyalizm; iki Alman filozof, bilim adamı
+                    ve politikacı Karl Marx ve Friedrich Engels&apos;in
+                    kurucusu oldukları öğretinin adıdır</Text>
+                <BeginOffset>809</BeginOffset>
+                <EndOffset>942</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>geçtiğimiz bin yılın özellikle ikinci yarısına
+                    damgasını vurmuş Batı Uygarlığına (daha doğrusu
+                    kapitalist uygarlığa) en köklü eleştiriyi getirmesi,
+                    bu uygarlık modelini pratikte aşmanın yolunu
+                    göstermesi ve yeni bir modelin ipuçlarını vermesidir</Text>
+                <BeginOffset>969</BeginOffset>
+                <EndOffset>1214</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ - &quot;sonraları&quot; yeni temporal:asynchronous"
+        sense="Temporal: Asynchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Sonraları</Text>
+                <BeginOffset>4593</BeginOffset>
+                <EndOffset>4602</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Marx&apos;ın kendisi de o dönem için, &quot;bir
+                    gecede hepimiz Feuerbachcı olmuştuk&quot; diye
+                    yazmıştır. Demokratik devrimin eşiğinde olan
+                    (1848&apos;de patlak verecektir) Almanya&apos;da
+                    tarihin akışı o kadar hızlanmıştı ki, birkaç yıl
+                    içinde, Marx ve 1844&apos;de tanışıp ömür boyu
+                    yoldaşlık ettiği Engels, Feuerbachcılığı da aşıp
+                    kendi felsefî sistemlerini oluşturmaya başlamışlardı</Text>
+                <BeginOffset>4235</BeginOffset>
+                <EndOffset>4591</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Feuerbach ile hesaplaştığı kitabındaki tezlerinin
+                    11.sinde Marx şöyle yazacaktır: &quot;Şimdiye kadar
+                    filozoflar hep dünyayı yorumlamakla yetindiler;
+                    aslolan onu değiştirmektir</Text>
+                <BeginOffset>4604</BeginOffset>
+                <EndOffset>4775</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ - &quot;nedeni bu olsa gerek&quot; yeni pragmatic cause DZ"
+        sense="Contingency: Pragmatic Cause" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>nedeni de bu olsa gerek</Text>
+                <BeginOffset>5172</BeginOffset>
+                <EndOffset>5195</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu saptama, bilimsel sosyalist bilgi teorisinin
+                    özünü teşkil eder</Text>
+                <BeginOffset>4778</BeginOffset>
+                <EndOffset>4843</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Klasik felsefeyi aşıp Diyalektik ve Tarihi
+                    Materyalizme ulaşanın, bir köyde inzivaya çekilip
+                    felsefe yapan &quot;hoca&quot; Feuerbach değil de,
+                    dönemin politik eylemlerine doğrudan katılan,
+                    Avrupa&apos;nın bir kentinden diğerine sürülen,
+                    Paris&apos;te barikatlara çıkıp Manchester&apos;de
+                    işçilerle birlikte yaşayan &quot;çömezler&quot; Marx
+                    ve Engels olmasının</Text>
+                <BeginOffset>4845</BeginOffset>
+                <EndOffset>5171</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Sonraları, Feuerbach ile hesaplaştığı kitabındaki
+                    tezlerinin 11.sinde Marx şöyle yazacaktır:
+                    &quot;Şimdiye kadar filozoflar hep dünyayı
+                    yorumlamakla yetindiler; aslolan onu değiştirmektir</Text>
+                <BeginOffset>4593</BeginOffset>
+                <EndOffset>4775</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ - &quot;en önemli ....eder&quot; yeni instantiation ya da specification. DZ"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>en önemli kilometre taşlarından birini teşkil eder</Text>
+                <BeginOffset>8234</BeginOffset>
+                <EndOffset>8284</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>1830&apos;larda büyük işçi mücadelelerine sahne
+                    olan Paris&apos;e 1843 yılında giden genç Marx,
+                    Avrupa&apos;nın bu en devrimci işçi sınıfı ile tanışmıştır</Text>
+                <BeginOffset>8052</BeginOffset>
+                <EndOffset>8191</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu tanışma onun düşüncesinin oluşmasında</Text>
+                <BeginOffset>8193</BeginOffset>
+                <EndOffset>8233</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="(epistemic) result &quot;"
+        sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O yüzden</Text>
+                <BeginOffset>3573</BeginOffset>
+                <EndOffset>3581</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>de</Text>
+                <BeginOffset>3582</BeginOffset>
+                <EndOffset>3584</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Birçok şey bakımından, burası başlangıç</Text>
+                <BeginOffset>3532</BeginOffset>
+                <EndOffset>3571</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yok olmaması gerekiyor</Text>
+                <BeginOffset>3585</BeginOffset>
+                <EndOffset>3607</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Aşıklı&apos;da kazıya başlar başlamaz, buranın
+                    mutlaka kurtarılması gerektiğini anladık</Text>
+                <BeginOffset>3223</BeginOffset>
+                <EndOffset>3305</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result " sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>bunların sonucunda</Text>
+                <BeginOffset>4074</BeginOffset>
+                <EndOffset>4092</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Keban ve Değirmentepe Kazıları&apos;nı yönetirken,
+                    yavaş yavaş Arkeometri Ünitesini kurdum.
+                    ODTÜ&apos;ten arkadaşlarımızla, Boğaziçi ve Çukurova
+                    Üniversiteleri&apos;nden bu işlere ilgi duyan,
+                    gerçekten arkeometrik çalışma yapmak isteyen kim
+                    varsa, onları topladık ve grup oluşturduk. TÜBİTAK
+                    nezdinde, TÜBİTAK Arkeometri Ünitesi&apos;ni kurduk
+                    ve orada çalıştık. Sonra onu yenilemek gerekti. Bu
+                    defa araştırma ve analiz yöntemlerine dayalı bir
+                    başka ünite kurduk</Text>
+                <BeginOffset>3628</BeginOffset>
+                <EndOffset>4070</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ODTÜ ve İTÜ&apos;de Arkeometri Yüksek Lisansı
+                    doğdu. Ayrıca Arkeometalurji çalışmalarında bir
+                    atılım yaptık</Text>
+                <BeginOffset>4093</BeginOffset>
+                <EndOffset>4195</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="condition" sense="Contingency: Condition" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O zaman</Text>
+                <BeginOffset>15098</BeginOffset>
+                <EndOffset>15105</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Analizler aynı sonuçları verirse, bakırın oradan
+                    alındığını öğreneceğiz. Değilse, başka yerlerde arayacağız</Text>
+                <BeginOffset>14977</BeginOffset>
+                <EndOffset>15084</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bakır başka bir yerden mi getirilmiş oluyor</Text>
+                <BeginOffset>15106</BeginOffset>
+                <EndOffset>15149</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>bu yüzden</Text>
+                <BeginOffset>10728</BeginOffset>
+                <EndOffset>10737</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Burada iklim değişikliğinden dolayı bir taşkın olmuş</Text>
+                <BeginOffset>10674</BeginOffset>
+                <EndOffset>10726</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>o yöreyi terk etmişler ve yerleşmenin üzerinde
+                    çakıl birikmiş</Text>
+                <BeginOffset>10738</BeginOffset>
+                <EndOffset>10799</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Bir de olasılıkla 3. tabakada eski yerleşim yeri var</Text>
+                <BeginOffset>10525</BeginOffset>
+                <EndOffset>10577</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Temporal: Synchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bundan sonra</Text>
+                <BeginOffset>2722</BeginOffset>
+                <EndOffset>2734</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu aşağı yukarı ilk çalışmalarımdan bir tanesi</Text>
+                <BeginOffset>2674</BeginOffset>
+                <EndOffset>2720</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kurtarma kazıları yaptım</Text>
+                <BeginOffset>2735</BeginOffset>
+                <EndOffset>2759</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Spektral analiz çalışmalarıyla Anadolu Maden
+                    Enstitüsü hakkında kapsamlı bir araştırma yaptım</Text>
+                <BeginOffset>2579</BeginOffset>
+                <EndOffset>2672</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ: bence burada pragmatic bir durum yok; neden-sonuç ilişkisi var. "
+        sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bunun üzerine</Text>
+                <BeginOffset>3073</BeginOffset>
+                <EndOffset>3086</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bunlar bitince, bu defa Aşıklı&apos;nın su altında
+                    kalacağı söylendi</Text>
+                <BeginOffset>3008</BeginOffset>
+                <EndOffset>3071</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Aşıklı&apos;da kurtarma kazılarına başladık</Text>
+                <BeginOffset>3087</BeginOffset>
+                <EndOffset>3125</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ: bence bu &quot;in addition&quot; anlamında; yani expansion olsa gerek? "
+        sense="Expansion" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu benzerliklerin yanında</Text>
+                <BeginOffset>7655</BeginOffset>
+                <EndOffset>7680</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çatalhöyük ile Aşıklı arasında kültür olarak da
+                    birtakım benzerlikler var</Text>
+                <BeginOffset>7580</BeginOffset>
+                <EndOffset>7653</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>farklılıklar da var</Text>
+                <BeginOffset>7681</BeginOffset>
+                <EndOffset>7700</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu tamir esnasında</Text>
+                <BeginOffset>9243</BeginOffset>
+                <EndOffset>9261</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Burada bazı duvarlar, hep birbirini takip etmiş;
+                    ama bazıları etmemiş</Text>
+                <BeginOffset>9172</BeginOffset>
+                <EndOffset>9241</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bütün çöpleri alıp yan tarafa atıyorlar ve burada
+                    bir çöp birikintisi oluşuyor</Text>
+                <BeginOffset>9263</BeginOffset>
+                <EndOffset>9341</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="Murathan: &quot;condition&quot; anlamı da yok mu? DZ: &quot;otherwise&quot; karşılığında; yani negative condition gibi bir şey. Hem contrast hem condition seçmek en iyisi sanırım. 
+son hali: condition &amp; contrast"
+        sense="Contingency: Condition" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Değilse</Text>
+                <BeginOffset>15050</BeginOffset>
+                <EndOffset>15057</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Analizler aynı sonuçları verirse, bakırın oradan
+                    alındığını öğreneceğiz</Text>
+                <BeginOffset>14977</BeginOffset>
+                <EndOffset>15048</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>başka yerlerde arayacağız</Text>
+                <BeginOffset>15059</BeginOffset>
+                <EndOffset>15084</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation
+        note="Murathan: &quot;condition&quot; anlamı da yok mu? DZ: &quot;otherwise&quot; karşılığında; yani negative condition gibi bir şey. Hem contrast hem condition seçmek en iyisi sanırım. 
+son hali: condition &amp; contrast"
+        sense="Comparison: Contrast" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Değilse</Text>
+                <BeginOffset>15050</BeginOffset>
+                <EndOffset>15057</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Analizler aynı sonuçları verirse, bakırın oradan
+                    alındığını öğreneceğiz</Text>
+                <BeginOffset>14977</BeginOffset>
+                <EndOffset>15048</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>başka yerlerde arayacağız</Text>
+                <BeginOffset>15059</BeginOffset>
+                <EndOffset>15084</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="DZ - yeni Altlex specification"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu farklılıkların en önemlisi</Text>
+                <BeginOffset>7702</BeginOffset>
+                <EndOffset>7731</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çatalhöyük ile Aşıklı arasında kültür olarak da
+                    birtakım benzerlikler var. Bu benzerliklerin yanında
+                    farklılıklar da var</Text>
+                <BeginOffset>7580</BeginOffset>
+                <EndOffset>7700</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Aşıklı&apos;da daha örgütlenmiş bir toplum modeli
+                    olması; oysa Çatalhöyük&apos;de öyle değil</Text>
+                <BeginOffset>7733</BeginOffset>
+                <EndOffset>7815</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>bu yüzden</Text>
+                <BeginOffset>1395</BeginOffset>
+                <EndOffset>1404</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>Belki de</Text>
+                <BeginOffset>1386</BeginOffset>
+                <EndOffset>1394</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Babanın yokluğunda tek tutamak kuvvetli bir ahlâk
+                    anlayışı gibi görünüyordu</Text>
+                <BeginOffset>1309</BeginOffset>
+                <EndOffset>1384</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ondokuzuncu yüzyılda çok sayıda &quot;oğula
+                    nasihat&quot; ya da &quot;çocuk terbiyesi&quot;
+                    kitaplarına rastlarız</Text>
+                <BeginOffset>1405</BeginOffset>
+                <EndOffset>1498</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="DZ: &quot;de&quot; mod olmalı. Değiştirdim. "
+        sense="Contingency: Cause: reason" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu semantik kargaşanın nedeni</Text>
+                <BeginOffset>7878</BeginOffset>
+                <EndOffset>7907</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>de</Text>
+                <BeginOffset>7908</BeginOffset>
+                <EndOffset>7910</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Roman boyunca Bihruz Bey muazzam bir semantik
+                    kargaşa içinde çırpınır durur</Text>
+                <BeginOffset>7801</BeginOffset>
+                <EndOffset>7876</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>epistemolojiktir, çünkü Bihruz Bey yaşadıklarını,
+                    yani yaşantısını anlatacak bir dilden yoksundur</Text>
+                <BeginOffset>7911</BeginOffset>
+                <EndOffset>8008</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bundan sonra</Text>
+                <BeginOffset>13041</BeginOffset>
+                <EndOffset>13053</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Gerçekle yanılsama arasındaki mesafeyi, başkişinin
+                    bir yanılsama dünyasında yitişini, okur hep bu
+                    yabancılaştırıcı üslûp parodisi sayesinde farkedecektir</Text>
+                <BeginOffset>12886</BeginOffset>
+                <EndOffset>13039</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>romanda kullanılan dil, romanın ana izleği olan
+                    hiçliğe koşut gidecek ve her aşamada hiçlenen Bihruz
+                    Bey gene durmaksızırı kendini hiçleyen bir dille anlatılacaktır</Text>
+                <BeginOffset>13054</BeginOffset>
+                <EndOffset>13218</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="Murathan: &quot;conjuntion ve contra-expectation&quot; karışımı bir şeymiş gibi geldi. &quot;ama&quot; ya da &quot;bunun yanında&quot; koyarak da okuyabiliyorum cümleyi. &quot;bu metinlerarası göndermelerden klasik Divan Edebiyatı, çağdaşı Tanzimat Edebiyatı ve Fransız romantikleri paylarını alırlar. AMA/BUNUN YANINDA bütün bu göndermeler içinde, roman kendi kendini de hiçler&quot; DZ: Evet bu anlamlara ben de katılıyorum; o halde multiple sense.  son hali: conjuntion ve contra-expectation"
+        sense="Expansion: Conjunction" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Yalnız</Text>
+                <BeginOffset>2061</BeginOffset>
+                <EndOffset>2067</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bu metinlerarası göndermelerden klasik Divan
+                    Edebiyatı, çağdaşı Tanzimat Edebiyatı ve Fransız
+                    romantikleri paylarını alırlar</Text>
+                <BeginOffset>1935</BeginOffset>
+                <EndOffset>2059</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bütün bu göndermeler içinde, roman kendi kendini
+                    de hiçler</Text>
+                <BeginOffset>2068</BeginOffset>
+                <EndOffset>2126</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation
+        note="Murathan: &quot;conjuntion ve contra-expectation&quot; karışımı bir şeymiş gibi geldi. &quot;ama&quot; ya da &quot;bunun yanında&quot; koyarak da okuyabiliyorum cümleyi. &quot;bu metinlerarası göndermelerden klasik Divan Edebiyatı, çağdaşı Tanzimat Edebiyatı ve Fransız romantikleri paylarını alırlar. AMA/BUNUN YANINDA bütün bu göndermeler içinde, roman kendi kendini de hiçler&quot; DZ: Evet bu anlamlara ben de katılıyorum; o halde multiple sense.  son hali: conjuntion ve contra-expectation"
+        sense="Comparison: Concession: contra-expectation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Yalnız</Text>
+                <BeginOffset>2061</BeginOffset>
+                <EndOffset>2067</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>bu metinlerarası göndermelerden klasik Divan
+                    Edebiyatı, çağdaşı Tanzimat Edebiyatı ve Fransız
+                    romantikleri paylarını alırlar</Text>
+                <BeginOffset>1935</BeginOffset>
+                <EndOffset>2059</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bütün bu göndermeler içinde, roman kendi kendini
+                    de hiçler</Text>
+                <BeginOffset>2068</BeginOffset>
+                <EndOffset>2126</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="Murathan: Conjunction. &quot;-sı&quot; eki olduğu için &quot;altlex&quot; olduğunu düşündüm ama olmayabilir de. DZ: altlex. "
+        sense="Expansion: Conjunction" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Dahası</Text>
+                <BeginOffset>7101</BeginOffset>
+                <EndOffset>7107</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Araba Sevdası&apos;nda hiçbir gerçekliğe gönderme
+                    yapmayan, parodist bir dil kullanılır</Text>
+                <BeginOffset>7017</BeginOffset>
+                <EndOffset>7099</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>romanda kullanılan diller kimseye ait değildir;
+                    kimse ne kendi kullandığı dili, ne de başkalarının
+                    kullandığı dili anlar</Text>
+                <BeginOffset>7109</BeginOffset>
+                <EndOffset>7229</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="DZ &quot;ikincisi&quot; yeni altlex  specificaiton"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>İkincisi</Text>
+                <BeginOffset>8010</BeginOffset>
+                <EndOffset>8018</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Roman boyunca Bihruz Bey muazzam bir semantik
+                    kargaşa içinde çırpınır durur. Bu semantik
+                    kargaşanın nedeni de epistemolojiktir, çünkü Bihruz
+                    Bey yaşadıklarını, yani yaşantısını anlatacak bir
+                    dilden yoksundur</Text>
+                <BeginOffset>7801</BeginOffset>
+                <EndOffset>8008</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>müdahaleci, her şeyi bilen, mutlak anlatıcı
+                    konumunu koruyan Recaizade Ekrem&apos;in de
+                    anlatımında benimsediği bir dil yoktur</Text>
+                <BeginOffset>8020</BeginOffset>
+                <EndOffset>8141</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="DZ: yeni altlex  specification"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bunlardan birincisi</Text>
+                <BeginOffset>6788</BeginOffset>
+                <EndOffset>6807</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Araba Sevdası&apos;nda metnin kendini yadsıması,
+                    kasıtlı anlam boşlukları içinde yitmesi, ilişkilerin
+                    topyekün hiçlenmesi, biri çok eski, diğeri çok
+                    çağdaş iki izleksel eksenin üstüste gelmesiyle gerçekleşir</Text>
+                <BeginOffset>6584</BeginOffset>
+                <EndOffset>6786</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>gerçeklik-yanılsama karşıtlığıdır</Text>
+                <BeginOffset>6860</BeginOffset>
+                <EndOffset>6893</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ: yeni altlex. Arapçadan gelmiş bir bağlaç aslında, çok ender kullanılır oldu.  Sonuç olarak demek.  result"
+        sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Binaenaleyh</Text>
+                <BeginOffset>10218</BeginOffset>
+                <EndOffset>10229</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Alelûlum mirasyedilerin düşündüğü gibi Bihruz Bey
+                    de servetini yemekle bitmez tükenmez zannederdi</Text>
+                <BeginOffset>10119</BeginOffset>
+                <EndOffset>10216</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ulu orta giriştiği istihlâkâta nakitten başlandı</Text>
+                <BeginOffset>10230</BeginOffset>
+                <EndOffset>10278</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ: yeni altlex (&quot;derken&quot; i daha önceki dosyalardan birinde işaretlenmiş olduğunu hatırlıyorum) - meanwhile anlamında gibi duruyor.  Expansion "
+        sense="Expansion" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Derken</Text>
+                <BeginOffset>14731</BeginOffset>
+                <EndOffset>14737</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu aralık Mösyö Piyer etekleri yerlere sürünür
+                    derecede uzun bir rop dö şambr giymiş, başında
+                    rengâmiz tüylerle müzeyyen bir kadın şapkası, iki
+                    koltuğunda da birer bordo şişesi olduğu halde
+                    birdenbire meydana çıkıyor: &quot;Kes köse kö lamur?
+                    Se tön tambur! se tön tambur... me mon şer kavaliye!
+                    javü anfen kö lö bo seks vo miyö kün lapen!&quot;
+                    diye haykırıp sıçradıkça lândoyu deviriyorlar!
+                    Lândonun içinden bir çift kaplumbağa ile bir de fino
+                    köpeği zuhur ediyor</Text>
+                <BeginOffset>14274</BeginOffset>
+                <EndOffset>14729</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bihruz Beyin yağız atı beyin altından sıyrılıp ve
+                    büyük bir atmaca gibi havalanıp uçmaya,
+                    kaplumbağalar dansetmeğe, fino köpeği de (Belle
+                    Helene) operasından bir parçayı terennüm ederek
+                    havlamaya başlıyor</Text>
+                <BeginOffset>14738</BeginOffset>
+                <EndOffset>14942</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>8446</BeginOffset>
+                <EndOffset>8456</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>de</Text>
+                <BeginOffset>8457</BeginOffset>
+                <EndOffset>8459</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Çok alıngan, doğal olarak da utanan bir insandım</Text>
+                <BeginOffset>8396</BeginOffset>
+                <EndOffset>8444</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>tanışmadığım bir insanı ne kadar sevsem  ne kadar
+                    beğensem , kendiliğimden bir merhaba diyemezdim</Text>
+                <BeginOffset>8460</BeginOffset>
+                <EndOffset>8557</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bundan sonra</Text>
+                <BeginOffset>12322</BeginOffset>
+                <EndOffset>12334</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Beni çok memnun eden bir yaklaşımla kabul etti önerimi</Text>
+                <BeginOffset>12266</BeginOffset>
+                <EndOffset>12320</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>artık arkadaşlığımızı ilerletmek kolaydı ve öyle
+                    de oldu</Text>
+                <BeginOffset>12335</BeginOffset>
+                <EndOffset>12391</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Restatement" sense="Expansion: Restatement" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Gerçekten de</Text>
+                <BeginOffset>3036</BeginOffset>
+                <EndOffset>3048</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ülkenin yoksulluk içinde bulunduğu, ekmeğin
+                    karneye bağlı olduğu savaş yılları içinde onların bu
+                    cömertlikleri ayrıca bir önem kazanıyordu</Text>
+                <BeginOffset>2896</BeginOffset>
+                <EndOffset>3034</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>babanın eli açıktı</Text>
+                <BeginOffset>3049</BeginOffset>
+                <EndOffset>3067</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>5935</BeginOffset>
+                <EndOffset>5945</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu olaylar ve gelişmeleri hakkında yüzlerce eser yazıldı</Text>
+                <BeginOffset>5877</BeginOffset>
+                <EndOffset>5933</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>onlar hakkında ayrıntılı bilgiye gerek yok</Text>
+                <BeginOffset>5946</BeginOffset>
+                <EndOffset>5988</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Eylül 1945&apos;te Fuat Köprülü ve Adnan Menderes
+                    partiden çıkarılmışlardı. O ayın sonuna doğru da
+                    Celâl Bayar meclisten çekildi. Kasım 1945&apos;te
+                    Refik Koraltan partiden çıkarıldı ve Aralığın
+                    başında Celâl Bayar bir parti kuracağını açıkladı</Text>
+                <BeginOffset>5641</BeginOffset>
+                <EndOffset>5875</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>bu nedenle</Text>
+                <BeginOffset>7569</BeginOffset>
+                <EndOffset>7579</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kartları toplayan çocuğa kart yerine kimliğimi
+                    belirten bir kâğıdı uzunca bir aradan sonra tekrar vermiştim</Text>
+                <BeginOffset>7434</BeginOffset>
+                <EndOffset>7541</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Muzaffer Ateş&apos;le aramızda</Text>
+                <BeginOffset>7543</BeginOffset>
+                <EndOffset>7568</EndOffset>
+            </Span>
+            <Span>
+                <Text>beni çağırttığı gün şöyle bir konuşma geçmişti</Text>
+                <BeginOffset>7581</BeginOffset>
+                <EndOffset>7627</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2>
+            <Span>
+                <Text>Niye kartını vermiyorsun da, hava yapar gibi
+                    kâğıda adını yazıp veriyorsun</Text>
+                <BeginOffset>7630</BeginOffset>
+                <EndOffset>7704</EndOffset>
+            </Span>
+        </Supp2>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="condition" sense="Contingency: Condition" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>o zaman</Text>
+                <BeginOffset>8255</BeginOffset>
+                <EndOffset>8262</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Onun zorla okula dönmesini sağlamak için baskı yapılamaz</Text>
+                <BeginOffset>8147</BeginOffset>
+                <EndOffset>8203</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ben kendimi okulda değil, cezaevinde hissediyorum</Text>
+                <BeginOffset>8205</BeginOffset>
+                <EndOffset>8254</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Efendim bu yaşa gelmiş bir insana yani bizlere,
+                    okula dönmemiz için, zorlayıcı tedbirler uygulanamaz</Text>
+                <BeginOffset>8045</BeginOffset>
+                <EndOffset>8145</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="precedence"
+        sense="Temporal: Synchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O gün öğleden sonra</Text>
+                <BeginOffset>8867</BeginOffset>
+                <EndOffset>8886</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İki yüz kadar karttı, ceplerime yerleştirdikten
+                    sonra yemeğe çıktım</Text>
+                <BeginOffset>8798</BeginOffset>
+                <EndOffset>8865</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>okula dönmedim</Text>
+                <BeginOffset>8887</BeginOffset>
+                <EndOffset>8901</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="cause" sense="Contingency: Pragmatic Cause" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bunun üzerine</Text>
+                <BeginOffset>11217</BeginOffset>
+                <EndOffset>11230</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Okuldan kart usulü kalktı artık,&quot; dedim</Text>
+                <BeginOffset>11176</BeginOffset>
+                <EndOffset>11215</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>annem , evlâdını koruyan bir anne olarak kendince
+                    öğütler verdi</Text>
+                <BeginOffset>11231</BeginOffset>
+                <EndOffset>11294</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O ayın sonuna doğru</Text>
+                <BeginOffset>5712</BeginOffset>
+                <EndOffset>5731</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>da</Text>
+                <BeginOffset>5732</BeginOffset>
+                <EndOffset>5734</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Eylül 1945&apos;te Fuat Köprülü ve Adnan Menderes
+                    partiden çıkarılmışlardı</Text>
+                <BeginOffset>5641</BeginOffset>
+                <EndOffset>5710</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Celâl Bayar meclisten çekildi</Text>
+                <BeginOffset>5735</BeginOffset>
+                <EndOffset>5764</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu yüzden</Text>
+                <BeginOffset>9942</BeginOffset>
+                <EndOffset>9951</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>&quot;Bakın, bakın domuz eti yiyor,&quot; diye
+                    bağırırdı Recep</Text>
+                <BeginOffset>9888</BeginOffset>
+                <EndOffset>9940</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>sandviçimi bir köşede gizlice dişlerdim</Text>
+                <BeginOffset>9953</BeginOffset>
+                <EndOffset>9992</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="DZ: &quot;baktım&quot; yeni altlex bence.  result"
+        sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Baktım</Text>
+                <BeginOffset>4934</BeginOffset>
+                <EndOffset>4940</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu ilişki, &quot;Onu bıraktım sana geldim&quot;,
+                    &quot;Seni bıraktım ona döndüm&quot; sözleriyle
+                    uzayıp gitti</Text>
+                <BeginOffset>4843</BeginOffset>
+                <EndOffset>4932</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>olacak gibi değil, bana yaptığını yapıp onu bir
+                    başka erkekle kafa kafaya tokuşturmaya karar verdim</Text>
+                <BeginOffset>4941</BeginOffset>
+                <EndOffset>5040</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="dz. &quot;nedeni bu olmalı&quot; yeni altlex pragmatic cause (claim-justification) "
+        sense="Contingency: Pragmatic Cause" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>nedeni bu olmalı</Text>
+                <BeginOffset>7222</BeginOffset>
+                <EndOffset>7238</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Huysuz, asabî bir kadındı ve yeteneksiz olduğumu
+                    her fırsatta yinelemekten zevk alırdı</Text>
+                <BeginOffset>7103</BeginOffset>
+                <EndOffset>7189</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Adını ve yüzünü hatırlamamamın</Text>
+                <BeginOffset>7191</BeginOffset>
+                <EndOffset>7221</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ: &quot;işte&quot; yeni altlex?  pragmatic cause (kaderin oyunu konuşanın sonucu gerçek olmayabilir)"
+        sense="Contingency: Pragmatic Cause: justification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>işte</Text>
+                <BeginOffset>10914</BeginOffset>
+                <EndOffset>10918</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ne kadar tuhaf, hayatımda bütün arkadaşlarımı
+                    defalarca gördüm de, şu Osman&apos;a bir daha
+                    rastlamadım. Aradım ama kasetlerde de bulamadım onu</Text>
+                <BeginOffset>10760</BeginOffset>
+                <EndOffset>10898</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kaderin oyunu</Text>
+                <BeginOffset>10900</BeginOffset>
+                <EndOffset>10913</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>2098</BeginOffset>
+                <EndOffset>2108</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sağanak, Narlıdere Şehitlik Kavşağı, Konak
+                    Mithatpaşa                 Caddesi, Güzelyalı,
+                    Karabağlar ve Çınarlı&apos;da yollarda su
+                    birikintisine yol                 açtı</Text>
+                <BeginOffset>1931</BeginOffset>
+                <EndOffset>2096</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>trafikte sorun yaşanırken bazı araçlar yolda kaldı</Text>
+                <BeginOffset>2109</BeginOffset>
+                <EndOffset>2159</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="reason Murathan: &quot;Fikret&quot; reason demiş ama bence &quot;result&quot; olmalı. DZ: ok"
+        sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Şiddetli                 sağanak nedeniyle</Text>
+                <BeginOffset>1800</BeginOffset>
+                <EndOffset>1842</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Atatürk Havalimanı Meteoroloji
+                    Müdürlüğü yetkilileri, yağışların iki gün süreceğini belirttiler</Text>
+                <BeginOffset>1687</BeginOffset>
+                <EndOffset>1798</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İzmir&apos;in çeşitli semtlerinde logarlar tıkandı
+                    ve su                 baskınları yaşandı</Text>
+                <BeginOffset>1843</BeginOffset>
+                <EndOffset>1929</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Cause" sense="Contingency: Pragmatic Cause" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu durumda</Text>
+                <BeginOffset>17187</BeginOffset>
+                <EndOffset>17197</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Erdoğan&apos;ın Siirt&apos;ten milletvekili
+                    seçilmesi durumunda,                 Gül istifa edecek</Text>
+                <BeginOffset>17097</BeginOffset>
+                <EndOffset>17185</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>şubat ayında 59. hükümet kurulacak ve
+                    Erdoğan başbakan olacak</Text>
+                <BeginOffset>17199</BeginOffset>
+                <EndOffset>17276</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ: &quot;bu çerçevede&quot; yeni altlex. expansion (daha alt düzey anlamlarla bağlaştıramadım)"
+        sense="Expansion" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu çerçevede</Text>
+                <BeginOffset>4938</BeginOffset>
+                <EndOffset>4950</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sendikanın,                 köprünün
+                    açılıp-kapatılmamasından dolayı üyelerinin iş
+                    kaybına uğradığı                 gerekçesiyle
+                    tazminat istediği davada, ayrıca, özetle köprünün
+                    &apos;&apos;sağlam                 olduğu halde
+                    müşavir firma tarafından geciktirildiği&apos;&apos;
+                    iddia ediliyor</Text>
+                <BeginOffset>4647</BeginOffset>
+                <EndOffset>4920</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yeniden test isteyen sendikanın talebiyle, İTÜ
+                    Ar-Ge                 İşletmesi&apos;nin aylarca
+                    süren ve uluslararası standartlara uygun tahkik ve
+                    deneylerle saptadığı sonuçlara karşın birkaç gün
+                    önce yeni bir tespit                 yapıldı</Text>
+                <BeginOffset>4951</BeginOffset>
+                <EndOffset>5202</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="DZ: &quot;bu noktada&quot; yeni altlex snaırım. expansion"
+        sense="Expansion" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu noktada</Text>
+                <BeginOffset>13741</BeginOffset>
+                <EndOffset>13751</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Anket sınıf öğretmenliği bölümünün yalnızca 4.
+                    (son) sınıfındaki 228                 kişiye
+                    uygulanmış, çeşitli nedenlerden ötürü, bunlardan
+                    176&apos;sı geçerli                 sayılmıştır</Text>
+                <BeginOffset>13556</BeginOffset>
+                <EndOffset>13739</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>anketin güvenirliliği tartışmalıdır</Text>
+                <BeginOffset>13752</BeginOffset>
+                <EndOffset>13787</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="DZ: &quot;bu durumda&quot; yeni altlex expansion"
+        sense="Expansion" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu durumda</Text>
+                <BeginOffset>17187</BeginOffset>
+                <EndOffset>17197</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>59. hükümet yolda: Erdoğan&apos;ın Siirt&apos;ten
+                    milletvekili seçilmesi durumunda,
+                    Gül istifa edecek</Text>
+                <BeginOffset>17078</BeginOffset>
+                <EndOffset>17185</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>şubat ayında 59. hükümet kurulacak ve
+                    Erdoğan başbakan olacak</Text>
+                <BeginOffset>17199</BeginOffset>
+                <EndOffset>17276</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="juxtaposition"
+        sense="Comparison: Contrast: juxtaposition" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Buna karşılık</Text>
+                <BeginOffset>7789</BeginOffset>
+                <EndOffset>7802</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>1998-2002 arasında oynanan müşterek bahis
+                    oyunlarında yapılan                 yasal
+                    kesintilerin tutarı 1.5 milyar doları geçti</Text>
+                <BeginOffset>7660</BeginOffset>
+                <EndOffset>7787</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>at                 yarışı oynayanlara, bahis için
+                    verdikleri paranın yalnızca yarısı ikramiye
+                    olarak döndü</Text>
+                <BeginOffset>7804</BeginOffset>
+                <EndOffset>7926</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu yüzden</Text>
+                <BeginOffset>12247</BeginOffset>
+                <EndOffset>12256</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İki taraf hep birbirine
+                    saldıracakmış gibi önlemler aldı</Text>
+                <BeginOffset>12173</BeginOffset>
+                <EndOffset>12245</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Avrupa&apos;nın silaha ve orduya en
+                    çok para harcayan iki ülkesi oldu Türkiye ve Yunanistan</Text>
+                <BeginOffset>12257</BeginOffset>
+                <EndOffset>12359</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="equivalence"
+        sense="Expansion: Restatement: equivalence" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bir başka ifadeyle</Text>
+                <BeginOffset>9530</BeginOffset>
+                <EndOffset>9548</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Toplanan hasılatın 562.8                 trilyon
+                    liralık bölümü ise oynayanlara dağıtıldı</Text>
+                <BeginOffset>9439</BeginOffset>
+                <EndOffset>9528</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>müşterek bahis oynayanlar iki koyup bir kazandı</Text>
+                <BeginOffset>9566</BeginOffset>
+                <EndOffset>9613</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="Murathan: instantiation. ALTLEX karşılığı &quot;örneğin&quot; olabilirmiş gibi geldi.  DZ: katılıyorum"
+        sense="Expansion: Instantiation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Düşünün</Text>
+                <BeginOffset>14443</BeginOffset>
+                <EndOffset>14450</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bizdeki yargı kararlarının ve kanunların
+                    arkasında da geçmişten kalma bir hesaplaşma anlayışı
+                    yatmıyor mu? &apos;&apos;Kim                 kimin
+                    önünü nasıl kesecek? Kim ne kadar
+                    tehlikeli?&apos;&apos; mantığı üzerine
+                    kurulu bir sistem içinde yaşıyoruz</Text>
+                <BeginOffset>14177</BeginOffset>
+                <EndOffset>14441</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>iktidar partisinin genel                 başkanı
+                    bir konuşması nedeniyle mahkûm edildi</Text>
+                <BeginOffset>14452</BeginOffset>
+                <EndOffset>14538</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="DZ: &quot;buna göre&quot; yeni altlex specification"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Buna göre</Text>
+                <BeginOffset>8234</BeginOffset>
+                <EndOffset>8243</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Türkiye Yarış Atı Yetiştiricileri ve Sahipleri
+                    Derneği&apos;nin, &apos;&apos;Sayın
+                    milletvekilim, lütfen kıymetli zamanını ayırıp bu
+                    kitapçığı okuyun&apos;&apos;
+                    talebiyle yayımladığı kitapçıkta, 1998-2002 arasında
+                    at yarışı                 oyunlarından yapılan
+                    kesintiler yer aldı</Text>
+                <BeginOffset>7944</BeginOffset>
+                <EndOffset>8232</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>at yarışlarında                 oynanan müşterek
+                    bahislerden 1998&apos;de 317 milyon, 1999&apos;da
+                    341.3 milyon,                 2000 yılında 368
+                    milyon, 2001&apos;de 238.5 milyon ve geçen yıl 261.2
+                    milyon                 dolarlık yasal kesinti yapıldı</Text>
+                <BeginOffset>8245</BeginOffset>
+                <EndOffset>8482</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="DZ: &quot;kaynaklandığı&quot; yeni altlex result"
+        sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>kaynaklandığı</Text>
+                <BeginOffset>7181</BeginOffset>
+                <EndOffset>7194</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Güney Asya da dondurucu soğuğun etkisinde. Son 24
+                    saat içinde Hindistan&apos;da                 74,
+                    Bangladeş&apos;te de 13 kişinin ölmesiyle, bölgede
+                    bir ayda ölenlerin                 sayısı
+                    1792&apos;yi buldu</Text>
+                <BeginOffset>6859</BeginOffset>
+                <EndOffset>7055</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Güney Asya&apos;da kış mevsiminin kısa sürmesine
+                    rağmen,                 ölümlerin daha çok
+                    milyonlarca kişinin evsiz olmasından</Text>
+                <BeginOffset>7057</BeginOffset>
+                <EndOffset>7180</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="conjunction" sense="Expansion: Conjunction" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Öte yandan</Text>
+                <BeginOffset>8694</BeginOffset>
+                <EndOffset>8704</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Avukatları Şeyda Yıldırım ve Atilla Cebesoy,
+                    Çakıcı&apos;nın serbest bırakılması amacıyla gerekli
+                    evrakı tamamlamak için dün gün boyunca koşturdu</Text>
+                <BeginOffset>8336</BeginOffset>
+                <EndOffset>8476</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çakıcı&apos;nın da yurtdışına çıkması gereken 45
+                    günlük sürenin emniyetten serbest bırakıldıktan
+                    sonra başlayacağı öğrenildi</Text>
+                <BeginOffset>8705</BeginOffset>
+                <EndOffset>8824</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="contrast" sense="Comparison: Contrast" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Buna karşılık</Text>
+                <BeginOffset>13878</BeginOffset>
+                <EndOffset>13891</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>ciddi bir şekilde çiftler birbirini aldatıyor</Text>
+                <BeginOffset>13831</BeginOffset>
+                <EndOffset>13876</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>erkekler sadakatsizliklerinde evliliklerini ne
+                    olursa olsun sürdürüyor, boşanmıyorlar. Ancak kadın
+                    araya ikinci bir erkek girdiği anda boşanıyor</Text>
+                <BeginOffset>13892</BeginOffset>
+                <EndOffset>14036</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="Murathan: instantiation. Sense&apos; den emin değilim ama örnek veriyormuş gibi geldi. DZ: evet altlex; sense böyle kalabilir. "
+        sense="Expansion: Instantiation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Öyle ki</Text>
+                <BeginOffset>6109</BeginOffset>
+                <EndOffset>6116</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Tüketiciye ucuz alışveriş imkânı sağlamak ve
+                    firmaların elindeki stokları eritmek üzere, İstanbul
+                    Ticaret Odası&apos;nın (İTO) CNR Fuarcılık ile
+                    ortaklaşa düzenlediği ucuzluk fuarı büyük ilgi görüyor</Text>
+                <BeginOffset>5913</BeginOffset>
+                <EndOffset>6107</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>29 Kasım Dünya Satın Almama Günü&apos;nde fuar
+                    rekor ciro yaptı</Text>
+                <BeginOffset>6118</BeginOffset>
+                <EndOffset>6176</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Ertesi gün</Text>
+                <BeginOffset>5897</BeginOffset>
+                <EndOffset>5907</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ben doğruların söylenmesinden yana olduğumu ifade ettim</Text>
+                <BeginOffset>5840</BeginOffset>
+                <EndOffset>5895</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>böyle bir başlık çıktı</Text>
+                <BeginOffset>5908</BeginOffset>
+                <EndOffset>5930</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="result ( epistemic?) DZ: epistemic diye bir tag&apos;imiz yoktu değil mi?  Ben de kararsız kaldım burada. "
+        sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>14383</BeginOffset>
+                <EndOffset>14393</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İbrahim Türkiş aday adayı olarak seçilmese bile
+                    aktif politikada yer almış bir kişidir</Text>
+                <BeginOffset>14295</BeginOffset>
+                <EndOffset>14381</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>BDDK&apos;da görev alması doğru olmaz</Text>
+                <BeginOffset>14394</BeginOffset>
+                <EndOffset>14426</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="condition Murathan: Fikret &quot;condition: hypothetical&quot; seçmiş ama daha önce biz hep condition&apos;da bırakmıştık, o yüzden bunu da conditionda bırakalım bence. DZ: katılıyorum"
+        sense="Contingency: Condition" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Beklentinin gerçekleşmesi durumunda</Text>
+                <BeginOffset>5374</BeginOffset>
+                <EndOffset>5409</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Piyasa, geçen haftanın son günü Kopenhag
+                    Zirvesi&apos;nden tarih için tarih çıkacağı
+                    beklentisiyle pozisyon açtı</Text>
+                <BeginOffset>5265</BeginOffset>
+                <EndOffset>5372</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>endeksin 1.10 sente doğru kademeli yükselmesi
+                    bekleniyor </Text>
+                <BeginOffset>5410</BeginOffset>
+                <EndOffset>5467</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="reason" sense="Contingency: Cause: reason" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>bu yüzden</Text>
+                <BeginOffset>532</BeginOffset>
+                <EndOffset>541</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>Belki de</Text>
+                <BeginOffset>523</BeginOffset>
+                <EndOffset>531</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Gelecekleri çok uzaklarda masaya yatırılmış bu
+                    insanlar, önce İran&apos;la, ardından da ABD ile
+                    çatışarak, savaşa, ambargoya ve yokluğa alışmış durumda</Text>
+                <BeginOffset>375</BeginOffset>
+                <EndOffset>521</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>savaş boruları ötmüyor, hayat gündelik
+                    koşuşturmalar içinde akıp gidiyor</Text>
+                <BeginOffset>542</BeginOffset>
+                <EndOffset>614</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Bağdat, sisler altında sıradan bir güne
+                    hazırlanırken, Bağdatlılar, geçim derdiyle işlerinin
+                    yolunu tutuyor</Text>
+                <BeginOffset>266</BeginOffset>
+                <EndOffset>373</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>5301</BeginOffset>
+                <EndOffset>5311</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çocukların alerjisi vardı</Text>
+                <BeginOffset>5274</BeginOffset>
+                <EndOffset>5299</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kalorifere ve masaya sertçe sürtünerek kendilerini kaşıdılar</Text>
+                <BeginOffset>5312</BeginOffset>
+                <EndOffset>5372</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="contra-expectation"
+        sense="Comparison: Concession: contra-expectation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>buna rağmen</Text>
+                <BeginOffset>6956</BeginOffset>
+                <EndOffset>6967</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>uçak, minimum alçalma irtifasına gelmesine rağmen
+                    pistin görülmediği anlaşılmış</Text>
+                <BeginOffset>6873</BeginOffset>
+                <EndOffset>6952</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>radar yardımı istenmemiştir</Text>
+                <BeginOffset>6968</BeginOffset>
+                <EndOffset>6995</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="result precedence" sense="Temporal: Synchronous: precedence" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O zaman</Text>
+                <BeginOffset>12850</BeginOffset>
+                <EndOffset>12857</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>da</Text>
+                <BeginOffset>12858</BeginOffset>
+                <EndOffset>12860</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Bu kez, &apos;pisti biz finanse edelim&apos; dedik</Text>
+                <BeginOffset>12808</BeginOffset>
+                <EndOffset>12848</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>önümüze ihale yasası engelini çıkarıp biraz
+                    bekleyin&apos; dediler</Text>
+                <BeginOffset>12861</BeginOffset>
+                <EndOffset>12922</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Pistte 37 metre kod farkı var ve pistin uzatılması
+                    gerekiyor. O da ancak 1.5 - 2 yıl sonra ihale
+                    edilir&apos; yanıtını aldık</Text>
+                <BeginOffset>12687</BeginOffset>
+                <EndOffset>12806</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="result precedence" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O zaman</Text>
+                <BeginOffset>12850</BeginOffset>
+                <EndOffset>12857</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>da</Text>
+                <BeginOffset>12858</BeginOffset>
+                <EndOffset>12860</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Bu kez, &apos;pisti biz finanse edelim&apos; dedik</Text>
+                <BeginOffset>12808</BeginOffset>
+                <EndOffset>12848</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>önümüze ihale yasası engelini çıkarıp biraz
+                    bekleyin&apos; dediler</Text>
+                <BeginOffset>12861</BeginOffset>
+                <EndOffset>12922</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1>
+            <Span>
+                <Text>Pistte 37 metre kod farkı var ve pistin uzatılması
+                    gerekiyor. O da ancak 1.5 - 2 yıl sonra ihale
+                    edilir&apos; yanıtını aldık</Text>
+                <BeginOffset>12687</BeginOffset>
+                <EndOffset>12806</EndOffset>
+            </Span>
+        </Supp1>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="synchronous" sense="Temporal: Asynchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>o zaman</Text>
+                <BeginOffset>14910</BeginOffset>
+                <EndOffset>14917</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ambulansta ellerim kilitlenmişti</Text>
+                <BeginOffset>14866</BeginOffset>
+                <EndOffset>14898</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yandığımı</Text>
+                <BeginOffset>14900</BeginOffset>
+                <EndOffset>14909</EndOffset>
+            </Span>
+            <Span>
+                <Text>anladım</Text>
+                <BeginOffset>14918</BeginOffset>
+                <EndOffset>14925</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Synchronous" sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu sırada</Text>
+                <BeginOffset>14321</BeginOffset>
+                <EndOffset>14330</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Pilot &apos;inişe geçiyoruz&apos; dedi ve kemerler bağlandı</Text>
+                <BeginOffset>14270</BeginOffset>
+                <EndOffset>14319</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>pilotun sesi bozuk kaset sesi gibi sarıldı ve kesildi</Text>
+                <BeginOffset>14331</BeginOffset>
+                <EndOffset>14384</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Synchronous" sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu esnada</Text>
+                <BeginOffset>14529</BeginOffset>
+                <EndOffset>14538</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>30 metre sırtüstü süründükten sonra ayağa kalkarak
+                    projektörlere doğru kaçtım</Text>
+                <BeginOffset>14450</BeginOffset>
+                <EndOffset>14527</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bir bina yüksekliğinde alevler çıkıyordu</Text>
+                <BeginOffset>14539</BeginOffset>
+                <EndOffset>14579</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="Murathan: sense ve arg2&apos;den emin olamadım. Geri kalan cümleler de konunun devamı gibi. DZ. Geri kalan bölümleri supp2 olarak seçebiliriz, o zaman sorun hallolur sanırım. &quot;bu yerlerin .... edecektir&quot; arası supp2 olabilir. "
+        sense="Expansion: Restatement" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Esasen</Text>
+                <BeginOffset>16856</BeginOffset>
+                <EndOffset>16862</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kumarhanelerde büyük bir istihdam yaratılacaktır</Text>
+                <BeginOffset>16806</BeginOffset>
+                <EndOffset>16854</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yeni düzende kumarhanelerin belli yörelerde
+                    toplanması öngörülüyor</Text>
+                <BeginOffset>16863</BeginOffset>
+                <EndOffset>16929</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2>
+            <Span>
+                <Text>Bu yerlerin işletme sahiplerine satışı söz konusu
+                    olabilir. Buradaki oyun makinelerinin her birinden
+                    alınacak senelik ücret büyük bir rakam teşkil edecektir</Text>
+                <BeginOffset>16931</BeginOffset>
+                <EndOffset>17087</EndOffset>
+            </Span>
+        </Supp2>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation
+        note="Murathan: result. Tam emin olamadım ama gözden kaçmasın diye işaretledim."
+        sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Buna göre</Text>
+                <BeginOffset>13479</BeginOffset>
+                <EndOffset>13488</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İnternet üzerinden yapılan başvuruların bulunduğu
+                    servis sağlayıcıda oluşan bir sorun nedeniyle web
+                    sitesine ulaşılamayınca yönetim kurulu başvuru
+                    süresini iki gün uzatma kararı aldı</Text>
+                <BeginOffset>13295</BeginOffset>
+                <EndOffset>13477</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>öğrenciler 15 Ocak saat 17.00&apos;ye kadar
+                    başvuru işlemlerini yapabilecekler</Text>
+                <BeginOffset>13489</BeginOffset>
+                <EndOffset>13562</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>  

@@ -238,7 +238,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="list: ve" sense="Expansion: List" type="IMPLICIT">
+    <Relation note="list: ve" sense="Expansion: Conjunction" type="IMPLICIT">
         <Conn>
             <Span>
                 <Text>E</Text>

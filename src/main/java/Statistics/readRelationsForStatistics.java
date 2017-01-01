@@ -83,7 +83,7 @@ public class readRelationsForStatistics {
                 String senses = currentElement.getAttribute("sense");
                 String type = currentElement.getAttribute("type");
                 String genre = currentElement.getAttribute("genre");
-                if (!type.equalsIgnoreCase(inputType)) {
+                if (!type.contains(inputType)) {
                     continue;
                 }
                 // check if those fields are empty

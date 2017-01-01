@@ -84,7 +84,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="Conjunctive"
-        sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+        sense="Expansion: Conjunction" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>gibi</Text>

@@ -95,7 +95,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="conjunctive"
-        sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+        sense="Expansion: Conjunction" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>Ayrıca</Text>
@@ -188,7 +188,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+    <Relation note="" sense="Temporal: Asynchronous: precedence" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>önce</Text>
@@ -223,7 +223,7 @@
         </Shared>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+    <Relation note="" sense="Temporal: Asynchronous: precedence" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>Önce</Text>
@@ -251,7 +251,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+    <Relation note="" sense="Temporal: Asynchronous: precedence" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>Önce</Text>
@@ -280,7 +280,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+    <Relation note="" sense="Temporal: Asynchronous: precedence" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>önce</Text>
@@ -323,7 +323,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="Temporal: Synchronous: succession" type="EXPLICIT">
+    <Relation note="" sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>sonra</Text>
@@ -351,7 +351,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="Temporal: Synchronous: succession" type="EXPLICIT">
+    <Relation note="" sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>sonra</Text>
@@ -379,7 +379,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="Temporal: Synchronous: succession" type="EXPLICIT">
+    <Relation note="" sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>sonra</Text>
@@ -688,7 +688,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="succession"
-        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>

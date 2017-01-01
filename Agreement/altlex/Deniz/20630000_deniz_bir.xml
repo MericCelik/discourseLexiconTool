@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="pragmatic cause"
+        sense="Contingency: Cause: reason" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>5301</BeginOffset>
+                <EndOffset>5311</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Çocukların alerjisi vardı</Text>
+                <BeginOffset>5274</BeginOffset>
+                <EndOffset>5299</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kalorifere ve masaya sertçe sürtünerek kendilerini kaşıdılar</Text>
+                <BeginOffset>5312</BeginOffset>
+                <EndOffset>5372</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="arg1 unspecified see word file?"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Esasen</Text>
+                <BeginOffset>16856</BeginOffset>
+                <EndOffset>16862</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Kumarhanelerde büyük bir istihdam yaratılacaktır</Text>
+                <BeginOffset>16806</BeginOffset>
+                <EndOffset>16854</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yeni düzende kumarhanelerin belli yörelerde
+                    toplanması öngörülüyor. Bu yerlerin işletme
+                    sahiplerine satışı söz konusu olabilir. Buradaki
+                    oyun makinelerinin her birinden alınacak senelik
+                    ücret büyük bir rakam teşkil edecektir. Ayrıca
+                    ödenecek vergi de esaslı bir gelir kalemini oluşturacaktır</Text>
+                <BeginOffset>16863</BeginOffset>
+                <EndOffset>17154</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+	    <Relation note="" sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu sırada</Text>
+                <BeginOffset>14321</BeginOffset>
+                <EndOffset>14330</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Pilot &apos;inişe geçiyoruz&apos; dedi ve kemerler bağlandı</Text>
+                <BeginOffset>14270</BeginOffset>
+                <EndOffset>14319</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>pilotun sesi bozuk kaset sesi gibi sarıldı ve kesildi</Text>
+                <BeginOffset>14331</BeginOffset>
+                <EndOffset>14384</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

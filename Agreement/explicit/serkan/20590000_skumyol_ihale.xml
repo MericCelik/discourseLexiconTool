@@ -95,7 +95,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="conjunctive"
-        sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+        sense="Expansion: Conjunction" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>Ancak</Text>
@@ -127,7 +127,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="succession"
-        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ardından</Text>
@@ -534,7 +534,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="succession"
-        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>sonra</Text>
@@ -563,7 +563,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="succession"
-        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>sonra</Text>

@@ -90,7 +90,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="Expansion: List" type="IMPLICIT">
+    <Relation note="" sense="Expansion: Conjunction" type="IMPLICIT">
         <Conn>
             <Span>
                 <Text>Bu</Text>
@@ -572,7 +572,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="Expansion: List" type="IMPLICIT">
+    <Relation note="" sense="Expansion: Conjunction" type="IMPLICIT">
         <Conn>
             <Span>
                 <Text>A</Text>

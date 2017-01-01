@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Relation note="" sense="" type="EXPLICIT">
+    <Relation note="" sense="Comparison: Concession: contra-expectation" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>aslında</Text>
@@ -92,7 +92,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="" type="EXPLICIT">
+    <Relation note="" sense="Contingency: Cause: reason" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>Çünkü</Text>
@@ -186,7 +186,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="" type="EXPLICIT">
+    <Relation note="" sense="Expansion" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>gibi</Text>
@@ -219,7 +219,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+    <Relation note="" sense="Expansion: Conjunction" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>Hem</Text>
@@ -342,7 +342,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="" type="EXPLICIT">
+    <Relation note="" sense="Expansion: Instantiation" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>örneğin</Text>
@@ -558,7 +558,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="" type="EXPLICIT">
+    <Relation note="" sense="Expansion: Conjunction" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>
@@ -593,7 +593,7 @@
         </Shared>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="" type="EXPLICIT">
+    <Relation note="" sense="Temporal: Asynchronous: precedence" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>
@@ -621,7 +621,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+    <Relation note="" sense="Expansion: Conjunction" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>
@@ -649,7 +649,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+    <Relation note="" sense="Expansion: Conjunction" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>
@@ -837,7 +837,7 @@
         </Shared>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+    <Relation note="" sense="Expansion: Conjunction" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>
@@ -893,7 +893,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+    <Relation note="" sense="Expansion: Conjunction" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="sense?" sense="" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Hiç değilse</Text>
+                <BeginOffset>14739</BeginOffset>
+                <EndOffset>14750</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Bu yorum da ya yakın tarihimize bir kültürel
+                    ikilem yakıştırarak bu ikilemin Cumhuriyet&apos;le
+                    en &quot;hayırlı&quot; biçimde çözüldüğü
+                    yanılsamasından, ya da Cumhuriyetçiler&apos;in kendi
+                    ikilemlerini önceki kuşaklara yansıtmalarından
+                    kaynaklanıyor olabilir</Text>
+                <BeginOffset>14498</BeginOffset>
+                <EndOffset>14737</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Tanzimat düşünce ve edebiyatına egemen olan
+                    özellik ikilem değil, tersine İslâm düşünce,
+                    felsefe, dünya görüşü ve bilgi kuramının tartışılmaz belirleyiciliğidir</Text>
+                <BeginOffset>14751</BeginOffset>
+                <EndOffset>14911</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

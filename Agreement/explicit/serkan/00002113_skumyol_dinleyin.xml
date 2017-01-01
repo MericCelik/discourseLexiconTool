@@ -101,7 +101,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="" type="EXPLICIT">
+    <Relation note="" sense="Expansion" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>gibi</Text>
@@ -140,7 +140,7 @@
         </Shared>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="" type="EXPLICIT">
+    <Relation note="" sense="Expansion" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>gibi</Text>
@@ -229,7 +229,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="" type="EXPLICIT">
+    <Relation note="" sense="Expansion: Conjunction" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ne</Text>
@@ -262,7 +262,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="" type="EXPLICIT">
+    <Relation note="?" sense="?" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>önce</Text>
@@ -459,7 +459,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="" type="EXPLICIT">
+    <Relation note="Temporal: Asynchronous: precedence#Contingency: Cause: result" sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>O zaman</Text>
@@ -487,7 +487,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="" type="EXPLICIT">
+    <Relation note="" sense="Contingency: Pragmatic Cause: justification" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>O zaman</Text>

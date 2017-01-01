@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="Temporal: Asynchronous: precedence" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O zamana değin</Text>
+                <BeginOffset>2980</BeginOffset>
+                <EndOffset>2994</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Büyülenmiştim</Text>
+                <BeginOffset>2880</BeginOffset>
+                <EndOffset>2893</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>gördüğüm en güzel şovlardan biriydi bu</Text>
+                <BeginOffset>2995</BeginOffset>
+                <EndOffset>3033</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Expansion: Conjunction" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Üstelik</Text>
+                <BeginOffset>11966</BeginOffset>
+                <EndOffset>11973</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Ben Mithat Bey&apos;in eski karısını hiç tanımadım ki</Text>
+                <BeginOffset>11916</BeginOffset>
+                <EndOffset>11964</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>ben Mithat Bey&apos;i de tanımıyorum</Text>
+                <BeginOffset>11974</BeginOffset>
+                <EndOffset>12005</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

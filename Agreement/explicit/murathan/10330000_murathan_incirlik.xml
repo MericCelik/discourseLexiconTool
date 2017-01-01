@@ -83,7 +83,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="conjunctive"
-        sense="Expansion: Alternative: conjunctive" type="EXPLICIT">
+        sense="Expansion: Conjunction" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>gibi</Text>
@@ -225,7 +225,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="?" sense="" type="EXPLICIT">
+    <Relation note="?" sense="?" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>kadar</Text>

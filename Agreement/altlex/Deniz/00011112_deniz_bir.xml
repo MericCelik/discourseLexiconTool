@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<Relation note="" sense="Contingency: Cause: reason" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Yok olmanın nedeni</Text>
+                <BeginOffset>1946</BeginOffset>
+                <EndOffset>1964</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Yok olmanın, gerçek bir toplu Yok olma olarak
+                    kabul edilmesi, yok olma zonunun üstünde gözlenen
+                    çoğu canlı türünün, yok olma zonu altında gözlenen
+                    canlı türleriyle yakından ilişkili olmaması ve bu
+                    durumun yatay-düşey fasiyes değişimlerinden bağımsız
+                    olarak izlenmesiyle mümkündür</Text>
+                <BeginOffset>1665</BeginOffset>
+                <EndOffset>1944</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>canlıların çevresel değişikliklere karşı
+                    gösterdikleri duyarlılıktır</Text>
+                <BeginOffset>1966</BeginOffset>
+                <EndOffset>2034</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="Synchronous" sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu dönemde</Text>
+                <BeginOffset>3268</BeginOffset>
+                <EndOffset>3278</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>I. Büyük Toplu Yokolma, Tetis denizinin
+                    açılmasıyla Dünya morfolojisinin, Pengea=Tek kıta -
+                    Pantalassa=Tek okyanus düzeninden, Aurasia=Kuzey
+                    kıtaları ve Gondwana=Güney kıtaları olarak yeni
+                    düzene geçmesi dönemine karşılık gelir</Text>
+                <BeginOffset>3039</BeginOffset>
+                <EndOffset>3266</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yeni dünyaya ayak uyduramayan canlılar ya tamamen
+                    Yok olmuşlar, ya da cins ve tür düzeyinde önemli
+                    ölçüde azalmışlardır</Text>
+                <BeginOffset>3280</BeginOffset>
+                <EndOffset>3399</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	 <Relation note="" sense="Expansion: Instantiation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Keza</Text>
+                <BeginOffset>7225</BeginOffset>
+                <EndOffset>7229</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Meteor çapının, sadece 1 km&apos;den büyük olması
+                    dahi, yıkıcı doğal felaketlere yol açabilir</Text>
+                <BeginOffset>7135</BeginOffset>
+                <EndOffset>7223</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>16-20 Temmuz 1994&apos;de Jüpiter gezegeninin
+                    Kuyruklu Yıldız Yağmuru&apos;na uğrayışını
+                    televizyonlardan, naklen tıpkı bir &quot;Uzay
+                    fiovu&quot; gibi izlemiştik</Text>
+                <BeginOffset>7230</BeginOffset>
+                <EndOffset>7372</EndOffset>
+            </Span>
+        </Arg2>
+
+
+
+
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu amaçla</Text>
+                <BeginOffset>4069</BeginOffset>
+                <EndOffset>4078</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Arz paleocoğrafyasının hemen hemen günümüzdekine
+                    yakın şekillendiği devirde, Yok olmanın nedeni gibi,
+                    süresi ve seçmeli oluşu da çözüm bekleyen sorulardandır</Text>
+                <BeginOffset>3910</BeginOffset>
+                <EndOffset>4067</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>pek çok kuram ileri sürülmüştür</Text>
+                <BeginOffset>4079</BeginOffset>
+                <EndOffset>4110</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Instantiation" sense="Expansion: Instantiation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Öyle ki</Text>
+                <BeginOffset>6022</BeginOffset>
+                <EndOffset>6029</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kretase sonu sınır çökellerinde, yüksek platinium
+                    grubu elementleri konsantrasyonunun yüksekliğine
+                    dayandırılarak ileri sürüldü ve haklılığına da kanıt
+                    olarak gösterildi</Text>
+                <BeginOffset>5851</BeginOffset>
+                <EndOffset>6020</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu sınır çökellerindeki yüksek platinium grubu
+                    elementlerine ancak göktaşlarında rastlanır</Text>
+                <BeginOffset>6031</BeginOffset>
+                <EndOffset>6121</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Kaldı ki</Text>
+                <BeginOffset>7558</BeginOffset>
+                <EndOffset>7566</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Jüpiter için gerçek olan uzay koşullarının, bir
+                    gün Dünya için de gerçek olabileceği unutulmamalıdır</Text>
+                <BeginOffset>7456</BeginOffset>
+                <EndOffset>7556</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yer yüzünden 2000 km yükseklikte askeri roketler
+                    ve uydu parçalarından oluşan, sayı ve ağırlıkları
+                    durmadan artırılan bir çöp bulutu insan eliyle
+                    oluşturulan diğer tehlikelerdendir</Text>
+                <BeginOffset>7568</BeginOffset>
+                <EndOffset>7748</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="Specification"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Keza</Text>
+                <BeginOffset>8181</BeginOffset>
+                <EndOffset>8185</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>meteorit çarpması, dünya çapında deniz
+                    seviyesindeki regresyon ve okyanus yüzey sularındaki
+                    kalsit çözünmesindeki keskin boşluk olarak ileri sürülür</Text>
+                <BeginOffset>8031</BeginOffset>
+                <EndOffset>8179</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>II. Zaman- III. Zaman sınırında fosil kayıtlarında
+                    yaygın bir Yok oluş mevcuttur</Text>
+                <BeginOffset>8187</BeginOffset>
+                <EndOffset>8267</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text> Bu durumda</Text>
+                <BeginOffset>8584</BeginOffset>
+                <EndOffset>8595</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Dinosaurus ve Foraminifera&apos;larda olduğu gibi
+                    eş zamanlarda oluşan ani kesilmeler daha geçerlidir</Text>
+                <BeginOffset>8487</BeginOffset>
+                <EndOffset>8583</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>fosil kanıtlarda yok olmanın seçmeli oluşu,
+                    çözülmeyi bekleyen sorulardan en önemlisidir</Text>
+                <BeginOffset>8597</BeginOffset>
+                <EndOffset>8685</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="specification"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Keza</Text>
+                <BeginOffset>9902</BeginOffset>
+                <EndOffset>9906</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>herkese yaşama hakkını veren dengeli düzenini
+                    kurabilmek için, baskın olarak diğerlerinin yaşama
+                    hakkını gasp eden formu yok eder</Text>
+                <BeginOffset>9770</BeginOffset>
+                <EndOffset>9899</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text> jeolojik tarihindeki toplu Yok olmalarda en çok
+                    kayıp verenlerle, tamamen yok olanlar, dönemlerinin
+                    en baskın formlarıdır</Text>
+                <BeginOffset>9907</BeginOffset>
+                <EndOffset>10029</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="" sense="Expansion: Instantiation" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Keza</Text>
+                <BeginOffset>8687</BeginOffset>
+                <EndOffset>8691</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Bu durumda, fosil kanıtlarda yok olmanın seçmeli
+                    oluşu, çözülmeyi bekleyen sorulardan en önemlisidir</Text>
+                <BeginOffset>8585</BeginOffset>
+                <EndOffset>8685</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Dinoflagellata ve Kalkerli Alg&apos;ler gibi bir
+                    grupda yokolma öncesi ve sonrasında cins bazında
+                    küçük düşüşler; Radiolaria ve Diatome gibi gruplarda
+                    aynen korunma; Foraminifer&apos;ler ve
+                    Kokholit&apos;ler gibi gruplarda büyük düşüşler;
+                    Dinosaurus, Amphibia, Belemnites ve
+                    Ammonites&apos;lerde tamamen yokolma söz konusu
+                    iken, Mammalia, Reptil ve Karasal Bitkiler&apos;de
+                    artış söz konusudur</Text>
+                <BeginOffset>8693</BeginOffset>
+                <EndOffset>9061</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

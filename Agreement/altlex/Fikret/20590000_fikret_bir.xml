@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="Temporal: Asynchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Önümüzdeki dönemde</Text>
+                <BeginOffset>3974</BeginOffset>
+                <EndOffset>3992</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Zamana karşı yarışıyoruz</Text>
+                <BeginOffset>3948</BeginOffset>
+                <EndOffset>3972</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>hepimiz hayatımıza biraz daha sevgiyi ve manevi
+                    değerleri sokmaya çalışacağız</Text>
+                <BeginOffset>3993</BeginOffset>
+                <EndOffset>4070</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Contingency: Condition: hypothetical" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Beklentinin gerçekleşmesi durumunda</Text>
+                <BeginOffset>5374</BeginOffset>
+                <EndOffset>5409</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Piyasa, geçen haftanın son günü Kopenhag
+                    Zirvesi&apos;nden tarih için tarih çıkacağı
+                    beklentisiyle pozisyon açtı</Text>
+                <BeginOffset>5265</BeginOffset>
+                <EndOffset>5372</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>endeksin 1.10 sente doğru kademeli yükselmesi
+                    bekleniyor </Text>
+                <BeginOffset>5410</BeginOffset>
+                <EndOffset>5467</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="sense?" sense="Contingency: Pragmatic Cause" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu gelişmeyle birlikte</Text>
+                <BeginOffset>8663</BeginOffset>
+                <EndOffset>8685</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Türkiye&apos;ye şartlı bir tarih verilmesini bekliyoruz</Text>
+                <BeginOffset>8611</BeginOffset>
+                <EndOffset>8661</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Aralık ortasında 16.000&apos;li seviyeleri görebiliriz</Text>
+                <BeginOffset>8686</BeginOffset>
+                <EndOffset>8735</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Aralığın ikinci yarısından itibaren</Text>
+                <BeginOffset>8776</BeginOffset>
+                <EndOffset>8811</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Kısa vadede borsada fırsatlar sürüyor</Text>
+                <BeginOffset>8737</BeginOffset>
+                <EndOffset>8774</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Irak gündeme gelebilir</Text>
+                <BeginOffset>8813</BeginOffset>
+                <EndOffset>8835</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>14383</BeginOffset>
+                <EndOffset>14393</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>İbrahim Türkiş aday adayı olarak seçilmese bile
+                    aktif politikada yer almış bir kişidir</Text>
+                <BeginOffset>14295</BeginOffset>
+                <EndOffset>14381</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>BDDK&apos;da görev alması doğru olmaz</Text>
+                <BeginOffset>14394</BeginOffset>
+                <EndOffset>14426</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

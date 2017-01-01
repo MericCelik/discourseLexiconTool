@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="Contingency: Cause: reason" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>5301</BeginOffset>
+                <EndOffset>5311</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Çocukların alerjisi vardı</Text>
+                <BeginOffset>5274</BeginOffset>
+                <EndOffset>5299</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kalorifere ve masaya sertçe sürtünerek kendilerini kaşıdılar</Text>
+                <BeginOffset>5312</BeginOffset>
+                <EndOffset>5372</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu sırada</Text>
+                <BeginOffset>14321</BeginOffset>
+                <EndOffset>14330</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Pilot &apos;inişe geçiyoruz&apos; dedi ve kemerler bağlandı</Text>
+                <BeginOffset>14270</BeginOffset>
+                <EndOffset>14319</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>pilotun sesi bozuk kaset sesi gibi sarıldı ve kesildi</Text>
+                <BeginOffset>14331</BeginOffset>
+                <EndOffset>14384</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu esnada</Text>
+                <BeginOffset>14529</BeginOffset>
+                <EndOffset>14538</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>30 metre sırtüstü süründükten sonra ayağa kalkarak
+                    projektörlere doğru kaçtım</Text>
+                <BeginOffset>14450</BeginOffset>
+                <EndOffset>14527</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bir bina yüksekliğinde alevler çıkıyordu</Text>
+                <BeginOffset>14539</BeginOffset>
+                <EndOffset>14579</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Expansion: Restatement" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Esasen</Text>
+                <BeginOffset>16856</BeginOffset>
+                <EndOffset>16862</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Kumarhanelerde büyük bir istihdam yaratılacaktır</Text>
+                <BeginOffset>16806</BeginOffset>
+                <EndOffset>16854</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yeni düzende kumarhanelerin belli yörelerde
+                    toplanması öngörülüyo</Text>
+                <BeginOffset>16863</BeginOffset>
+                <EndOffset>16928</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

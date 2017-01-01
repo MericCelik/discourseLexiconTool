@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bir süre sonra da</Text>
+                <BeginOffset>3427</BeginOffset>
+                <EndOffset>3444</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Çıkmak istemez</Text>
+                <BeginOffset>3411</BeginOffset>
+                <EndOffset>3425</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>o dayanılmaz bekleyişe, o baş etmesi zor gerilime alışır</Text>
+                <BeginOffset>3445</BeginOffset>
+                <EndOffset>3501</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bir süre</Text>
+                <BeginOffset>13660</BeginOffset>
+                <EndOffset>13668</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Her şey bitmişti, anlamıştım</Text>
+                <BeginOffset>13630</BeginOffset>
+                <EndOffset>13658</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>kapısında bir köpek gibi süründüm</Text>
+                <BeginOffset>13669</BeginOffset>
+                <EndOffset>13702</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

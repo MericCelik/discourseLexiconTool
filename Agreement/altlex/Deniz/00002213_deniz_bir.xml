@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="specification"
+        sense="Expansion: Restatement: specification" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Yani</Text>
+                <BeginOffset>15002</BeginOffset>
+                <EndOffset>15006</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Peki, senin yerin neresi</Text>
+                <BeginOffset>14976</BeginOffset>
+                <EndOffset>15000</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>senin zamanın, saatin, süren nedir? Sen neredesin</Text>
+                <BeginOffset>15007</BeginOffset>
+                <EndOffset>15056</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

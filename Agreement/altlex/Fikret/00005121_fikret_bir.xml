@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="Expansion: Restatement" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Yani</Text>
+                <BeginOffset>11811</BeginOffset>
+                <EndOffset>11815</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Şekerim demokrasinin cilveleri bunlar, diyor
+                    üstat, önemli olan hoşgörü ve diyalog</Text>
+                <BeginOffset>11725</BeginOffset>
+                <EndOffset>11807</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>hangi demokrasiyi savunuyorsun, söylesenize niye
+                    bu kadar kör ve sığsınız</Text>
+                <BeginOffset>11816</BeginOffset>
+                <EndOffset>11889</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

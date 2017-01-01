@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="Expansion: Restatement" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Gerçekten de</Text>
+                <BeginOffset>3036</BeginOffset>
+                <EndOffset>3048</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Ülkenin yoksulluk içinde bulunduğu, ekmeğin
+                    karneye bağlı olduğu savaş yılları içinde onların bu
+                    cömertlikleri ayrıca bir önem kazanıyordu</Text>
+                <BeginOffset>2896</BeginOffset>
+                <EndOffset>3034</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>babanın eli açıktı</Text>
+                <BeginOffset>3049</BeginOffset>
+                <EndOffset>3067</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Temporal: Asynchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O gün</Text>
+                <BeginOffset>4444</BeginOffset>
+                <EndOffset>4449</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Babamın evdeki yaşamını görmemek için, okul dönüşü
+                    çoğu kez Beyoğlu sinemalarından birine gider, güzel
+                    bir film izlerdim</Text>
+                <BeginOffset>4322</BeginOffset>
+                <EndOffset>4442</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yle olmadı, saat beş gibi eve dönüyordum, daha
+                    sokağın başından, babamın taş plaktan çaldığı
+                    Bahriye Çiftetellisinin sesi duyuluyordu</Text>
+                <BeginOffset>4451</BeginOffset>
+                <EndOffset>4584</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Contingency: Cause: reason" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle de</Text>
+                <BeginOffset>8446</BeginOffset>
+                <EndOffset>8459</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Çok alıngan, doğal olarak da utanan bir insandım</Text>
+                <BeginOffset>8396</BeginOffset>
+                <EndOffset>8444</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>tanışmadığım bir insanı ne kadar sevsem  ne kadar
+                    beğensem , kendiliğimden bir merhaba diyemezdim</Text>
+                <BeginOffset>8460</BeginOffset>
+                <EndOffset>8557</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Öğle yemeğinden sonra</Text>
+                <BeginOffset>10373</BeginOffset>
+                <EndOffset>10394</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Çaylar, kahveler, gazozlar, pasta ve börekler
+                    aralıksız ikram ediliyor ve yenilip içiliyordu</Text>
+                <BeginOffset>10279</BeginOffset>
+                <EndOffset>10371</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Nimet, Kemal&apos;e &quot;Kemal, hani bize
+                    geldiğinde söylemiştin ya, hadi bizi tiyatroya
+                    götür,&quot; deyince, Kemal sevinerek hemen
+                    Beşiktaş&apos;taki Balıkçılar Pazarının arkasında
+                    Leşkeren Sokaktaki Şen Tiyatrosuna gitti, dört bilet
+                    alıp döndü</Text>
+                <BeginOffset>10395</BeginOffset>
+                <EndOffset>10622</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O günlerde</Text>
+                <BeginOffset>11555</BeginOffset>
+                <EndOffset>11565</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Aslında Şen Sineması olan o salonda, ağustos ayı
+                    süresince, dekoru kartondan sütunlar, döküntünün
+                    döküntüsü tarihi giysiler ve yaldızlı tahta
+                    kılıçlarla, inanılmaz bir ciddiyet içinde, matine ve
+                    suare Hamlet&apos;i, Kral Lear&apos;i,
+                    Othello&apos;yu oynamıştı Sadi Tek</Text>
+                <BeginOffset>11300</BeginOffset>
+                <EndOffset>11553</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Beşiktaş&apos;ta balıkçılar Çarşısında salaş bir
+                    binanın üst katındaki küçük bir salonda bunlar
+                    oynanırken, Beyoğlu&apos;nda Alabanda Revüsü,
+                    Delidolu Opereti, revüler, varyeteler gırla gidiyordu</Text>
+                <BeginOffset>11566</BeginOffset>
+                <EndOffset>11751</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

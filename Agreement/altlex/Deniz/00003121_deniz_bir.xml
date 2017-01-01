@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="precedence"
+        sense="Temporal: Asynchronous: precedence" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bir zamanlar</Text>
+                <BeginOffset>417</BeginOffset>
+                <EndOffset>429</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>durup durup paçalarına bakardın; sokak helalarına
+                    gidip suyla silmeye çalışırdın</Text>
+                <BeginOffset>586</BeginOffset>
+                <EndOffset>666</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>yaşayıp yaşamadığından kuşku duyduğun günlerde</Text>
+                <BeginOffset>431</BeginOffset>
+                <EndOffset>477</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    
+    <Relation note="synchronous" sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Belki de o anda</Text>
+                <BeginOffset>4263</BeginOffset>
+                <EndOffset>4278</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Bir namaz tahtasına sarılmış olarak kıyıya
+                    vurduğunda kollarını zor açmışlar, yarı yarıya donmuş</Text>
+                <BeginOffset>4165</BeginOffset>
+                <EndOffset>4261</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Tanrı&apos;ya yakarıp yardım istiyordu</Text>
+                <BeginOffset>4279</BeginOffset>
+                <EndOffset>4312</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+
+	<Relation note="" sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Yıllar sonra</Text>
+                <BeginOffset>2314</BeginOffset>
+                <EndOffset>2326</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Nerdesiniz, diyor, nereye kayboldunuz</Text>
+                <BeginOffset>2275</BeginOffset>
+                <EndOffset>2312</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>bu eşikte dikilip çocukluğumu arayacağımı o
+                    zamanlar bilebilir miydim</Text>
+                <BeginOffset>2327</BeginOffset>
+                <EndOffset>2396</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Temporal: Synchronous: precedence" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bir zaman önce</Text>
+                <BeginOffset>9904</BeginOffset>
+                <EndOffset>9918</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Cenazesine katılamadı</Text>
+                <BeginOffset>9881</BeginOffset>
+                <EndOffset>9902</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>onların köyüne gittiklerini, belki de kaçtıklarını
+                    ya da saklandıklarını -yok, avlanmak içindi, anımsıyor</Text>
+                <BeginOffset>9940</BeginOffset>
+                <EndOffset>10045</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

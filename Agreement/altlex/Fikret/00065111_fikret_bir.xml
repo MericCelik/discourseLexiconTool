@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>O günlerde</Text>
+                <BeginOffset>4144</BeginOffset>
+                <EndOffset>4154</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Beni ve Meltem&apos;i hâlâ birlikte idare ettiğini
+                    öğrendiğimde, onarmaya çalıştığım yüreğim tuzla buz
+                    oldu yeniden</Text>
+                <BeginOffset>4032</BeginOffset>
+                <EndOffset>4142</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yeni Melek sinemasında Susie Wang&apos;ın Dünyası oynuyordu</Text>
+                <BeginOffset>4155</BeginOffset>
+                <EndOffset>4209</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Contingency: Cause: reason" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu yüzden</Text>
+                <BeginOffset>9942</BeginOffset>
+                <EndOffset>9951</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Bakın, bakın domuz eti yiyor,&quot; diye bağırırdı Recep</Text>
+                <BeginOffset>9889</BeginOffset>
+                <EndOffset>9940</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>sandviçimi bir köşede gizlice dişlerdim</Text>
+                <BeginOffset>9953</BeginOffset>
+                <EndOffset>9992</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Öğleden sonra</Text>
+                <BeginOffset>14960</BeginOffset>
+                <EndOffset>14973</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Fakat bu olay üzerimde büyük bir etki bırakmış
+                    olacak ki, o günden sonra evde daima hindi tüyünden
+                    yapılmış bir süpürge bulundurdum</Text>
+                <BeginOffset>14827</BeginOffset>
+                <EndOffset>14958</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Raif Bey bu kez masama gelip önüme mor bir iki
+                    buçukluk atarak bakkaldan kendisine bir sigara
+                    almamı istedi</Text>
+                <BeginOffset>14974</BeginOffset>
+                <EndOffset>15081</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

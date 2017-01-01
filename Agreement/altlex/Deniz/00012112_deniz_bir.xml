@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="Conjunction" sense="Expansion: Conjunction" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Daha birçok çalışmanın yanı sıra</Text>
+                <BeginOffset>7321</BeginOffset>
+                <EndOffset>7353</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Böylece kapitalist sömürünün mekanizması (emeğin
+                    meta haline gelmesi ve işçinin emeğinin bir bölümüne
+                    kapitalist tarafından el konulması) açıklanmış,
+                    kapitalist zenginliğin (sermaye&apos;nin) ve
+                    kâr&apos;ın temel kaynağı da bulunmuştur</Text>
+                <BeginOffset>7094</BeginOffset>
+                <EndOffset>7319</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Marx&apos;ın anıtsal eseri Kapital&apos;de bu konu
+                    son derece ayrıntılı biçimde incelenmiştir</Text>
+                <BeginOffset>7355</BeginOffset>
+                <EndOffset>7438</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="result" sense="Contingency: Cause: result" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>12713</BeginOffset>
+                <EndOffset>12723</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>19. yüzyılda Asya&apos;nın, Latin
+                    Amerika&apos;nın, Afrika&apos;nın halkları henüz
+                    insanlığın ortak gelişme yatağının dışında bulunuyorlardı</Text>
+                <BeginOffset>12586</BeginOffset>
+                <EndOffset>12711</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>19. yüzyıl Bilimsel Sosyalizmi, ister istemez
+                    Avrupa merkezciliğin izlerini taşır</Text>
+                <BeginOffset>12724</BeginOffset>
+                <EndOffset>12805</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="generalization"
+        sense="Expansion: Restatement: generalization" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Demek ki</Text>
+                <BeginOffset>13430</BeginOffset>
+                <EndOffset>13438</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>20. yüzyıl pratikleri, Bilimsel Sosyalizmi dünyalılaştırmıştır</Text>
+                <BeginOffset>13366</BeginOffset>
+                <EndOffset>13428</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Marx&apos;ın kuramı bu potansiyeli içinde barındırmaktaydı</Text>
+                <BeginOffset>13440</BeginOffset>
+                <EndOffset>13493</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="generalization"
+        sense="Expansion: Restatement: generalization" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Gerçekten de</Text>
+                <BeginOffset>16455</BeginOffset>
+                <EndOffset>16467</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>sosyalizmi kurmanın esas itici gücünün emekçi
+                    kitlelerin devrimci inisiyatifi olduğunu, partinin
+                    de bu inisiyatifin önderi olabildiği sürece
+                    sosyalizm yolunda ilerlenebileceğini söylemiştir</Text>
+                <BeginOffset>16264</BeginOffset>
+                <EndOffset>16453</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sovyet deneyinin trajik sonu, Mao Zedung&apos;u doğrulamıştır</Text>
+                <BeginOffset>16468</BeginOffset>
+                <EndOffset>16524</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

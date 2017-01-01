@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="equivalence"
+        sense="Expansion: Restatement: equivalence" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Yani</Text>
+                <BeginOffset>11146</BeginOffset>
+                <EndOffset>11150</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Yakın zamana kadar dünya canlılarını daha ileri
+                    bir düzeye ulaştırma konusunda geleceğin çok parlak
+                    olacağına inanıyordum ama şimdi</Text>
+                <BeginOffset>11013</BeginOffset>
+                <EndOffset>11144</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>tavuklara tek hücre aşamasında yeni genler
+                    aşılanmasına tepki duyuyorum, ya korkunç yaratıklar
+                    hilkat garibeleri çıkarsa ortaya</Text>
+                <BeginOffset>11151</BeginOffset>
+                <EndOffset>11278</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

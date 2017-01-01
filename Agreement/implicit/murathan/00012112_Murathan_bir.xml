@@ -223,6 +223,38 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
+	 <Relation note="specification: şöyle ki"
+        sense="Expansion: Restatement: specification" type="IMPLICIT">
+        <Conn>
+            <Span>
+                <Text>Engels</Text>
+                <BeginOffset>5716</BeginOffset>
+                <EndOffset>5722</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Diyalektik Materyalizm, dönemin büyük bilimsel
+                    devrimleriyle de beslenmiş ve kanıtlanmıştır</Text>
+                <BeginOffset>5623</BeginOffset>
+                <EndOffset>5714</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Engels, kendi felsefelerinin üç büyük bilimsel
+                    bulgu ile doğrulandığını söyler</Text>
+                <BeginOffset>5716</BeginOffset>
+                <EndOffset>5794</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	
     <Relation note="equivalence: başka bir deyişle"
         sense="Expansion: Restatement: equivalence" type="IMPLICIT">
         <Conn>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="Temporal: Synchronous" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Birkaç zamandan beri</Text>
+                <BeginOffset>4344</BeginOffset>
+                <EndOffset>4364</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Burası (Çamlıca Bahçesi) namiyle İstanbul&apos;da
+                    en evvel tanzim ve küşat olunmuş olan bahçedir</Text>
+                <BeginOffset>4251</BeginOffset>
+                <EndOffset>4342</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>rağbet-i âmmeden bütün bütün mehçur olduğu cihetle
+                    ekser eyyamda kapıları kapalı durur</Text>
+                <BeginOffset>4365</BeginOffset>
+                <EndOffset>4451</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Contingency: Cause: reason" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu semantik kargaşanın nedeni de</Text>
+                <BeginOffset>7878</BeginOffset>
+                <EndOffset>7910</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Roman boyunca Bihruz Bey muazzam bir semantik
+                    kargaşa içinde çırpınır durur</Text>
+                <BeginOffset>7801</BeginOffset>
+                <EndOffset>7876</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>epistemolojiktir, çünkü Bihruz Bey yaşadıklarını,
+                    yani yaşantısını anlatacak bir dilden yoksundur</Text>
+                <BeginOffset>7911</BeginOffset>
+                <EndOffset>8008</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bundan sonra</Text>
+                <BeginOffset>13041</BeginOffset>
+                <EndOffset>13053</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Gerçekle yanılsama arasındaki mesafeyi, başkişinin
+                    bir yanılsama dünyasında yitişini, okur hep bu
+                    yabancılaştırıcı üslûp parodisi sayesinde farkedecektir</Text>
+                <BeginOffset>12886</BeginOffset>
+                <EndOffset>13039</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>romanda kullanılan dil, romanın ana izleği olan
+                    hiçliğe koşut gidecek ve her aşamada hiçlenen Bihruz
+                    Bey gene durmaksızırı kendini hiçleyen bir dille anlatılacaktır</Text>
+                <BeginOffset>13054</BeginOffset>
+                <EndOffset>13218</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

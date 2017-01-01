@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="pragmatic cause"
+        sense="Contingency: Pragmatic Cause" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bu nedenle</Text>
+                <BeginOffset>8446</BeginOffset>
+                <EndOffset>8456</EndOffset>
+            </Span>
+        </Conn>
+        <Mod>
+            <Span>
+                <Text>de</Text>
+                <BeginOffset>8457</BeginOffset>
+                <EndOffset>8459</EndOffset>
+            </Span>
+        </Mod>
+        <Arg1>
+            <Span>
+                <Text>Çok alıngan, doğal olarak da utanan bir insandım</Text>
+                <BeginOffset>8396</BeginOffset>
+                <EndOffset>8444</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>tanışmadığım bir insanı ne kadar sevsem  ne kadar
+                    beğensem , kendiliğimden bir merhaba diyemezdim</Text>
+                <BeginOffset>8460</BeginOffset>
+                <EndOffset>8557</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Öğle yemeğinden sonra</Text>
+                <BeginOffset>10373</BeginOffset>
+                <EndOffset>10394</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Çaylar, kahveler, gazozlar, pasta ve börekler
+                    aralıksız ikram ediliyor ve yenilip içiliyordu</Text>
+                <BeginOffset>10279</BeginOffset>
+                <EndOffset>10371</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Nimet, Kemal&apos;e &quot;Kemal, hani bize
+                    geldiğinde söylemiştin ya, hadi bizi tiyatroya
+                    götür,&quot; deyince, Kemal sevinerek hemen
+                    Beşiktaş&apos;taki Balıkçılar Pazarının arkasında
+                    Leşkeren Sokaktaki Şen Tiyatrosuna gitti, dört bilet
+                    alıp döndü</Text>
+                <BeginOffset>10395</BeginOffset>
+                <EndOffset>10622</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="succession"
+        sense="Temporal: Asynchronous: succession" type="ALTLEX">
+        <Conn>
+            <Span>
+                <Text>Bundan sonra</Text>
+                <BeginOffset>12322</BeginOffset>
+                <EndOffset>12334</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Beni çok memnun eden bir yaklaşımla kabul etti önerimi</Text>
+                <BeginOffset>12266</BeginOffset>
+                <EndOffset>12320</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>artık arkadaşlığımızı ilerletmek kolaydı ve öyle
+                    de oldu</Text>
+                <BeginOffset>12335</BeginOffset>
+                <EndOffset>12391</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

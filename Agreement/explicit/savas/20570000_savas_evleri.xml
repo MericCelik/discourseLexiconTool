@@ -123,7 +123,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="precedence"
-        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        sense="Temporal: Asynchronous: precedence" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>Ardından</Text>
@@ -152,7 +152,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="succession"
-        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ardından</Text>
@@ -188,7 +188,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="precedence"
-        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        sense="Temporal: Asynchronous: precedence" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>Ardından</Text>
@@ -697,7 +697,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="precedence"
-        sense="Temporal: Synchronous: precedence" type="EXPLICIT">
+        sense="Temporal: Asynchronous: precedence" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>önce</Text>
@@ -733,7 +733,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="succession"
-        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>önce</Text>
@@ -769,7 +769,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="?" sense="" type="EXPLICIT">
+    <Relation note="?" sense="?" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>önce</Text>
@@ -840,7 +840,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="succession"
-        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>sonra</Text>
@@ -870,7 +870,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="succession"
-        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>sonra</Text>
@@ -906,7 +906,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="succession"
-        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>sonra</Text>
@@ -941,7 +941,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="succession"
-        sense="Temporal: Synchronous: succession" type="EXPLICIT">
+        sense="Temporal: Asynchronous: succession" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>sonra</Text>
@@ -998,7 +998,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="Expansion: Conjunction#Temporal: Synchronous: precedence" sense="Multiple-Sense" type="EXPLICIT">
+    <Relation note="Expansion: Conjunction#Temporal: Asynchronous: precedence" sense="Multiple-Sense" type="EXPLICIT">
         <Conn>
             <Span>
                 <Text>ve</Text>
