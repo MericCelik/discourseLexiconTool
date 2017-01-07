@@ -66,7 +66,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="yeni AltLex - &quot;derken&quot; DZ. "
-        sense="Temporal: Synchronous: succession" type="ALTLEX">
+        sense="Temporal: Asynchronous: succession" type="ALTLEX">
         <Conn>
             <Span>
                 <Text>Derken</Text>
@@ -97,7 +97,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="yeni DZ.  Temporal:synchronous:precedence"
-        sense="Temporal: Synchronous: precedence" type="ALTLEX">
+        sense="Temporal: Asynchronous: precedence" type="ALTLEX">
         <Conn>
             <Span>
                 <Text>Sonuçsuz bir çarpışma sonrası</Text>
@@ -159,7 +159,7 @@
     </Relation>
     <Relation
         note="&quot;bu sefer sonuncunda&quot; yeni. DZ Temporal:synchronous:succession"
-        sense="Temporal: Synchronous: succession" type="ALTLEX">
+        sense="Temporal: Asynchronous: succession" type="ALTLEX">
         <Conn>
             <Span>
                 <Text>bu sefer sonunda</Text>
@@ -226,36 +226,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation
-        note="&quot;tam üzerindeki giysileri çıkaracağı sırada&quot; yeni DZ. temporal:synchronous (2-6 no&apos;lu relation&apos;lar ALTLEX değil bir yanlışlık olmuş)"
-        sense="Temporal: Synchronous" type="ALTLEX">
-        <Conn>
-            <Span>
-                <Text>Tam üzerindeki giysileri çıkartacağı sırada</Text>
-                <BeginOffset>8586</BeginOffset>
-                <EndOffset>8629</EndOffset>
-            </Span>
-        </Conn>
-        <Mod/>
-        <Arg1>
-            <Span>
-                <Text>Önce onu papatya tarlasında öpüyordu</Text>
-                <BeginOffset>8548</BeginOffset>
-                <EndOffset>8584</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>şiddetli bir rüzgâr başlıyordu</Text>
-                <BeginOffset>8630</BeginOffset>
-                <EndOffset>8660</EndOffset>
-            </Span>
-        </Arg2>
-        <Supp1/>
-        <Supp2/>
-        <Shared/>
-        <Supp_Shared/>
-    </Relation>
+    
     <Relation note="Temporal DZ"
         sense="Temporal: Asynchronous: precedence" type="ALTLEX">
         <Conn>
@@ -342,7 +313,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-	<Relation note="precedence result" sense="Temporal: Synchronous: precedence" type="ALTLEX">
+	<Relation note="precedence result" sense="Temporal: Asynchronous: precedence" type="ALTLEX">
         <Conn>
             <Span>
                 <Text>O zaman</Text>
@@ -437,42 +408,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation
-        note="DZ: &quot;da&quot; yı MOD yaptım. Bu arada daha önce seçilmiş olan anlamı kaybettim. Asynchronous muydu? "
-        sense="Temporal: Asynchronous" type="ALTLEX">
-        <Conn>
-            <Span>
-                <Text>Bir süre sonra</Text>
-                <BeginOffset>3427</BeginOffset>
-                <EndOffset>3441</EndOffset>
-            </Span>
-        </Conn>
-        <Mod>
-            <Span>
-                <Text>da</Text>
-                <BeginOffset>3442</BeginOffset>
-                <EndOffset>3444</EndOffset>
-            </Span>
-        </Mod>
-        <Arg1>
-            <Span>
-                <Text>Çıkmak istemez</Text>
-                <BeginOffset>3411</BeginOffset>
-                <EndOffset>3425</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>o dayanılmaz bekleyişe, o baş etmesi zor gerilime alışır</Text>
-                <BeginOffset>3445</BeginOffset>
-                <EndOffset>3501</EndOffset>
-            </Span>
-        </Arg2>
-        <Supp1/>
-        <Supp2/>
-        <Shared/>
-        <Supp_Shared/>
-    </Relation>
+   
     <Relation note="synchronous  " sense="Temporal: Synchronous" type="ALTLEX">
         <Conn>
             <Span>
@@ -709,8 +645,8 @@
         sense="Contingency: Pragmatic Cause" type="ALTLEX">
         <Conn>
             <Span>
-                <Text> Bu durumda</Text>
-                <BeginOffset>8584</BeginOffset>
+                <Text>Bu durumda</Text>
+                <BeginOffset>8585</BeginOffset>
                 <EndOffset>8595</EndOffset>
             </Span>
         </Conn>
@@ -1807,7 +1743,7 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="" sense="Temporal: Synchronous: succession" type="ALTLEX">
+    <Relation note="" sense="Temporal: Asynchronous: succession" type="ALTLEX">
         <Conn>
             <Span>
                 <Text>Bundan sonra</Text>
@@ -2586,36 +2522,7 @@ son hali: condition &amp; contrast"
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="precedence"
-        sense="Temporal: Synchronous: succession" type="ALTLEX">
-        <Conn>
-            <Span>
-                <Text>O gün öğleden sonra</Text>
-                <BeginOffset>8867</BeginOffset>
-                <EndOffset>8886</EndOffset>
-            </Span>
-        </Conn>
-        <Mod/>
-        <Arg1>
-            <Span>
-                <Text>İki yüz kadar karttı, ceplerime yerleştirdikten
-                    sonra yemeğe çıktım</Text>
-                <BeginOffset>8798</BeginOffset>
-                <EndOffset>8865</EndOffset>
-            </Span>
-        </Arg1>
-        <Arg2>
-            <Span>
-                <Text>okula dönmedim</Text>
-                <BeginOffset>8887</BeginOffset>
-                <EndOffset>8901</EndOffset>
-            </Span>
-        </Arg2>
-        <Supp1/>
-        <Supp2/>
-        <Shared/>
-        <Supp_Shared/>
-    </Relation>
+    
     <Relation note="cause" sense="Contingency: Pragmatic Cause" type="ALTLEX">
         <Conn>
             <Span>
@@ -3498,7 +3405,7 @@ son hali: condition &amp; contrast"
         <Shared/>
         <Supp_Shared/>
     </Relation>
-    <Relation note="result precedence" sense="Temporal: Synchronous: precedence" type="ALTLEX">
+    <Relation note="result precedence" sense="Temporal: Asynchronous: precedence" type="ALTLEX">
         <Conn>
             <Span>
                 <Text>O zaman</Text>

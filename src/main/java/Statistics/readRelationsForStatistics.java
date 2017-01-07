@@ -33,10 +33,12 @@ import org.w3c.dom.NodeList;
 public class readRelationsForStatistics {
 
     private static Charset charset = Charset.forName("UTF-8");
+    static HashMap<String, Integer> senseAnnotationMap;
+
     public static String replaceString;
 
     public static HashMap<Integer, Annotation> readDATTRelations(String dir, String inputType) throws IOException, org.xml.sax.SAXException, ParserConfigurationException {
-
+        senseAnnotationMap = new HashMap<>();
         HashMap<Integer, Annotation> connectiveAnnotationMap = new HashMap<>();
         File dattAnnotationFolder = new File(dir);
         String dattAnnotationFile = "";
@@ -102,11 +104,19 @@ public class readRelationsForStatistics {
                 // reading note-sense etc.
 
                 Annotation currentAnnotation = new Annotation(connSpans, arg1Spans, arg2Spans, modSpans, sup1Spans, sup2Spans, senses, note, type, genre);
+
+                if (senseAnnotationMap.containsKey(currentAnnotation.getFullSense())) {
+                    int tmp = senseAnnotationMap.get(currentAnnotation.getFullSense());
+                    senseAnnotationMap.put(currentAnnotation.getFullSense(), tmp + 1);
+                } else {
+                    senseAnnotationMap.put(currentAnnotation.getFullSense(), 1);
+                }
+
                 int connBeg = connSpans.get(0).getBeg();
 
                 if (connectiveAnnotationMap.containsKey(connBeg)) {
-                    System.out.println("ALERT!!!! CONNECTIVES WITH SAME INDEX!!");
-                    System.out.println(currentAnnotation.getConnective());
+               //     System.out.println("ALERT!!!! CONNECTIVES WITH SAME INDEX!!");
+               //     System.out.println(currentAnnotation.getConnective());
 
                 } else {
                     connectiveAnnotationMap.put(connBeg, currentAnnotation);

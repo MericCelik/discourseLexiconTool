@@ -11,6 +11,7 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.TreeSet;
 import javax.xml.parsers.ParserConfigurationException;
 import org.xml.sax.SAXException;
 
@@ -131,30 +132,65 @@ public class calculateInterAgreement {
 
     public static void main(String[] args) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException {
 
-                calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\Savas", "Agreement\\Agreed", "IMPLICIT"); // 85,  123
+        //              calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\Savas", "Agreement\\Agreed", "IMPLICIT"); // 85,  123
 //        calculateInterAgreement calculator2 = new calculateInterAgreement("Agreement\\implicit\\tuğçe", "Agreement\\implicit\\murathan", "IMPLICIT"); // 85,  123
 //        calculateInterAgreement calculator3 = new calculateInterAgreement("Agreement\\implicit\\savas", "Agreement\\implicit\\serkan", "IMPLICIT"); // 85,  123
         //        calculateInterAgreement calculator2 = new calculateInterAgreement("Agreement\\implicit\\tuğçe", "Agreement\\implicit\\murathan", ""); // 85,  123
 //         calculateInterAgreement calculator3 = new calculateInterAgreement("Agreement\\implicit\\savas", "Agreement\\implicit\\serkan", "");
 //        calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\explicit\\tuğçe", "Agreement\\explicit\\murathan", "EXPLICIT");
-  //     calculateInterAgreement calculator2 = new calculateInterAgreement("Agreement\\explicit\\savas", "Agreement\\explicit\\serkan", "EXPLICIT");
-  
+        //     calculateInterAgreement calculator2 = new calculateInterAgreement("Agreement\\explicit\\savas", "Agreement\\explicit\\serkan", "EXPLICIT");
 //        calculateInterAgreement calculator2 = new calculateInterAgreement("Agreement\\altlex\\Deniz", "Agreement\\altlex\\Fikret", "ALTLEX");
-        System.out.println(" - ");
-        for (int i : overallAgreed) {
-            System.out.print(i + " -->");
-            System.out.println((double) i / overallSize);
+//        System.out.println(" - ");
+//        for (int i : overallAgreed) {
+//            System.out.print(i + " -->");
+//            System.out.println((double) i / overallSize);
+//        }
+//        System.out.println("common: " + overallSize);
+//        System.out.println("unique: " + uniqueMap.size());
+//        System.out.println("common/unique: " + ((double) overallSize / uniqueMap.size()));
+//
+//        printConfusionMatrix();
+        System.out.println("ALTLEX");
+
+        HashMap<Integer, Annotation> altlex = readRelationsForStatistics.readDATTRelations("Agreement\\altlex.xml", "ALTLEX");
+        HashMap<String, Integer> altlexSenseMap = readRelationsForStatistics.senseAnnotationMap;
+
+        readRelationsForStatistics.readDATTRelations("Agreement\\imp_bap.xml", "IMPLICIT");
+        HashMap<String, Integer> expSenseMap = readRelationsForStatistics.senseAnnotationMap;
+
+        readRelationsForStatistics.readDATTRelations("Agreement\\explicit.xml", "EXPLICIT");
+        HashMap<String, Integer> impSenseMap = readRelationsForStatistics.senseAnnotationMap;
+        TreeSet<String> sense = new TreeSet<>();
+        sense.addAll(expSenseMap.keySet());
+        sense.addAll(impSenseMap.keySet());
+        sense.addAll(altlexSenseMap.keySet());
+
+        for (String str : sense) {
+            System.out.print(str + "&");
+            if (impSenseMap.containsKey(str)) {
+                System.out.print(impSenseMap.get(str) + "&");
+            } else {
+                System.out.print("0" + "&");
+            }
+            if (expSenseMap.containsKey(str)) {
+                System.out.print(expSenseMap.get(str) + "&");
+            } else {
+                System.out.print("0" + "&");
+            }
+            
+            if (altlexSenseMap.containsKey(str)) {
+                System.out.print(altlexSenseMap.get(str));
+            } else {
+                System.out.print("0");
+            }
+            System.out.print("\\\\");
+
+            System.out.println();
+
         }
-        System.out.println("common: " + overallSize);
-        System.out.println("unique: " + uniqueMap.size());
-        System.out.println("common/unique: " + ((double) overallSize / uniqueMap.size()));
-
-        printConfusionMatrix();
-
-//        HashMap<Integer, Annotation> altlex = readRelationsForStatistics.readDATTRelations("Agreement\\altlex.xml", "ALTLEX");
 //        HashMap<String, Integer> altlexCon = new HashMap<>();
-
-////        
+//
+//        
 //        for (Integer i : altlex.keySet()) //     if(altlex.get(i).getConnective().toString().contains("biyo") || altlex.get(i).getConnective().toString().contains("önemli") ||  altlex.get(i).getConnective().toString().contains("getirdi"))
 //        {
 //            //System.out.println(altlex.get(i).getConnective());
