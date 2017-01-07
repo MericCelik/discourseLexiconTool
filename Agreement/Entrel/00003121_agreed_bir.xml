@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="soru işareti ile chain olur mu" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>A</Text>
+                <BeginOffset>2966</BeginOffset>
+                <EndOffset>2967</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Onu da zorluyorlar</Text>
+                <BeginOffset>2946</BeginOffset>
+                <EndOffset>2964</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ama gitmiyor; akIına kötü, çok kötü şeyler
+                    geliyor, hiç gitmiyor</Text>
+                <BeginOffset>2966</BeginOffset>
+                <EndOffset>3030</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Y</Text>
+                <BeginOffset>3065</BeginOffset>
+                <EndOffset>3066</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İlhami&apos;nin iki çocuğu var şimdi</Text>
+                <BeginOffset>3032</BeginOffset>
+                <EndOffset>3063</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yenik düşmüş bu haydut, o köpekleri anımsıyor mu
+                    zaman zaman ve ilk karısı Suzan&apos;ı</Text>
+                <BeginOffset>3065</BeginOffset>
+                <EndOffset>3147</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>4165</BeginOffset>
+                <EndOffset>4166</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kaptandı, ama yüzme bilmezdi amcam</Text>
+                <BeginOffset>4129</BeginOffset>
+                <EndOffset>4163</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bir namaz tahtasına sarılmış olarak kıyıya
+                    vurduğunda kollarını zor açmışlar, yarı yarıya donmuş</Text>
+                <BeginOffset>4165</BeginOffset>
+                <EndOffset>4261</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>4263</BeginOffset>
+                <EndOffset>4264</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bir namaz tahtasına sarılmış olarak kıyıya
+                    vurduğunda kollarını zor açmışlar, yarı yarıya donmuş</Text>
+                <BeginOffset>4165</BeginOffset>
+                <EndOffset>4261</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Belki de o anda Tanrı&apos;ya yakarıp yardım
+                    istiyordu, çünkü çok dindar bir adamdı</Text>
+                <BeginOffset>4263</BeginOffset>
+                <EndOffset>4341</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>S</Text>
+                <BeginOffset>5091</BeginOffset>
+                <EndOffset>5092</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ayı, kendini dine vermiş, ne radyo ne televizyon</Text>
+                <BeginOffset>5041</BeginOffset>
+                <EndOffset>5089</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sakalı her gün biraz daha uzuyormuş</Text>
+                <BeginOffset>5091</BeginOffset>
+                <EndOffset>5126</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="başlıyorlar" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>5753</BeginOffset>
+                <EndOffset>5754</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yalnız Mustafa değil, Hayri, Osman Mesut da oluyor yanında</Text>
+                <BeginOffset>5693</BeginOffset>
+                <EndOffset>5751</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bir türküye başlıyorlar</Text>
+                <BeginOffset>5753</BeginOffset>
+                <EndOffset>5776</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>O</Text>
+                <BeginOffset>6250</BeginOffset>
+                <EndOffset>6251</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Neslihan yok</Text>
+                <BeginOffset>6236</BeginOffset>
+                <EndOffset>6248</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>O katılmıyor</Text>
+                <BeginOffset>6250</BeginOffset>
+                <EndOffset>6262</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>G</Text>
+                <BeginOffset>7851</BeginOffset>
+                <EndOffset>7852</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Önlerindeki saflar secdeye varınca onlar ayakta dikilirlerdi</Text>
+                <BeginOffset>7789</BeginOffset>
+                <EndOffset>7849</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Gülüşürler, birbirlerini tekmelerlerdi</Text>
+                <BeginOffset>7851</BeginOffset>
+                <EndOffset>7889</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>E</Text>
+                <BeginOffset>7891</BeginOffset>
+                <EndOffset>7892</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Gülüşürler, birbirlerini tekmelerlerdi</Text>
+                <BeginOffset>7851</BeginOffset>
+                <EndOffset>7889</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>El baş amuda kalkanlar bile olurdu, hatta sesli
+                    sesli yellenenler</Text>
+                <BeginOffset>7891</BeginOffset>
+                <EndOffset>7956</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Ö</Text>
+                <BeginOffset>9853</BeginOffset>
+                <EndOffset>9854</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Öldü</Text>
+                <BeginOffset>9847</BeginOffset>
+                <EndOffset>9851</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ölümünü gazetelerden okudu</Text>
+                <BeginOffset>9853</BeginOffset>
+                <EndOffset>9879</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>A</Text>
+                <BeginOffset>11204</BeginOffset>
+                <EndOffset>11205</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Avludaki çeşmenin başında kusarken, &quot;İyi ki
+                    baban evde değil &quot; , diyordu kaygı ve
+                    tiksintiyle beni izleyen annem</Text>
+                <BeginOffset>11090</BeginOffset>
+                <EndOffset>11202</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ağlamıştı</Text>
+                <BeginOffset>11204</BeginOffset>
+                <EndOffset>11213</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>İ</Text>
+                <BeginOffset>12134</BeginOffset>
+                <EndOffset>12135</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İki sinema vardı burada; çocukluğunun ayakta
+                    kalabilmiş iki tanığı</Text>
+                <BeginOffset>12066</BeginOffset>
+                <EndOffset>12132</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İkisini de aynı kişi işletirdi</Text>
+                <BeginOffset>12134</BeginOffset>
+                <EndOffset>12164</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>T</Text>
+                <BeginOffset>12183</BeginOffset>
+                <EndOffset>12184</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İkisini de aynı kişi işletirdi: Sinemacı Niyazi</Text>
+                <BeginOffset>12134</BeginOffset>
+                <EndOffset>12181</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Tanımayan yoktu</Text>
+                <BeginOffset>12183</BeginOffset>
+                <EndOffset>12198</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Ç</Text>
+                <BeginOffset>12200</BeginOffset>
+                <EndOffset>12201</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Tanımayan yoktu</Text>
+                <BeginOffset>12183</BeginOffset>
+                <EndOffset>12198</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çocuklar için büyük bir addı bu</Text>
+                <BeginOffset>12200</BeginOffset>
+                <EndOffset>12231</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="niyazi acımasızdı" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>12287</BeginOffset>
+                <EndOffset>12288</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Korkuyla saygı birlikte duyulurdu Sinemacı Niyazi&apos;ye</Text>
+                <BeginOffset>12233</BeginOffset>
+                <EndOffset>12285</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bilet almadan içeri kaçak girenlere, bir de
+                    kesilmiş iki bileti ekleyip girmeye çalışanlara
+                    karşı acımasızdı</Text>
+                <BeginOffset>12287</BeginOffset>
+                <EndOffset>12395</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>İ</Text>
+                <BeginOffset>13232</BeginOffset>
+                <EndOffset>13233</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Şam tatlısı satan, suratında kocaman beni olan bir
+                    adam vardı</Text>
+                <BeginOffset>13169</BeginOffset>
+                <EndOffset>13230</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İspirto içerdi</Text>
+                <BeginOffset>13232</BeginOffset>
+                <EndOffset>13246</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>13248</BeginOffset>
+                <EndOffset>13249</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>spirto içerdi</Text>
+                <BeginOffset>13233</BeginOffset>
+                <EndOffset>13246</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bir kış günü sinemanın önünde ölüsü bulundu</Text>
+                <BeginOffset>13248</BeginOffset>
+                <EndOffset>13291</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>O</Text>
+                <BeginOffset>2946</BeginOffset>
+                <EndOffset>2947</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu işleri yapmayanı erkekten saymıyor İlhami</Text>
+                <BeginOffset>2900</BeginOffset>
+                <EndOffset>2944</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Onu da zorluyorlar</Text>
+                <BeginOffset>2946</BeginOffset>
+                <EndOffset>2964</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>İ</Text>
+                <BeginOffset>3791</BeginOffset>
+                <EndOffset>3792</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>&quot;Benim amcam kaptandı,&quot; diyor durup
+                    dururken ve Nesli&apos;nin araştıran şımarık
+                    gözlerine bakıyor</Text>
+                <BeginOffset>3695</BeginOffset>
+                <EndOffset>3788</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İnan ki,&quot; diyor</Text>
+                <BeginOffset>3791</BeginOffset>
+                <EndOffset>3806</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>A</Text>
+                <BeginOffset>5214</BeginOffset>
+                <EndOffset>5215</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bir gün herkes, Ayı&apos;nın, cüppesini
+                    dalgalandırarak ilçe semalarında uçtuğunu görecek</Text>
+                <BeginOffset>5128</BeginOffset>
+                <EndOffset>5212</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ayı uçup gidecek, bir daha da geri dönmeyecek</Text>
+                <BeginOffset>5214</BeginOffset>
+                <EndOffset>5259</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Ö</Text>
+                <BeginOffset>5898</BeginOffset>
+                <EndOffset>5899</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bir bakıyor silahlar patlamış</Text>
+                <BeginOffset>5867</BeginOffset>
+                <EndOffset>5896</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Öldürülen üç devrimci gencin cenaze töreni,
+                    Aksaray&apos;dan Kocamustafapaşa&apos;ya doğru yürüyorlar</Text>
+                <BeginOffset>5898</BeginOffset>
+                <EndOffset>5989</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>V</Text>
+                <BeginOffset>9424</BeginOffset>
+                <EndOffset>9425</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İşte sokağın başında İlhami ,ıslık çalıyor</Text>
+                <BeginOffset>9379</BeginOffset>
+                <EndOffset>9421</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Vedat ,&quot;diyor, &quot;Vedat gel çay içelim</Text>
+                <BeginOffset>9424</BeginOffset>
+                <EndOffset>9460</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

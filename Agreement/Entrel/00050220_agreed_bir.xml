@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>İleride</Text>
+                <BeginOffset>366</BeginOffset>
+                <EndOffset>373</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Öğretmenimiz Talat Erben&apos;le öğrenci öğretmen
+                    gibi değil de arkadaş, dost gibi yaşamaya başlamıştık</Text>
+                <BeginOffset>266</BeginOffset>
+                <EndOffset>364</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İleride kariyer yapıp dünya üniversitelerinde
+                    nükleer kimya dersi verecek olan Talat Beyle
+                    konuşuyorduk bu konuyu</Text>
+                <BeginOffset>366</BeginOffset>
+                <EndOffset>479</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>O</Text>
+                <BeginOffset>481</BeginOffset>
+                <EndOffset>482</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İleride kariyer yapıp dünya üniversitelerinde
+                    nükleer kimya dersi verecek olan Talat Beyle
+                    konuşuyorduk bu konuyu</Text>
+                <BeginOffset>366</BeginOffset>
+                <EndOffset>479</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>O genellikle, koridorda bir pencere içinde
+                    teneffüslerde kahve içerdi</Text>
+                <BeginOffset>481</BeginOffset>
+                <EndOffset>550</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Talat</Text>
+                <BeginOffset>875</BeginOffset>
+                <EndOffset>880</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ben İngilizce bilmiyordum, İngilizce ismini şu
+                    anda  hatırlamıyorum, ama Nurhan tayf analizlerinden
+                    söz eden İngilizce bir fizik kitabı edinmişti</Text>
+                <BeginOffset>728</BeginOffset>
+                <EndOffset>873</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Talat Bey o kitabı görünce çok heyecanlandı,
+                    istersek bu konuyu -ki üniversitenin üst
+                    sınıflarında okutuluyormuş- bizlerle özel olarak
+                    çalışabileceğini söyledi</Text>
+                <BeginOffset>875</BeginOffset>
+                <EndOffset>1034</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Durduk</Text>
+                <BeginOffset>1632</BeginOffset>
+                <EndOffset>1638</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Beş, on adımlık atmıştık ki Yıldız Sinemasının
+                    köşesinden okulun sokağına Talat Erben&apos;in
+                    girdiğini gördük; bata çıka geliyordu bize doğru</Text>
+                <BeginOffset>1493</BeginOffset>
+                <EndOffset>1630</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Durduk ve onu bekledik</Text>
+                <BeginOffset>1632</BeginOffset>
+                <EndOffset>1654</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Birlikte</Text>
+                <BeginOffset>1910</BeginOffset>
+                <EndOffset>1918</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bunu ailelerine ve çok az olan yakın arkadaşlarına
+                    ballandıra ballandıra, tüm ayrıntılarıyla anlatıyorlardı</Text>
+                <BeginOffset>1801</BeginOffset>
+                <EndOffset>1908</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Birlikte okula dönerlerken Talat Beyin ıslak
+                    pabuçlarının topuğundan görülen yırtık çorabını fark
+                    eden Kemal, onu bile övünerek anlatıyordu</Text>
+                <BeginOffset>1910</BeginOffset>
+                <EndOffset>2049</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Birkaç</Text>
+                <BeginOffset>2279</BeginOffset>
+                <EndOffset>2285</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yani ona, &quot;Biz kartımızı vermiyoruz, sen kes
+                    sesini, git idareye haber ver,&quot; dedik</Text>
+                <BeginOffset>2195</BeginOffset>
+                <EndOffset>2277</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Birkaç arkadaşımıza da aynı öneride bulunduksa da
+                    kimse yanaşmadı</Text>
+                <BeginOffset>2279</BeginOffset>
+                <EndOffset>2344</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>2666</BeginOffset>
+                <EndOffset>2668</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bana acı veren, öteki arkadaşlarımın bu
+                    insanlardan ve onların var ettikleri bu düzenden
+                    rahatsız olmamalarıydı</Text>
+                <BeginOffset>2553</BeginOffset>
+                <EndOffset>2664</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu çocuklar büyük bir çoğunluk oluşturuyordu ve
+                    hemen hepsi iyi niyetli ve bilinçsizdi</Text>
+                <BeginOffset>2666</BeginOffset>
+                <EndOffset>2752</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>İki</Text>
+                <BeginOffset>8798</BeginOffset>
+                <EndOffset>8801</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Tabii ben vereninkini alıyor, vermeyeninkini sormuyordum</Text>
+                <BeginOffset>8740</BeginOffset>
+                <EndOffset>8796</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İki yüz kadar karttı, ceplerime yerleştirdikten
+                    sonra yemeğe çıktım</Text>
+                <BeginOffset>8798</BeginOffset>
+                <EndOffset>8865</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Ertesi</Text>
+                <BeginOffset>8903</BeginOffset>
+                <EndOffset>8909</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>O gün öğleden sonra okula dönmedim</Text>
+                <BeginOffset>8867</BeginOffset>
+                <EndOffset>8901</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ertesi sabah Fındıklı&apos;da tramvaydan indim</Text>
+                <BeginOffset>8903</BeginOffset>
+                <EndOffset>8944</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Onların</Text>
+                <BeginOffset>11520</BeginOffset>
+                <EndOffset>11527</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Soğuk, ama havanın açık olduğu bir kış günü,
+                    Nurhan, son edindiği ve okuduğu bir kitabı
+                    Kemal&apos;e tanıtmak üzere evinden çıktı</Text>
+                <BeginOffset>11394</BeginOffset>
+                <EndOffset>11518</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Onların evinden yüz elli metre kadar uzakta,
+                    tepede bir yerdeydi Kemal&apos;lerin evi</Text>
+                <BeginOffset>11520</BeginOffset>
+                <EndOffset>11600</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Nurhan</Text>
+                <BeginOffset>11602</BeginOffset>
+                <EndOffset>11608</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Onların evinden yüz elli metre kadar uzakta,
+                    tepede bir yerdeydi Kemal&apos;lerin evi</Text>
+                <BeginOffset>11520</BeginOffset>
+                <EndOffset>11600</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Nurhan, evin önünde durdu ve &quot;Kemal,&quot;
+                    diye seslendi</Text>
+                <BeginOffset>11602</BeginOffset>
+                <EndOffset>11653</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>11803</BeginOffset>
+                <EndOffset>11805</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Nurhan, kitap elinde uzun uzun anlatıyordu ve
+                    hayranlıkla yapıyordu yorumlarını</Text>
+                <BeginOffset>11722</BeginOffset>
+                <EndOffset>11801</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu eser, Jean Jacques Rousseau&apos;nun
+                    &quot;İlimler ve Sanatlar Hakkında Nutuk&quot;
+                    isimli kitabıydı</Text>
+                <BeginOffset>11803</BeginOffset>
+                <EndOffset>11891</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Sofada</Text>
+                <BeginOffset>12174</BeginOffset>
+                <EndOffset>12180</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kemal&apos;in annesi çay yaptı onlara, sonra etli
+                    kuru fasulye ve bir tepsi ballı tel kadayıfı koydu önlerine</Text>
+                <BeginOffset>12068</BeginOffset>
+                <EndOffset>12172</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sofada yanan saç odun sobasının sıcaklığı ile
+                    ısınmış, karınları doymuş bu iki genç, yemekten
+                    sonra Orhanlara gitmek üzere yola koyuldular</Text>
+                <BeginOffset>12174</BeginOffset>
+                <EndOffset>12312</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bunların</Text>
+                <BeginOffset>12387</BeginOffset>
+                <EndOffset>12395</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Aydınlık Sokağından inerken, Dereboyu&apos;na
+                    yönelen ara yollardan geçtiler</Text>
+                <BeginOffset>12314</BeginOffset>
+                <EndOffset>12385</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bunların birinin ortasında, ufak bir meydanın
+                    kenarındaki iki katlı ahşap bir eve yaklaştıkları
+                    sırada Kemal, Nurhan&apos;ın kulağına eğilerek
+                    usulca, pencerede oturan Nebahat&apos;ı gösterdi</Text>
+                <BeginOffset>12387</BeginOffset>
+                <EndOffset>12568</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>iltifat</Text>
+                <BeginOffset>3783</BeginOffset>
+                <EndOffset>3790</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Beklediği yer, müdürün oda kapısının
+                    yakınlarındaydı, Hiçbir şey söylemedi, kapıyı açtı</Text>
+                <BeginOffset>3694</BeginOffset>
+                <EndOffset>3781</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>iltifat edercesine önce beni içeriye soktu</Text>
+                <BeginOffset>3783</BeginOffset>
+                <EndOffset>3825</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Yapmam</Text>
+                <BeginOffset>9088</BeginOffset>
+                <EndOffset>9094</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Kazancı Yokuşunun başındaki, sağ taraftaki, Büyük
+                    Fındıklı İlkokulunun önünde duran küçük bir çöp
+                    variline cebimdeki kartların hepsini attım</Text>
+                <BeginOffset>8946</BeginOffset>
+                <EndOffset>9086</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yapmam gerektiğine inandığım heyecanlı bir iş
+                    yapıyordum ve bunu kendi kendime defalarca
+                    tekrarlayarak, güç bulmuş olarak okula gidiyordum</Text>
+                <BeginOffset>9088</BeginOffset>
+                <EndOffset>9226</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Doğru</Text>
+                <BeginOffset>9392</BeginOffset>
+                <EndOffset>9397</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Onların sorumluluğunu duyuyordum</Text>
+                <BeginOffset>9358</BeginOffset>
+                <EndOffset>9390</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Doğru Muzaffer Beyin odasına gittim</Text>
+                <BeginOffset>9392</BeginOffset>
+                <EndOffset>9427</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Ben</Text>
+                <BeginOffset>9592</BeginOffset>
+                <EndOffset>9595</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Her adım başında, iki üç çocuk benden kartını soruyordu</Text>
+                <BeginOffset>9535</BeginOffset>
+                <EndOffset>9590</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ben onlara &quot;Artık kart usulü kalktı,&quot; dedim</Text>
+                <BeginOffset>9592</BeginOffset>
+                <EndOffset>9635</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Hemen</Text>
+                <BeginOffset>11655</BeginOffset>
+                <EndOffset>11660</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Nurhan, evin önünde durdu ve &quot;Kemal,&quot;
+                    diye seslendi</Text>
+                <BeginOffset>11602</BeginOffset>
+                <EndOffset>11653</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Hemen camdan görünen Kemal el işareti ile
+                    Nurhan&apos;ı yukarı çağırdı</Text>
+                <BeginOffset>11655</BeginOffset>
+                <EndOffset>11720</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+	<Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Beş</Text>
+                <BeginOffset>1493</BeginOffset>
+                <EndOffset>1496</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Nurhan&apos;la okuldan çıktık</Text>
+                <BeginOffset>1467</BeginOffset>
+                <EndOffset>1491</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Beş, on adımlık atmıştık ki Yıldız Sinemasının
+                    köşesinden okulun sokağına Talat Erben&apos;in
+                    girdiğini gördük</Text>
+                <BeginOffset>1493</BeginOffset>
+                <EndOffset>1598</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Çocuğun</Text>
+                <BeginOffset>2966</BeginOffset>
+                <EndOffset>2973</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Okuduğum kitapların isimlerini öğrenmek
+                    istediğini, kendisinin de onları okuyacağını söyledi</Text>
+                <BeginOffset>2872</BeginOffset>
+                <EndOffset>2964</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Çocuğun listeyi idareye vereceğini biliyordum</Text>
+                <BeginOffset>2966</BeginOffset>
+                <EndOffset>3011</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Dün</Text>
+                <BeginOffset>3027</BeginOffset>
+                <EndOffset>3030</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yaz,&quot; dedim</Text>
+                <BeginOffset>3014</BeginOffset>
+                <EndOffset>3025</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Dün ve Yarın Yayınlarından Haydar Rıfat tercümesi,
+                    İlmi ve Hayali Sosyalizm, Plütark&apos;ın
+                    Lassedemonyalılar ve Atinalılar Cumhuriyeti ve
+                    K.Marx&apos;ın Özet Bir Kapitali başta olmak üzere
+                    yirmi kadar kitap yazdırabilmiştim ki, ders zili çaldı</Text>
+                <BeginOffset>3027</BeginOffset>
+                <EndOffset>3262</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>3264</BeginOffset>
+                <EndOffset>3266</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Dün ve Yarın Yayınlarından Haydar Rıfat tercümesi,
+                    İlmi ve Hayali Sosyalizm, Plütark&apos;ın
+                    Lassedemonyalılar ve Atinalılar Cumhuriyeti ve
+                    K.Marx&apos;ın Özet Bir Kapitali başta olmak üzere
+                    yirmi kadar kitap yazdırabilmiştim ki, ders zili çaldı</Text>
+                <BeginOffset>3027</BeginOffset>
+                <EndOffset>3262</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu ispiyoncu çocuk, benim bunları bilişimi ve
+                    anlatışımdaki dili beğenmiş olacak ki giderken
+                    &quot;Kendine dikkat et Kemal, Muzaffer Bey seni ne
+                    yapıp edip dövmek istiyor,&quot; dedi</Text>
+                <BeginOffset>3264</BeginOffset>
+                <EndOffset>3436</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>6951</BeginOffset>
+                <EndOffset>6953</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ama kendilerini - her ne kadar vatan uğruna ölmeye
+                    hazırız deseler de- her şeyin üzerinde seviyor ve
+                    galiba da kendilerine biraz fazla acıyorlardı</Text>
+                <BeginOffset>6803</BeginOffset>
+                <EndOffset>6949</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu duygular içinde o yaşlarda edindiklerimle çok hesaplaştım</Text>
+                <BeginOffset>6951</BeginOffset>
+                <EndOffset>7011</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Kartları</Text>
+                <BeginOffset>7434</BeginOffset>
+                <EndOffset>7442</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Karta daha önce isyan ettiğimi anlatmıştım</Text>
+                <BeginOffset>7390</BeginOffset>
+                <EndOffset>7432</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kartları toplayan çocuğa kart yerine kimliğimi
+                    belirten bir kâğıdı uzunca bir aradan sonra tekrar vermiştim</Text>
+                <BeginOffset>7434</BeginOffset>
+                <EndOffset>7541</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Mucizeler</Text>
+                <BeginOffset>8510</BeginOffset>
+                <EndOffset>8519</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sen kendine Tanrının oğlu diyormuşsun,
+                    Yehudiya&apos;nın kralıyım diyormuşsun</Text>
+                <BeginOffset>8436</BeginOffset>
+                <EndOffset>8508</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Mucizeler yapıyor, kurtarıcı olduğunu söylüyormuşsun</Text>
+                <BeginOffset>8510</BeginOffset>
+                <EndOffset>8562</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Onların</Text>
+                <BeginOffset>9358</BeginOffset>
+                <EndOffset>9365</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Heyecanlıydım, çünkü bir gün önceki etütte
+                    kartlarını alamayan ve kartsız kalan iki yüz çocuk,
+                    o gün öğle yemeğine çıkamayacaktı</Text>
+                <BeginOffset>9228</BeginOffset>
+                <EndOffset>9356</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Onların sorumluluğunu duyuyordum</Text>
+                <BeginOffset>9358</BeginOffset>
+                <EndOffset>9390</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Aydınlık</Text>
+                <BeginOffset>12314</BeginOffset>
+                <EndOffset>12322</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sofada yanan saç odun sobasının sıcaklığı ile
+                    ısınmış, karınları doymuş bu iki genç, yemekten
+                    sonra Orhanlara gitmek üzere yola koyuldular</Text>
+                <BeginOffset>12174</BeginOffset>
+                <EndOffset>12312</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Aydınlık Sokağından inerken, Dereboyu&apos;na
+                    yönelen ara yollardan geçtiler</Text>
+                <BeginOffset>12314</BeginOffset>
+                <EndOffset>12385</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

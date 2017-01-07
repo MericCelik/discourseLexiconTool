@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>E-5</Text>
+                <BeginOffset>1180</BeginOffset>
+                <EndOffset>1183</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Avrupa yakasında ise                 Alibeyköy,
+                    Eyüp gibi alçak semtlerde de yağış yüzünden kimi ev
+                    ve                 işyerleri sular altında kaldı</Text>
+                <BeginOffset>1030</BeginOffset>
+                <EndOffset>1178</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>E-5 karayoluna çıkan araçlar, aniden
+                    bastıran sağanak yağış nedeniyle yolda kaldı</Text>
+                <BeginOffset>1180</BeginOffset>
+                <EndOffset>1277</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Atatürk</Text>
+                <BeginOffset>1687</BeginOffset>
+                <EndOffset>1694</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yetkililer, İstanbul&apos;da metrekareye 10
+                    kilogram yağış düştüğünü bildirdiler</Text>
+                <BeginOffset>1594</BeginOffset>
+                <EndOffset>1685</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Atatürk Havalimanı Meteoroloji
+                    Müdürlüğü yetkilileri, yağışların iki gün süreceğini belirttiler</Text>
+                <BeginOffset>1687</BeginOffset>
+                <EndOffset>1798</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Sağanak</Text>
+                <BeginOffset>1931</BeginOffset>
+                <EndOffset>1938</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Şiddetli                 sağanak nedeniyle
+                    İzmir&apos;in çeşitli semtlerinde logarlar tıkandı
+                    ve su                 baskınları yaşandı</Text>
+                <BeginOffset>1800</BeginOffset>
+                <EndOffset>1929</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sağanak, Narlıdere Şehitlik Kavşağı, Konak
+                    Mithatpaşa                 Caddesi, Güzelyalı,
+                    Karabağlar ve Çınarlı&apos;da yollarda su
+                    birikintisine yol                 açtı</Text>
+                <BeginOffset>1931</BeginOffset>
+                <EndOffset>2096</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Müşavir</Text>
+                <BeginOffset>3871</BeginOffset>
+                <EndOffset>3878</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Geçici kabule göre                 deprem
+                    takozları, genleşme aletleri yetersiz olan yeni
+                    Galata Köprüsü&apos;nde                 Karayolları
+                    17. Bölge Müdürlüğü adına kontrol mühendisliği yapan
+                    Başmühendis Sancar Özalp , &apos;&apos;merkeze geri çağrıldı&apos;&apos;</Text>
+                <BeginOffset>3610</BeginOffset>
+                <EndOffset>3868</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Müşavir Göncer                 Ayalp &apos;la
+                    birlikte &apos;&apos;müteahhide faturası kesilmek
+                    üzere köprünün tamir
+                    edilmesinden&apos;&apos; yana olduğu bilinen Özalp,
+                    devir komisyonundaki görevini                 ise sürdürüyor</Text>
+                <BeginOffset>3871</BeginOffset>
+                <EndOffset>4091</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Sendikanın</Text>
+                <BeginOffset>4647</BeginOffset>
+                <EndOffset>4657</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yaklaşık bir yıl önce satılmadan önce yeni Galata
+                    Köprüsü&apos;nü yapan                 konsorsiyumda
+                    yer alan STFA&apos;nın tersanesinde örgütlenerek
+                    büyüyen Dok                 Gemi-İş
+                    Sendikası&apos;nın davasında bilirkişi raporu bekleniyor</Text>
+                <BeginOffset>4417</BeginOffset>
+                <EndOffset>4645</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sendikanın,                 köprünün
+                    açılıp-kapatılmamasından dolayı üyelerinin iş
+                    kaybına uğradığı                 gerekçesiyle
+                    tazminat istediği davada, ayrıca, özetle köprünün
+                    &apos;&apos;sağlam                 olduğu halde
+                    müşavir firma tarafından geciktirildiği&apos;&apos;
+                    iddia ediliyor</Text>
+                <BeginOffset>4647</BeginOffset>
+                <EndOffset>4920</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Özel</Text>
+                <BeginOffset>5204</BeginOffset>
+                <EndOffset>5208</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu çerçevede yeniden test isteyen sendikanın
+                    talebiyle, İTÜ Ar-Ge
+                    İşletmesi&apos;nin aylarca süren ve uluslararası
+                    standartlara uygun tahkik ve
+                    deneylerle saptadığı sonuçlara karşın birkaç gün
+                    önce yeni bir tespit                 yapıldı</Text>
+                <BeginOffset>4938</BeginOffset>
+                <EndOffset>5202</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Özel bir şirketin gerçekleştirdiği tespitin sonucu
+                    henüz                 açıklanmadı</Text>
+                <BeginOffset>5204</BeginOffset>
+                <EndOffset>5288</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>İstanbul</Text>
+                <BeginOffset>7074</BeginOffset>
+                <EndOffset>7082</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Şu anda yalnız                 özel sağlık
+                    kurumlarında görülen uygulama, bakanlığın tasarısı
+                    yasalaştığında tüm sağlık kurumlarında uygulanmaya konacak</Text>
+                <BeginOffset>6904</BeginOffset>
+                <EndOffset>7072</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>İstanbul Tabip                 Odası, özel sağlık
+                    kuruluşlarının yabancı hastaları kabul edebilmek
+                    üzere                 başlattığı ve yasalaştığında
+                    zorunlu hale gelecek tasarının, hastanın
+                    maliyetlerini arttıracağını ileri sürdü</Text>
+                <BeginOffset>7074</BeginOffset>
+                <EndOffset>7320</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Şu</Text>
+                <BeginOffset>6904</BeginOffset>
+                <EndOffset>6906</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text> Söz konusu unsurlara az da olsa mahkeme sonucu
+                    alınan yüksek tazminatlar                 eklenince,
+                    sigorta yaptıran ya da çalıştığı kurum tarafından
+                    sigorta                 yaptırması istenen doktor
+                    sayısı 6-7 ayda 4 bini buldu</Text>
+                <BeginOffset>6673</BeginOffset>
+                <EndOffset>6902</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Şu anda yalnız                 özel sağlık
+                    kurumlarında görülen uygulama, bakanlığın tasarısı
+                    yasalaştığında tüm sağlık kurumlarında uygulanmaya konacak</Text>
+                <BeginOffset>6904</BeginOffset>
+                <EndOffset>7072</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Şu</Text>
+                <BeginOffset>7530</BeginOffset>
+                <EndOffset>7532</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Sigorta danışmanı Dr. Murat Fırat
+                    , sigorta konusunun birkaç yıldır sessiz ve derinden
+                    giderken bakanlığın                 tasarısı ve
+                    hasta turizmi ile hareketlenmeye başladığını hatırlattı</Text>
+                <BeginOffset>7322</BeginOffset>
+                <EndOffset>7528</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Şu                 anda sektörde Garanti Sigorta
+                    ve Güneş Sigorta&apos;nın ağırlıklı faaliyet
+                    gösterdiğini anlatan Fırat, Avrupa Birliği
+                    ülkelerinde sorumluluk                 sigortasının
+                    uygulandığını, ancak ülkelere göre farklılık
+                    gösterdiğini                 ifade etti</Text>
+                <BeginOffset>7530</BeginOffset>
+                <EndOffset>7814</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Kılıç</Text>
+                <BeginOffset>8518</BeginOffset>
+                <EndOffset>8523</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bugün Türkiye&apos;de hastanın hakkını arama
+                    koşulları olduğunu belirterek                 süreç
+                    uzasa bile hastanın hakkını mahkeme yoluyla
+                    aradığına dikkat çeken                 İstanbul
+                    Tabip Odası Yönetim Kurulu üyesi Dr. Güray Kılıç ,
+                    yasayla                 zorunlu kılınmak istenen
+                    sorumluluk sigortasının olumlu yanları olmasına
+                    karşın, bir dizi istenmeyen duruma da yol
+                    açabileceğine işaret etti</Text>
+                <BeginOffset>8085</BeginOffset>
+                <EndOffset>8500</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kılıç, primlerin çalışanlardan kesilmesi ve kamu
+                    kurumlarında, yalnız                 sağlık
+                    personelinin sorumlu tutularak kurumların sorumluluk
+                    dışı                 bırakılmasını eleştirdi</Text>
+                <BeginOffset>8518</BeginOffset>
+                <EndOffset>8708</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>yalnızca</Text>
+                <BeginOffset>12410</BeginOffset>
+                <EndOffset>12418</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yorumlara dayanak oluşturan veri
+                    toplamadaki ikinci eksik nokta ise anketin tek bir
+                    eğitim fakültesinde                 uygulanmış olmasıdır</Text>
+                <BeginOffset>12189</BeginOffset>
+                <EndOffset>12345</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>alnızca birinde yapılan bir araştırmanın
+                    sonuçlarının tüm öğretmen                 adaylarına
+                    genellenmesi ne derece sağlıklı bir yaklaşımdır</Text>
+                <BeginOffset>12411</BeginOffset>
+                <EndOffset>12552</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Kuruluşundan</Text>
+                <BeginOffset>14890</BeginOffset>
+                <EndOffset>14902</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>İrfanı hür, vicdanı hür                 nesiller,
+                    çağdaş bilgilerle donanık, aydınlık düşünceli,
+                    ilerici                 öğretmenler, eğitimciler
+                    yetiştirme ilkemizden hiç ödün vermedik,
+                    veremeyiz, çünkü bu gezegende, insanlık var oldukça,
+                    onurlu bir toplumun                 onurlu bireyleri
+                    olarak yaşamak istiyoruz</Text>
+                <BeginOffset>14555</BeginOffset>
+                <EndOffset>14888</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kuruluşundan bu yana, çağdaş
+                    Türkiye Cumhuriyeti&apos;nin üçüncü sacayağı
+                    olduğumuzu hiç unutmadık,
+                    unutmuyoruz, unutmayacağız</Text>
+                <BeginOffset>14890</BeginOffset>
+                <EndOffset>15043</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>AKP</Text>
+                <BeginOffset>16551</BeginOffset>
+                <EndOffset>16554</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>3 Kasım seçimlerinde tek başına
+                    iktidar olan AKP&apos;yi zor bir yıl bekliyor</Text>
+                <BeginOffset>16461</BeginOffset>
+                <EndOffset>16549</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>AKP iktidarının ilk aylarında
+                    &apos;&apos;acemilik ve iki başlılık&apos;&apos;
+                    görüntüsü egemen olurken 2003 yılına da
+                    &apos;&apos;Erdoğan nasıl başbakan
+                    olacak&apos;&apos; tartışmalarıyla giriliyor</Text>
+                <BeginOffset>16551</BeginOffset>
+                <EndOffset>16741</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>AKP</Text>
+                <BeginOffset>16900</BeginOffset>
+                <EndOffset>16903</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Siirt seçimleri 9 Şubat&apos;ta gerçekleştirilecek</Text>
+                <BeginOffset>16853</BeginOffset>
+                <EndOffset>16898</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>AKP Genel                 Başkanı Tayyip
+                    Erdoğan&apos;ın bu seçimlere aday olarak girmesi bekleniyor</Text>
+                <BeginOffset>16900</BeginOffset>
+                <EndOffset>16995</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>16997</BeginOffset>
+                <EndOffset>16999</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>AKP Genel                 Başkanı Tayyip
+                    Erdoğan&apos;ın bu seçimlere aday olarak girmesi bekleniyor</Text>
+                <BeginOffset>16900</BeginOffset>
+                <EndOffset>16995</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu                 seçimler Erdoğan&apos;a
+                    başbakanlık yolunu açacak</Text>
+                <BeginOffset>16997</BeginOffset>
+                <EndOffset>17060</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Cumhurbaşkanı</Text>
+                <BeginOffset>17664</BeginOffset>
+                <EndOffset>17677</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Erdoğan&apos;a                 adaylık yolunu
+                    açmaya dönük anayasa değişikliği iki kez
+                    TBMM&apos;den                 geçirildi</Text>
+                <BeginOffset>17546</BeginOffset>
+                <EndOffset>17662</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Cumhurbaşkanı Sezer, daha önce veto ettiği
+                    düzenlemeyi 31                 Aralık&apos;ta onayladı</Text>
+                <BeginOffset>17664</BeginOffset>
+                <EndOffset>17756</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>AKP</Text>
+                <BeginOffset>18074</BeginOffset>
+                <EndOffset>18077</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yeni yılda, anayasa değişiklikleri tartışma konusu olacak</Text>
+                <BeginOffset>17999</BeginOffset>
+                <EndOffset>18056</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>AKP hükümeti, Cumhurbaşkanı&apos;nın görev
+                    süresini 5 yıla indirip yetkilerini
+                    sınırlandırmayı planlarken Yüksek Askeri Şûra
+                    kararlarına da yargı yolunu                 açmayı hedefliyor</Text>
+                <BeginOffset>18074</BeginOffset>
+                <EndOffset>18271</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>  
+</Document>

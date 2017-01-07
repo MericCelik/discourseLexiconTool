@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+	<Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>O</Text>
+                <BeginOffset>555</BeginOffset>
+                <EndOffset>556</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Onu kollarımda tutarken yalnızlığını,
+                    kırılmışlığını, kararsızlıklarını bezginliğini,
+                    gereksindiği sevecenlik ve yardımı sezdim</Text>
+                <BeginOffset>426</BeginOffset>
+                <EndOffset>553</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ona baktığımda eksiklerimi, yanılgılarımı gördüm</Text>
+                <BeginOffset>555</BeginOffset>
+                <EndOffset>603</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>S</Text>
+                <BeginOffset>1179</BeginOffset>
+                <EndOffset>1180</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Akşamüzeri birkaç kadeh içtikten sonra
+                    Metin&apos;i aradım</Text>
+                <BeginOffset>1124</BeginOffset>
+                <EndOffset>1177</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sesi soğuk ve uzaktı</Text>
+                <BeginOffset>1179</BeginOffset>
+                <EndOffset>1199</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>2695</BeginOffset>
+                <EndOffset>2696</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yastığımda hâlâ kokusu vardı</Text>
+                <BeginOffset>2665</BeginOffset>
+                <EndOffset>2693</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu kokuyla sıcak tenini, eşsiz çıplaklığını
+                    yeniden avuçlarımda duyuyordum ve bu yüzden yokluğu
+                    öyle somut bir acıyla içimi burkuyordu ki onu ne
+                    olursa olsun bulmaya, ondan gelecek her türlü
+                    kötülüğe direnmeye ant içtim</Text>
+                <BeginOffset>2695</BeginOffset>
+                <EndOffset>2914</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Y</Text>
+                <BeginOffset>605</BeginOffset>
+                <EndOffset>606</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ona baktığımda eksiklerimi, yanılgılarımı gördüm</Text>
+                <BeginOffset>555</BeginOffset>
+                <EndOffset>603</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yatışmış bir acıyı, gerekenden daha uzun zaman
+                    taşıdığım eski bir sızıyı yeniden duydum içimde</Text>
+                <BeginOffset>605</BeginOffset>
+                <EndOffset>699</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+	<Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>G</Text>
+                <BeginOffset>4944</BeginOffset>
+                <EndOffset>4945</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ebabiller ve turnalar göğün yeşil kapılarına doğru uçarlar</Text>
+                <BeginOffset>4884</BeginOffset>
+                <EndOffset>4942</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Günler geçer yanlarından, hayırlı perşembeler
+                    mübarek cumalar</Text>
+                <BeginOffset>4944</BeginOffset>
+                <EndOffset>5005</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>D</Text>
+                <BeginOffset>5007</BeginOffset>
+                <EndOffset>5008</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Günler geçer yanlarından, hayırlı perşembeler
+                    mübarek cumala</Text>
+                <BeginOffset>4944</BeginOffset>
+                <EndOffset>5004</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Durmaksızın yorulmaksızın o büyük kapılara doğru
+                    kanat çırparlar</Text>
+                <BeginOffset>5008</BeginOffset>
+                <EndOffset>5071</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Y</Text>
+                <BeginOffset>5112</BeginOffset>
+                <EndOffset>5113</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Uyuyorsun</Text>
+                <BeginOffset>5101</BeginOffset>
+                <EndOffset>5110</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yaprak üstünde beyaz bir tırtılsın</Text>
+                <BeginOffset>5112</BeginOffset>
+                <EndOffset>5146</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>B</Text>
+                <BeginOffset>5148</BeginOffset>
+                <EndOffset>5149</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>aprak üstünde beyaz bir tırtılsın</Text>
+                <BeginOffset>5113</BeginOffset>
+                <EndOffset>5146</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bir akarsu gürültülerle üstünden akıyor</Text>
+                <BeginOffset>5148</BeginOffset>
+                <EndOffset>5187</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>K</Text>
+                <BeginOffset>5189</BeginOffset>
+                <EndOffset>5190</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bir akarsu gürültülerle üstünden akıyor</Text>
+                <BeginOffset>5148</BeginOffset>
+                <EndOffset>5187</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Koyu bir sıvı içinde karanlıkta diplerdesin</Text>
+                <BeginOffset>5189</BeginOffset>
+                <EndOffset>5232</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>S</Text>
+                <BeginOffset>5234</BeginOffset>
+                <EndOffset>5235</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Koyu bir sıvı içinde karanlıkta diplerdesin</Text>
+                <BeginOffset>5189</BeginOffset>
+                <EndOffset>5232</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Saçlarına çürük ağaç kabukları takılıyor</Text>
+                <BeginOffset>5234</BeginOffset>
+                <EndOffset>5274</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>D</Text>
+                <BeginOffset>10201</BeginOffset>
+                <EndOffset>10202</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu kızlar cinselliğe en aç ve açık oldukları
+                    dönemde hem böyle rahat, toplumsal ölçülere göre
+                    kuraldışı ilişkilere doğallıkla giriyorlar hem de
+                    mistisizme sapıyorlar</Text>
+                <BeginOffset>10034</BeginOffset>
+                <EndOffset>10199</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Durmadan fal bakıyor, burçlardan, gizil güçlerden
+                    medet umuyor, dine imana tarikata, Tanrı&apos;ya
+                    hatta cinlere sığınabiliyorlar</Text>
+                <BeginOffset>10201</BeginOffset>
+                <EndOffset>10325</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Y</Text>
+                <BeginOffset>8513</BeginOffset>
+                <EndOffset>8514</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Orada buradaki aynalardan biliyorsun, aynalarda
+                    gözlerin yüzün burnun eğri uzun</Text>
+                <BeginOffset>8432</BeginOffset>
+                <EndOffset>8511</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yelelerin uçuşuyor</Text>
+                <BeginOffset>8513</BeginOffset>
+                <EndOffset>8531</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>G</Text>
+                <BeginOffset>13918</BeginOffset>
+                <EndOffset>13919</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Günler çabuk geçiyor</Text>
+                <BeginOffset>13896</BeginOffset>
+                <EndOffset>13916</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Günlerin, böyle gecelerin sıkıntısı siniyor yüzüne</Text>
+                <BeginOffset>13918</BeginOffset>
+                <EndOffset>13968</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>K</Text>
+                <BeginOffset>13970</BeginOffset>
+                <EndOffset>13971</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Günlerin, böyle gecelerin sıkıntısı siniyor yüzüne</Text>
+                <BeginOffset>13918</BeginOffset>
+                <EndOffset>13968</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Konuşmak istemiyorsun</Text>
+                <BeginOffset>13970</BeginOffset>
+                <EndOffset>13991</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>K</Text>
+                <BeginOffset>14051</BeginOffset>
+                <EndOffset>14052</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Uyuyamıyorsun</Text>
+                <BeginOffset>14036</BeginOffset>
+                <EndOffset>14049</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kolunu kaldırıp saatini görmeye çalışıyorsun</Text>
+                <BeginOffset>14051</BeginOffset>
+                <EndOffset>14095</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>S</Text>
+                <BeginOffset>14147</BeginOffset>
+                <EndOffset>14148</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yüzünü yastığa gömüyorsun</Text>
+                <BeginOffset>14120</BeginOffset>
+                <EndOffset>14145</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sürüp giden ezanlar, akıp geçen sabahlar alıp
+                    götürmesinler diye saklıyorsun</Text>
+                <BeginOffset>14147</BeginOffset>
+                <EndOffset>14223</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

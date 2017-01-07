@@ -106,6 +106,8 @@ public class readRelationsForStatistics {
 
                 if (connectiveAnnotationMap.containsKey(connBeg)) {
                     System.out.println("ALERT!!!! CONNECTIVES WITH SAME INDEX!!");
+                    System.out.println(currentAnnotation.getConnective());
+
                 } else {
                     connectiveAnnotationMap.put(connBeg, currentAnnotation);
                 }

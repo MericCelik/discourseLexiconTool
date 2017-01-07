@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>3044</BeginOffset>
+                <EndOffset>3046</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yozlaşmış babaların varlığı, babasızlıktan daha da
+                    büyük bir tehlike oluşturabilir: Ahmet Metin ve
+                    Şirzat&apos;ta Neofari&apos;nin babası, Felatun Bey
+                    ile Rakım Efendi&apos;de Felatun Bey&apos;in babası,
+                    Jön Türk&apos;te Ceylan&apos;ın babası gibi</Text>
+                <BeginOffset>2825</BeginOffset>
+                <EndOffset>3042</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu tür babaların zararlı varlığıyla
+                    kıyaslandığında, babanın yokluğunda İslâm kültür ve
+                    terbiyesinin, bizim deyişmizle, mutlak metnin
+                    egemenliği, kuşkusuz yeğlenmelidir</Text>
+                <BeginOffset>3044</BeginOffset>
+                <EndOffset>3213</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Böyle</Text>
+                <BeginOffset>4061</BeginOffset>
+                <EndOffset>4066</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ahmet Mithat&apos;ın romanlarında sağlam bir
+                    İslâmî terbiye çoklukla babasızlığı telâfi eder;
+                    karşıtlık, Avrupalılaşmak uğruna kafası karışmış
+                    babalarla bu kültür arasındadır</Text>
+                <BeginOffset>3890</BeginOffset>
+                <EndOffset>4059</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Böyle bir yapı, babasızlığa bulunmuş oldukça
+                    pratik, sağduyulu bir çözümdür ve Ahmet
+                    Mithat&apos;ı babasızlık tehdidini trajik gören
+                    diğer Tanzimat yazarlarından ayırır</Text>
+                <BeginOffset>4061</BeginOffset>
+                <EndOffset>4224</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Şimdi</Text>
+                <BeginOffset>5708</BeginOffset>
+                <EndOffset>5713</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Allah bizim belâmızı o mel&apos;un alafranga
+                    yüzünden vermek için çeşm-i basiretimizi bağlamış da
+                    &quot;kızım orada alafranga terbiye alıyor&quot;
+                    diye beni sevindirmiş</Text>
+                <BeginOffset>5553</BeginOffset>
+                <EndOffset>5706</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Şimdi de işte böyle kan ağlatıyor</Text>
+                <BeginOffset>5708</BeginOffset>
+                <EndOffset>5741</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Kişiliğini</Text>
+                <BeginOffset>11833</BeginOffset>
+                <EndOffset>11843</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ceylan nasıl okuduğu Batı romanlarıyla bir
+                    &quot;feminist&quot; olup çıkmışsa, Bihruz Bey de
+                    okuduğu gayet seviyesiz aşk şiirleriyle komik bir
+                    &quot;aşık&quot; olup çıkar</Text>
+                <BeginOffset>11681</BeginOffset>
+                <EndOffset>11831</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Kişiliğini gerçekler ya da yaşantısı değil
+                    sözcükler belirler</Text>
+                <BeginOffset>11833</BeginOffset>
+                <EndOffset>11894</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Başındaki</Text>
+                <BeginOffset>12385</BeginOffset>
+                <EndOffset>12394</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Zavallı Bihruz Bey o güne gelinceye kadar öyle bir
+                    yürek çarpıntısına uğramamış idi</Text>
+                <BeginOffset>12300</BeginOffset>
+                <EndOffset>12383</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Başındaki kan kalbine doğru hücum ederek çehresi
+                    mavi bir renk peyda etti</Text>
+                <BeginOffset>12385</BeginOffset>
+                <EndOffset>12458</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>O</Text>
+                <BeginOffset>14176</BeginOffset>
+                <EndOffset>14177</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Garp felsefesi ile hemen hiç alâkası yoktu
+                    denebilir; bir yazısında kendisini Sokrata
+                    benzetmesine rağmen, zaten bu felsefe ile temasına
+                    sistemi dahi mânidir</Text>
+                <BeginOffset>14017</BeginOffset>
+                <EndOffset>14174</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>O müslümandır ve 18&apos;inci asır feylesoflarının
+                    fikrî hareketinin getirdiği şeyleri, İslâm dininde,
+                    şeriatte ve fıkıhta arayacak kadar müslümandır</Text>
+                <BeginOffset>14176</BeginOffset>
+                <EndOffset>14320</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Ziya</Text>
+                <BeginOffset>14322</BeginOffset>
+                <EndOffset>14326</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>O müslümandır ve 18&apos;inci asır feylesoflarının
+                    fikrî hareketinin getirdiği şeyleri, İslâm dininde,
+                    şeriatte ve fıkıhta arayacak kadar müslümandır</Text>
+                <BeginOffset>14176</BeginOffset>
+                <EndOffset>14320</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ziya Bey de bu hususta kendisinden ayrılmaz</Text>
+                <BeginOffset>14322</BeginOffset>
+                <EndOffset>14365</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>14498</BeginOffset>
+                <EndOffset>14500</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu yazarların &quot;yenilikçilik&quot;lerinin
+                    onları bir Doğu-Batı ikilemine ittiği kanımca bir
+                    Cumhuriyet ideolojisi yorumudur</Text>
+                <BeginOffset>14379</BeginOffset>
+                <EndOffset>14496</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu yorum da ya yakın tarihimize bir kültürel
+                    ikilem yakıştırarak bu ikilemin Cumhuriyet&apos;le
+                    en &quot;hayırlı&quot; biçimde çözüldüğü
+                    yanılsamasından, ya da Cumhuriyetçiler&apos;in kendi
+                    ikilemlerini önceki kuşaklara yansıtmalarından
+                    kaynaklanıyor olabilir</Text>
+                <BeginOffset>14498</BeginOffset>
+                <EndOffset>14737</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>15079</BeginOffset>
+                <EndOffset>15081</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bütün yenileşme ya da batılılaşma hareketleri,
+                    Tanzimat döneminde egemen metin dediğim bu İslâmî
+                    düşünce ve dünya görüşünün çizdiği sınırlar içinde
+                    kabul edilmiştir</Text>
+                <BeginOffset>14913</BeginOffset>
+                <EndOffset>15077</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu sınırlar da pek öyle cömertçe çizilmemişti</Text>
+                <BeginOffset>15079</BeginOffset>
+                <EndOffset>15124</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>15268</BeginOffset>
+                <EndOffset>15270</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ahmet Mithat&apos;a göre İslâm kültürünün büyük
+                    üstünlüğü manevî değerlere verdiği önemle namuslu ve
+                    iffetli insanlar yetiştirmesindedir</Text>
+                <BeginOffset>15135</BeginOffset>
+                <EndOffset>15266</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu konuda Namık Kemal de aynı onun gibi düşünür</Text>
+                <BeginOffset>15268</BeginOffset>
+                <EndOffset>15315</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Babaların</Text>
+                <BeginOffset>4549</BeginOffset>
+                <EndOffset>4558</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Kültürü inkâr, babayı inkâra eşittir ve kişiyi
+                    felâkete sürükler</Text>
+                <BeginOffset>4483</BeginOffset>
+                <EndOffset>4547</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Babaların varlığına rağmen, hatta babaların
+                    katkısıyla yanlış yetişmiş iki kişi, Felatun Bey ile
+                    Rakım Efendi&apos;nin Felatun Bey&apos;i ve Jön
+                    Türk&apos;ün Ceylan&apos;ı bu tür kayıp kişilerin
+                    birer simgesidir</Text>
+                <BeginOffset>4549</BeginOffset>
+                <EndOffset>4740</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bir</Text>
+                <BeginOffset>12922</BeginOffset>
+                <EndOffset>12925</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Fransızca hocasıyla beraber okuduğu bazı
+                    romanlarda kendisinin dûçar olduğu mevkı-i müşkile
+                    benzer vukuat geçmiş idi</Text>
+                <BeginOffset>12804</BeginOffset>
+                <EndOffset>12920</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bir aralık hatırına onlar geldi</Text>
+                <BeginOffset>12922</BeginOffset>
+                <EndOffset>12953</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Onları</Text>
+                <BeginOffset>12955</BeginOffset>
+                <EndOffset>12961</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Bir aralık hatırına onlar geldi</Text>
+                <BeginOffset>12922</BeginOffset>
+                <EndOffset>12953</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Onları düşününce yavaş yavaş kanındaki hiddet
+                    soğumaya başladı</Text>
+                <BeginOffset>12955</BeginOffset>
+                <EndOffset>13017</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

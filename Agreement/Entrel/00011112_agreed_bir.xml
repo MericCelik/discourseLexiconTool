@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+	<Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Biyolojik</Text>
+                <BeginOffset>8269</BeginOffset>
+                <EndOffset>8278</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Keza, II. Zaman- III. Zaman sınırında fosil
+                    kayıtlarında yaygın bir Yok oluş mevcuttur</Text>
+                <BeginOffset>8181</BeginOffset>
+                <EndOffset>8267</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Biyolojik stres kaynaklarından, sıcaklığın
+                    yükselişi kısa süreli ve olayların oluşu anidir</Text>
+                <BeginOffset>8269</BeginOffset>
+                <EndOffset>8359</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>3740</BeginOffset>
+                <EndOffset>3742</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>175 milyon yıl süren İkinci Zaman&apos;ın ilk
+                    sayfalarında, Conodont&apos;larla, varlıkları ve Yok
+                    oluşları kısa sürede olan Kalpionel&apos;ler tamamen
+                    yok olurlar. Ardından, Kretase devri sonunda, yani
+                    günümüzden 65 milyon yıl önce, yaşayan tüm
+                    canlıların yüzde 49.9&apos;unun yok olduğu II. Büyük
+                    Toplu Yok olma, İkinci Zaman&apos;ın bitişini belirler</Text>
+                <BeginOffset>3410</BeginOffset>
+                <EndOffset>3738</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu Yok olmada, Dinosaurus&apos;lar,
+                    Belemnit&apos;ler, Amonit&apos;ler ve
+                    mikrocanlılardan Nannoconus&apos;lar tamamen;
+                    Kokholit ve Foraminifera&apos;lar yüzde 85&apos;lik
+                    büyük kısmıyla kaybolurlar</Text>
+                <BeginOffset>3740</BeginOffset>
+                <EndOffset>3908</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Timsah&apos;lar</Text>
+                <BeginOffset>9212</BeginOffset>
+                <EndOffset>9222</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Sınırda, Dinasaurus&apos;lar tamamen yok olurken,
+                    onlar gibi Reptilia sınıfına ait olup aynı devirde
+                    yaşamaya başlayan Timsah&apos;lara hiçbir şey olmamıştır</Text>
+                <BeginOffset>9063</BeginOffset>
+                <EndOffset>9210</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Timsah&apos;lar, 200 milyon yıldan beri, hiçbir
+                    morfolojik değişim göstermeksizin yaşamaktadırlar</Text>
+                <BeginOffset>9212</BeginOffset>
+                <EndOffset>9304</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Sınırda</Text>
+                <BeginOffset>9063</BeginOffset>
+                <EndOffset>9070</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Keza, Dinoflagellata ve Kalkerli Alg&apos;ler gibi
+                    bir grupda yokolma öncesi ve sonrasında cins bazında
+                    küçük düşüşler; Radiolaria ve Diatome gibi gruplarda
+                    aynen korunma; Foraminifer&apos;ler ve
+                    Kokholit&apos;ler gibi gruplarda büyük düşüşler;
+                    Dinosaurus, Amphibia, Belemnites ve
+                    Ammonites&apos;lerde tamamen yokolma söz konusu
+                    iken, Mammalia, Reptil ve Karasal Bitkiler&apos;de
+                    artış söz konusudur</Text>
+                <BeginOffset>8687</BeginOffset>
+                <EndOffset>9061</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Sınırda, Dinasaurus&apos;lar tamamen yok olurken,
+                    onlar gibi Reptilia sınıfına ait olup aynı devirde
+                    yaşamaya başlayan Timsah&apos;lara hiçbir şey olmamıştır</Text>
+                <BeginOffset>9063</BeginOffset>
+                <EndOffset>9210</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Beslenme</Text>
+                <BeginOffset>2196</BeginOffset>
+                <EndOffset>2204</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Canlılar, uyum sağlayamayacakları ya da etkisiz
+                    hale getiremeyecekleri bir çevresel faktör
+                    değişikliğiyle karşılaştıklarında biyolojik strese
+                    girer ve ölürler</Text>
+                <BeginOffset>2036</BeginOffset>
+                <EndOffset>2194</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Beslenme zincirinin kırılması, iklim değişikliği,
+                    okyanus ve atmosferde O2/CO2 dengesinin bozulması,
+                    deniz çekilmesi ve ilerlemesi, volkanizma, iz
+                    element konsantrasyonunda yükselme, kuyruklu yıldız
+                    veya meteorit çarpması, güneş sistemindeki
+                    patlamalardan oluşan kozmik radyasyon, periyodik
+                    galaktik olaylar ve yeryuvarının manyetik alanının
+                    değişmesi biyolojik stres kaynaklarının en önemlileridir</Text>
+                <BeginOffset>2196</BeginOffset>
+                <EndOffset>2595</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Saniyedeki</Text>
+                <BeginOffset>7750</BeginOffset>
+                <EndOffset>7760</EndOffset>
+            </Span>
+        </Conn>
+        <Arg1>
+            <Span>
+                <Text>Kaldı ki, yer yüzünden 2000 km yükseklikte askeri
+                    roketler ve uydu parçalarından oluşan, sayı ve
+                    ağırlıkları durmadan artırılan bir çöp bulutu insan
+                    eliyle oluşturulan diğer tehlikelerdendir</Text>
+                <BeginOffset>7558</BeginOffset>
+                <EndOffset>7748</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Saniyedeki hızları 5-10 km olan, 5-10 cm çapında
+                    partiküllerden oluşan bu çöp bulutunun toplam
+                    ağırlığının şimdilik 3 milyon kg olduğu düşünülüyor</Text>
+                <BeginOffset>7750</BeginOffset>
+                <EndOffset>7896</EndOffset>
+            </Span>
+        </Arg2>
+    </Relation>
+</Document>

@@ -139,7 +139,7 @@
         <Supp_Shared/>
     </Relation>
     <Relation note="Correction: Bilakis"
-        sense="Comparison: Contrast: Correction" type="IMPLICIT">
+        sense="Expansion: Correction" type="IMPLICIT">
         <Conn>
             <Span>
                 <Text>Marx</Text>

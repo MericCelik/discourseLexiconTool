@@ -29,6 +29,35 @@
         <Shared/>
         <Supp_Shared/>
     </Relation>
+	    <Relation note="juxtaposition: -ken"
+        sense="Comparison: Contrast: juxtaposition" type="IMPLICIT" genre="novel">
+        <Conn>
+            <Span>
+                <Text>Y</Text>
+                <BeginOffset>1235</BeginOffset>
+                <EndOffset>1236</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Dikenli tellerle çeviriyordun bu duvarı</Text>
+                <BeginOffset>1194</BeginOffset>
+                <EndOffset>1233</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Yaralanıyordum tırmanırken, kanıyordum</Text>
+                <BeginOffset>1235</BeginOffset>
+                <EndOffset>1273</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
     <Relation note="Opposition: Ama"
         sense="Comparison: Contrast: opposition" type="IMPLICIT">
         <Conn>

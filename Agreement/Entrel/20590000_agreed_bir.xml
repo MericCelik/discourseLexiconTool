@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>649</BeginOffset>
+                <EndOffset>651</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bankalarda hakim ortak statüsünde bulunan 68 kişi
+                    hakkında şahsi iflas davası açılırken, şu ana kadar
+                    sekiz iade tazmin davcası açıldı</Text>
+                <BeginOffset>513</BeginOffset>
+                <EndOffset>647</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu kişilere açılan davaların parasal tutarı ise
+                    6.1 milyar doları buluyor</Text>
+                <BeginOffset>649</BeginOffset>
+                <EndOffset>722</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>953</BeginOffset>
+                <EndOffset>955</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Lisans haklarını iki yıllığına Eke Tekstil&apos;e
+                    kiralayan modacı İdil Tarzi, firmayla yaptığı
+                    anlaşma sonucunda ev tekstiline giriyor</Text>
+                <BeginOffset>821</BeginOffset>
+                <EndOffset>951</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu alanda &quot;Hamam&quot; ve &quot;İdil Tarzi
+                    Home&quot; adlı iki markayı hayata geçirecek olan
+                    Tarzi, ev tekstili konusunda ilk defa çalışacağını,
+                    bunun kendisi için yeni bir proje olduğunu söyledi</Text>
+                <BeginOffset>953</BeginOffset>
+                <EndOffset>1133</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bunlardan</Text>
+                <BeginOffset>2469</BeginOffset>
+                <EndOffset>2478</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Denizli&apos;li Eke Tekstil ile yaptığımız
+                    görüşmeler sonucunda iki büyük markayı 1 kasımda
+                    beraber canlandırmaya karar verdik</Text>
+                <BeginOffset>2346</BeginOffset>
+                <EndOffset>2467</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bunlardan bir tanesi &quot;Hamam&quot; markası</Text>
+                <BeginOffset>2469</BeginOffset>
+                <EndOffset>2505</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>2573</BeginOffset>
+                <EndOffset>2575</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Diğeri de beraber projelendirmeye başladığımız
+                    &quot;İdil Tarzi Home</Text>
+                <BeginOffset>2507</BeginOffset>
+                <EndOffset>2570</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu iki markanın tasarım, kreatif, koleksiyon ve
+                    iletişim faaliyetlerini biz, üretim, satış, dağıtım
+                    ve finansmanını ise Eke Tekstil üstleniyor</Text>
+                <BeginOffset>2573</BeginOffset>
+                <EndOffset>2715</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2>
+            <Span>
+                <Text>Bunlardan bir tanesi &quot;Hamam&quot; markası</Text>
+                <BeginOffset>2469</BeginOffset>
+                <EndOffset>2505</EndOffset>
+            </Span>
+        </Supp2>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Dünyada</Text>
+                <BeginOffset>2984</BeginOffset>
+                <EndOffset>2991</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Tasarım markası olarak İdil Tarzi&apos;nin lisans
+                    haklarını Eke Tekstil&apos;e kiraladık</Text>
+                <BeginOffset>2904</BeginOffset>
+                <EndOffset>2982</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Dünyada da bunun örnekleri var</Text>
+                <BeginOffset>2984</BeginOffset>
+                <EndOffset>3014</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>3347</BeginOffset>
+                <EndOffset>3349</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Ayrıca önümüzdeki günlerde &quot;Hamam&quot; adlı
+                    mağazalar da açmayı planlıyoruz</Text>
+                <BeginOffset>3274</BeginOffset>
+                <EndOffset>3345</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu mağazaları sadece yurtiçinde değil, yurtdışında
+                    da açmayı planlıyoruz</Text>
+                <BeginOffset>3347</BeginOffset>
+                <EndOffset>3419</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bunlar</Text>
+                <BeginOffset>3421</BeginOffset>
+                <EndOffset>3427</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bu mağazaları sadece yurtiçinde değil, yurtdışında
+                    da açmayı planlıyoruz</Text>
+                <BeginOffset>3347</BeginOffset>
+                <EndOffset>3419</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bunlar lüks mağazalar olacak</Text>
+                <BeginOffset>3421</BeginOffset>
+                <EndOffset>3449</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>3880</BeginOffset>
+                <EndOffset>3882</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Dünya çok hızlı bir iletişim temposunun içine girdi</Text>
+                <BeginOffset>3827</BeginOffset>
+                <EndOffset>3878</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu iletişim hepimizi çok yoruyor</Text>
+                <BeginOffset>3880</BeginOffset>
+                <EndOffset>3912</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>6</Text>
+                <BeginOffset>7597</BeginOffset>
+                <EndOffset>7598</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Geçtiğimiz hafta en fazla izlenen ve oynaklığı ile
+                    baş döndüren hisselerden biri olan Yapı Kredi
+                    Bankası, 432.3 trilyon TL zarar açıkladı</Text>
+                <BeginOffset>7458</BeginOffset>
+                <EndOffset>7595</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>6 aylık bilançosunda 88 trilyon TL zarar açıklayan
+                    bankanın zararı katlandı</Text>
+                <BeginOffset>7597</BeginOffset>
+                <EndOffset>7672</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>11069</BeginOffset>
+                <EndOffset>11071</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Yatırımcının fon türünü, beklentileri ve risk
+                    profiline uygun olarak belirlemesi çok önemli</Text>
+                <BeginOffset>10976</BeginOffset>
+                <EndOffset>11067</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu yolla yatırımcı hangi yatırım enstrümanına
+                    yatırım yapmak istediğini belirlemiş ve tercihini
+                    portföy yöneticisiyle de paylaşmış oluyor</Text>
+                <BeginOffset>11069</BeginOffset>
+                <EndOffset>11206</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Ortalamada</Text>
+                <BeginOffset>12572</BeginOffset>
+                <EndOffset>12582</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>B tipi tahvil bono fonlarında ise minimum yüzde 51
+                    Hazine bonosu - devlet tahvili taşıma zorunluluğu bulunuyor</Text>
+                <BeginOffset>12460</BeginOffset>
+                <EndOffset>12570</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Ortalamada bu tür yatırım fonlarının yüzde 71
+                    oranında Hazine bonosu taşıdığı görülüyor</Text>
+                <BeginOffset>12572</BeginOffset>
+                <EndOffset>12659</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Bu</Text>
+                <BeginOffset>13144</BeginOffset>
+                <EndOffset>13146</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Hisse senedi ağırlıklı A tipi yatırım fonları
+                    pazarının lokomotifi A tipi değişken fonlar minimum
+                    yüzde 25 hisse senedi bulundurma koşulunu taşıyorlar</Text>
+                <BeginOffset>12992</BeginOffset>
+                <EndOffset>13142</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Bu fonların ortalamada yüzde 49 oranında hisse
+                    senedi taşıdığı görülüyor</Text>
+                <BeginOffset>13144</BeginOffset>
+                <EndOffset>13216</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Atama</Text>
+                <BeginOffset>13877</BeginOffset>
+                <EndOffset>13882</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Bankacılık Düzenleme ve Denetleme Kurumu&apos;nda
+                    (BDDK) boş bulunan ikinci başkanlık yardımcılığı
+                    için İbrahim Türkiş&apos;in adı geçiyor</Text>
+                <BeginOffset>13747</BeginOffset>
+                <EndOffset>13875</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Atama kararnamenisinin hazırlandığı öğrenilen
+                    Türkiş, Gelirler Kontrolörleri Derneği İstanbul Şube Başkanı</Text>
+                <BeginOffset>13877</BeginOffset>
+                <EndOffset>13983</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Açıklamaya</Text>
+                <BeginOffset>15327</BeginOffset>
+                <EndOffset>15337</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>BDDK, geçen hafta Başbakan Yardımcısı Abdüllatif
+                    Şener ve Devlet Bakanı Ali Babacan&apos;a verdiği
+                    brifingde sunduğu 60 sayfadan oluşan raporu önceki
+                    gün kamuoyuna açıkladı</Text>
+                <BeginOffset>15158</BeginOffset>
+                <EndOffset>15325</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Açıklamaya ilişkin notta BDDK&apos;nın tüm
+                    baskılara rağmen Bankalar Kanunu&apos;nda yer alan
+                    sırları açıklamama yükümlülüğüne kendi saygınlığının
+                    zedelenmesi pahasına uyacağı, acnak bu sırları
+                    hükümetle paylaşacağı kaydedildi</Text>
+                <BeginOffset>15327</BeginOffset>
+                <EndOffset>15543</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Oryantal</Text>
+                <BeginOffset>4654</BeginOffset>
+                <EndOffset>4662</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Hamam isim itibariyle güçlü ve net bir ifadesi var</Text>
+                <BeginOffset>4602</BeginOffset>
+                <EndOffset>4652</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Oryantal bir isim ama ürünlerin çizgisi oryantal olmayacak</Text>
+                <BeginOffset>4654</BeginOffset>
+                <EndOffset>4712</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>AB&apos;den</Text>
+                <BeginOffset>5625</BeginOffset>
+                <EndOffset>5631</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Piyasa, 12 Aralık&apos;ta yapılacak Kopenhag
+                    Zirvesi&apos;nden tarih için tarih beklentisiyle
+                    yönünü belirlemeye çalışıyor</Text>
+                <BeginOffset>5511</BeginOffset>
+                <EndOffset>5623</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>AB&apos;den tarih için tarih verilmesi beklentisi,
+                    fiyatlara bir miktar yansımış durumda</Text>
+                <BeginOffset>5625</BeginOffset>
+                <EndOffset>5708</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Geriye</Text>
+                <BeginOffset>11663</BeginOffset>
+                <EndOffset>11669</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Fon piyasasının lokomotifi niteliğindeki B tipi
+                    likit yatırım fonları ortalamada yüzde 47 oranında
+                    tahvil bono taşıyor</Text>
+                <BeginOffset>11543</BeginOffset>
+                <EndOffset>11661</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Geriye kalan kısmın ise repo olduğu görülüyor</Text>
+                <BeginOffset>11663</BeginOffset>
+                <EndOffset>11708</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>Minimum</Text>
+                <BeginOffset>13594</BeginOffset>
+                <EndOffset>13601</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>A tipi hisse senedi ve A tipi sektör fonlarında
+                    borsanın payı yüzde 74&apos;e yükselmiş durumda</Text>
+                <BeginOffset>13502</BeginOffset>
+                <EndOffset>13592</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Minimum maksimum dengesi ise yüzde 55- yüzde 95 aralığında</Text>
+                <BeginOffset>13594</BeginOffset>
+                <EndOffset>13652</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Relation note="" sense="" type="ENTREL">
+        <Conn>
+            <Span>
+                <Text>G</Text>
+                <BeginOffset>4853</BeginOffset>
+                <EndOffset>4854</EndOffset>
+            </Span>
+        </Conn>
+        <Mod/>
+        <Arg1>
+            <Span>
+                <Text>Buz gibi sesini duyarım telefonda; nefretini ve
+                    kıskançlığını saklamaz</Text>
+                <BeginOffset>4781</BeginOffset>
+                <EndOffset>4851</EndOffset>
+            </Span>
+        </Arg1>
+        <Arg2>
+            <Span>
+                <Text>Garip bir şeydir bu</Text>
+                <BeginOffset>4853</BeginOffset>
+                <EndOffset>4872</EndOffset>
+            </Span>
+        </Arg2>
+        <Supp1/>
+        <Supp2/>
+        <Shared/>
+        <Supp_Shared/>
+    </Relation>
+</Document>

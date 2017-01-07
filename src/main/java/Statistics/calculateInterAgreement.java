@@ -19,32 +19,32 @@ import org.xml.sax.SAXException;
  * @author Administrator
  */
 public class calculateInterAgreement {
-    
+
     String annotator1Dir;
     String annotator2Dir;
     HashMap<Integer, Annotation> anno1Map = new HashMap<>();
     HashMap<Integer, Annotation> anno2Map = new HashMap<>();
     static HashMap<Integer, Annotation> uniqueMap = new HashMap<>();
     static HashMap<String, Integer> confusionMatrix = new HashMap<>();
-    
+
     static int[] overallAgreed = {0, 0, 0};
     static int overallSize = 0;
     public String filterString = "";
-    
+
     public static void printConfusionMatrix() {
         confusionMatrix.entrySet().stream()
                 .sorted(Map.Entry.<String, Integer>comparingByValue().reversed())
                 .limit(50)
                 .forEach(System.out::println);
     }
-    
+
     public calculateInterAgreement(String dir1, String dir2, String type) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException {
         File folderAnno1 = new File(dir1);
         File folderAnno2 = new File(dir2);
-        
+
         File[] Anno1Files = folderAnno1.listFiles();
         File[] Anno2Files = folderAnno2.listFiles();
-        
+
         if (Anno1Files.length != Anno2Files.length) {
             System.out.println("I'm sorry, Dave. I'm afraid I can't do that".toUpperCase());
         }
@@ -60,22 +60,22 @@ public class calculateInterAgreement {
             }
         }
     }
-    
+
     private void calculateInterAgreement(HashMap<Integer, Annotation> anno1Map, HashMap<Integer, Annotation> anno2Map, String type) {
-        
+
         System.out.println("Annotations of anno1 : " + anno1Map.size());
         System.out.println("Annotations of anno2 : " + anno2Map.size());
-        
+
         uniqueMap.putAll(anno1Map);
         uniqueMap.putAll(anno2Map);
-        
+
         int[] agreed = {0, 0, 0};
         int commonAnno = 0;
         for (Integer key : anno1Map.keySet()) {
             //      if (anno2Map.containsKey(key) && anno2Map.get(key).getType().contains(type) && anno1Map.get(key).getType().contains(type) && 
             // (!anno1Map.get(key).getFullSense().contains("?") || !anno2Map.get(key).getFullSense().contains("?"))) {
-            if (anno2Map.containsKey(key) && !anno1Map.get(key).getType().equals(anno2Map.get(key))) {                
-                
+            if (anno2Map.containsKey(key) && !anno1Map.get(key).getType().equals(anno2Map.get(key))) {
+
                 if (anno1Map.get(key).getFullSense().contains("Multiple") || anno2Map.get(key).getFullSense().contains("Multiple")) {
                     handleMultiple(anno1Map.get(key), anno2Map.get(key), agreed);
                     commonAnno++;
@@ -96,13 +96,13 @@ public class calculateInterAgreement {
         System.out.println(commonAnno);
         System.out.println(agreed[0] + " " + agreed[1] + " " + agreed[2]);
     }
-    
+
     private void compareAnnotationSenseBased(Annotation a1, Annotation a2, int[] agreed) {
-        
+
         boolean sense1 = a1.getSense1().equals(a2.getSense1());
         boolean sense2 = a1.getSense2().equals(a2.getSense2());
         boolean sense3 = a1.getSense3().equals(a2.getSense3());
-        
+
         if (sense1) {
             agreed[0] = agreed[0] + 1;
             overallAgreed[0] = overallAgreed[0] + 1;
@@ -128,17 +128,17 @@ public class calculateInterAgreement {
             }
         }
     }
-    
+
     public static void main(String[] args) throws IOException, SAXException, ParserConfigurationException, ParserConfigurationException {
 
-        calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\Savas", "Agreement\\Agreed", "IMPLICIT"); // 85,  123
+                calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\Savas", "Agreement\\Agreed", "IMPLICIT"); // 85,  123
 //        calculateInterAgreement calculator2 = new calculateInterAgreement("Agreement\\implicit\\tuğçe", "Agreement\\implicit\\murathan", "IMPLICIT"); // 85,  123
 //        calculateInterAgreement calculator3 = new calculateInterAgreement("Agreement\\implicit\\savas", "Agreement\\implicit\\serkan", "IMPLICIT"); // 85,  123
- //        calculateInterAgreement calculator2 = new calculateInterAgreement("Agreement\\implicit\\tuğçe", "Agreement\\implicit\\murathan", ""); // 85,  123
+        //        calculateInterAgreement calculator2 = new calculateInterAgreement("Agreement\\implicit\\tuğçe", "Agreement\\implicit\\murathan", ""); // 85,  123
 //         calculateInterAgreement calculator3 = new calculateInterAgreement("Agreement\\implicit\\savas", "Agreement\\implicit\\serkan", "");
-
 //        calculateInterAgreement calculator = new calculateInterAgreement("Agreement\\explicit\\tuğçe", "Agreement\\explicit\\murathan", "EXPLICIT");
-//        calculateInterAgreement calculator2 = new calculateInterAgreement("Agreement\\explicit\\savas", "Agreement\\explicit\\serkan", "EXPLICIT");
+  //     calculateInterAgreement calculator2 = new calculateInterAgreement("Agreement\\explicit\\savas", "Agreement\\explicit\\serkan", "EXPLICIT");
+  
 //        calculateInterAgreement calculator2 = new calculateInterAgreement("Agreement\\altlex\\Deniz", "Agreement\\altlex\\Fikret", "ALTLEX");
         System.out.println(" - ");
         for (int i : overallAgreed) {
@@ -148,18 +148,32 @@ public class calculateInterAgreement {
         System.out.println("common: " + overallSize);
         System.out.println("unique: " + uniqueMap.size());
         System.out.println("common/unique: " + ((double) overallSize / uniqueMap.size()));
-        
+
         printConfusionMatrix();
 
-//        HashMap<Integer, Annotation> altlex = readRelationsForStatistics.readDATTRelations("Agreement\\altlex\\altlex.xml", "ALTLEX");
-//        
-//        for(Integer i: altlex.keySet())
-//            if(altlex.get(i).getConnective().toString().contains("biyo") || altlex.get(i).getConnective().toString().contains("önemli") ||  altlex.get(i).getConnective().toString().contains("getirdi"))
-//            System.out.println(altlex.get(i));
+//        HashMap<Integer, Annotation> altlex = readRelationsForStatistics.readDATTRelations("Agreement\\altlex.xml", "ALTLEX");
+//        HashMap<String, Integer> altlexCon = new HashMap<>();
+
+////        
+//        for (Integer i : altlex.keySet()) //     if(altlex.get(i).getConnective().toString().contains("biyo") || altlex.get(i).getConnective().toString().contains("önemli") ||  altlex.get(i).getConnective().toString().contains("getirdi"))
+//        {
+//            //System.out.println(altlex.get(i).getConnective());
+//            if (altlexCon.containsKey(altlex.get(i).getConnective().toString().toLowerCase())) {
+//                int tmp = altlexCon.get(altlex.get(i).getConnective().toString().toLowerCase());
+//                altlexCon.put(altlex.get(i).getConnective().toString().toLowerCase(), tmp + 1);
+//            } else {
+//                altlexCon.put(altlex.get(i).getConnective().toString().toLowerCase(), 1);
+//            }
+//        }
+//        for (String s : altlexCon.keySet()) //     if(altlex.get(i).getConnective().toString().contains("biyo") || altlex.get(i).getConnective().toString().contains("önemli") ||  altlex.get(i).getConnective().toString().contains("getirdi"))
+//        {
+//            System.out.println(s + ": " + altlexCon.get(s));
+//        }
+
     }
-    
+
     private void handleMultiple(Annotation a1, Annotation a2, int[] agreed) {
-        
+
         if (a1.getFullSense().contains("Multiple") && !a2.getFullSense().contains("Multiple")) {
             String[] multSense1 = a1.getNote().split("#");
             Annotation tmp = new Annotation(null, null, null, null, null, null, multSense1[0], "", a1.getType(), "");
@@ -177,17 +191,17 @@ public class calculateInterAgreement {
             String[] multSense2 = a2.getNote().split("#");
             Arrays.sort(multSense1);
             Arrays.sort(multSense2);
-            
+
             Annotation tmp1_1 = new Annotation(null, null, null, null, null, null, multSense1[0], "", a1.getType(), "");
             Annotation tmp1_2 = new Annotation(null, null, null, null, null, null, multSense1[1], "", a1.getType(), "");
-            
+
             Annotation tmp2_1 = new Annotation(null, null, null, null, null, null, multSense2[0], "", a2.getType(), "");
             Annotation tmp2_2 = new Annotation(null, null, null, null, null, null, multSense2[1], "", a2.getType(), "");
-            
+
             compareAnnotationSenseBased(tmp1_1, tmp2_1, agreed);
             compareAnnotationSenseBased(tmp1_2, tmp2_2, agreed);
         }
-        
+
     }
-    
+
 }

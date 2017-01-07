@@ -109,8 +109,8 @@
             </Span>
         </Arg2>
     </Relation>
-    <Relation note="Specification: Şöyle ki"
-        sense="Expansion: Restatement: specification" type="IMPLICIT">
+    <Relation note="Restatement: Şöyle ki"
+        sense="Expansion: Restatement" type="IMPLICIT">
         <Conn>
             <Span>
                 <Text>Yıldırım</Text>
