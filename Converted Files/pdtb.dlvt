@@ -14,7 +14,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Comparison: Contrast" type="Implicit">
+    <Annotation conBeginOffset="1471" sense="Comparison: Contrast" type="Implicit">
       <Arg1>
         <Text>bury our heads in the sand and not think about it</Text>
         <BeginOffset>1421</BeginOffset>
@@ -92,7 +92,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
+    <Annotation conBeginOffset="4124" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
       <Arg1>
         <Text>about a decade ago, they sold their core power tools business and reinvested those proceeds in a water business</Text>
         <BeginOffset>4012</BeginOffset>
@@ -105,7 +105,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
+    <Annotation conBeginOffset="4487" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
       <Arg1>
         <Text>you may be asking yourself, are these just isolated cases</Text>
         <BeginOffset>4429</BeginOffset>
@@ -118,7 +118,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
+    <Annotation conBeginOffset="4980" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
       <Arg1>
         <Text>that's okay, right</Text>
         <BeginOffset>4961</BeginOffset>
@@ -157,7 +157,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
+    <Annotation conBeginOffset="7941" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
       <Arg1>
         <Text>So we can reconsider some of these pressing challenges, like fresh water, clean air, feeding 10 billion mouths, if institutional investors integrated ESG into investment</Text>
         <BeginOffset>7771</BeginOffset>
@@ -235,7 +235,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
+    <Annotation conBeginOffset="985" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
       <Arg1>
         <Text>I want to take that of an Earth-like planet about another star</Text>
         <BeginOffset>922</BeginOffset>
@@ -674,7 +674,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="5242" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>In blue, we see the performance of the 500 largest global companies, and in gold, we see a subset of companies with best practice in climate change strategy and risk management</Text>
         <BeginOffset>5061</BeginOffset>
@@ -855,7 +855,7 @@
     </Annotation>
   </Connective>
   <Connective Item="in fact" Size="10" senseList="Expansion: Level_of_detail: Arg2_as_detail!#!Expansion: Instantiation">
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="384" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>And by sustainability, I mean the really juicy things, like environmental and social issues and corporate governance</Text>
         <BeginOffset>267</BeginOffset>
@@ -868,7 +868,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="692" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>the balance of power to really influence sustainability rests with institutional investors, the large investors like pension funds, foundations and endowments</Text>
         <BeginOffset>533</BeginOffset>
@@ -881,7 +881,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="2996" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>They started to see sustainability not just as important but crucial to business success</Text>
         <BeginOffset>2907</BeginOffset>
@@ -894,7 +894,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="4632" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>The answer that may surprise you is yes</Text>
         <BeginOffset>4592</BeginOffset>
@@ -907,7 +907,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="331" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>Sierra Leone is infamous for a decade-long rebel war in the '90s when entire villages were burnt down</Text>
         <BeginOffset>229</BeginOffset>
@@ -933,7 +933,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="4533" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>That, of course, has to be bigger than my thumb</Text>
         <BeginOffset>4485</BeginOffset>
@@ -946,7 +946,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="5320" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>We've been working on this for the last five or six years</Text>
         <BeginOffset>5262</BeginOffset>
@@ -972,7 +972,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="1101" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>the vagabond is a creature from the past</Text>
         <BeginOffset>1060</BeginOffset>
@@ -987,7 +987,7 @@
     </Annotation>
   </Connective>
   <Connective Item="by comparison" Size="1" senseList="Comparison: Similarity">
-    <Annotation conBeginOffset="0" sense="Comparison: Similarity" type="Implicit">
+    <Annotation conBeginOffset="7644" sense="Comparison: Similarity" type="Implicit">
       <Arg1>
         <Text>That's 133 trillion combined</Text>
         <BeginOffset>7615</BeginOffset>
@@ -1002,7 +1002,7 @@
     </Annotation>
   </Connective>
   <Connective Item="that is" Size="5" senseList="Expansion: Level_of_detail: Arg2_as_detail">
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="881" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>Let me remind you what we already know</Text>
         <BeginOffset>842</BeginOffset>
@@ -1015,7 +1015,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="6445" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>They believe it's critical to superior long-term returns, full stop</Text>
         <BeginOffset>6356</BeginOffset>
@@ -1028,7 +1028,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="7060" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>I mean, let me clarify something right here</Text>
         <BeginOffset>7016</BeginOffset>
@@ -1041,7 +1041,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="8013" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>I think on some gut level we do know this</Text>
         <BeginOffset>7971</BeginOffset>
@@ -1054,7 +1054,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="2207" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>travelers view their own existence through the prism of liberation and freedom</Text>
         <BeginOffset>2128</BeginOffset>
@@ -1099,7 +1099,7 @@
     </Annotation>
   </Connective>
   <Connective Item="specifically" Size="13" senseList="Expansion: Level_of_detail: Arg2_as_detail">
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="933" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>We have a population that's both growing and aging</Text>
         <BeginOffset>882</BeginOffset>
@@ -1112,7 +1112,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="2906" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>that most CEOs are</Text>
         <BeginOffset>2887</BeginOffset>
@@ -1125,7 +1125,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="2080" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>I designed custom prosthetic sockets quickly and cheaply that are more comfortable than conventional prostheses</Text>
         <BeginOffset>1968</BeginOffset>
@@ -1138,7 +1138,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="2328" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>create a prosthetic socket for manufacture</Text>
         <BeginOffset>2285</BeginOffset>
@@ -1151,7 +1151,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="2371" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>to see the planet, we have to do something about all of that light</Text>
         <BeginOffset>2304</BeginOffset>
@@ -1164,7 +1164,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="3324" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>Spitzer's suggestion was we do this in space</Text>
         <BeginOffset>3279</BeginOffset>
@@ -1177,7 +1177,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="4002" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>If we can feather the edges</Text>
         <BeginOffset>3974</BeginOffset>
@@ -1190,7 +1190,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="5691" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>Those petals have to rotate into place</Text>
         <BeginOffset>5652</BeginOffset>
@@ -1203,7 +1203,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="859" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>my view of success and creativity changed</Text>
         <BeginOffset>817</BeginOffset>
@@ -1216,7 +1216,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="7304" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>this is what a near win does</Text>
         <BeginOffset>7275</BeginOffset>
@@ -1229,7 +1229,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="9189" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>This is the dynamic of mastery</Text>
         <BeginOffset>9158</BeginOffset>
@@ -1242,7 +1242,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="1513" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>today's nomads travel the steel and asphalt arteries of the United States</Text>
         <BeginOffset>1439</BeginOffset>
@@ -1255,7 +1255,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="2369" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>They'd rather live off of the excess of what they view as a wasteful consumer society than slave away at an unrealistic chance at the traditional American dream</Text>
         <BeginOffset>2208</BeginOffset>
@@ -1283,7 +1283,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause+Belief: Reason+Belief" type="Implicit">
+    <Annotation conBeginOffset="1894" sense="Contingency: Cause+Belief: Reason+Belief" type="Implicit">
       <Arg1>
         <Text>they're not enough</Text>
         <BeginOffset>1875</BeginOffset>
@@ -1296,7 +1296,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Reason" type="Implicit">
+    <Annotation conBeginOffset="4222" sense="Contingency: Cause: Reason" type="Implicit">
       <Arg1>
         <Text>Why did they do that</Text>
         <BeginOffset>4150</BeginOffset>
@@ -1309,7 +1309,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Reason" type="Implicit">
+    <Annotation conBeginOffset="6355" sense="Contingency: Cause: Reason" type="Implicit">
       <Arg1>
         <Text>they're moving toward 100 percent sustainable investment by systematically integrated ESG across the entire fund. Why</Text>
         <BeginOffset>6237</BeginOffset>
@@ -1322,7 +1322,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Reason" type="Implicit">
+    <Annotation conBeginOffset="7143" sense="Contingency: Cause: Reason" type="Implicit">
       <Arg1>
         <Text>Companies and investors are not singularly responsible for the fate of the planet</Text>
         <BeginOffset>7061</BeginOffset>
@@ -1335,7 +1335,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Reason" type="Implicit">
+    <Annotation conBeginOffset="7450" sense="Contingency: Cause: Reason" type="Implicit">
       <Arg1>
         <Text>Why do they hold the key</Text>
         <BeginOffset>7395</BeginOffset>
@@ -1387,7 +1387,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Reason" type="Implicit">
+    <Annotation conBeginOffset="1310" sense="Contingency: Cause: Reason" type="Implicit">
       <Arg1>
         <Text>Even in the developed world, it takes a period of three weeks to often years for a patient to get a comfortable socket, if ever</Text>
         <BeginOffset>1182</BeginOffset>
@@ -1400,7 +1400,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Reason" type="Implicit">
+    <Annotation conBeginOffset="1618" sense="Contingency: Cause: Reason" type="Implicit">
       <Arg1>
         <Text>It does not matter how powerful your prosthetic ankle is</Text>
         <BeginOffset>1561</BeginOffset>
@@ -1426,7 +1426,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Reason" type="Implicit">
+    <Annotation conBeginOffset="2787" sense="Contingency: Cause: Reason" type="Implicit">
       <Arg1>
         <Text>That's a solar eclipse</Text>
         <BeginOffset>2764</BeginOffset>
@@ -1465,7 +1465,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Reason" type="Implicit">
+    <Annotation conBeginOffset="6353" sense="Contingency: Cause: Reason" type="Implicit">
       <Arg1>
         <Text>not ours</Text>
         <BeginOffset>6344</BeginOffset>
@@ -1491,7 +1491,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Reason" type="Implicit">
+    <Annotation conBeginOffset="176" sense="Contingency: Cause: Reason" type="Implicit">
       <Arg1>
         <Text>I feel so fortunate that my first job was working at the Museum of Modern Art on a retrospective of painter Elizabeth Murray</Text>
         <BeginOffset>51</BeginOffset>
@@ -1504,7 +1504,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Reason" type="Implicit">
+    <Annotation conBeginOffset="343" sense="Contingency: Cause: Reason" type="Implicit">
       <Arg1>
         <Text>I loved looking at the paintings from the 1970s</Text>
         <BeginOffset>295</BeginOffset>
@@ -1582,7 +1582,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Reason" type="Implicit">
+    <Annotation conBeginOffset="8403" sense="Contingency: Cause: Reason" type="Implicit">
       <Arg1>
         <Text>It's what's called a spirit line, a deliberate flaw in the pattern to give the weaver or maker a way out, but also a reason to continue making work</Text>
         <BeginOffset>8255</BeginOffset>
@@ -1621,7 +1621,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Reason" type="Implicit">
+    <Annotation conBeginOffset="9157" sense="Contingency: Cause: Reason" type="Implicit">
       <Arg1>
         <Text>We build out of the unfinished idea, even if that idea is our former self</Text>
         <BeginOffset>9083</BeginOffset>
@@ -1634,7 +1634,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Reason" type="Implicit">
+    <Annotation conBeginOffset="238" sense="Contingency: Cause: Reason" type="Implicit">
       <Arg1>
         <Text>I kept a packed bag with some clothes and cans of food tucked away in the back of a closet</Text>
         <BeginOffset>147</BeginOffset>
@@ -1647,7 +1647,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Reason" type="Implicit">
+    <Annotation conBeginOffset="2775" sense="Contingency: Cause: Reason" type="Implicit">
       <Arg1>
         <Text>there are many aspects to this life that are far from idyllic</Text>
         <BeginOffset>2713</BeginOffset>
@@ -1675,7 +1675,7 @@
     </Annotation>
   </Connective>
   <Connective Item="in sum" Size="2" senseList="Expansion: Equivalence!#!Contingency: Cause: Result">
-    <Annotation conBeginOffset="0" sense="Expansion: Equivalence" type="Implicit">
+    <Annotation conBeginOffset="3260" sense="Expansion: Equivalence" type="Implicit">
       <Arg1>
         <Text>the views of CEOs are clear</Text>
         <BeginOffset>3232</BeginOffset>
@@ -1688,7 +1688,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="7614" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>The global stock market is worth 55 trillion dollars. The global bond market, 78 trillion</Text>
         <BeginOffset>7524</BeginOffset>
@@ -1703,7 +1703,7 @@
     </Annotation>
   </Connective>
   <Connective Item="whereas" Size="1" senseList="Comparison: Contrast">
-    <Annotation conBeginOffset="0" sense="Comparison: Contrast" type="Implicit">
+    <Annotation conBeginOffset="1904" sense="Comparison: Contrast" type="Implicit">
       <Arg1>
         <Text>Some travelers take to the road by choice, renouncing materialism, traditional jobs and university degrees in exchange for a glimmer of adventure</Text>
         <BeginOffset>1758</BeginOffset>
@@ -1718,7 +1718,7 @@
     </Annotation>
   </Connective>
   <Connective Item="NONE" Size="13" senseList="Expansion: Substitution: Arg1_as_subst!#!Contingency: Cause+SpeechAct: Result+SpeechAct!#!Comparison: Concession+SpeechAct: Arg2_as_denier+SpeechAct!#!Q/A">
-    <Annotation conBeginOffset="0" sense="Q/A" type="Implicit">
+    <Annotation conBeginOffset="5605" sense="Q/A" type="Implicit">
       <Arg1>
         <Text>Are investors, particularly institutional investors, engaged</Text>
         <BeginOffset>5538</BeginOffset>
@@ -1731,7 +1731,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause+SpeechAct: Result+SpeechAct" type="Implicit">
+    <Annotation conBeginOffset="5986" sense="Contingency: Cause+SpeechAct: Result+SpeechAct" type="Implicit">
       <Arg1>
         <Text>They believe that ESG has the potential to impact risks and returns, so incorporating it into the investment process is core to their duty to act in the best interest of fund members, core to their duty</Text>
         <BeginOffset>5783</BeginOffset>
@@ -1744,7 +1744,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause+SpeechAct: Result+SpeechAct" type="Implicit">
+    <Annotation conBeginOffset="6982" sense="Contingency: Cause+SpeechAct: Result+SpeechAct" type="Implicit">
       <Arg1>
         <Text>The one that just really gets under my skin is, "If you want to do something about that, just make money, give the profits to charities</Text>
         <BeginOffset>6845</BeginOffset>
@@ -1757,7 +1757,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause+SpeechAct: Result+SpeechAct" type="Implicit">
+    <Annotation conBeginOffset="7394" sense="Contingency: Cause+SpeechAct: Result+SpeechAct" type="Implicit">
       <Arg1>
         <Text>institutional investors are the x-factor in sustainability</Text>
         <BeginOffset>7335</BeginOffset>
@@ -1770,7 +1770,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Q/A" type="Implicit">
+    <Annotation conBeginOffset="8465" sense="Q/A" type="Implicit">
       <Arg1>
         <Text>what if all this sustainability risk stuff is exaggerated, overstated, it's not urgent, something for virtuous consumers or lifestyle choice</Text>
         <BeginOffset>8318</BeginOffset>
@@ -1783,7 +1783,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Comparison: Concession+SpeechAct: Arg2_as_denier+SpeechAct" type="Implicit">
+    <Annotation conBeginOffset="1301" sense="Comparison: Concession+SpeechAct: Arg2_as_denier+SpeechAct" type="Implicit">
       <Arg1>
         <Text>it takes a period of three weeks to often years for a patient to get a comfortable socket</Text>
         <BeginOffset>1211</BeginOffset>
@@ -1796,7 +1796,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Q/A" type="Implicit">
+    <Annotation conBeginOffset="1034" sense="Q/A" type="Implicit">
       <Arg1>
         <Text>Why is that hard</Text>
         <BeginOffset>1012</BeginOffset>
@@ -1809,7 +1809,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Q/A" type="Implicit">
+    <Annotation conBeginOffset="3066" sense="Q/A" type="Implicit">
       <Arg1>
         <Text>what's going on</Text>
         <BeginOffset>3045</BeginOffset>
@@ -1822,7 +1822,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Q/A" type="Implicit">
+    <Annotation conBeginOffset="3521" sense="Q/A" type="Implicit">
       <Arg1>
         <Text>What gets us to do this</Text>
         <BeginOffset>3497</BeginOffset>
@@ -1835,7 +1835,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Substitution: Arg1_as_subst" type="Implicit">
+    <Annotation conBeginOffset="4939" sense="Expansion: Substitution: Arg1_as_subst" type="Implicit">
       <Arg1>
         <Text>Mastery is in the reaching</Text>
         <BeginOffset>4912</BeginOffset>
@@ -1848,7 +1848,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Substitution: Arg1_as_subst" type="Implicit">
+    <Annotation conBeginOffset="5098" sense="Expansion: Substitution: Arg1_as_subst" type="Implicit">
       <Arg1>
         <Text>Mastery is about sacrificing for your craft</Text>
         <BeginOffset>5051</BeginOffset>
@@ -1861,7 +1861,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Q/A" type="Implicit">
+    <Annotation conBeginOffset="3208" sense="Q/A" type="Implicit">
       <Arg1>
         <Text>Who here knows that in many cities across the United States it is now illegal to sit on the sidewalk, to wrap oneself in a blanket, to sleep in your own car, to offer food to a stranger</Text>
         <BeginOffset>3022</BeginOffset>
@@ -1874,7 +1874,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Q/A" type="Implicit">
+    <Annotation conBeginOffset="3573" sense="Q/A" type="Implicit">
       <Arg1>
         <Text>Many of you might be wondering why anyone would choose a life like this, under the thumb of discriminatory laws, eating out of trash cans, sleeping under bridges, picking up seasonal jobs here and there</Text>
         <BeginOffset>3370</BeginOffset>
@@ -2075,7 +2075,7 @@
     </Annotation>
   </Connective>
   <Connective Item="on the other hand" Size="1" senseList="Comparison: Contrast">
-    <Annotation conBeginOffset="0" sense="Comparison: Contrast" type="Implicit">
+    <Annotation conBeginOffset="8291" sense="Comparison: Contrast" type="Implicit">
       <Arg1>
         <Text>What if they used that firepower to allocate more of their capital to companies working the hardest at solving these challenges or at least not exacerbating them? What if we work and save and invest, only to find that the world we retire into is more stressed and less secure than it is now? What if there isn't enough clean air and fresh water</Text>
         <BeginOffset>7942</BeginOffset>
@@ -2105,7 +2105,7 @@
     </Annotation>
   </Connective>
   <Connective Item="in order" Size="9" senseList="Contingency: Purpose: Arg2_as_goal">
-    <Annotation conBeginOffset="0" sense="Contingency: Purpose: Arg2_as_goal" type="Implicit">
+    <Annotation conBeginOffset="1381" sense="Contingency: Purpose: Arg2_as_goal" type="Implicit">
       <Arg1>
         <Text>Prosthetists still use conventional processes like molding and casting</Text>
         <BeginOffset>1311</BeginOffset>
@@ -2118,7 +2118,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Purpose: Arg2_as_goal" type="Implicit">
+    <Annotation conBeginOffset="2114" sense="Contingency: Purpose: Arg2_as_goal" type="Implicit">
       <Arg1>
         <Text>I used magnetic resonance imaging</Text>
         <BeginOffset>2081</BeginOffset>
@@ -2131,7 +2131,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Purpose: Arg2_as_goal" type="Implicit">
+    <Annotation conBeginOffset="2348" sense="Contingency: Purpose: Arg2_as_goal" type="Implicit">
       <Arg1>
         <Text>We use a 3D printer</Text>
         <BeginOffset>2329</BeginOffset>
@@ -2144,7 +2144,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Purpose: Arg2_as_goal" type="Implicit">
+    <Annotation conBeginOffset="2463" sense="Contingency: Purpose: Arg2_as_goal" type="Implicit">
       <Arg1>
         <Text>working on really amazing technologies</Text>
         <BeginOffset>2425</BeginOffset>
@@ -2170,7 +2170,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Purpose: Arg2_as_goal" type="Implicit">
+    <Annotation conBeginOffset="1981" sense="Contingency: Purpose: Arg2_as_goal" type="Implicit">
       <Arg1>
         <Text>her coach stood in between us</Text>
         <BeginOffset>1952</BeginOffset>
@@ -2196,7 +2196,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Purpose: Arg2_as_goal" type="Implicit">
+    <Annotation conBeginOffset="8321" sense="Contingency: Purpose: Arg2_as_goal" type="Implicit">
       <Arg1>
         <Text>a deliberate flaw in the pattern</Text>
         <BeginOffset>8289</BeginOffset>
@@ -2209,7 +2209,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Purpose: Arg2_as_goal" type="Implicit">
+    <Annotation conBeginOffset="8970" sense="Contingency: Purpose: Arg2_as_goal" type="Implicit">
       <Arg1>
         <Text>just a way to let me know, a kind of tender admission</Text>
         <BeginOffset>8916</BeginOffset>
@@ -2224,7 +2224,7 @@
     </Annotation>
   </Connective>
   <Connective Item="finally" Size="1" senseList="Expansion: Conjunction">
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="2515" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>For three hours this went on</Text>
         <BeginOffset>2486</BeginOffset>
@@ -2239,7 +2239,7 @@
     </Annotation>
   </Connective>
   <Connective Item="for example" Size="6" senseList="Expansion: Instantiation">
-    <Annotation conBeginOffset="0" sense="Expansion: Instantiation" type="Implicit">
+    <Annotation conBeginOffset="1616" sense="Expansion: Instantiation" type="Implicit">
       <Arg1>
         <Text>it makes me wonder if the investment rules of today are fit for purpose tomorrow</Text>
         <BeginOffset>1535</BeginOffset>
@@ -2252,7 +2252,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Instantiation" type="Implicit">
+    <Annotation conBeginOffset="2531" sense="Expansion: Instantiation" type="Implicit">
       <Arg1>
         <Text>we're using data to make novel sockets quickly and cheaply</Text>
         <BeginOffset>2472</BeginOffset>
@@ -2265,7 +2265,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Instantiation" type="Implicit">
+    <Annotation conBeginOffset="3582" sense="Expansion: Instantiation" type="Implicit">
       <Arg1>
         <Text>what get us to forward thrust more is to value the near win</Text>
         <BeginOffset>3522</BeginOffset>
@@ -2278,7 +2278,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Instantiation" type="Implicit">
+    <Annotation conBeginOffset="6221" sense="Expansion: Instantiation" type="Implicit">
       <Arg1>
         <Text>One of the most vivid examples of this comes when we look at the difference between Olympic silver medalists and bronze medalists after a competition</Text>
         <BeginOffset>6071</BeginOffset>
@@ -2291,7 +2291,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Instantiation" type="Implicit">
+    <Annotation conBeginOffset="8145" sense="Expansion: Instantiation" type="Implicit">
       <Arg1>
         <Text>it's why the deliberate incomplete is inbuilt into creation myths</Text>
         <BeginOffset>8079</BeginOffset>
@@ -2304,7 +2304,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Instantiation" type="Implicit">
+    <Annotation conBeginOffset="3021" sense="Expansion: Instantiation" type="Implicit">
       <Arg1>
         <Text>anyone who has lived on the streets can attest to the exhaustive list of laws that criminalize homeless existence</Text>
         <BeginOffset>2907</BeginOffset>
@@ -2319,7 +2319,7 @@
     </Annotation>
   </Connective>
   <Connective Item="in short" Size="2" senseList="Expansion: Level_of_detail: Arg1_as_detail">
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg1_as_detail" type="Implicit">
+    <Annotation conBeginOffset="4909" sense="Expansion: Level_of_detail: Arg1_as_detail" type="Implicit">
       <Arg1>
         <Text>In blue, we see the MSCI World. It's an index of large companies from developed markets across the world. And in gold, we see a subset of companies rated as having the best ESG performance</Text>
         <BeginOffset>4720</BeginOffset>
@@ -2347,7 +2347,7 @@
     </Annotation>
   </Connective>
   <Connective Item="then" Size="21" senseList="Temporal: Asynchronous: Precedence">
-    <Annotation conBeginOffset="0" sense="Temporal: Asynchronous: Precedence" type="Implicit">
+    <Annotation conBeginOffset="4073" sense="Temporal: Asynchronous: Precedence" type="Implicit">
       <Arg1>
         <Text>they sold their core power tools business</Text>
         <BeginOffset>4032</BeginOffset>
@@ -2386,7 +2386,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Temporal: Asynchronous: Precedence" type="Implicit">
+    <Annotation conBeginOffset="1091" sense="Temporal: Asynchronous: Precedence" type="Implicit">
       <Arg1>
         <Text>we take the Hubble Space Telescope</Text>
         <BeginOffset>1057</BeginOffset>
@@ -2399,7 +2399,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Temporal: Asynchronous: Precedence" type="Implicit">
+    <Annotation conBeginOffset="1113" sense="Temporal: Asynchronous: Precedence" type="Implicit">
       <Arg1>
         <Text>we turn it around</Text>
         <BeginOffset>1096</BeginOffset>
@@ -2412,7 +2412,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Temporal: Asynchronous: Precedence" type="Implicit">
+    <Annotation conBeginOffset="3347" sense="Temporal: Asynchronous: Precedence" type="Implicit">
       <Arg1>
         <Text>We build a big screen</Text>
         <BeginOffset>3325</BeginOffset>
@@ -2425,7 +2425,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Temporal: Asynchronous: Precedence" type="Implicit">
+    <Annotation conBeginOffset="3367" sense="Temporal: Asynchronous: Precedence" type="Implicit">
       <Arg1>
         <Text>we fly it in space</Text>
         <BeginOffset>3348</BeginOffset>
@@ -2438,7 +2438,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Temporal: Asynchronous: Precedence" type="Implicit">
+    <Annotation conBeginOffset="3402" sense="Temporal: Asynchronous: Precedence" type="Implicit">
       <Arg1>
         <Text>we put it up in front of the star</Text>
         <BeginOffset>3368</BeginOffset>
@@ -2451,7 +2451,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Temporal: Asynchronous: Precedence" type="Implicit">
+    <Annotation conBeginOffset="3434" sense="Temporal: Asynchronous: Precedence" type="Implicit">
       <Arg1>
         <Text>we block out most of the light</Text>
         <BeginOffset>3403</BeginOffset>
@@ -2477,7 +2477,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Temporal: Asynchronous: Precedence" type="Implicit">
+    <Annotation conBeginOffset="4909" sense="Temporal: Asynchronous: Precedence" type="Implicit">
       <Arg1>
         <Text>It starts wrapped around a hub</Text>
         <BeginOffset>4878</BeginOffset>
@@ -2490,7 +2490,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Temporal: Asynchronous: Precedence" type="Implicit">
+    <Annotation conBeginOffset="4942" sense="Temporal: Asynchronous: Precedence" type="Implicit">
       <Arg1>
         <Text>It separates from the telescope</Text>
         <BeginOffset>4910</BeginOffset>
@@ -2503,7 +2503,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Temporal: Asynchronous: Precedence" type="Implicit">
+    <Annotation conBeginOffset="4975" sense="Temporal: Asynchronous: Precedence" type="Implicit">
       <Arg1>
         <Text>they open up</Text>
         <BeginOffset>4962</BeginOffset>
@@ -2529,7 +2529,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Temporal: Asynchronous: Precedence" type="Implicit">
+    <Annotation conBeginOffset="743" sense="Temporal: Asynchronous: Precedence" type="Implicit">
       <Arg1>
         <Text>she had set it out in the trash in her studio</Text>
         <BeginOffset>697</BeginOffset>
@@ -2542,7 +2542,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Temporal: Asynchronous: Precedence" type="Implicit">
+    <Annotation conBeginOffset="1558" sense="Temporal: Asynchronous: Precedence" type="Implicit">
       <Arg1>
         <Text>I stood and watched as the coach drove up these women in this gray van</Text>
         <BeginOffset>1487</BeginOffset>
@@ -2555,7 +2555,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Temporal: Asynchronous: Precedence" type="Implicit">
+    <Annotation conBeginOffset="1922" sense="Temporal: Asynchronous: Precedence" type="Implicit">
       <Arg1>
         <Text>they passed me and smiled, but they sized me up as they made their way to the turf, and spoke to each other not with words but with numbers, degrees, I thought, positions for how they might plan to hit their target</Text>
         <BeginOffset>1707</BeginOffset>
@@ -2607,7 +2607,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Temporal: Asynchronous: Precedence" type="Implicit">
+    <Annotation conBeginOffset="7600" sense="Temporal: Asynchronous: Precedence" type="Implicit">
       <Arg1>
         <Text>who in 1984 missed taking the gold in the heptathlon by one third of a second, and her husband predicted that would give her the tenacity she needed in follow-up competition</Text>
         <BeginOffset>7426</BeginOffset>
@@ -2788,7 +2788,7 @@
     </Annotation>
   </Connective>
   <Connective Item="except" Size="1" senseList="Expansion: Exception: Arg2_as_excpt">
-    <Annotation conBeginOffset="0" sense="Expansion: Exception: Arg2_as_excpt" type="Implicit">
+    <Annotation conBeginOffset="8923" sense="Expansion: Exception: Arg2_as_excpt" type="Implicit">
       <Arg1>
         <Text>the odds that it's not completely wrong are better than the odds that our house will burn down or we'll get in a car accident</Text>
         <BeginOffset>8791</BeginOffset>
@@ -2848,7 +2848,7 @@
     </Annotation>
   </Connective>
   <Connective Item="however" Size="4" senseList="Comparison: Concession: Arg2_as_denier">
-    <Annotation conBeginOffset="0" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
+    <Annotation conBeginOffset="6608" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
       <Arg1>
         <Text>This is why we are concerned with ESG</Text>
         <BeginOffset>6564</BeginOffset>
@@ -2861,7 +2861,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
+    <Annotation conBeginOffset="6844" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
       <Arg1>
         <Text>Often I hear, "We are required to maximize returns, so we don't do that here," or, "We don't want to use the portfolio to make policy statements</Text>
         <BeginOffset>6698</BeginOffset>
@@ -2887,7 +2887,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
+    <Annotation conBeginOffset="4415" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
       <Arg1>
         <Text>that he wanted all of his diaries, manuscripts, letters and even sketches burned upon his death</Text>
         <BeginOffset>4319</BeginOffset>
@@ -2902,7 +2902,7 @@
     </Annotation>
   </Connective>
   <Connective Item="next" Size="1" senseList="Temporal: Asynchronous: Precedence">
-    <Annotation conBeginOffset="0" sense="Temporal: Asynchronous: Precedence" type="Implicit">
+    <Annotation conBeginOffset="5087" sense="Temporal: Asynchronous: Precedence" type="Implicit">
       <Arg1>
         <Text>you'll see it flip and fly out that 50,000 kilometers away from the telescope</Text>
         <BeginOffset>5009</BeginOffset>
@@ -2917,7 +2917,7 @@
     </Annotation>
   </Connective>
   <Connective Item="nevertheless" Size="1" senseList="Comparison: Concession: Arg2_as_denier">
-    <Annotation conBeginOffset="0" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
+    <Annotation conBeginOffset="1422" sense="Comparison: Concession: Arg2_as_denier" type="Implicit">
       <Arg1>
         <Text>It's gotten smaller, it's got less detail, less resolve</Text>
         <BeginOffset>1366</BeginOffset>
@@ -2932,7 +2932,7 @@
     </Annotation>
   </Connective>
   <Connective Item="rather" Size="4" senseList="Expansion: Substitution: Arg1_as_subst!#!Expansion: Substitution: Arg2_as_subst">
-    <Annotation conBeginOffset="0" sense="Expansion: Substitution: Arg1_as_subst" type="Implicit">
+    <Annotation conBeginOffset="5338" sense="Expansion: Substitution: Arg1_as_subst" type="Implicit">
       <Arg1>
         <Text>this is correlation</Text>
         <BeginOffset>5318</BeginOffset>
@@ -2945,7 +2945,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Substitution: Arg2_as_subst" type="Implicit">
+    <Annotation conBeginOffset="7269" sense="Expansion: Substitution: Arg2_as_subst" type="Implicit">
       <Arg1>
         <Text>prudent investing and finance theory aren't subordinate to sustainability</Text>
         <BeginOffset>7195</BeginOffset>
@@ -2958,7 +2958,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Substitution: Arg2_as_subst" type="Implicit">
+    <Annotation conBeginOffset="657" sense="Expansion: Substitution: Arg2_as_subst" type="Implicit">
       <Arg1>
         <Text>we haven't seen any of them</Text>
         <BeginOffset>629</BeginOffset>
@@ -2971,7 +2971,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Substitution: Arg2_as_subst" type="Implicit">
+    <Annotation conBeginOffset="8478" sense="Expansion: Substitution: Arg2_as_subst" type="Implicit">
       <Arg1>
         <Text>Masters are not experts because they take a subject to its conceptual end</Text>
         <BeginOffset>8404</BeginOffset>
@@ -3029,7 +3029,7 @@
     </Annotation>
   </Connective>
   <Connective Item="for instance" Size="3" senseList="Expansion: Instantiation">
-    <Annotation conBeginOffset="0" sense="Expansion: Instantiation" type="Implicit">
+    <Annotation conBeginOffset="5060" sense="Expansion: Instantiation" type="Implicit">
       <Arg1>
         <Text>In some cases, there may be outperformance from ESG</Text>
         <BeginOffset>5008</BeginOffset>
@@ -3042,7 +3042,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Instantiation" type="Implicit">
+    <Annotation conBeginOffset="5653" sense="Expansion: Instantiation" type="Implicit">
       <Arg1>
         <Text>a few are really at the vanguard</Text>
         <BeginOffset>5620</BeginOffset>
@@ -3055,7 +3055,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Instantiation" type="Implicit">
+    <Annotation conBeginOffset="7523" sense="Expansion: Instantiation" type="Implicit">
       <Arg1>
         <Text>a really lot of it</Text>
         <BeginOffset>7504</BeginOffset>
@@ -3115,7 +3115,7 @@
     </Annotation>
   </Connective>
   <Connective Item="consequently" Size="6" senseList="Contingency: Cause: Result">
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="1347" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>they are really complex</Text>
         <BeginOffset>1324</BeginOffset>
@@ -3128,7 +3128,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="3682" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>these initiatives create a more mobile workplace</Text>
         <BeginOffset>3633</BeginOffset>
@@ -3141,7 +3141,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="1427" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>Prosthetists still use conventional processes like molding and casting to create single-material prosthetic sockets</Text>
         <BeginOffset>1311</BeginOffset>
@@ -3154,7 +3154,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="4345" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>If we make the edges of those petals exactly right, if we control their shape, we can control diffraction</Text>
         <BeginOffset>4239</BeginOffset>
@@ -3167,7 +3167,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="800" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>One of the works, in fact, so didn't meet her mark, she had set it out in the trash in her studio, and her neighbor had taken it because she saw its value</Text>
         <BeginOffset>645</BeginOffset>
@@ -3180,7 +3180,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="2407" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>the next arrow didn't even hit the target</Text>
         <BeginOffset>2365</BeginOffset>
@@ -3253,7 +3253,7 @@
     </Annotation>
   </Connective>
   <Connective Item="similarly" Size="3" senseList="Comparison: Similarity">
-    <Annotation conBeginOffset="0" sense="Comparison: Similarity" type="Implicit">
+    <Annotation conBeginOffset="921" sense="Comparison: Similarity" type="Implicit">
       <Arg1>
         <Text>It was taken by the Voyager spacecraft in 1990, when they turned it around as it was exiting the solar system to take a picture of the Earth from six billion kilometers away</Text>
         <BeginOffset>747</BeginOffset>
@@ -3266,7 +3266,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Comparison: Similarity" type="Implicit">
+    <Annotation conBeginOffset="3313" sense="Comparison: Similarity" type="Implicit">
       <Arg1>
         <Text>Mastery is not just the same as excellence</Text>
         <BeginOffset>3262</BeginOffset>
@@ -3279,7 +3279,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Comparison: Similarity" type="Implicit">
+    <Annotation conBeginOffset="3854" sense="Comparison: Similarity" type="Implicit">
       <Arg1>
         <Text>Elizabeth Murray surprised me with her admission about her earlier paintings</Text>
         <BeginOffset>3777</BeginOffset>
@@ -3346,7 +3346,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="1016" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>we have seven billion souls today heading to 10 billion at the end of the century</Text>
         <BeginOffset>934</BeginOffset>
@@ -3450,7 +3450,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="2124" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>Environment includes energy consumption, water availability, waste and pollution, just making efficient uses of resources</Text>
         <BeginOffset>2002</BeginOffset>
@@ -3541,7 +3541,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="3531" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>In 2012, State Street migrated 54 applications to the cloud environment, and we retired another 85</Text>
         <BeginOffset>3432</BeginOffset>
@@ -3697,7 +3697,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="5782" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>Hesta is a retirement fund for health and community services employees in Australia, with assets of 22 billion [dollars</Text>
         <BeginOffset>5661</BeginOffset>
@@ -3723,7 +3723,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="6236" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>they are the second largest in the U.S. and the sixth largest in the world</Text>
         <BeginOffset>6156</BeginOffset>
@@ -3762,7 +3762,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="7577" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>The global stock market is worth 55 trillion dollars</Text>
         <BeginOffset>7524</BeginOffset>
@@ -3775,7 +3775,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="8104" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>What if they used that firepower to allocate more of their capital to companies working the hardest at solving these challenges or at least not exacerbating them</Text>
         <BeginOffset>7942</BeginOffset>
@@ -3814,7 +3814,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="8233" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>What if we work and save and invest, only to find that the world we retire into is more stressed and less secure than it is now</Text>
         <BeginOffset>8105</BeginOffset>
@@ -3853,7 +3853,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="9409" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>I like it too</Text>
         <BeginOffset>9384</BeginOffset>
@@ -3905,7 +3905,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="1866" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>he asked me if I knew how to solve this problem</Text>
         <BeginOffset>1818</BeginOffset>
@@ -3957,7 +3957,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="3039" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>My hope and desire is that the tools and processes we develop in our research group can be used to bring highly functional prostheses to those who need them</Text>
         <BeginOffset>2882</BeginOffset>
@@ -3970,7 +3970,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="3190" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>For me, a place to begin healing the souls of those affected by war and disease is by creating comfortable and affordable interfaces for their bodies</Text>
         <BeginOffset>3040</BeginOffset>
@@ -3983,7 +3983,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="141" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>The universe is teeming with planets</Text>
         <BeginOffset>104</BeginOffset>
@@ -4022,7 +4022,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="1011" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>Why haven't we done that</Text>
         <BeginOffset>986</BeginOffset>
@@ -4087,7 +4087,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="1964" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>the planet is gone</Text>
         <BeginOffset>1945</BeginOffset>
@@ -4100,7 +4100,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="2140" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>That's what we want to see</Text>
         <BeginOffset>2113</BeginOffset>
@@ -4113,7 +4113,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="2202" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>The light from the star is diffracting</Text>
         <BeginOffset>2163</BeginOffset>
@@ -4126,7 +4126,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="2397" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>We have to get rid of it</Text>
         <BeginOffset>2372</BeginOffset>
@@ -4165,7 +4165,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="2827" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>The moon has moved in front of the sun</Text>
         <BeginOffset>2788</BeginOffset>
@@ -4178,7 +4178,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="3161" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>We put a telescope or a camera in that shadow</Text>
         <BeginOffset>3115</BeginOffset>
@@ -4217,7 +4217,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="3528" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>We build a big screen, we fly it in space, we put it up in front of the star, we block out most of the light, we fly a space telescope in that shadow that's created, and boom, we get to see planets</Text>
         <BeginOffset>3325</BeginOffset>
@@ -4282,7 +4282,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="4167" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>in the last 10 years or so we've come up with optimal solutions for doing that</Text>
         <BeginOffset>4088</BeginOffset>
@@ -4295,7 +4295,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="4290" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>If we make the edges of those petals exactly right</Text>
         <BeginOffset>4239</BeginOffset>
@@ -4399,7 +4399,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="5951" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>if we can do this</Text>
         <BeginOffset>5933</BeginOffset>
@@ -4412,7 +4412,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="5984" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>if we can build this technology</Text>
         <BeginOffset>5952</BeginOffset>
@@ -4425,7 +4425,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="6484" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>You can see Jupiter</Text>
         <BeginOffset>6464</BeginOffset>
@@ -4451,7 +4451,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="6777" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>I think this is the coolest possible science</Text>
         <BeginOffset>6732</BeginOffset>
@@ -4477,7 +4477,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="1069" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>This is a question I've long asked myself</Text>
         <BeginOffset>1027</BeginOffset>
@@ -4906,7 +4906,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="122" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>As a little girl, I always imagined I would one day run away</Text>
         <BeginOffset>61</BeginOffset>
@@ -4984,7 +4984,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="1413" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>they portray a community swirling across the country, fiercely alive and creatively free, seeing sides of America that no one else gets to see</Text>
         <BeginOffset>1270</BeginOffset>
@@ -5010,7 +5010,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="1634" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>By day, they hop freight trains, stick out their thumbs, and ride the highways with anyone from truckers to soccer moms</Text>
         <BeginOffset>1514</BeginOffset>
@@ -5023,7 +5023,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="2550" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>They take advantage of the fact that in the United States, up to 40 percent of all food ends up in the garbage by scavenging for perfectly good produce in dumpsters and trash cans</Text>
         <BeginOffset>2370</BeginOffset>
@@ -5267,7 +5267,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="3725" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>they reduce our real estate footprint</Text>
         <BeginOffset>3687</BeginOffset>
@@ -5410,7 +5410,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="1486" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>I wanted to see what's called archer's paradox, the idea that in order to actually hit your target, you have to aim at something slightly skew from it</Text>
         <BeginOffset>1335</BeginOffset>
@@ -5481,7 +5481,7 @@
     </Annotation>
   </Connective>
   <Connective Item="accordingly" Size="1" senseList="Expansion: Level_of_detail: Arg2_as_detail">
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="295" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>I want us, in the next decade, to build a space telescope that'll be able to image an Earth about another star and figure out whether it can harbor life</Text>
         <BeginOffset>142</BeginOffset>
@@ -5578,7 +5578,7 @@
     </Annotation>
   </Connective>
   <Connective Item="for that matter" Size="1" senseList="Comparison: Similarity">
-    <Annotation conBeginOffset="0" sense="Comparison: Similarity" type="Implicit">
+    <Annotation conBeginOffset="9383" sense="Comparison: Similarity" type="Implicit">
       <Arg1>
         <Text>Good, you like it</Text>
         <BeginOffset>9365</BeginOffset>
@@ -5593,7 +5593,7 @@
     </Annotation>
   </Connective>
   <Connective Item="namely" Size="2" senseList="Expansion: Level_of_detail: Arg2_as_detail">
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="9126" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>we're doing two things</Text>
         <BeginOffset>9103</BeginOffset>
@@ -5606,7 +5606,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="2162" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>That's why it's hard</Text>
         <BeginOffset>2141</BeginOffset>
@@ -5649,7 +5649,7 @@
     </Annotation>
   </Connective>
   <Connective Item="instead" Size="1" senseList="Expansion: Substitution: Arg2_as_subst">
-    <Annotation conBeginOffset="0" sense="Expansion: Substitution: Arg2_as_subst" type="Implicit">
+    <Annotation conBeginOffset="6697" sense="Expansion: Substitution: Arg2_as_subst" type="Implicit">
       <Arg1>
         <Text>not all of them see it this way</Text>
         <BeginOffset>6665</BeginOffset>
@@ -5679,7 +5679,7 @@
     </Annotation>
   </Connective>
   <Connective Item="in other words" Size="5" senseList="Expansion: Equivalence!#!Expansion: Level_of_detail: Arg2_as_detail">
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="1496" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>Resist this</Text>
         <BeginOffset>1472</BeginOffset>
@@ -5692,7 +5692,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Equivalence" type="Implicit">
+    <Annotation conBeginOffset="7694" sense="Expansion: Equivalence" type="Implicit">
       <Arg1>
         <Text>That's eight and a half times the GDP of the U.S</Text>
         <BeginOffset>7645</BeginOffset>
@@ -5705,7 +5705,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Equivalence" type="Implicit">
+    <Annotation conBeginOffset="7730" sense="Expansion: Equivalence" type="Implicit">
       <Arg1>
         <Text>That's the world's largest economy</Text>
         <BeginOffset>7695</BeginOffset>
@@ -5718,7 +5718,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Equivalence" type="Implicit">
+    <Annotation conBeginOffset="1598" sense="Expansion: Equivalence" type="Implicit">
       <Arg1>
         <Text>it's not resolved at all</Text>
         <BeginOffset>1573</BeginOffset>
@@ -5731,7 +5731,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Equivalence" type="Implicit">
+    <Annotation conBeginOffset="4961" sense="Expansion: Equivalence" type="Implicit">
       <Arg1>
         <Text>The petals unfurl</Text>
         <BeginOffset>4943</BeginOffset>
@@ -5746,7 +5746,7 @@
     </Annotation>
   </Connective>
   <Connective Item="as a result" Size="13" senseList="Contingency: Cause: Result!#!Contingency: Cause+Belief: Result+Belief">
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="1270" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>They're economic issues</Text>
         <BeginOffset>1246</BeginOffset>
@@ -5759,7 +5759,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="426" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>An estimated 8,000 men, women and children had their arms and legs amputated during this time</Text>
         <BeginOffset>332</BeginOffset>
@@ -5772,7 +5772,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="1334" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>let's move ten times further away</Text>
         <BeginOffset>1295</BeginOffset>
@@ -5785,7 +5785,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="1504" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>let's go ten times further away again</Text>
         <BeginOffset>1461</BeginOffset>
@@ -5798,7 +5798,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="1693" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>let's move yet again ten times further away</Text>
         <BeginOffset>1644</BeginOffset>
@@ -5811,7 +5811,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="1888" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>One more time, ten times further away</Text>
         <BeginOffset>1846</BeginOffset>
@@ -5824,7 +5824,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="3223" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>most of the light's been removed</Text>
         <BeginOffset>3191</BeginOffset>
@@ -5837,7 +5837,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="3909" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>It's a terrible shadow</Text>
         <BeginOffset>3886</BeginOffset>
@@ -5850,7 +5850,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="2446" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>I saw that gave her more tenacity</Text>
         <BeginOffset>2412</BeginOffset>
@@ -5863,7 +5863,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="6434" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>to have just not received fourth place</Text>
         <BeginOffset>6396</BeginOffset>
@@ -5876,7 +5876,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause+Belief: Result+Belief" type="Implicit">
+    <Annotation conBeginOffset="7504" sense="Contingency: Cause+Belief: Result+Belief" type="Implicit">
       <Arg1>
         <Text>It's Jackie Joyner-Kersee, who in 1984 missed taking the gold in the heptathlon by one third of a second</Text>
         <BeginOffset>7399</BeginOffset>
@@ -5889,7 +5889,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="7644" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>she won the gold in the heptathlon</Text>
         <BeginOffset>7610</BeginOffset>
@@ -5902,7 +5902,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Contingency: Cause: Result" type="Implicit">
+    <Annotation conBeginOffset="8074" sense="Contingency: Cause: Result" type="Implicit">
       <Arg1>
         <Text>We know that we thrive when we stay at our own leading edge</Text>
         <BeginOffset>8014</BeginOffset>
@@ -5977,7 +5977,7 @@
     </Annotation>
   </Connective>
   <Connective Item="furthermore" Size="3" senseList="Expansion: Conjunction">
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="4994" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>We want more</Text>
         <BeginOffset>4981</BeginOffset>
@@ -5990,7 +5990,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="5537" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>So if the returns are the same or better and the planet benefits, wouldn't this be the norm</Text>
         <BeginOffset>5445</BeginOffset>
@@ -6003,7 +6003,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="3431" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>It's not the same as success, which I see as an event, a moment in time, and a label that the world confers upon you</Text>
         <BeginOffset>3314</BeginOffset>
@@ -6018,7 +6018,7 @@
     </Annotation>
   </Connective>
   <Connective Item="after all" Size="1" senseList="Expansion: Level_of_detail: Arg2_as_detail">
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="2830" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>No one loses their inner demons by taking to the road</Text>
         <BeginOffset>2776</BeginOffset>
@@ -6048,7 +6048,7 @@
     </Annotation>
   </Connective>
   <Connective Item="additionally" Size="1" senseList="Expansion: Level_of_detail: Arg2_as_detail">
-    <Annotation conBeginOffset="0" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
+    <Annotation conBeginOffset="1245" sense="Expansion: Level_of_detail: Arg2_as_detail" type="Implicit">
       <Arg1>
         <Text>that's not all</Text>
         <BeginOffset>1230</BeginOffset>
@@ -6093,7 +6093,7 @@
     </Annotation>
   </Connective>
   <Connective Item="further" Size="2" senseList="Expansion: Conjunction">
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="4957" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>Mastery is in the reaching, not the arriving</Text>
         <BeginOffset>4912</BeginOffset>
@@ -6106,7 +6106,7 @@
       <Supp1/>
       <Supp2/>
     </Annotation>
-    <Annotation conBeginOffset="0" sense="Expansion: Conjunction" type="Implicit">
+    <Annotation conBeginOffset="5050" sense="Expansion: Conjunction" type="Implicit">
       <Arg1>
         <Text>It's in constantly wanting to close that gap between where you are and where you want to be</Text>
         <BeginOffset>4958</BeginOffset>

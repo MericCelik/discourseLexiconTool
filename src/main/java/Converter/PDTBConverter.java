@@ -28,7 +28,6 @@ public class PDTBConverter extends abstractConverter {
 
     private ArrayList<String> connectiveList = new ArrayList<>();
     private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap = new HashMap<>();
-    
 
     public PDTBConverter(String annotationDir, String textDir, String outputFileName) throws IOException {
         File theDir = new File("Converted Files");
@@ -73,13 +72,20 @@ public class PDTBConverter extends abstractConverter {
                     if (!annotation.contains("Rejected")) {
                         //  System.out.println(annotation);
                         String[] annotationTokens = annotation.split("\\|");
-                        if (!annotationTokens[0].equalsIgnoreCase("entrel") && !annotationTokens[0].equalsIgnoreCase("norel") ) {
-                            
-                            if(!annotationTokens[0].equalsIgnoreCase("implicit") &&annotationTokens[1].equals(""))
+                        if (!annotationTokens[0].equalsIgnoreCase("entrel") && !annotationTokens[0].equalsIgnoreCase("norel")) {
+
+                            if (!annotationTokens[0].equalsIgnoreCase("implicit") && annotationTokens[1].equals("")) {
                                 continue;
+                            }
                             ArrayList<Span> conSpans = new ArrayList<>(); // initialize conSpan
                             System.out.println(annotationTokens[0]);
                             String connectiveString = "";
+
+                            ArrayList<Span> arg1Spans = extractArgument(annotationTokens[14], textString, "Arg1");
+                            ArrayList<Span> arg2Spans = extractArgument(annotationTokens[20], textString, "Arg2");
+                            ArrayList<Span> supp1Spans = new ArrayList<>();// extractArgument(annotationTokens[32], textString, "Supp1");
+                            ArrayList<Span> supp2Spans = new ArrayList<>();// extractArgument(annotationTokens[31], textString, "Supp2");
+                            ArrayList<Span> modSpans = new ArrayList<>();// extractArgument(annotationTokens[32], textString, "Mod");
                             if (!annotationTokens[0].equalsIgnoreCase("implicit")) { //Explicit or Altlex
                                 conSpans = extractArgument(annotationTokens[1], textString, "Conn");
                                 for (Span s : conSpans) {
@@ -88,15 +94,9 @@ public class PDTBConverter extends abstractConverter {
                                 connectiveString = connectiveString.substring(1);
                             } else {
                                 connectiveString = annotationTokens[7];
-                                conSpans.add(new Span(connectiveString, 0, "Conn"));
+                                conSpans.add(new Span(connectiveString, arg2Spans.get(0).getBeg() -1, "Conn"));
                             }
                             connectiveList.add(connectiveString);
-                            ArrayList<Span> arg1Spans = extractArgument(annotationTokens[14], textString, "Arg1");
-                            ArrayList<Span> arg2Spans = extractArgument(annotationTokens[20], textString, "Arg2");
-                            ArrayList<Span> supp1Spans = new ArrayList<>();// extractArgument(annotationTokens[32], textString, "Supp1");
-                            ArrayList<Span> supp2Spans = new ArrayList<>();// extractArgument(annotationTokens[31], textString, "Supp2");
-                            ArrayList<Span> modSpans = new ArrayList<>();// extractArgument(annotationTokens[32], textString, "Mod");
-
                             String senseArray[] = annotationTokens[8].split("\\.");
                             String type = annotationTokens[0];
                             String sense = "";
@@ -105,7 +105,7 @@ public class PDTBConverter extends abstractConverter {
                             }
                             sense = sense.replaceAll("-", "_");
                             Annotation currentAnnotation = new Annotation(conSpans, arg1Spans, arg2Spans, modSpans, supp1Spans, supp2Spans, sense, "", type, "");
-                          //  connectiveString = connectiveString + "(" + type + ")";
+                            //  connectiveString = connectiveString + "(" + type + ")";
                             if (connectiveAnnotationMap.keySet().contains(connectiveString)) {
                                 ArrayList<Annotation> tempList = connectiveAnnotationMap.get(connectiveString);
                                 tempList.add(currentAnnotation);
@@ -123,7 +123,7 @@ public class PDTBConverter extends abstractConverter {
                                     sense = sense + ": " + str;
                                 }
                                 currentAnnotation = new Annotation(conSpans, arg1Spans, arg2Spans, modSpans, supp1Spans, supp2Spans, sense, "", type, "");
-                          //      connectiveString = connectiveString + "(" + type + ")";
+                                //      connectiveString = connectiveString + "(" + type + ")";
                                 if (connectiveAnnotationMap.keySet().contains(connectiveString)) {
                                     ArrayList<Annotation> tempList = connectiveAnnotationMap.get(connectiveString);
                                     tempList.add(currentAnnotation);
