@@ -73,10 +73,14 @@ public class PDTBConverter extends abstractConverter {
                     if (!annotation.contains("Rejected")) {
                         //  System.out.println(annotation);
                         String[] annotationTokens = annotation.split("\\|");
-                        if (!annotationTokens[0].equalsIgnoreCase("entrel") && !annotationTokens[0].equalsIgnoreCase("norel") && !annotationTokens[1].equals("")) {
+                        if (!annotationTokens[0].equalsIgnoreCase("entrel") && !annotationTokens[0].equalsIgnoreCase("norel") ) {
+                            
+                            if(!annotationTokens[0].equalsIgnoreCase("implicit") &&annotationTokens[1].equals(""))
+                                continue;
                             ArrayList<Span> conSpans = new ArrayList<>(); // initialize conSpan
+                            System.out.println(annotationTokens[0]);
                             String connectiveString = "";
-                            if (!annotationTokens[0].equalsIgnoreCase("Implicit")) { //Explicit or Altlex
+                            if (!annotationTokens[0].equalsIgnoreCase("implicit")) { //Explicit or Altlex
                                 conSpans = extractArgument(annotationTokens[1], textString, "Conn");
                                 for (Span s : conSpans) {
                                     connectiveString = connectiveString + "_" + s.getText().toLowerCase();
