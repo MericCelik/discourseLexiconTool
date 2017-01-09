@@ -62,7 +62,6 @@ public class ConverterUtils {
                     if (anno.getFullSense().equalsIgnoreCase("nothing")) {
                         continue;
                     }
-
                     conSenseSet.add(anno.getFullSense());
 
                     Element annotationElement = doc.createElement("Annotation");
@@ -76,6 +75,7 @@ public class ConverterUtils {
                         System.out.println(anno.toString());
                     }
                     annotationElement.setAttribute("sense", "" + anno.getFullSense());
+                    annotationElement.setAttribute("type", "" + anno.getType());
 
                     ArrayList<Span> arg1Spans = anno.getArgument1();
                     ArrayList<Span> arg2Spans = anno.getArgument2();

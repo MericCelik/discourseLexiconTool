@@ -24,8 +24,6 @@ import java.util.Set;
 import java.util.TreeMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import javafx.scene.input.KeyCode;
-import javafx.scene.input.KeyEvent;
 import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 import javax.swing.text.DefaultCaret;
@@ -41,6 +39,8 @@ public class MainWindow extends javax.swing.JFrame {
     private HashMap<String, ArrayList<String>> connectiveSenseMap;
     private HashMap<String, Set<String>> senseConnectiveMap;
     private HashMap<String, Integer> connectiveNumberofAnnotation;
+    private HashMap<String, Set<String>> typeConnectiveMap;
+    private Set<String> selectedTypes;
 
     private readerDLVT reader;
     private Image im = Toolkit.getDefaultToolkit().getImage("youtube.png");
@@ -54,7 +54,13 @@ public class MainWindow extends javax.swing.JFrame {
             connectiveSenseMap = reader.getConnectiveSenseMap();
             connectiveNumberofAnnotation = reader.getConnectiveNumberofAnnotation();
             senseConnectiveMap = reader.getSenseConnectiveMap();
+            typeConnectiveMap = reader.getTypeConnectiveMap();
+            selectedTypes = new HashSet<>();
+            selectedTypes.add("Explicit");
+            selectedTypes.add("Implicit");
+            selectedTypes.add("AltLex");
             initComponents();
+
         } catch (org.xml.sax.SAXException ex) {
             JOptionPane.showMessageDialog(null, "The application could not be started. You may selected wrong file. " + dir);
         }
@@ -106,6 +112,9 @@ public class MainWindow extends javax.swing.JFrame {
         senseListComboBox = new javax.swing.JComboBox<>();
         conListInfo = new javax.swing.JLabel();
         resetButton = new javax.swing.JButton();
+        checkBoxExplicit = new javax.swing.JCheckBox();
+        checkBoxImplicit = new javax.swing.JCheckBox();
+        checkBoxAltlex = new javax.swing.JCheckBox();
         jMenuBar = new javax.swing.JMenuBar();
         jMenu1 = new javax.swing.JMenu();
         MenuItem_NewFile = new javax.swing.JMenuItem();
@@ -216,7 +225,11 @@ public class MainWindow extends javax.swing.JFrame {
         mainScrollPane.setViewportView(MainTextPane);
 
         Collator trCollator = Collator.getInstance(new Locale("tr", "TR"));
-        ArrayList<String> connectiveList = new ArrayList<> (connectiveSenseMap.keySet());
+        ArrayList<String> connectiveList = new ArrayList<> ();
+        for(String str: selectedTypes)
+        if(typeConnectiveMap.get(str) != null)
+        connectiveList.addAll(typeConnectiveMap.get(str));
+
         Collections.sort(connectiveList, trCollator);
         JList_connective.setModel(new javax.swing.AbstractListModel<String>() {
             String[] strings = connectiveList.toArray(new String[connectiveList.size()]);
@@ -274,6 +287,30 @@ public class MainWindow extends javax.swing.JFrame {
             }
         });
 
+        checkBoxExplicit.setSelected(true);
+        checkBoxExplicit.setText("Explicit");
+        checkBoxExplicit.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                checkBoxExplicitActionPerformed(evt);
+            }
+        });
+
+        checkBoxImplicit.setSelected(true);
+        checkBoxImplicit.setText("Implicit");
+        checkBoxImplicit.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                checkBoxExplicitActionPerformed(evt);
+            }
+        });
+
+        checkBoxAltlex.setSelected(true);
+        checkBoxAltlex.setText("AltLex");
+        checkBoxAltlex.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                checkBoxExplicitActionPerformed(evt);
+            }
+        });
+
         jMenuBar.setAutoscrolls(true);
         jMenuBar.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
@@ -310,30 +347,36 @@ public class MainWindow extends javax.swing.JFrame {
                 .addGap(14, 14, 14)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                            .addComponent(senseListComboBox, javax.swing.GroupLayout.PREFERRED_SIZE, 300, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(resetButton, javax.swing.GroupLayout.PREFERRED_SIZE, 123, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                            .addComponent(searchSenseButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(searchButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 361, Short.MAX_VALUE)
+                        .addComponent(seeAll))
+                    .addGroup(layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(conListInfo, javax.swing.GroupLayout.PREFERRED_SIZE, 157, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(listScrollPane, javax.swing.GroupLayout.PREFERRED_SIZE, 167, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(listScrollPane, javax.swing.GroupLayout.PREFERRED_SIZE, 196, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addGroup(layout.createSequentialGroup()
+                                .addComponent(checkBoxExplicit)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                .addComponent(checkBoxImplicit)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                .addComponent(checkBoxAltlex))
                             .addComponent(searchField, javax.swing.GroupLayout.PREFERRED_SIZE, 167, javax.swing.GroupLayout.PREFERRED_SIZE))
                         .addGap(18, 18, 18)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addGroup(layout.createSequentialGroup()
-                                .addGap(0, 0, Short.MAX_VALUE)
-                                .addComponent(legendButton))
-                            .addComponent(conInfoLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                            .addComponent(mainScrollPane)))
-                    .addGroup(layout.createSequentialGroup()
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addGroup(layout.createSequentialGroup()
-                                .addComponent(senseListComboBox, javax.swing.GroupLayout.PREFERRED_SIZE, 300, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                                    .addComponent(searchSenseButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                                    .addComponent(searchButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
-                            .addGroup(layout.createSequentialGroup()
-                                .addGap(120, 120, 120)
-                                .addComponent(resetButton, javax.swing.GroupLayout.PREFERRED_SIZE, 123, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 361, Short.MAX_VALUE)
-                        .addComponent(seeAll)))
+                                .addComponent(conListInfo, javax.swing.GroupLayout.PREFERRED_SIZE, 157, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                    .addGroup(layout.createSequentialGroup()
+                                        .addGap(0, 0, Short.MAX_VALUE)
+                                        .addComponent(legendButton))
+                                    .addComponent(conInfoLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
+                            .addComponent(mainScrollPane))))
                 .addGap(20, 20, 20))
         );
         layout.setVerticalGroup(
@@ -355,9 +398,13 @@ public class MainWindow extends javax.swing.JFrame {
                         .addGap(42, 42, 42)
                         .addComponent(seeAll)))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(conListInfo, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 19, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(conInfoLabel, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 27, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(conListInfo, javax.swing.GroupLayout.PREFERRED_SIZE, 19, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(conInfoLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 27, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                        .addComponent(checkBoxExplicit)
+                        .addComponent(checkBoxImplicit)
+                        .addComponent(checkBoxAltlex)))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 340, Short.MAX_VALUE)
@@ -388,7 +435,7 @@ public class MainWindow extends javax.swing.JFrame {
 
     private void JList_connectiveValueChanged(javax.swing.event.ListSelectionEvent evt) {//GEN-FIRST:event_JList_connectiveValueChanged
 
-        String chosenConnective = (String) JList_connective.getSelectedValue();
+        String chosenConnective = (String) JList_connective.getSelectedValue().substring(0, JList_connective.getSelectedValue().indexOf("(")-1);;
         if (chosenConnective == null) {
             System.err.println("NULL");
             JList_connective.setSelectedIndex(0);
@@ -474,7 +521,7 @@ public class MainWindow extends javax.swing.JFrame {
 
     private void seeAllActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_seeAllActionPerformed
         // TODO add your handling code here:
-        String chosenConnective = (String) JList_connective.getSelectedValue();
+        String chosenConnective = (String) JList_connective.getSelectedValue().substring(0, JList_connective.getSelectedValue().indexOf("(")-1);
         seeAll.setEnabled(true);
 
         ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
@@ -547,7 +594,12 @@ public class MainWindow extends javax.swing.JFrame {
     private void resetButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_resetButtonActionPerformed
         // TODO add your handling code here:
         Collator trCollator = Collator.getInstance(new Locale("tr", "TR"));
-        ArrayList<String> connectiveList = new ArrayList<>(connectiveSenseMap.keySet());
+        ArrayList<String> connectiveList = new ArrayList<>();
+        for (String str : selectedTypes) {
+            if (typeConnectiveMap.get(str) != null) {
+                connectiveList.addAll(typeConnectiveMap.get(str));
+            }
+        }
         Collections.sort(connectiveList, trCollator);
         JList_connective.setModel(new javax.swing.AbstractListModel<String>() {
             String[] strings = connectiveList.toArray(new String[connectiveList.size()]);
@@ -565,7 +617,53 @@ public class MainWindow extends javax.swing.JFrame {
 
         conListInfo.setText("" + JList_connective.getModel().getSize() + " conns are being shown");
         searchField.setText("Search connective..");
+        checkBoxExplicit.setSelected(true);
+        checkBoxImplicit.setSelected(true);
+        checkBoxAltlex.setSelected(true);
+
     }//GEN-LAST:event_resetButtonActionPerformed
+
+    private void checkBoxExplicitActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_checkBoxExplicitActionPerformed
+        // TODO add your handling code here:
+        if (checkBoxExplicit.isSelected()) {
+            selectedTypes.add("Explicit");
+        } else {
+            selectedTypes.remove("Explicit");
+        }
+        if (checkBoxImplicit.isSelected()) {
+            selectedTypes.add("Implicit");
+        } else {
+            selectedTypes.remove("Implicit");
+        }
+        if (checkBoxAltlex.isSelected()) {
+            selectedTypes.add("AltLex");
+        } else {
+            selectedTypes.remove("AltLex");
+        }
+        Collator trCollator = Collator.getInstance(new Locale("tr", "TR"));
+        ArrayList<String> connectiveList = new ArrayList<>();
+        for (String str : selectedTypes) {
+            if (typeConnectiveMap.get(str) != null) {
+                connectiveList.addAll(typeConnectiveMap.get(str));
+            }
+        }
+        Collections.sort(connectiveList, trCollator);
+        JList_connective.setModel(new javax.swing.AbstractListModel<String>() {
+            String[] strings = connectiveList.toArray(new String[connectiveList.size()]);
+
+            public int getSize() {
+                return strings.length;
+            }
+
+            public String getElementAt(int i) {
+                return strings[i];
+            }
+        });
+        conListInfo.setText("" + JList_connective.getModel().getSize() + " conns are being shown");
+
+        JList_connective.setSelectedIndex(0);
+        JList_connective.ensureIndexIsVisible(JList_connective.getSelectedIndex());
+    }//GEN-LAST:event_checkBoxExplicitActionPerformed
 
     private String prepareForOutput(TreeMap<Integer, Span> argMapforPrettyPrint) {
         String output = "";
@@ -625,7 +723,7 @@ public class MainWindow extends javax.swing.JFrame {
             @Override
             public void run() {
                 try {
-                    new MainWindow("testing_pdtb.xml").setVisible(true);
+                    new MainWindow("Converted Files//pdtb.dlvt").setVisible(true);
                 } catch (IOException | SAXException | ParserConfigurationException ex) {
                     Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
                 }
@@ -642,6 +740,9 @@ public class MainWindow extends javax.swing.JFrame {
     private javax.swing.JDialog allAnnotationDialogue;
     private javax.swing.JTextPane allAnnotationPane;
     private javax.swing.JScrollPane allAnnotationScrollPane;
+    private javax.swing.JCheckBox checkBoxAltlex;
+    private javax.swing.JCheckBox checkBoxExplicit;
+    private javax.swing.JCheckBox checkBoxImplicit;
     private javax.swing.JLabel conInfoLabel;
     private javax.swing.JLabel conListInfo;
     private javax.swing.JList<String> conSenseList;

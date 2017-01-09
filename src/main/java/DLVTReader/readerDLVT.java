@@ -25,18 +25,24 @@ import java.util.Set;
 public class readerDLVT {
 
     private ArrayList<Annotation> annotationList = new ArrayList<>();
-    private HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap;
-    private HashMap<String, ArrayList<String>> connectiveSenseMap;
-    private HashMap<String, Set<String>> senseConnectiveMap;
+    private final HashMap<String, ArrayList<Annotation>> connectiveAnnotationMap;
+    private final HashMap<String, ArrayList<String>> connectiveSenseMap;
+    private final HashMap<String, Set<String>> senseConnectiveMap;
+    private final HashMap<String, Set<String>> typeConnectiveMap;
 
-    private HashMap<String, Integer> connectiveNumberofAnnotation;
-    private String delimiter = "!#!";
+    public HashMap<String, Set<String>> getTypeConnectiveMap() {
+        return typeConnectiveMap;
+    }
+
+    private final HashMap<String, Integer> connectiveNumberofAnnotation;
+    private final String delimiter = "!#!";
 
     public readerDLVT(String dir) throws ParserConfigurationException, SAXException, IOException {
         this.connectiveAnnotationMap = new HashMap<>();
         this.connectiveSenseMap = new HashMap<>();
         this.connectiveNumberofAnnotation = new HashMap<>();
         this.senseConnectiveMap = new HashMap<>();
+        this.typeConnectiveMap = new HashMap<>();
         this.readRelations(dir);
     }
 
@@ -73,13 +79,23 @@ public class readerDLVT {
                     Node supp1Node = currentElement.getElementsByTagName("Supp1").item(i);
                     Node supp2Node = currentElement.getElementsByTagName("Supp2").item(i);
 
-                    
                     ArrayList<Span> arg1 = getContext(arg1Node, "Arg1");
                     ArrayList<Span> arg2 = getContext(arg2Node, "Arg2");
                     ArrayList<Span> mod = getContext(modNode, "Mod");
                     ArrayList<Span> supp1 = getContext(supp1Node, "Supp1");
                     ArrayList<Span> supp2 = getContext(supp2Node, "Supp2");
                     String sense = annotationElement.getAttribute("sense");
+                    String type = annotationElement.getAttribute("type");
+
+                    if (!typeConnectiveMap.containsKey(type)) {
+                        Set<String> tmpType = new HashSet<>();
+                        tmpType.add((conString + " (" +type+")"));
+                        typeConnectiveMap.put(type, tmpType);
+                    } else {
+                        Set<String> oldList = typeConnectiveMap.get(type);
+                        oldList.add(conString + " (" +type+")");
+                        typeConnectiveMap.put(type, oldList);
+                    }
 
                     if (!senseConnectiveMap.containsKey(sense)) {
                         Set<String> connnectiveListforSenseCon = new HashSet<>();
@@ -106,7 +122,7 @@ public class readerDLVT {
 
                     // ArrayList<Span> conSpans, ArrayList<Span> arg1Spans, ArrayList<Span> arg2Spans, String sense, String note, String type, String genre
                     // reading connective and arguments
-                    Annotation anno = new Annotation(ConSpanList, arg1, arg2, mod, supp1, supp2, sense, "", "", "");
+                    Annotation anno = new Annotation(ConSpanList, arg1, arg2, mod, supp1, supp2, sense, "", type, "");
                     connectiveBasedAnnotations.add(anno);
                     annotationList.add(anno);
                 }
