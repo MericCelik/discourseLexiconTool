@@ -120,7 +120,7 @@ Explicit|6705..6707|Wr|Comm|Null|Null|||Expansion.Conjunction||||||6620..6704|In
 Implicit||Wr|Comm|Null|Null||sonuçta|Contingency.Cause.Result||||||6620..6704|Inh|Null|Null|Null||6705..6764|Inh|Null|Null|Null|||||||6705|DEFAULT|
 AltLex|6745..6753;6765..6767|Wr|Comm|Null|Null|||Contingency.Cause||||||6769..6797|Inh|Null|Null|Null||6708..6744;6754..6764|Inh|Null|Null|Null|||||||6745..6753|DEFAULT|
 Explicit|6765..6767|Wr|Comm|Null|Null|||Expansion.Level-of-detail.Arg2-as-detail||||||6769..6797|Inh|Null|Null|Null||6705..6764|Inh|Null|Null|Null|||Rejected||||6765..6767|DEFAULT|
-Explicit|6798..6800|Wr|Comm|Null|Null|||Expansion.Conjunction|Contingency.Cause.Result (Arg1-gives r/e/j)|||||6769..6797|Inh|Null|Null|Null||6801..6878|Inh|Null|Null|Null|||||||6798..6800|DEFAULT|
+Explicit|6798..6800|Wr|Comm|Null|Null|||Expansion.Conjunction|Contingency.Cause.Result|||||6769..6797|Inh|Null|Null|Null||6801..6878|Inh|Null|Null|Null|||||||6798..6800|DEFAULT|
 AltLex|6922..6928|Wr|Comm|Null|Null|||Contingency.Cause||||||6930..7052|Inh|Null|Null|Null||6880..6921|Inh|Null|Null|Null|||||||6922..6928|DEFAULT|
 EntRel||||||||||||||6528..6878||||||6880..7052|||||||||||6880|DEFAULT|
 NoRel||||||||||||||6801..6878||||||6880..7052||||||||||||DEFAULT|
