@@ -75,6 +75,17 @@ public class run {
         annotationList polish = readRelationsForStatistics.readPDTBRelations("TEDTalks\\TED Talks – Polish\\Annotated files",
                 "TEDTalks\\TED Talks – Polish\\Raw translated transcripts");
 
+//        for (String str : polish.getSense2FreqMap().keySet()) {
+//            System.out.println(str);
+//            if (str.indexOf("(") > 0 && str.indexOf(")") > 0) {
+//                int begP = str.indexOf("(")+1;
+//                int endP = str.indexOf(")");
+//                String engSense = str.substring(begP, endP);
+//                int value = polish.getSense2FreqMap().remove(str);
+//                polish.getSense2FreqMap().put(engSense, value);
+//            }
+//        }
+      
         //      String textString = new Scanner(new File("TEDTalks//Yulia_german//Raw//section//talk_1971_de.txt"), charset.displayName()).useDelimiter("/n/r").next();
         //      System.out.println(textString);
         generate("Turkish", turkish);
@@ -92,17 +103,17 @@ public class run {
         pprint(typeSet, allLangType);
         System.out.println("");
         pprint(sense1Set, allLangSense1);
-        System.out.println("");
+        System.out.println(""); 
         pprint(sense2Set, allLangSense2);
         System.out.println("");
-        pprint(sense3Set, allLangSense3);
+        pprint(sense3Set, allLangSense3); /**/
 
     }
 
     public static void pprint(Set<String> uniqueElements, Map<String, Map<String, Integer>> map) {
         System.out.printf("%-40s", " ");
         for (String language : map.keySet()) {
-            System.out.printf("%-12s", "!"+language.toUpperCase() + " ");
+            System.out.printf("%-12s", "!" + language.toUpperCase() + " ");
         }
         System.out.println("");
 
@@ -111,9 +122,9 @@ public class run {
 
             for (String language : map.keySet()) {
                 if (map.get(language).containsKey(element)) {
-                    System.out.printf("%1s%-12d", "!",map.get(language).get(element));
+                    System.out.printf("%1s%-12d", "!", map.get(language).get(element));
                 } else {
-                    System.out.printf("%1s%-12d",  "!",0);
+                    System.out.printf("%1s%-12d", "!", 0);
                 }
             }
             System.out.println("");

@@ -115,8 +115,8 @@ public class readRelationsForStatistics {
                 int connBeg = connSpans.get(0).getBeg();
 
                 if (connectiveAnnotationMap.containsKey(connBeg)) {
-               //     System.out.println("ALERT!!!! CONNECTIVES WITH SAME INDEX!!");
-               //     System.out.println(currentAnnotation.getConnective());
+                    //     System.out.println("ALERT!!!! CONNECTIVES WITH SAME INDEX!!");
+                    //     System.out.println(currentAnnotation.getConnective());
 
                 } else {
                     connectiveAnnotationMap.put(connBeg, currentAnnotation);
@@ -176,7 +176,15 @@ public class readRelationsForStatistics {
                             String senseArray[] = annotationTokens[8].split("\\.");
                             String sense = "";
                             for (String str : senseArray) {
-                                sense = sense + ": " + str;
+
+                                if (str.indexOf("[") > 0 && str.indexOf("]") > 0) {
+                                    int begP = str.indexOf("[") + 1;
+                                    int endP = str.indexOf("]");
+                                    String engSense = str.substring(begP, endP);
+                                    sense = sense + ": " + engSense;
+                                } else {
+                                    sense = sense + ": " + str;
+                                }
                             }
                             Annotation currentAnnotation = new Annotation(conSpans, arg1Spans, arg2Spans, modSpans, supp1Spans, supp2Spans, sense, "", type, "");
                             pdtbAnnotationList.addAnnotation(currentAnnotation);
