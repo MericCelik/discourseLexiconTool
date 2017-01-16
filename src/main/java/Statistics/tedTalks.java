@@ -17,7 +17,7 @@ import java.util.Set;
  *
  * @author Murathan
  */
-public class run {
+public class tedTalks {
 
     static HashMap<String, Map<String, Integer>> allLangType = new HashMap<>();
     static HashMap<String, Map<String, Integer>> allLangSense1 = new HashMap<>();
