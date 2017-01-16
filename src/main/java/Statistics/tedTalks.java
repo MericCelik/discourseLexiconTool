@@ -5,12 +5,10 @@
  */
 package Statistics;
 
-import core.Annotation;
 import core.annotationList;
+import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
@@ -64,23 +62,24 @@ public class tedTalks {
         String typeArray[] = {"all", "Explicit", "Implicit", "altlex"};
         for (String type : typeArray) {
             System.out.println("------------------" + type.toUpperCase());
-            annotationList portugese = readRelationsForStatistics.readPDTBRelations("TEDTalks\\Amalia - Completed Annotations\\ann\\section_1",
-                    "TEDTalks\\Amalia - Completed Annotations\\raw\\section_1", type);
+            annotationList portugese = readRelationsForStatistics.readPDTBRelations("TEDTalks" + File.separator + "Amalia - Completed Annotations" + File.separator + "ann" + File.separator + "section_1",
+                    "TEDTalks" + File.separator + "Amalia - Completed Annotations" + File.separator + "raw" + File.separator + "section_1", type);
 
-            annotationList turkish = readRelationsForStatistics.readPDTBRelations("TEDTalks\\Deniz - Completed Annotations\\Ann\\01",
-                    "TEDTalks\\Deniz - Completed Annotations\\Raw\\01", type);
+            annotationList turkish = readRelationsForStatistics.readPDTBRelations("TEDTalks" + File.separator + "Deniz - Completed Annotations" + File.separator + "Ann" + File.separator + "01",
+                    "TEDTalks" + File.separator + "Deniz - Completed Annotations" + File.separator + "Raw" + File.separator + "01", type);
 
-            annotationList english = readRelationsForStatistics.readPDTBRelations("TEDTalks\\Sam - Completed Annotations\\Ann",
-                    "TEDTalks\\Sam - Completed Annotations\\Raw", type);
+            annotationList english = readRelationsForStatistics.readPDTBRelations("TEDTalks" + File.separator + "Sam - Completed Annotations" + File.separator + "Ann",
+                    "TEDTalks" + File.separator + "Sam - Completed Annotations" + File.separator + "Raw", type);
 
-            annotationList german = readRelationsForStatistics.readPDTBRelations("TEDTalks\\Yulia_german\\Ann\\section",
-                    "TEDTalks\\Yulia_german\\Raw\\section", type);
+            annotationList german = readRelationsForStatistics.readPDTBRelations("TEDTalks" + File.separator + "Yulia_german" + File.separator + "Ann" + File.separator + "section",
+                    "TEDTalks" + File.separator + "Yulia_german" + File.separator + "Raw" + File.separator + "section", type);
 
-            annotationList russian = readRelationsForStatistics.readPDTBRelations("TEDTalks\\Yulia_russian\\Ann\\section",
-                    "TEDTalks\\Yulia_russian\\Raw\\section", type);
+            annotationList russian = readRelationsForStatistics.readPDTBRelations("TEDTalks" + File.separator + "Yulia_russian" + File.separator + "Ann" + File.separator + "section",
+                    "TEDTalks" + File.separator + "Yulia_russian" + File.separator + "Raw" + File.separator + "section", type);
 
-            annotationList polish = readRelationsForStatistics.readPDTBRelations("TEDTalks\\TED Talks – Polish\\Annotated files",
-                    "TEDTalks\\TED Talks – Polish\\Raw translated transcripts", type);
+            annotationList polish = readRelationsForStatistics.readPDTBRelations("TEDTalks" + File.separator + "TED Talks – Polish" + File.separator + "Annotated files",
+                    "TEDTalks" + File.separator + "TED Talks – Polish" + File.separator + "Raw translated transcripts", type);
+            
             langAnnoList.put("ENGLISH", english);
             langAnnoList.put("TURKISH", turkish);
             langAnnoList.put("PORTUGESE", portugese);
