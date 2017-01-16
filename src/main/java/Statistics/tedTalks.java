@@ -120,7 +120,6 @@ public class tedTalks {
             System.out.println();
             System.out.println();
             langAnnoList.clear();
-
             /**/
         }
     }
