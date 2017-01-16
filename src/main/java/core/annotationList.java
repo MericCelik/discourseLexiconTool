@@ -16,6 +16,8 @@ import java.util.TreeMap;
 public class annotationList {
 
     ArrayList<Annotation> annotationList;
+
+  
     Map<String, Integer> typeFreqMap;
     Map<String, Integer> sense1FreqMap;
     Map<String, Integer> sense2FreqMap;
@@ -82,6 +84,9 @@ public class annotationList {
 
     public Map<String, Integer> getTypeFreqMap() {
         return typeFreqMap;
+    }
+      public ArrayList<Annotation> getAnnotationList() {
+        return annotationList;
     }
 
 }

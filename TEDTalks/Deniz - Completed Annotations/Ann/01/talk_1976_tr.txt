@@ -1,4 +1,3 @@
-Explicit||Wr|Comm|Null|Null||||||||||Inh|Null|Null|Null|||Inh|Null|Null|Null|||||||0..1|DEFAULT|
 Implicit||Wr|Comm|Null|Null||NONE|Q/A||||||3102..3122|Inh|Null|Null|Null|||Inh|Null|Null|Null|||Rejected||||0|DEFAULT|
 Implicit||Wr|Comm|Null|Null||ve|Expansion.Conjunction||||||115..138|Inh|Null|Null|Null||140..310|Inh|Null|Null|Null|||||||140|DEFAULT|false
 Explicit|210..223|Wr|Comm|Null|Null|||Expansion.Conjunction||||||225..273|Inh|Null|Null|Null||166..223|Inh|Null|Null|Null|||||||210..223|DEFAULT|

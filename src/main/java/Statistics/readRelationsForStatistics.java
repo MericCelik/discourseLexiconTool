@@ -129,7 +129,7 @@ public class readRelationsForStatistics {
         return connectiveAnnotationMap;
     }
 
-    public static annotationList readPDTBRelations(String annotationDir, String textDir) throws IOException {
+    public static annotationList readPDTBRelations(String annotationDir, String textDir, String inputType) throws IOException {
 
         annotationList pdtbAnnotationList = new annotationList();
 
@@ -158,7 +158,7 @@ public class readRelationsForStatistics {
 
                     if (!annotation.contains("Rejected")) {
                         String[] annotationTokens = annotation.split("\\|");
-                        if (!annotationTokens[0].equalsIgnoreCase("entrel")) {
+                        if (annotationTokens[0].equalsIgnoreCase(inputType) || inputType.equalsIgnoreCase("all")) {
                             String type = annotationTokens[0];
                             ArrayList<Span> conSpans = new ArrayList<>();
                             if (type.equalsIgnoreCase("implicit")) {
@@ -175,15 +175,19 @@ public class readRelationsForStatistics {
 
                             String senseArray[] = annotationTokens[8].split("\\.");
                             String sense = "";
-                            for (String str : senseArray) {
+                            if (senseArray[0].trim().equals("")) {
+                                sense = "noSense_" + type;
+                            } else {
+                                for (String str : senseArray) {
 
-                                if (str.indexOf("[") > 0 && str.indexOf("]") > 0) {
-                                    int begP = str.indexOf("[") + 1;
-                                    int endP = str.indexOf("]");
-                                    String engSense = str.substring(begP, endP);
-                                    sense = sense + ": " + engSense;
-                                } else {
-                                    sense = sense + ": " + str;
+                                    if (str.indexOf("[") > 0 && str.indexOf("]") > 0) {
+                                        int begP = str.indexOf("[") + 1;
+                                        int endP = str.indexOf("]");
+                                        String engSense = str.substring(begP, endP);
+                                        sense = sense + ": " + engSense;
+                                    } else {
+                                        sense = sense + ": " + str;
+                                    }
                                 }
                             }
                             Annotation currentAnnotation = new Annotation(conSpans, arg1Spans, arg2Spans, modSpans, supp1Spans, supp2Spans, sense, "", type, "");
