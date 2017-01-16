@@ -100,15 +100,22 @@ public class tedTalks {
             generateSets(sense3Set, allLangSense3);
 
             printAnnoNumbers();
-            
 
-//            pprint(typeSet, allLangType);
-//            System.out.println("");
-//            pprint(sense1Set, allLangSense1);
-//            System.out.println("");
-//            pprint(sense2Set, allLangSense2);
-//            System.out.println("");
-//            pprint(sense3Set, allLangSense3);
+            if (type.equalsIgnoreCase("all")) {
+                System.out.println("Distribution of Relation Types".toUpperCase());
+                pprint(typeSet, allLangType);
+                System.out.println("");
+            }
+            System.out.println("Distribution of Level-1 Senses".toUpperCase());
+            pprint(sense1Set, allLangSense1);
+            System.out.println("");
+
+            System.out.println("Distribution of Level-2 Senses".toUpperCase());
+            pprint(sense2Set, allLangSense2);
+            System.out.println("");
+
+            System.out.println("Distribution of Level-3 Senses".toUpperCase());
+            pprint(sense3Set, allLangSense3);
             System.out.println("------------------" + type.toUpperCase());
             System.out.println();
             System.out.println();
