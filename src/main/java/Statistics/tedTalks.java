@@ -66,7 +66,7 @@ public class tedTalks {
 
     public static void getMult(annotationList list) {
 
-        HashSet<String> set = new HashSet<String>();
+        HashSet<String> set = new HashSet<>();
         for (Annotation anno : list.getAnnotationList()) {
 
             int a = sentenceCount(anno.getArgument1().toString());
