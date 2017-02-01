@@ -18,6 +18,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Locale;
 import java.util.Random;
 import java.util.Set;
@@ -289,6 +290,11 @@ public class MainWindow extends javax.swing.JFrame {
 
         checkBoxExplicit.setSelected(true);
         checkBoxExplicit.setText("Explicit");
+        checkBoxExplicit.addItemListener(new java.awt.event.ItemListener() {
+            public void itemStateChanged(java.awt.event.ItemEvent evt) {
+                checkBoxExplicitItemStateChanged(evt);
+            }
+        });
         checkBoxExplicit.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 checkBoxExplicitActionPerformed(evt);
@@ -297,14 +303,19 @@ public class MainWindow extends javax.swing.JFrame {
 
         checkBoxImplicit.setSelected(true);
         checkBoxImplicit.setText("Implicit");
-        checkBoxImplicit.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                checkBoxExplicitActionPerformed(evt);
+        checkBoxImplicit.addItemListener(new java.awt.event.ItemListener() {
+            public void itemStateChanged(java.awt.event.ItemEvent evt) {
+                checkBoxExplicitItemStateChanged(evt);
             }
         });
 
         checkBoxAltlex.setSelected(true);
         checkBoxAltlex.setText("AltLex");
+        checkBoxAltlex.addItemListener(new java.awt.event.ItemListener() {
+            public void itemStateChanged(java.awt.event.ItemEvent evt) {
+                checkBoxExplicitItemStateChanged(evt);
+            }
+        });
         checkBoxAltlex.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 checkBoxExplicitActionPerformed(evt);
@@ -364,7 +375,9 @@ public class MainWindow extends javax.swing.JFrame {
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                                 .addComponent(resetButton, javax.swing.GroupLayout.PREFERRED_SIZE, 123, javax.swing.GroupLayout.PREFERRED_SIZE)))
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 361, Short.MAX_VALUE)
-                        .addComponent(seeAll))
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(seeAll, javax.swing.GroupLayout.Alignment.TRAILING)
+                            .addComponent(legendButton, javax.swing.GroupLayout.Alignment.TRAILING)))
                     .addGroup(layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                             .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 196, Short.MAX_VALUE)
@@ -372,7 +385,6 @@ public class MainWindow extends javax.swing.JFrame {
                             .addComponent(conListInfo, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                         .addGap(18, 18, 18)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(legendButton)
                             .addComponent(mainScrollPane)
                             .addComponent(conInfoLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))
                 .addGap(20, 20, 20))
@@ -382,13 +394,13 @@ public class MainWindow extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
-                        .addComponent(legendButton)
-                        .addGap(42, 42, 42)
+                        .addGap(71, 71, 71)
                         .addComponent(seeAll))
                     .addGroup(layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                             .addComponent(searchField, javax.swing.GroupLayout.PREFERRED_SIZE, 28, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(searchButton))
+                            .addComponent(searchButton)
+                            .addComponent(legendButton))
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                             .addComponent(senseListComboBox, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -416,6 +428,8 @@ public class MainWindow extends javax.swing.JFrame {
     private void searchButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_searchButtonActionPerformed
         // TODO add your handling code here:
         String searchToken = searchField.getText();
+        if(checkBoxAltlex.isSelected())
+            
         JList_connective.setSelectedValue(searchToken, true);
         JList_connective.ensureIndexIsVisible(JList_connective.getSelectedIndex());
     }//GEN-LAST:event_searchButtonActionPerformed
@@ -586,7 +600,7 @@ public class MainWindow extends javax.swing.JFrame {
                 return strings[i];
             }
         });
-        conListInfo.setText("" + JList_connective.getModel().getSize() + " conns are being shown");
+        conListInfo.setText("" + JList_connective.getModel().getSize() + " DRDs are being shown");
     }//GEN-LAST:event_searchSenseButtonActionPerformed
 
     private void resetButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_resetButtonActionPerformed
@@ -613,7 +627,7 @@ public class MainWindow extends javax.swing.JFrame {
         JList_connective.setSelectedIndex(0);
         JList_connective.ensureIndexIsVisible(JList_connective.getSelectedIndex());
 
-        conListInfo.setText("" + JList_connective.getModel().getSize() + " conns are being shown");
+        conListInfo.setText("" + JList_connective.getModel().getSize() + " DRDs are being shown");
         searchField.setText("Search connective..");
         checkBoxExplicit.setSelected(true);
         checkBoxImplicit.setSelected(true);
@@ -623,7 +637,12 @@ public class MainWindow extends javax.swing.JFrame {
 
     private void checkBoxExplicitActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_checkBoxExplicitActionPerformed
         // TODO add your handling code here:
-        if (checkBoxExplicit.isSelected()) {
+      
+    }//GEN-LAST:event_checkBoxExplicitActionPerformed
+
+    private void checkBoxExplicitItemStateChanged(java.awt.event.ItemEvent evt) {//GEN-FIRST:event_checkBoxExplicitItemStateChanged
+        // TODO add your handling code here:
+          if (checkBoxExplicit.isSelected()) {
             selectedTypes.add("Explicit");
         } else {
             selectedTypes.remove("Explicit");
@@ -657,11 +676,11 @@ public class MainWindow extends javax.swing.JFrame {
                 return strings[i];
             }
         });
-        conListInfo.setText("" + JList_connective.getModel().getSize() + " conns are being shown");
+        conListInfo.setText("" + JList_connective.getModel().getSize() + " DRDs are being shown");
 
         JList_connective.setSelectedIndex(0);
         JList_connective.ensureIndexIsVisible(JList_connective.getSelectedIndex());
-    }//GEN-LAST:event_checkBoxExplicitActionPerformed
+    }//GEN-LAST:event_checkBoxExplicitItemStateChanged
 
     private String prepareForOutput(TreeMap<Integer, Span> argMapforPrettyPrint) {
         String output = "";

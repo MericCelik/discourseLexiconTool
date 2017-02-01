@@ -56,6 +56,8 @@ public class PDTBConverter extends abstractConverter {
             ArrayList<File> listOfTextFiles = new ArrayList<>(Arrays.asList(arrayOfTextFiles));
 
             for (File annotationFile : listOfAnnotationFiles) {
+                if(annotationFile.getName().contains("DS_S"))
+                    continue;
                 System.out.println("PROCESSING ANNOTATION FILE: " + annotationFile.getName());
                 File textFile = null;
                 for (File textTmp : listOfTextFiles) {
@@ -78,7 +80,7 @@ public class PDTBConverter extends abstractConverter {
                                 continue;
                             }
                             ArrayList<Span> conSpans = new ArrayList<>(); // initialize conSpan
-                            System.out.println(annotationTokens[0]);
+                          //  System.out.println(annotationTokens[0]);
                             String connectiveString = "";
 
                             ArrayList<Span> arg1Spans = extractArgument(annotationTokens[14], textString, "Arg1");
@@ -160,7 +162,7 @@ public class PDTBConverter extends abstractConverter {
 
     public static void main(String[] args) throws IOException {
 
-        PDTBConverter pdtb = new PDTBConverter("annotations\\PDTB\\TUR\\Ann", "annotations\\PDTB\\TUR\\raw", "deneme_pdtb");
+        PDTBConverter pdtb = new PDTBConverter("annotations"+File.separator+"PDTB"+File.separator+"TUR"+File.separator+"Ann", "annotations"+File.separator+"PDTB"+File.separator+"TUR"+File.separator+"raw", "turkish");
 
     }
 
