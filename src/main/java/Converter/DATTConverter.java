@@ -33,7 +33,7 @@ public class DATTConverter extends abstractConverter{
                 //handle it
             }
         }
-        this.outputDir = theDir.getAbsolutePath() + "\\" + outputFileName;
+        this.outputDir = theDir.getAbsolutePath() + File.separator + outputFileName;
         this.readDATTRelations(inputDir);
         ConverterUtils.writeToFile(outputDir, connectiveAnnotationMap, "DATT");
     }

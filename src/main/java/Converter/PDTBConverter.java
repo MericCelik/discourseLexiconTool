@@ -38,7 +38,7 @@ public class PDTBConverter extends abstractConverter {
                 //handle it
             }
         }
-        this.outputDir = theDir.getAbsolutePath() + "\\" + outputFileName;
+        this.outputDir = theDir.getAbsolutePath() + File.separator + outputFileName;
         connectiveAnnotationMap = readPDTBRelations(annotationDir, textDir);
         ConverterUtils.writeToFile(outputDir, connectiveAnnotationMap, "PDTB");
     }
