@@ -10,8 +10,11 @@ import core.Annotation;
 import core.Span;
 import java.awt.Image;
 import java.awt.Toolkit;
+import java.io.FileNotFoundException;
+import java.io.FileWriter;
 
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.text.Collator;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -42,6 +45,7 @@ public class MainWindow extends javax.swing.JFrame {
     private HashMap<String, Integer> connectiveNumberofAnnotation;
     private HashMap<String, Set<String>> typeConnectiveMap;
     private Set<String> selectedTypes;
+    private int noOfAnnoToShow = 1;
 
     private readerDLVT reader;
     private Image im = Toolkit.getDefaultToolkit().getImage("youtube.png");
@@ -100,6 +104,9 @@ public class MainWindow extends javax.swing.JFrame {
         allAnnotationDialogue = new javax.swing.JDialog();
         allAnnotationScrollPane = new javax.swing.JScrollPane();
         allAnnotationPane = new javax.swing.JTextPane();
+        PrintAllAnnotation = new javax.swing.JButton();
+        printDialog = new javax.swing.JDialog();
+        jLabel1 = new javax.swing.JLabel();
         searchButton = new javax.swing.JButton();
         mainScrollPane = new javax.swing.JScrollPane();
         MainTextPane = new javax.swing.JTextPane();
@@ -116,6 +123,8 @@ public class MainWindow extends javax.swing.JFrame {
         checkBoxExplicit = new javax.swing.JCheckBox();
         checkBoxImplicit = new javax.swing.JCheckBox();
         checkBoxAltlex = new javax.swing.JCheckBox();
+        annoNumberComboBox = new javax.swing.JComboBox<>();
+        jButton1 = new javax.swing.JButton();
         jMenuBar = new javax.swing.JMenuBar();
         jMenu1 = new javax.swing.JMenu();
         MenuItem_NewFile = new javax.swing.JMenuItem();
@@ -174,7 +183,7 @@ public class MainWindow extends javax.swing.JFrame {
             legendDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(legendDialogLayout.createSequentialGroup()
                 .addGap(22, 22, 22)
-                .addComponent(legendLabel, javax.swing.GroupLayout.DEFAULT_SIZE, 72, Short.MAX_VALUE)
+                .addComponent(legendLabel)
                 .addGap(18, 18, 18)
                 .addComponent(legendImageLabel)
                 .addContainerGap(121, Short.MAX_VALUE))
@@ -190,15 +199,50 @@ public class MainWindow extends javax.swing.JFrame {
         allAnnotationPane.setOpaque(false);
         allAnnotationScrollPane.setViewportView(allAnnotationPane);
 
+        PrintAllAnnotation.setText("Print");
+        PrintAllAnnotation.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                PrintAllAnnotationActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout allAnnotationDialogueLayout = new javax.swing.GroupLayout(allAnnotationDialogue.getContentPane());
         allAnnotationDialogue.getContentPane().setLayout(allAnnotationDialogueLayout);
         allAnnotationDialogueLayout.setHorizontalGroup(
             allAnnotationDialogueLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(allAnnotationScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 700, Short.MAX_VALUE)
+            .addGroup(allAnnotationDialogueLayout.createSequentialGroup()
+                .addComponent(allAnnotationScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 619, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(PrintAllAnnotation))
         );
         allAnnotationDialogueLayout.setVerticalGroup(
             allAnnotationDialogueLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addComponent(allAnnotationScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 400, Short.MAX_VALUE)
+            .addGroup(allAnnotationDialogueLayout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(PrintAllAnnotation)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+        );
+
+        printDialog.setMinimumSize(new java.awt.Dimension(760, 250));
+
+        jLabel1.setText("Connectives have been written to the output.txt file");
+
+        javax.swing.GroupLayout printDialogLayout = new javax.swing.GroupLayout(printDialog.getContentPane());
+        printDialog.getContentPane().setLayout(printDialogLayout);
+        printDialogLayout.setHorizontalGroup(
+            printDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(printDialogLayout.createSequentialGroup()
+                .addGap(56, 56, 56)
+                .addComponent(jLabel1)
+                .addContainerGap(109, Short.MAX_VALUE))
+        );
+        printDialogLayout.setVerticalGroup(
+            printDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(printDialogLayout.createSequentialGroup()
+                .addGap(129, 129, 129)
+                .addComponent(jLabel1)
+                .addContainerGap(155, Short.MAX_VALUE))
         );
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
@@ -322,6 +366,20 @@ public class MainWindow extends javax.swing.JFrame {
             }
         });
 
+        annoNumberComboBox.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "1", "2", "3", "5" }));
+        annoNumberComboBox.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                annoNumberComboBoxActionPerformed(evt);
+            }
+        });
+
+        jButton1.setText("Print");
+        jButton1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton1ActionPerformed(evt);
+            }
+        });
+
         jMenuBar.setAutoscrolls(true);
         jMenuBar.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
@@ -374,10 +432,17 @@ public class MainWindow extends javax.swing.JFrame {
                                 .addComponent(checkBoxAltlex)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                                 .addComponent(resetButton, javax.swing.GroupLayout.PREFERRED_SIZE, 123, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 361, Short.MAX_VALUE)
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(seeAll, javax.swing.GroupLayout.Alignment.TRAILING)
-                            .addComponent(legendButton, javax.swing.GroupLayout.Alignment.TRAILING)))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                            .addGroup(layout.createSequentialGroup()
+                                .addComponent(annoNumberComboBox, javax.swing.GroupLayout.PREFERRED_SIZE, 68, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                                .addComponent(jButton1))
+                            .addGroup(layout.createSequentialGroup()
+                                .addGap(0, 355, Short.MAX_VALUE)
+                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                                    .addComponent(legendButton)
+                                    .addComponent(seeAll)))))
                     .addGroup(layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                             .addComponent(listScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 196, Short.MAX_VALUE)
@@ -394,7 +459,9 @@ public class MainWindow extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
-                        .addGap(71, 71, 71)
+                        .addGap(36, 36, 36)
+                        .addComponent(jButton1)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(seeAll))
                     .addGroup(layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
@@ -404,7 +471,8 @@ public class MainWindow extends javax.swing.JFrame {
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                             .addComponent(senseListComboBox, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(searchSenseButton))
+                            .addComponent(searchSenseButton)
+                            .addComponent(annoNumberComboBox, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                             .addComponent(resetButton)
@@ -428,9 +496,9 @@ public class MainWindow extends javax.swing.JFrame {
     private void searchButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_searchButtonActionPerformed
         // TODO add your handling code here:
         String searchToken = searchField.getText();
-        if(checkBoxAltlex.isSelected())
-            
-        JList_connective.setSelectedValue(searchToken, true);
+        if (checkBoxAltlex.isSelected()) {
+            JList_connective.setSelectedValue(searchToken, true);
+        }
         JList_connective.ensureIndexIsVisible(JList_connective.getSelectedIndex());
     }//GEN-LAST:event_searchButtonActionPerformed
 
@@ -447,7 +515,7 @@ public class MainWindow extends javax.swing.JFrame {
 
     private void JList_connectiveValueChanged(javax.swing.event.ListSelectionEvent evt) {//GEN-FIRST:event_JList_connectiveValueChanged
 
-        String chosenConnective = (String) JList_connective.getSelectedValue().substring(0, JList_connective.getSelectedValue().indexOf("(")-1);;
+        String chosenConnective = (String) JList_connective.getSelectedValue().substring(0, JList_connective.getSelectedValue().indexOf("(") - 1);;
         if (chosenConnective == null) {
             System.err.println("NULL");
             JList_connective.setSelectedIndex(0);
@@ -477,9 +545,20 @@ public class MainWindow extends javax.swing.JFrame {
             }
             output = output.substring(0, output.length() - 3);
             output = output + " (" + size + ") <br /> </li> ";
-            int randomNoForAnnotation = randGenerator.nextInt(size);
-            TreeMap<Integer, Span> argMapforPrettyPrint = annoBasedonSense.get(randomNoForAnnotation).getArgMapforPrettyPrint();
-            output = output + prepareForOutput(argMapforPrettyPrint);
+            if (noOfAnnoToShow > size) {
+                for (int x = 0; x < size; x++) {
+                    TreeMap<Integer, Span> argMapforPrettyPrint = annoBasedonSense.get(x).getArgMapforPrettyPrint();
+                    output = output + prepareForOutput(argMapforPrettyPrint);
+                }
+            } else {
+
+                for (int x = 0; x < noOfAnnoToShow; x++) {
+                    int randomNoForAnnotation = randGenerator.nextInt(size);
+                    TreeMap<Integer, Span> argMapforPrettyPrint = annoBasedonSense.get(randomNoForAnnotation).getArgMapforPrettyPrint();
+                    output = output + prepareForOutput(argMapforPrettyPrint);
+                }
+
+            }
         }
         output = output + "</ol></html>";
         MainTextPane.setText(output);
@@ -533,7 +612,7 @@ public class MainWindow extends javax.swing.JFrame {
 
     private void seeAllActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_seeAllActionPerformed
         // TODO add your handling code here:
-        String chosenConnective = (String) JList_connective.getSelectedValue().substring(0, JList_connective.getSelectedValue().indexOf("(")-1);
+        String chosenConnective = (String) JList_connective.getSelectedValue().substring(0, JList_connective.getSelectedValue().indexOf("(") - 1);
         seeAll.setEnabled(true);
 
         ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
@@ -600,6 +679,9 @@ public class MainWindow extends javax.swing.JFrame {
                 return strings[i];
             }
         });
+        JList_connective.setSelectedIndex(0);
+        JList_connective.ensureIndexIsVisible(JList_connective.getSelectedIndex());
+
         conListInfo.setText("" + JList_connective.getModel().getSize() + " DRDs are being shown");
     }//GEN-LAST:event_searchSenseButtonActionPerformed
 
@@ -637,12 +719,12 @@ public class MainWindow extends javax.swing.JFrame {
 
     private void checkBoxExplicitActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_checkBoxExplicitActionPerformed
         // TODO add your handling code here:
-      
+
     }//GEN-LAST:event_checkBoxExplicitActionPerformed
 
     private void checkBoxExplicitItemStateChanged(java.awt.event.ItemEvent evt) {//GEN-FIRST:event_checkBoxExplicitItemStateChanged
         // TODO add your handling code here:
-          if (checkBoxExplicit.isSelected()) {
+        if (checkBoxExplicit.isSelected()) {
             selectedTypes.add("Explicit");
         } else {
             selectedTypes.remove("Explicit");
@@ -681,6 +763,93 @@ public class MainWindow extends javax.swing.JFrame {
         JList_connective.setSelectedIndex(0);
         JList_connective.ensureIndexIsVisible(JList_connective.getSelectedIndex());
     }//GEN-LAST:event_checkBoxExplicitItemStateChanged
+
+    private void annoNumberComboBoxActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_annoNumberComboBoxActionPerformed
+        // TODO add your handling code here:
+        noOfAnnoToShow = Integer.parseInt((String) annoNumberComboBox.getSelectedItem());
+
+        String chosenConnective = (String) JList_connective.getSelectedValue().substring(0, JList_connective.getSelectedValue().indexOf("(") - 1);;
+        if (chosenConnective == null) {
+            System.err.println("NULL");
+            JList_connective.setSelectedIndex(0);
+            chosenConnective = (String) JList_connective.getSelectedValue();
+        }
+        int noOfAnno = connectiveNumberofAnnotation.get(chosenConnective);
+
+        seeAll.setEnabled(true);
+        Random randGenerator = new Random();
+        ArrayList<String> senseList = this.connectiveSenseMap.get(chosenConnective);
+        conInfoLabel.setText(PrepareconInfo(chosenConnective, noOfAnno, senseList.size()));
+        String output = "<html> <ol>";
+        for (String sense : senseList) {
+            ArrayList<Annotation> annoBasedonSense = reader.getAnnotationBasedConnectiveSense(chosenConnective, sense);
+            int size = annoBasedonSense.size();
+            String[] senseTokens = sense.split(":");
+            output = output + "<li> "; // + str + </li> ";
+            for (String token : senseTokens) {
+                String tokenTmp = token;
+                int len = token.length() - tokenTmp.replaceAll(" ", "").length();
+                if (len > 1) {
+                    System.out.println("tokne: " + token);
+                    token = token.replaceAll(" ", "_");
+                    token = token.substring(1);
+                }
+                output = output + "<font face=\"verdana\" color=\"blue\"><u>  " + token + "</u></font>" + " : ";
+            }
+            output = output.substring(0, output.length() - 3);
+            output = output + " (" + size + ") <br /> </li> ";
+            if (noOfAnnoToShow > size) {
+                for (int x = 0; x < size; x++) {
+                    TreeMap<Integer, Span> argMapforPrettyPrint = annoBasedonSense.get(x).getArgMapforPrettyPrint();
+                    output = output + prepareForOutput(argMapforPrettyPrint);
+                }
+            } else {
+
+                for (int x = 0; x < noOfAnnoToShow; x++) {
+                    int randomNoForAnnotation = randGenerator.nextInt(size);
+                    TreeMap<Integer, Span> argMapforPrettyPrint = annoBasedonSense.get(randomNoForAnnotation).getArgMapforPrettyPrint();
+                    output = output + prepareForOutput(argMapforPrettyPrint);
+                }
+
+            }
+        }
+        output = output + "</ol></html>";
+        MainTextPane.setText(output);
+        MainTextPane.setContentType("text/html");
+    }//GEN-LAST:event_annoNumberComboBoxActionPerformed
+
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+        try {
+            // TODO add your handling code here:
+            PrintWriter writer = new PrintWriter("output.txt");
+            for(String str: connectiveSenseMap.keySet())
+            {
+                writer.printf("%20s%2s%60s", str ,"",connectiveSenseMap.get(str).toString() );
+                writer.println();
+                writer.println();
+            }
+            writer.close();
+            printDialog.setVisible(true);
+                    
+        } catch (IOException ex) {
+            Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        
+        
+    }//GEN-LAST:event_jButton1ActionPerformed
+
+    private void PrintAllAnnotationActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_PrintAllAnnotationActionPerformed
+        try {
+            // TODO add your handling code here:
+
+            PrintWriter writer = new PrintWriter(JList_connective.getSelectedValue() + "_allAnnotations.txt");
+            writer.print(allAnnotationPane.getText());
+            writer.close();
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        
+    }//GEN-LAST:event_PrintAllAnnotationActionPerformed
 
     private String prepareForOutput(TreeMap<Integer, Span> argMapforPrettyPrint) {
         String output = "";
@@ -754,9 +923,11 @@ public class MainWindow extends javax.swing.JFrame {
     private javax.swing.JTextPane MainTextPane;
     private javax.swing.JMenuItem MenuItem_NewFile;
     private javax.swing.JMenuItem MenuItem_NewFileNewWindow;
+    private javax.swing.JButton PrintAllAnnotation;
     private javax.swing.JDialog allAnnotationDialogue;
     private javax.swing.JTextPane allAnnotationPane;
     private javax.swing.JScrollPane allAnnotationScrollPane;
+    private javax.swing.JComboBox<String> annoNumberComboBox;
     private javax.swing.JCheckBox checkBoxAltlex;
     private javax.swing.JCheckBox checkBoxExplicit;
     private javax.swing.JCheckBox checkBoxImplicit;
@@ -765,6 +936,8 @@ public class MainWindow extends javax.swing.JFrame {
     private javax.swing.JList<String> conSenseList;
     private javax.swing.JScrollPane conSenseList_pane1;
     private javax.swing.JDialog connBasedonSenseDialog;
+    private javax.swing.JButton jButton1;
+    private javax.swing.JLabel jLabel1;
     private javax.swing.JMenu jMenu1;
     private javax.swing.JMenu jMenu2;
     private javax.swing.JMenuBar jMenuBar;
@@ -774,6 +947,7 @@ public class MainWindow extends javax.swing.JFrame {
     private javax.swing.JLabel legendLabel;
     private javax.swing.JScrollPane listScrollPane;
     private javax.swing.JScrollPane mainScrollPane;
+    private javax.swing.JDialog printDialog;
     private javax.swing.JButton resetButton;
     private javax.swing.JButton searchButton;
     private javax.swing.JTextField searchField;

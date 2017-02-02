@@ -1,0 +1,21 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        <font face="verdana" color="blue"><u>Expansion</u></font> : <font face="verdana" color="blue"><u>Conjunction</u></font> 
+        (2)<br>
+      </li>
+      <font face="verdana" color="purple"><em>they're not enough</em></font><font face="verdana" color="black"><b> 
+      Investors should</b></font><font face="verdana" color="red"> <u>also</u></font><font face="verdana" color="black"><b> 
+      look at performance metrics in what we call ESG: environment, social and 
+      governance</b></font><br><br><font face="verdana" color="purple"><em>It's 
+      what's called a spirit line, a deliberate flaw in the pattern to give 
+      the weaver or maker a way out</em></font><font face="verdana" color="red"> 
+      <u>also</u></font><font face="verdana" color="black"><b> a reason to 
+      continue making work</b></font><br><br>
+    </ol>
+  </body>
+</html>

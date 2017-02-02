@@ -1,0 +1,461 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        <font face="verdana" color="blue"><u>Expansion</u></font> : <font face="verdana" color="blue"><u>Conjunction</u></font> 
+        (129)<br>
+      </li>
+      <font face="verdana" color="purple"><em>The world is changing in some 
+      really profound ways</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      I worry that investors aren't paying enough attention to some of the 
+      biggest drivers of change, especially when it comes to sustainability</b></font><br><br><font face="verdana" color="purple"><em>I 
+      think it's reckless to ignore these things, because doing so can 
+      jeopardize future long-term returns</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> here's something 
+      that may surprise you: the balance of power to really influence 
+      sustainability rests with institutional investors, the large investors 
+      like pension funds, foundations and endowments</b></font><br><br><font face="verdana" color="purple"><em>better-performing 
+      than you believe</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      more important than we can imagine</b></font><br><br><font face="verdana" color="purple"><em>growing</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> aging</b></font><br><br><font face="verdana" color="purple"><em>we 
+      have seven billion souls today heading to 10 billion at the end of the 
+      century</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      we consume natural resources faster than they can be replenished</b></font><br><br><font face="verdana" color="purple"><em>we 
+      consume natural resources faster than they can be replenished</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> the emissions 
+      that are mainly responsible for climate change just keep increasing</b></font><br><br><font face="verdana" color="purple"><em>They're 
+      economic issues</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      that makes them relevant to risk and return</b></font><br><br><font face="verdana" color="purple"><em>that 
+      makes them relevant to risk and return</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> they are really 
+      complex and they can seem really far off, that the temptation may be to 
+      do this: bury our heads in the sand and not think about it</b></font><br><br><font face="verdana" color="purple"><em>they 
+      are really complex</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      they can seem really far off</b></font><br><br><font face="verdana" color="purple"><em>bury 
+      our heads in the sand</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      not think about it</b></font><br><br><font face="verdana" color="purple"><em>they 
+      look at financial data, metrics like sales growth, cash flow, market 
+      share, valuation -- you know, the really sexy stuff</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> these things are 
+      fundamental, of course, but they're not enough</b></font><br><br><font face="verdana" color="purple"><em>Environment 
+      includes energy consumption, water availability, waste and pollution, 
+      just making efficient uses of resources</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> Social includes 
+      human capital, things like employee engagement and innovation capacity, 
+      as well as supply chain management and labor rights and human rights</b></font><br><br><font face="verdana" color="purple"><em>Social 
+      includes human capital, things like employee engagement and innovation 
+      capacity, as well as supply chain management and labor rights and human 
+      rights</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      governance relates to the oversight of companies by their boards and 
+      investors</b></font><br><br><font face="verdana" color="purple"><em>ESG 
+      is the measure of sustainability</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> sustainable 
+      investing incorporates ESG factors with financial factors into the 
+      investment process</b></font><br><br><font face="verdana" color="purple"><em>It 
+      means limiting future risk by minimizing harm to people and planet</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> it means 
+      providing capital to users who deploy it towards productive and 
+      sustainable outcomes</b></font><br><br><font face="verdana" color="purple"><em>if 
+      sustainability matters financially today</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> all signs 
+      indicate more tomorrow</b></font><br><br><font face="verdana" color="purple"><em>the 
+      root to growth in innovation</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> leading to 
+      competitive advantage in their industries</b></font><br><br><font face="verdana" color="purple"><em>State 
+      Street migrated 54 applications to the cloud environment</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> we retired 
+      another 85</b></font><br><br><font face="verdana" color="purple"><em>In 
+      2012, State Street migrated 54 applications to the cloud environment, 
+      and we retired another 85</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      We virtualized our operating system environments, and we completed 
+      numerous automation projects</b></font><br><br><font face="verdana" color="purple"><em>We 
+      virtualized our operating system environments</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> we completed 
+      numerous automation projects</b></font><br><br><font face="verdana" color="purple"><em>these 
+      initiatives create a more mobile workplace</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> they reduce our 
+      real estate footprint</b></font><br><br><font face="verdana" color="purple"><em>they 
+      reduce our real estate footprint</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> they yield 
+      savings of 23 million dollars in operating costs annually</b></font><br><br><font face="verdana" color="purple"><em>they 
+      yield savings of 23 million dollars in operating costs annually</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> avoid the 
+      emissions of a 100,000 metric tons of carbon</b></font><br><br><font face="verdana" color="purple"><em>Pentair 
+      is a U.S. industrial conglomerate</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> about a decade 
+      ago, they sold their core power tools business and reinvested those 
+      proceeds in a water business</b></font><br><br><font face="verdana" color="purple"><em>they 
+      sold their core power tools business</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> reinvested those 
+      proceeds in a water business</b></font><br><br><font face="verdana" color="purple"><em>there's 
+      more growth in water than in power tools</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> this company has 
+      their sights set on what they call &quot;the new New World</b></font><br><br><font face="verdana" color="purple"><em>the 
+      returns are the same or better</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> the planet 
+      benefits</b></font><br><br><font face="verdana" color="purple"><em>some 
+      are</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      a few are really at the vanguard</b></font><br><br><font face="verdana" color="purple"><em>Hesta 
+      is a retirement fund for health and community services employees in 
+      Australia, with assets of 22 billion [dollars</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> They believe 
+      that ESG has the potential to impact risks and returns</b></font><br><br><font face="verdana" color="purple"><em>CalPERS 
+      is the pension fund for public employees in California</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> with assets of 
+      244 billion [dollars], they are the second largest in the U.S. and the 
+      sixth largest in the world</b></font><br><br><font face="verdana" color="purple"><em>I 
+      do speak to a lot of investors as part of my job</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> not all of them 
+      see it this way</b></font><br><br><font face="verdana" color="purple"><em>They 
+      don't have indefinite social obligations</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> prudent 
+      investing and finance theory aren't subordinate to sustainability</b></font><br><br><font face="verdana" color="purple"><em>The 
+      global stock market is worth 55 trillion dollars</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> The global bond 
+      market, 78 trillion</b></font><br><br><font face="verdana" color="purple"><em>What 
+      if they used that firepower to allocate more of their capital to 
+      companies working the hardest at solving these challenges or at least 
+      not exacerbating them</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      What if we work and save and invest, only to find that the world we 
+      retire into is more stressed and less secure than it is now</b></font><br><br><font face="verdana" color="purple"><em>work</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> save</b></font><br><br><font face="verdana" color="purple"><em>save</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> invest</b></font><br><br><font face="verdana" color="purple"><em>What 
+      if we work and save and invest, only to find that the world we retire 
+      into is more stressed and less secure than it is now</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> What if there 
+      isn't enough clean air and fresh water</b></font><br><br><font face="verdana" color="purple"><em>reducing 
+      the risk to our planet and to our economy</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> we're not 
+      sacrificing performance</b></font><br><br><font face="verdana" color="purple"><em>What 
+      if it's a big hoax</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      we create a better world for nothing</b></font><br><br><font face="verdana" color="purple"><em>I 
+      like it too</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      I like it because it pokes fun at both sides of the climate change issue</b></font><br><br><font face="verdana" color="purple"><em>in 
+      which the amputee inserts their residual limb</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> which connects 
+      to the prosthetic ankle</b></font><br><br><font face="verdana" color="purple"><em>If 
+      your prosthetic socket is uncomfortable, you will not use your leg</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> that is just 
+      simply unacceptable in our age</b></font><br><br><font face="verdana" color="purple"><em>I 
+      met professor Hugh Herr about two and a half years ago</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> he asked me if I 
+      knew how to solve this problem</b></font><br><br><font face="verdana" color="purple"><em>he 
+      asked me if I knew how to solve this problem</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> I said, &quot;No, not 
+      yet, but I would love to figure it out</b></font><br><br><font face="verdana" color="purple"><em>I 
+      said, &quot;No, not yet, but I would love to figure it out</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> for my Ph.D. at 
+      the MIT Media Lab, I designed custom prosthetic sockets quickly and 
+      cheaply that are more comfortable than conventional prostheses</b></font><br><br><font face="verdana" color="purple"><em>use 
+      finite element modeling to better predict the internal stresses and 
+      strains on the normal forces</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> create a 
+      prosthetic socket for manufacture</b></font><br><br><font face="verdana" color="purple"><em>It's 
+      so soft, it's like walking on pillows</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> it's effing sexy</b></font><br><br><font face="verdana" color="purple"><em>My 
+      hope and desire is that the tools and processes we develop in our 
+      research group can be used to bring highly functional prostheses to 
+      those who need them</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      For me, a place to begin healing the souls of those affected by war and 
+      disease is by creating comfortable and affordable interfaces for their 
+      bodies</b></font><br><br><font face="verdana" color="purple"><em>For me, 
+      a place to begin healing the souls of those affected by war and disease 
+      is by creating comfortable and affordable interfaces for their bodies</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> Whether it's in 
+      Sierra Leone or in Boston, I hope this not only restores but indeed 
+      transforms their sense of human potential</b></font><br><br><font face="verdana" color="purple"><em>The 
+      universe is teeming with planets</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> I want us, in 
+      the next decade, to build a space telescope that'll be able to image an 
+      Earth about another star and figure out whether it can harbor life</b></font><br><br><font face="verdana" color="purple"><em>to 
+      image an Earth about another star</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> figure out 
+      whether it can harbor life</b></font><br><br><font face="verdana" color="purple"><em>Astronomers 
+      now believe that every star in the galaxy has a planet</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> they speculate 
+      that up to one fifth of them have an Earth-like planet that might be 
+      able to harbor life</b></font><br><br><font face="verdana" color="purple"><em>Why 
+      haven't we done that</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      Why is that hard</b></font><br><br><font face="verdana" color="purple"><em>we 
+      take the Hubble Space Telescope</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> we turn it around</b></font><br><br><font face="verdana" color="purple"><em>we 
+      turn it around</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      we move it out to the orbit of Mars</b></font><br><br><font face="verdana" color="purple"><em>we 
+      are out at the Oort Cloud</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      we're starting to see the sun move into the field of view and get into 
+      where the planet is</b></font><br><br><font face="verdana" color="purple"><em>we're 
+      at Alpha Centauri</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      the planet is gone</b></font><br><br><font face="verdana" color="purple"><em>the 
+      planet is gone</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      All we're seeing is the big beaming image of the star that's ten billion 
+      times brighter than the planet</b></font><br><br><font face="verdana" color="purple"><em>That's 
+      what we want to see</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      That's why it's hard</b></font><br><br><font face="verdana" color="purple"><em>The 
+      light from the star is diffracting</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> It's scattering 
+      inside the telescope, creating that very bright image that washes out 
+      the planet</b></font><br><br><font face="verdana" color="purple"><em>We 
+      have to get rid of it</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      I have a lot of colleagues working on really amazing technologies to do 
+      that</b></font><br><br><font face="verdana" color="purple"><em>that I 
+      think is the coolest</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      probably the most likely to get us an Earth in the next decade</b></font><br><br><font face="verdana" color="purple"><em>It 
+      was first suggested by Lyman Spitzer in 1962</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> he took his 
+      inspiration from an eclipse</b></font><br><br><font face="verdana" color="purple"><em>The 
+      moon has moved in front of the sun</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> It blocks out 
+      most of the light so we can see that dim corona around it</b></font><br><br><font face="verdana" color="purple"><em>We 
+      put a telescope or a camera in that shadow</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> we look back at 
+      the sun</b></font><br><br><font face="verdana" color="purple"><em>most 
+      of the light's been removed</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      we can see that dim, fine structure in the corona</b></font><br><br><font face="verdana" color="purple"><em>We 
+      build a big screen, we fly it in space, we put it up in front of the 
+      star, we block out most of the light, we fly a space telescope in that 
+      shadow that's created, and boom, we get to see planets</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> that would look 
+      something like this</b></font><br><br><font face="verdana" color="purple"><em>there's 
+      that big screen</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      there's no planets</b></font><br><br><font face="verdana" color="purple"><em>It's 
+      like water bending around a rock in a stream</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> all that light 
+      just destroys the shadow</b></font><br><br><font face="verdana" color="purple"><em>It's 
+      a terrible shadow</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      we can't see planets</b></font><br><br><font face="verdana" color="purple"><em>If 
+      we can feather the edges, soften those edges so we can control 
+      diffraction, well then we can see a planet</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> in the last 10 
+      years or so we've come up with optimal solutions for doing that</b></font><br><br><font face="verdana" color="purple"><em>in 
+      the last 10 years or so we've come up with optimal solutions for doing 
+      that</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      It looks something like that</b></font><br><br><font face="verdana" color="purple"><em>If 
+      we make the edges of those petals exactly right</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> if we control 
+      their shape</b></font><br><br><font face="verdana" color="purple"><em>If 
+      we make the edges of those petals exactly right, if we control their 
+      shape, we can control diffraction</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> now we have a 
+      great shadow</b></font><br><br><font face="verdana" color="purple"><em>It's 
+      about 10 billion times dimmer than it was before</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> we can see the 
+      planets beam out just like that</b></font><br><br><font face="verdana" color="purple"><em>That 
+      starshade is about the size of half a football field</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> it has to fly 
+      50,000 kilometers away from the telescope that has to be held right in 
+      its shadow</b></font><br><br><font face="verdana" color="purple"><em>it 
+      has to fly 50,000 kilometers away from the telescope that has to be held 
+      right in its shadow</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      then we can see those planets</b></font><br><br><font face="verdana" color="purple"><em>brilliant 
+      engineers, colleagues of mine at JPL, came up with a fabulous design for 
+      how to do that</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      it looks like this</b></font><br><br><font face="verdana" color="purple"><em>flip</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> fly</b></font><br><br><font face="verdana" color="purple"><em>We 
+      ran this test 16 times</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      16 times it went into the exact same place to a tenth of a millimeter</b></font><br><br><font face="verdana" color="purple"><em>if 
+      we can do this</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      if we can build this technology</b></font><br><br><font face="verdana" color="purple"><em>if 
+      we can build this technology</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> if we can get it 
+      into space</b></font><br><br><font face="verdana" color="purple"><em>You 
+      can see Jupiter</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      you can see Saturn, Uranus, Neptune</b></font><br><br><font face="verdana" color="purple"><em>you 
+      can see Saturn, Uranus, Neptune</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> right there in 
+      the center, next to the residual light is that pale blue dot</b></font><br><br><font face="verdana" color="purple"><em>I 
+      think this is the coolest possible science</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> That's why I got 
+      into doing this, because I think that will change the world</b></font><br><br><font face="verdana" color="purple"><em>she 
+      had set it out in the trash in her studio</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> her neighbor had 
+      taken it</b></font><br><br><font face="verdana" color="purple"><em>This 
+      is a question I've long asked myself</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> I think it comes 
+      when we start to value the gift of a near win</b></font><br><br><font face="verdana" color="purple"><em>stood</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> watched</b></font><br><br><font face="verdana" color="purple"><em>I 
+      stood and watched as the coach drove up these women in this gray van</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> they exited</b></font><br><br><font face="verdana" color="purple"><em>One 
+      held a half-eaten ice cream cone in one hand and arrows in the left with 
+      yellow fletching</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      they passed me and smiled</b></font><br><br><font face="verdana" color="purple"><em>they 
+      passed me</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      smiled</b></font><br><br><font face="verdana" color="purple"><em>they 
+      sized me up as they made their way to the turf</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> spoke to each 
+      other not with words but with numbers, degrees, I thought, positions for 
+      how they might plan to hit their target</b></font><br><br><font face="verdana" color="purple"><em>I 
+      stood behind one archer as her coach stood in between us to maybe assess 
+      who might need support</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      watched her</b></font><br><br><font face="verdana" color="purple"><em>I 
+      stood behind one archer as her coach stood in between us to maybe assess 
+      who might need support, and watched her</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> I didn't 
+      understand how even one was going to hit the ten ring</b></font><br><br><font face="verdana" color="purple"><em>The 
+      ten ring from the standard 75-yard distance, it looks as small as a 
+      matchstick tip held out at arm's length</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> this is while 
+      holding 50 pounds of draw weight on each shot</b></font><br><br><font face="verdana" color="purple"><em>She 
+      first hit a seven, I remember</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> then a nine</b></font><br><br><font face="verdana" color="purple"><em>a 
+      nine</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      then two tens</b></font><br><br><font face="verdana" color="purple"><em>two 
+      tens</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      then the next arrow didn't even hit the target</b></font><br><br><font face="verdana" color="purple"><em>the 
+      next arrow didn't even hit the target</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> I saw that gave 
+      her more tenacity</b></font><br><br><font face="verdana" color="purple"><em>I 
+      saw that gave her more tenacity</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> she went after 
+      it again and again</b></font><br><br><font face="verdana" color="purple"><em>His 
+      favorite novel was &quot;The [Unknown] Masterpiece&quot; by Honor&#233; de Balzac</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> he felt the 
+      protagonist was the painter himself</b></font><br><br><font face="verdana" color="purple"><em>His 
+      friend refused to honor the request</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> we now have all 
+      the works we now do by Kafka: &quot;America,&quot; &quot;The Trial&quot; and &quot;The Castle,&quot; a 
+      work so incomplete it even stops mid-sentence</b></font><br><br><font face="verdana" color="purple"><em>Lord, 
+      grant that I desire more than I can accomplish,&quot; Michelangelo implored, 
+      as if to that Old Testament God on the Sistine Chapel</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> he himself was 
+      that Adam with his finger outstretched and not quite touching that God's 
+      hand</b></font><br><br><font face="verdana" color="purple"><em>with his 
+      finger outstretched</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      not quite touching that God's hand</b></font><br><br><font face="verdana" color="purple"><em>Mastery 
+      is about sacrificing for your craft</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> not for the sake 
+      of crafting your career</b></font><br><br><font face="verdana" color="purple"><em>they 
+      asked him, &quot;What do you think increases with knowledge</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> he said, &quot;You 
+      learn how little you know</b></font><br><br><font face="verdana" color="purple"><em>Thomas 
+      Gilovich and his team from Cornell studied this difference</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> found that the 
+      frustration silver medalists feel compared to bronze gives silver 
+      medalists a focus on follow-up competition</b></font><br><br><font face="verdana" color="purple"><em>to 
+      have just not received fourth place</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> not medaled at 
+      all</b></font><br><br><font face="verdana" color="purple"><em>that once 
+      picked up on this phenomenon of the near win</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> created these 
+      scratch-off tickets that had a higher than average rate of near wins and 
+      so compelled people to buy more tickets that they were called 
+      heart-stoppers</b></font><br><br><font face="verdana" color="purple"><em>that 
+      had a higher than average rate of near wins</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> compelled people 
+      to buy more tickets</b></font><br><br><font face="verdana" color="purple"><em>that 
+      once picked up on this phenomenon of the near win and created these 
+      scratch-off tickets that had a higher than average rate of near wins and 
+      so compelled people to buy more tickets that they were called 
+      heart-stoppers</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      were set on a gambling industry set of abuses in Britain in the 1970s</b></font><br><br><font face="verdana" color="purple"><em>it 
+      changes our view of the landscape</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> puts our goals, 
+      which we tend to put at a distance, into more proximate vicinity to 
+      where we stand</b></font><br><br><font face="verdana" color="purple"><em>if 
+      I ask you to describe a great day at TED tomorrow, you might describe it 
+      with granular, practical clarity</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> this is what a 
+      near win does</b></font><br><br><font face="verdana" color="purple"><em>It's 
+      Jackie Joyner-Kersee, who in 1984 missed taking the gold in the 
+      heptathlon by one third of a second</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> her husband 
+      predicted that would give her the tenacity she needed in follow-up 
+      competition</b></font><br><br><font face="verdana" color="purple"><em>she 
+      won the gold in the heptathlon</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> set a record of 
+      7,291 points</b></font><br><br><font face="verdana" color="purple"><em>thinking</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> wondering</b></font><br><br><font face="verdana" color="purple"><em>We 
+      know that we thrive when we stay at our own leading edge</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> it's why the 
+      deliberate incomplete is inbuilt into creation myths</b></font><br><br><font face="verdana" color="purple"><em>As 
+      a little girl, I always imagined I would one day run away</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> From the age of 
+      six on, I kept a packed bag with some clothes and cans of food tucked 
+      away in the back of a closet</b></font><br><br><font face="verdana" color="purple"><em>There 
+      was a deep restlessness in me, a primal fear that I would fall prey to a 
+      life of routine and boredom</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      many of my early memories involved intricate daydreams where I would 
+      walk across borders, forage for berries, and meet all kinds of strange 
+      people living unconventional lives on the road</b></font><br><br><font face="verdana" color="purple"><em>forage 
+      for berries</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      meet all kinds of strange people living unconventional lives on the road</b></font><br><br><font face="verdana" color="purple"><em>traveling</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> weaving my way 
+      between worlds other than my own</b></font><br><br><font face="verdana" color="purple"><em>living 
+      amongst</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      documenting the lives of fellow wanderers across the United States</b></font><br><br><font face="verdana" color="purple"><em>these 
+      photographs are in color</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      they portray a community swirling across the country, fiercely alive and 
+      creatively free, seeing sides of America that no one else gets to see</b></font><br><br><font face="verdana" color="purple"><em>they 
+      portray a community swirling across the country, fiercely alive and 
+      creatively free, seeing sides of America that no one else gets to see</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> Like their 
+      predecessors, today's nomads travel the steel and asphalt arteries of 
+      the United States</b></font><br><br><font face="verdana" color="purple"><em>stick 
+      out their thumbs</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      ride the highways with anyone from truckers to soccer moms</b></font><br><br><font face="verdana" color="purple"><em>By 
+      day, they hop freight trains, stick out their thumbs, and ride the 
+      highways with anyone from truckers to soccer moms</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> By night, they 
+      sleep beneath the stars, huddled together with their packs of dogs, cats 
+      and pet rats between their bodies</b></font><br><br><font face="verdana" color="purple"><em>They 
+      take advantage of the fact that in the United States, up to 40 percent 
+      of all food ends up in the garbage by scavenging for perfectly good 
+      produce in dumpsters and trash cans</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> They sacrifice 
+      material comforts in exchange for the space and the time to explore a 
+      creative interior, to dream, to read, to work on music, art and writing</b></font><br><br><font face="verdana" color="purple"><em>maim</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> kill</b></font><br><br><font face="verdana" color="purple"><em>freight 
+      trains maim and kill</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      anyone who has lived on the streets can attest to the exhaustive list of 
+      laws that criminalize homeless existence</b></font><br><br>
+
+      <li>
+        <font face="verdana" color="blue"><u>Expansion</u></font> : <font face="verdana" color="blue"><u>Level_of_detail</u></font> 
+        : <font face="verdana" color="blue"><u>Arg2_as_detail</u></font> (1)<br>
+      </li>
+      <font face="verdana" color="purple"><em>they are the second largest in 
+      the U.S. and the sixth largest in the world</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> they're moving 
+      toward 100 percent sustainable investment by systematically integrated 
+      ESG across the entire fund</b></font><br><br>
+
+      <li>
+        <font face="verdana" color="blue"><u>Temporal</u></font> : <font face="verdana" color="blue"><u>Synchronous</u></font> 
+        (3)<br>
+      </li>
+      <font face="verdana" color="purple"><em>bury our heads in the sand</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> not think about 
+      it</b></font><br><br><font face="verdana" color="purple"><em>they passed 
+      me</em></font><font face="verdana" color="red"> <u>and</u></font><font face="verdana" color="black"><b> 
+      smiled</b></font><br><br><font face="verdana" color="purple"><em>they 
+      sized me up as they made their way to the turf</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> spoke to each 
+      other not with words but with numbers, degrees, I thought, positions for 
+      how they might plan to hit their target</b></font><br><br>
+
+      <li>
+        <font face="verdana" color="blue"><u>Comparison</u></font> : <font face="verdana" color="blue"><u>Contrast</u></font> 
+        (2)<br>
+      </li>
+      <font face="verdana" color="purple"><em>In blue, we see the MSCI World. 
+      It's an index of large companies from developed markets across the world</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> in gold, we see 
+      a subset of companies rated as having the best ESG performance</b></font><br><br><font face="verdana" color="purple"><em>In 
+      blue, we see the performance of the 500 largest global companies</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> in gold, we see 
+      a subset of companies with best practice in climate change strategy and 
+      risk management</b></font><br><br>
+
+      <li>
+        <font face="verdana" color="blue"><u>Contingency</u></font> : <font face="verdana" color="blue"><u>Condition</u></font> 
+        : <font face="verdana" color="blue"><u>Arg1_as_cond</u></font> (1)<br>
+      </li>
+      <font face="verdana" color="purple"><em>We put a telescope or a camera 
+      in that shadow, we look back at the sun</em></font><font face="verdana" color="red"> 
+      <u>and</u></font><font face="verdana" color="black"><b> most of the 
+      light's been removed</b></font><br><br>
+    </ol>
+  </body>
+</html>

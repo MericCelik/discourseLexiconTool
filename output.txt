@@ -1,0 +1,166 @@
+                 but  [Expansion: Conjunction, Comparison: Concession: Arg2_as_denier, Expansion: Substitution: Arg2_as_subst, Comparison: Contrast, Rhetorical]
+
+             through                           [Expansion: Manner: Arg2_as_manner]
+
+   years have passed                          [Temporal: Asynchronous: Precedence]
+
+      the reason_was                                  [Contingency: Cause: Reason]
+
+               if_if                        [Contingency: Condition: Arg2_as_cond]
+
+             clearly                  [Expansion: Level_of_detail: Arg2_as_detail]
+
+                  do                                                   [Hypophora]
+
+               while                                       [Temporal: Synchronous]
+
+                when  [Contingency: Condition: Arg2-as-cond, Temporal: Synchronous, Comparison: Contrast]
+
+          that's why                                  [Contingency: Cause: Reason]
+
+             even if                        [Contingency: Condition: Arg2_as_cond]
+
+             in fact  [Expansion: Level_of_detail: Arg2_as_detail, Expansion: Instantiation]
+
+       by comparison                                      [Comparison: Similarity]
+
+             that is                  [Expansion: Level_of_detail: Arg2_as_detail]
+
+     especially when                  [Expansion: Level_of_detail: Arg2_as_detail]
+
+          but indeed                                      [Expansion: Conjunction]
+
+        specifically                  [Expansion: Level_of_detail: Arg2_as_detail]
+
+             because  [Contingency: Cause: Reason, Contingency: Cause+Belief: Reason+Belief]
+
+              in sum          [Expansion: Equivalence, Contingency: Cause: Result]
+
+             whereas                                        [Comparison: Contrast]
+
+                NONE  [Expansion: Substitution: Arg1_as_subst, Contingency: Cause+SpeechAct: Result+SpeechAct, Comparison: Concession+SpeechAct: Arg2_as_denier+SpeechAct, Q/A]
+
+         this is why                    [Contingency: Cause+Belief: Result+Belief]
+
+                  if  [Contingency: Condition+SpeechAct, Contingency: Condition: Arg2_as_cond]
+
+   on the other hand                                        [Comparison: Contrast]
+
+             so that                          [Contingency: Purpose: Arg2_as_goal]
+
+            in order                          [Contingency: Purpose: Arg2_as_goal]
+
+             finally                                      [Expansion: Conjunction]
+
+         for example                                    [Expansion: Instantiation]
+
+            in short                  [Expansion: Level_of_detail: Arg1_as_detail]
+
+                then                          [Temporal: Asynchronous: Precedence]
+
+          so much so                                  [Contingency: Cause: Result]
+
+     are better than                                        [Comparison: Contrast]
+
+                  as               [Comparison: Similarity, Temporal: Synchronous]
+
+it would be the same thing                                      [Expansion: Equivalence]
+
+that's the equivalent of                                      [Expansion: Equivalence]
+
+              except                         [Expansion: Exception: Arg2_as_excpt]
+
+       let's imagine                        [Contingency: Condition: Arg2_as_cond]
+
+              i mean                      [Expansion: Substitution: Arg2_as_subst]
+
+               since                                  [Contingency: Cause: Reason]
+
+             however                      [Comparison: Concession: Arg2_as_denier]
+
+                next                          [Temporal: Asynchronous: Precedence]
+
+        nevertheless                      [Comparison: Concession: Arg2_as_denier]
+
+              rather  [Expansion: Substitution: Arg1_as_subst, Expansion: Substitution: Arg2_as_subst]
+
+                boom                                  [Contingency: Cause: Result]
+
+one of the most vivid examples of this comes                                    [Expansion: Instantiation]
+
+        for instance                                    [Expansion: Instantiation]
+
+         rather_than                      [Expansion: Substitution: Arg1_as_subst]
+
+     because of that                                  [Contingency: Cause: Result]
+
+                 for                                  [Contingency: Cause: Reason]
+
+        consequently                                  [Contingency: Cause: Result]
+
+                 why                                                   [Hypophora]
+
+                 how                [Hypophora, Expansion: Manner: Arg2_as_manner]
+
+                 see              [Contingency: Cause+SpeechAct: Result+SpeechAct]
+
+           similarly                                      [Comparison: Similarity]
+
+                 and  [Expansion: Conjunction, Expansion: Level_of_detail: Arg2_as_detail, Temporal: Synchronous, Comparison: Contrast, Contingency: Condition: Arg1_as_cond]
+
+                  by    [Temporal: Synchronous, Expansion: Manner: Arg2_as_manner]
+
+                 now  [Contingency: Cause: Result, Temporal: Asynchronous: Precedence, Temporal: Synchronous]
+
+  it does not matter                      [Comparison: Concession: Arg2_as_denier]
+
+               where                                        [Comparison: Contrast]
+
+                  so  [Contingency: Cause+SpeechAct: Result+SpeechAct, Contingency: Cause: Result, Contingency: Cause+Belief: Result+Belief, Undecided]
+
+           it's like                                      [Comparison: Similarity]
+
+            it means                                      [Expansion: Equivalence]
+
+         accordingly                  [Expansion: Level_of_detail: Arg2_as_detail]
+
+                  or                                      [Expansion: Disjunction]
+
+              though                  [Expansion: Level_of_detail: Arg2_as_detail]
+
+     for that matter                                      [Comparison: Similarity]
+
+              namely                  [Expansion: Level_of_detail: Arg2_as_detail]
+
+                also                                      [Expansion: Conjunction]
+
+             instead                      [Expansion: Substitution: Arg2_as_subst]
+
+    at the same time                                       [Temporal: Synchronous]
+
+      in other words  [Expansion: Equivalence, Expansion: Level_of_detail: Arg2_as_detail]
+
+         as a result  [Contingency: Cause: Result, Contingency: Cause+Belief: Result+Belief]
+
+             what if                        [Contingency: Condition: Arg2_as_cond]
+
+                with                  [Expansion: Level_of_detail: Arg2_as_detail]
+
+           and found                                  [Contingency: Cause: Result]
+
+one example is near and dear to our hearts                                    [Expansion: Instantiation]
+
+         furthermore                                      [Expansion: Conjunction]
+
+           after all                  [Expansion: Level_of_detail: Arg2_as_detail]
+
+        the same way                                      [Comparison: Similarity]
+
+        additionally                  [Expansion: Level_of_detail: Arg2_as_detail]
+
+            if_if_if                        [Contingency: Condition: Arg2_as_cond]
+
+               until                        [Contingency: Condition: Arg2_as_cond]
+
+             further                                      [Expansion: Conjunction]
+
