@@ -152,13 +152,13 @@ public class calculateInterAgreement {
 //        printConfusionMatrix();
         System.out.println("ALTLEX");
 
-        HashMap<Integer, Annotation> altlex = readRelationsForStatistics.readDATTRelations("Agreement\\altlex.xml", "ALTLEX");
+        HashMap<Integer, Annotation> altlex = readRelationsForStatistics.readDATTRelations("Agreement/altlex.xml", "ALTLEX");
         HashMap<String, Integer> altlexSenseMap = readRelationsForStatistics.senseAnnotationMap;
 
-        readRelationsForStatistics.readDATTRelations("Agreement\\imp_bap.xml", "IMPLICIT");
+        readRelationsForStatistics.readDATTRelations("Agreement/imp_bap.xml", "IMPLICIT");
         HashMap<String, Integer> expSenseMap = readRelationsForStatistics.senseAnnotationMap;
 
-        readRelationsForStatistics.readDATTRelations("Agreement\\explicit.xml", "EXPLICIT");
+        readRelationsForStatistics.readDATTRelations("Agreement/explicit.xml", "EXPLICIT");
         HashMap<String, Integer> impSenseMap = readRelationsForStatistics.senseAnnotationMap;
         TreeSet<String> sense = new TreeSet<>();
         sense.addAll(expSenseMap.keySet());
